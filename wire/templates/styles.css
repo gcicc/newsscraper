@@ -1,6 +1,6 @@
 /* Wire — headline wire. Tokens and theme model adapted from HANGAR's styles.css
  * (ground / strip / rule / ink, state colours go / hold; same fonts). The page accent
- * is the Wire section accent from the RANGE registry (suite.json). Accent is identity,
+ * is the Wire section accent from the RANGER registry (suite.json). Accent is identity,
  * never data; state colours (fresh / stale / failed) carry status only. */
 
 :root {
