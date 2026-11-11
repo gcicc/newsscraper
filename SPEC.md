@@ -50,8 +50,8 @@ Every request: plain User-Agent `WireHeadlineReader/0.1 (static headline aggrega
 
 1. Parity: three source sections plus a 7-category view exist and list links to the same kinds of content as the old app.
 2. Mirror, not sample: Drudge shows its full headline set in page order; Fox and CNBC show the union of their section feeds, deduped; no cap on rows.
-3. No ads, no tracking: no images, no bodies, no third-party scripts except the RANGER chrome and Google Fonts; links open `noopener noreferrer`.
-4. Fixes: real `<title>Wire — RANGER`; single page scroll (no nested scroll regions); relative ages ("12m ago"); never prints "NA" (absent age or source is simply omitted); one global filter; HANGAR tokens and light/dark; 390px phone with no horizontal scroll; RANGER chrome snippet with `data-section="newsscraper"`, `data-built`, `data-next="every 2h"`.
+3. No ads, no tracking: no images, no bodies, no third-party scripts except the Telemetrics chrome and Google Fonts; links open `noopener noreferrer`.
+4. Fixes: real `<title>Wire — Telemetrics`; single page scroll (no nested scroll regions); relative ages ("12m ago"); never prints "NA" (absent age or source is simply omitted); one global filter; HANGAR tokens and light/dark; 390px phone with no horizontal scroll; Telemetrics chrome snippet with `data-section="newsscraper"`, `data-built`, `data-next="every 2h"`.
 5. Status bus: each source shows fresh / stale / failed with fetch timestamp; a failed source keeps its previous payload and says so; a feed that fails inside a multi-feed source is named as "Partial" rather than silently shrinking the list.
 6. Ops: `python run.py` (refresh stale and render), `--force`, `--render` (offline); GH Actions cron every 2 hours commits `docs/` and `data/`. No secrets.
 7. Tests pass against saved real responses; ruff clean.

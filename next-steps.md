@@ -17,7 +17,7 @@ Greg reviews the page and `SPEC.md` open questions (Google News robots.txt posit
 
 ## Blockers
 
-- Not yet published, so `gcicc.github.io/suite/network.js` is a 404 and the RANGER masthead does not render until the suite is deployed.
+- Not yet published, so `gcicc.github.io/suite/network.js` is a 404 and the Telemetrics masthead does not render until the suite is deployed.
 - `data-built` and the chrome only verify once the page is served next to suite `dist/`.
 
 ## What keeps this current
