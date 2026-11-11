@@ -1,6 +1,6 @@
 # Wire
 
-Every headline from Drudge, Fox News and CNBC, plus headlines by category, minus the ads. A Telemetrics network section (`newsscraper`). Replaces the Shiny app at grego1074.shinyapps.io/Stable-NewsScraper, which stays up until Greg retires it.
+Every headline from Drudge, Fox News and CNBC, plus headlines by category, minus the ads. A TELEMETRx network section (`newsscraper`). Replaces the Shiny app at grego1074.shinyapps.io/Stable-NewsScraper, which stays up until Greg retires it.
 
 One self-contained static page, `docs/index.html`, rebuilt every 2 hours. Links and headline text only.
 
@@ -36,4 +36,4 @@ Per source, three distinct outcomes: fetch failed (previous payload kept, status
 
 - Drudge has no timestamps, so its rows show no age.
 - Each Fox feed returns 25 items, so Fox is the union of 13 current windows, not an archive.
-- The Telemetrics chrome script (`gcicc.github.io/suite/network.js`) returned 404 on 2026-11-11 because the suite is not yet published; the page works without it.
+- The TELEMETRx chrome script (`gcicc.github.io/suite/network.js`) returned 404 on 2026-11-11 because the suite is not yet published; the page works without it.
