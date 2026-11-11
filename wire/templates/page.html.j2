@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wire — RANGE</title>
+<meta name="description" content="Every headline from Drudge, Fox News and CNBC, plus headlines by category. Links and headline text only: no ads, no article bodies, no tracking.">
+<script>
+/* Theme before first paint: saved choice, else the system preference. */
+(function () {
+  var mode = null;
+  try { mode = localStorage.getItem("wire-theme"); } catch (e) { /* private mode */ }
+  if (mode !== "light" && mode !== "dark") {
+    mode = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  }
+  document.documentElement.setAttribute("data-theme", mode);
+})();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>{{ styles }}</style>
+<link rel="stylesheet" href="https://gcicc.github.io/suite/network.css">
+<script src="https://gcicc.github.io/suite/network.js" data-section="newsscraper" data-built="{{ generated }} UTC" data-next="every 2h" defer></script>
+</head>
+<body>
+
+<header class="bar">
+  <h1>Wire</h1>
+  <span class="sub">headlines, no ads</span>
+  <div class="bus" id="bus" aria-label="Source status"></div>
+  <nav>
+    <a href="#drudge">Drudge</a>
+    <a href="#fox">Fox</a>
+    <a href="#cnbc">Financial</a>
+    <a href="#categories">Categories</a>
+    <a href="#" id="theme" role="button">Light</a>
+  </nav>
+</header>
+
+<div class="filterbar">
+  <label for="q" class="sr">Filter headlines</label>
+  <input id="q" type="search" placeholder="Filter every list: type a word" autocomplete="off">
+  <span id="q-n" class="n" aria-live="polite"></span>
+</div>
+
+<main>
+  <div class="cols">
+    <section id="drudge" class="src"></section>
+    <section id="fox" class="src"></section>
+    <section id="cnbc" class="src"></section>
+  </div>
+  <section id="categories" class="src wide"></section>
+</main>
+
+<footer class="foot">Links and headline text only. Each headline opens at its publisher. Page built {{ generated }} UTC.</footer>
+
+<script id="payload" type="application/json">{{ payload }}</script>
+<script>{{ app }}</script>
+</body>
+</html>

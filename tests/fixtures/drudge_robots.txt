@@ -1,0 +1,44 @@
+# ==================================
+# DRUDGE REPORT...  DRUDGE REPORT...
+# ==================================
+#
+#         drudgereport.com
+#
+# ROBOTS.TXT | CRAWLER ACCESS GUIDE
+#
+# ==================================
+#
+# FOR ADVERTISING PARTNERS, AND CURIOUS READERS
+#
+# This file tells automated web crawlers which parts of this site they may
+# visit. Our policy here is simple: all crawlers may access all public paths.
+# We set no path restrictions and request no crawl delay in this file.
+#
+# FOR AD AGENCIES AND AD NETWORKS
+#
+# Advertising crawlers are welcome to review our public pages and ads.txt.
+# AmazonAdBot is explicitly allowed below, as requested by our ad partners.
+# The general rule also allows all other crawlers, including advertising,
+# search, and verification crawlers.
+#
+# For authorized advertising sellers, see /ads.txt. This robots.txt file
+# describes crawler access; it does not list or authorize advertising sellers.
+#
+# FOR HUMAN EDITORS
+#
+# Lines beginning with # are explanatory comments, ignored by crawlers.
+# The User-agent and Allow lines below are the operative crawling rules.
+# Keep both groups unrestricted unless a policy change has been approved.
+#
+# These rules express crawling permission. They do not override security
+# controls, guarantee a successful request, or grant content reuse rights.
+#
+# ==================================
+
+# Explicit permission for Amazon's advertising crawler.
+User-agent: AmazonAdBot
+Allow: /
+
+# Permission for all other crawlers across all public paths.
+User-agent: *
+Allow: /

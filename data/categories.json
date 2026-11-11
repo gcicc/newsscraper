@@ -1,0 +1,2941 @@
+{
+ "data": {
+  "failed_feeds": {},
+  "items": [
+   {
+    "f": "business",
+    "p": "2026-11-11T15:30:00+00:00",
+    "s": "WIRED",
+    "t": "China\u2019s Nvidia Honeypot Isn\u2019t Surprising. Jensen Huang Fell for It Anyway",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUwzR3hHeGVnOFQ5VVM4REFwdWpQUmEyaURtU3dnaTBDNDZYeGZiT08wTnZOdXZJUEZ5Z2YzeFZCUVJxanZUdHY5dTlZcllHamp4QTkxWjlWQnQ5eEdHNWdlU084aEgwbXp0c1lnbEZqOHFiRTgyUHpjUzVKbnY1eFV6TXVIM3FOR2Vhc3BWUGJxbnBoMml1Zl9HckJvU293?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T18:38:00+00:00",
+    "s": "WSJ",
+    "t": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings \u2014 Live Updates",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Yahoo Finance",
+    "t": "What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklINDJpWmJ3ZTVfalJjaEFkb2FhRHFZWk9UbG9FbkF1RjFFOG9FVnZ5aVVfUzgyUGtjdmdoZXp2NkVxbHJsNWJ5d2g1OFR3Vmt4bm1qaU15Vi1hT3ltbkt2RFZCQ3lIaHNKTmJyQi1abWtvQXBvcDkwNi1PRlRVdGJ3dkJMV3phUkQyQUpTRzVfUmRwaXRNZmZiV1VnNk01cm5NYnhqU0xtOElMOXRlSUwzYjhyNjRzaHRXNS1Vdzk1dU5oSzFPUTVLMkpXYjBBWjlTcQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T17:16:17+00:00",
+    "s": "The New York Times",
+    "t": "Heating Costs Will Rise 7% on Average This Winter",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FEbGRuaEtlOURrcHk4czNlQ29UVFdJWFFqUDJ4TFl0NmphNlJ1R3J2UHZqMzJsQVFxOWNhSnpBNUdRUmsteE5yNkw4VGZrRlBLdnpZSnpERXZtX2wzWDg3dHgwVnI0YWRXc3JQU09nUTZjNTBBYUNCUkJyYUVySTRUbUp5SjBjUFBrcl8zZUNYMzc2MXRn?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T13:02:00+00:00",
+    "s": "AP News",
+    "t": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3ZpVWRoY3RSb3kwZlFESnhfbnluX0stOC01UWxwckhXRTZVdkxXS3c0WnZFUW03QjFmVlRzUkc3YUpZeU15d29vYjQxdFpjLVpiR0FKMDY0em1paFlMaWxFaG81MFBpVnFjd2ZhdGs4NUpVbF9rTG52bVlKc09BT0ZqamxubGExMERXcHRqNko0VENJSTZkb3JWVG0?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T17:34:18+00:00",
+    "s": "CNBC",
+    "t": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0F6N29rLUNDZFZGS3JBTEVTUGFOYmI4djBsUkRYeW1FX0luSzNPTkpnblJCWHlMT3p3UnIzOUQ3Q3BZaXBibUM2bVZ2ZkZqdDVBY0NyUFktTDM0V2NEOE9KMldhSFdGdlBGQzlTZzBBaVQtMHU3OXlUVlhsandoWHpvU2VvNnpsRVlZ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T10:37:00+00:00",
+    "s": "MarketWatch",
+    "t": "Why Goldman Sachs is changing its Fed interest-rate forecast",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGdtTE91eW54djJTX0RfbklOYmhXbWpkNW5VZHNsX2ZtRGhIZDRaUEZSbDBqSzdScl9YNlZMbkZFOGZ3dzVGZmwtUVpBNkhMNXp5YUQ0eEFFWVJ1X3ZwOU84WUhObzlBOWItSDFWZzRwYU5pb3RxOFlMczhYWXYweVZrSjVmWWNiQjZMRHpzTWh6alFhUWF2cUcwZXJzVWhodUtpall0NWU2aWt3V19BSjNGVllGYkJyd2pn?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T14:13:17+00:00",
+    "s": "Seeking Alpha",
+    "t": "3 Stocks I\u2019m Buying As The Huang Scandal Unfolds (NASDAQ:SMH)",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUFBSUhTMmNBNngyc3U4MlBsODRpdXc4Yi0yT1J3SnVPN210Tm9aeXhTSTdtdHYzNVpnM3JwY2hfVllnMnNYcVpVN3lLd2pjSVE4NWpHMlNhMkUzZ1Bsakt2NEgyWEZ1VU9aZk0yZjRMcWFLWmJUSllDdDBqRHU2RmtXTGluMURjaWhEcG51TnJ4Zw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T15:00:02+00:00",
+    "s": "CNBC",
+    "t": "JetBlue unveils new first class seats to bring back profits",
+    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xU0tVam5fRjN1VzRqUUVnOVFXZm8tTGxTR0drcUVWcHZvOGc0ZnNDTGhOWmVrQUlyX1VGQkozTTE2WWQ5QllKOFBzdnBCbzBlbFZneHpzYy1INlJvVGJyc0pMVHJocVE?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T10:31:00+00:00",
+    "s": "Business Insider",
+    "t": "Savvy entrepreneurs are driving a surge in data-center RV parks",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVZ3T3pDWWh6d0ctek9yVzdxeUpSLTVUQjRjVGVjbmlndE8zOFVrTUtEdTFSWXh6R01penI0S2tobjI5YjQtVHJFTlhqNEVTbHZ0OF8wTXlra0NDOXVLQWxCc3ZUQzR1ZFhOUFFJWGlXQWJWUkJ6SWtGVEpXc2V5V0FMSkotRnlPZm9ua0x0aDRGLW1JNjJLR1pB?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T15:20:00+00:00",
+    "s": "Barron's",
+    "t": "CoreWeave Stock Surges After Earnings. Its Debt Pivot Eases AI Fears.",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tN1FZWVRJR0tWTGxtMFRyUWpERkQ2LXJFOUZIRFU0b014ZXhSeVVMdmxHcUFSZjdudzdpeXdILUtpcnRxM0U0Z1hHWklJcGZkQkRtX0dQMkJiMllDeENDWk05Z2VkWkZPZ2gwMThtWGo1RnUyTmxYOXdIQU8?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T13:36:00+00:00",
+    "s": "WIRED",
+    "t": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU\u2019s New Digital Fairness Rules",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclQ4ZkVDdTdocExEa1FVX0JIQXBnTXpyUDVkVHRzemxTU1JGSUh4YjRQVmkwWDAwZ0MzYTc2cG9LMTNIYTNtdnloeklNVmVUam0ySW5KZExYMEY0VGZWSUlrVTJMaHNvQks4S2szZmtlVVFuM3N3aFNseEdrbDRLUVJsVEtSRFlXY1FFdTFlaFZqY2R5aXZUZktTbFRBMWU0QUQxLXBLdldTa2lZN3BFSHhiMA?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T10:45:00+00:00",
+    "s": "Business Insider",
+    "t": "Real estate's rising stars: 20 top agents, brokers, entrepreneurs, PR pros, and more",
+    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nbzJ6UEo3LTJFNHRrd0tERTVVamFvRFdDZklJdDlWZ2Ezb3gyS3luMTB1VkZnamh0RlpWc0E5YnJYZzdxaVBnRzlOWkpZTXk5UWVxMGpqT2JudnN4cnVQNFBvYVdvaWNITlpSSmhhZzliZw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T17:09:58+00:00",
+    "s": "The Verge",
+    "t": "Toyota\u2019s Scion is back, starting with an American-made, 25-mph kei truck",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1ZMdTc5MVN5aWw3bFpVakNuenRCeHEzd3NLZ2tCbWRUZ0xOMmF6Q1ZhcGdGb2x4NjNndUhRa1VHSmFYeDJuam9DLU5IcjBaRG5pa3dTTzFsLXNySlVwcEIwYnNhWlFDakdod3BoaUd5d2V4MFlmeTM5XzZwY1RFOHNkWUdaenM?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T22:16:03+00:00",
+    "s": "KHOU",
+    "t": "Veterans Day 2026 deals in Houston: Free meals, discounts and other offers for military members",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQV90MjRQZ3BGM1kycFR3NGVZSTRJZW92bXdsaUI5SXFvSVctRmtuMkg0ZWd5eE5fZzVlbS1MUk9PT3JUNzY0Ynp1c01mYWVyV1hXRE41OUZESTdpY0NWcmVpRFZXZEpldlNiWUIyTV9IN2x1SXM4WnFGZlJiY2c0VzhTQV96X0ZoU1lHakpJRTBwcWdmYldhSHNSWVQydmxKRW9ZMmljbUdkUE5lVVhoUXFRWkR0bTdnOXFObi0zXzk0ZTFTWmNVODhoS1Y1R3UtZGdlT1VzdF9wemVVQ3c?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T10:03:29+00:00",
+    "s": "CNBC",
+    "t": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T14:28:00+00:00",
+    "s": "WSJ",
+    "t": "Crude Futures Pick Up After Heavy Selling",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T16:58:00+00:00",
+    "s": "Fox Business",
+    "t": "Thanksgiving shoppers face higher turkey prices as family farms struggle with rising costs",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM081RXJJNTAwV0pDclJ2R0lrRmdZeU9NcjhLblo4bWlQTTV0RkZLbnRpbEdNbkVodklKck1VaUh0VEVUU1NtVHRLeWZ6UU9Sb2s5NTV1WHlsTHRfXzVsOUxDWkliQ05PQThfTHhXSEhpZER6MXZLaDlDREJ2cXlrajhCY2FSS2FyS2MyNjRtS2xpWVRKUl9SNUxjUXBoWGVCc243eUNMbTRPcFRBNV9zTE5BZk5IV0HSAbwBQVVfeXFMT0JjaEZBbjlKa0FQUWk3UW94M2Y2SkphMkp2cnZuaFA0aEwxcHNET2plbEp3bWlrMlU3LVlMQ2Y3NjRqM2lFY2VrN1BvanZYVms1ZG1YVV9ma1A5R2JVZDNSckc2aDNCeldtR1JfN0ZFVENIVzIwOVNfaWUxZXJCVkpPN2dzQlM2STJYSUJDeHNVLTVwYVBLWmZaUVpGdzZUTXlBeWsxZTlrZndDbVp6ZXdHZlRIcFUtY1RwN28?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T16:30:50+00:00",
+    "s": "Space",
+    "t": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2NsZVpDNUticGl0NTB1VUJYUHhVVTlkTHN3RnZCcXNZTHZ5d0JNaGZGMGlxdV9HS1A5VF9QNl9sMm5HT3NIVVZObDVJMnk1dDhuRHJ6WE95eXhkNVJDS3JRdThhREpIdnZCUG5PRnF3R0hscjZOWFJDRHNPdERlVVZSTU9mc2xXcXlmbGI2RHFzcUp2SUl2YnhEOEF5SVBEelhaSy1oc0xMV3JxLVRkd1FXSGoxLTdTR3Z1OA?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T10:26:00+00:00",
+    "s": "Reuters",
+    "t": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T15:32:55+00:00",
+    "s": "The Boston Globe",
+    "t": "The Kraft Group wants to build a $16 billion data center campus in a small Central Mass. town",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUhPdFM3OGRhR21uLVBfakszNTFVUUZKOGFDdXJ2Z0hqOFBDUmgtWW10UzlxVlF4ak1keFExYUp2TldkWXhnc2Z3d1RHRWZyUlc3UWJyOUlfcWRYdFp4RVIwajFmRE1oSzNIZ3p4a2ZyX211N2t5SFF2bnVjWFoxU1k0TDFJdXJoSVJDbmJn?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T13:16:31+00:00",
+    "s": "CNBC",
+    "t": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGliNnhINWdOb0RYdm54M2dIWGNuazZhZ01USkpfZzFKUHIwVTZBZ3RjNm5iUzRjcEFJcF94V01McUE5OUtWZFVJVi02b1VzR2RIbjY2QzNUb3I0V01nbzRhS2FEZ29nLUJQOEUzTGtJd3NwNkRlamVubHNuTkhadFVBV0h4QUhEd2xLSFB1eWpGX3VmQWNoOHozbUc?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T23:07:25+00:00",
+    "s": "The Conversation",
+    "t": "GLP-1 drugs carry risk of rare but serious eye condition \u2013 a physician studying these medicines explains the potential side effect",
+    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN0FZb2JheDlTQzJmSVRNUUNmRTIzN1VUVWtqdmo5S3ZkbmVONGE0aGRpVlJWdkpJTHV1dzZZSzBLR3VHeWVCOWJsRkROT2drX25GZDY3OFRiTVhoUkIza2hrUlBFTVFteG9VUzZXUV9SNDRQWmNfTlRUcG1ZalZ4djZsZXFuSFRaOUtmaDdESm5PWk1qcFVydTYxcHdNZDEzWGJVOGNRTWNTaEJFc2h5eEM1ZHVRN3Q0RHROZXFNVGFySkNnaHlYbTQxY1pIRndQTnNkbkJ6em5yejZKYXhBRjJZc00yRWlFdVBnQlQzcnU4bF9OeWc?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T22:12:00+00:00",
+    "s": "Fox Business",
+    "t": "Gas prices fall below $4 a gallon for first time since July",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb3NmLWt3T2NXZWRGZmhfUjNyTmhVLWtxTFZnOVZvNlpUUGRaTnBVOE8ydWQ1aU9JM3UxdGM0VkFmSEFsVVltUE1vVlZBUEJYRXdMQjVjQTVGRWFpRGtYUnppNXVDZjNCdWZvVXVTOFFZUTdob0dtUk5SOXoxdzFES3pkT0JHMmd5RGZHWi1VM3NkQdIBlwFBVV95cUxOajQ5QndFWWNFclQzUzhBbmpsTVR4R2RtTzMwZkJsTUdUdU9IR3lwZW4xX0hKQ01jeGpaU1R0Z3dTUzlLc3c2UDJYOXhaM05PcURmaWxEOGRLaGJkeUpLU0FqeURfZUdVVk5MWmV2a3JWZHczUlhNVy1jdlU4eGJnV3hOLVNqMkowVEZlS3BCcE5PdzhyRmlz?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T11:38:00+00:00",
+    "s": "AP News",
+    "t": "China\u2019s Singles\u2019 Day shopping festival struggles to shake off weak consumer spending",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZldKVkFrVWlEQmhhVUpOTGNoT3lnSU1qakFBbmtUTWdTM0I4U3BKbmFNbEV3eUhXY2UwZFY2Z1V4RjRHY1lUQVhYOWMwbXp2aXNja2lpMkxNNG5FalVpWTRxQ3daTk1lWllsRXBLbjJRRlJHaTU3Wi1xNXNsSEkteW1yenZjTFozRlUwR0RUU05jNlFFbk1FbUM2eGtXZjRX?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T18:11:00+00:00",
+    "s": "Barron's",
+    "t": "Micron Is Rebounding. Goldman Prefers These Memory Stocks.",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2bWhjUktMQU1qZzVGbWF5ZE9XNmdGVmtUVU5EMUozbl9pNlJRZnJjOWl6N2ZLLUEwQVMyWEZpa19RT1NLMXZzbVZxTTlGd2lKMDNLa3FKSUUwQi1EQllKbndwY20zMUF3Q0tkeHFXSnUwQllJdGhiRjJKY3I2dw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T17:11:59+00:00",
+    "s": "The New York Times",
+    "t": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0pEQXlBUVAtM094RWhmb0tUZDlKNW5FSGZ6RUpIQTBVaENVN2VtSEM2QWNRQ2tIYmpTbzB5eHFncmprYnBnb3JhbFlvc2JUeUZxWE1xbWNNTExHZklSVUpMQzJzQTVtc1BoMkJNQU9Ga1N5WnlHU2lQVzBwdzAwZndrTFBsR1lQb1B1Skd2QkdtVW9Y?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T22:42:00+00:00",
+    "s": "WIRED",
+    "t": "Amazon Isn\u2019t Waiting for Black Friday. Here\u2019s What\u2019s Already on Sale",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDYjNFclRQbDlnWGVSMHlWYUlOd3JzMTNvcjdBQnliaUltWUhNWTlqYnpsMF9rbV9SbllHcVliQnVNLXBBeUZ2d2Nrdi1tVkN3UjMyakdyTG9LRURZd0M2amlTdUxIdGR2aGlSeVdHSmdBTThQMGlVNVQ0eUtfRU0?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T19:11:51+00:00",
+    "s": "Financial Times",
+    "t": "Weil partners approve plan to shut down law firm",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmJZOElzaUx6ek00allXekRWNzQ0THV3LXdaOFNVWDJicE41Y3FHTnNrNm5NMTI3Mmg1dmQ4MERheVhEeWNVY1RYMlhsdDBTc2M1eVlXcTRwS3ZjRWNaVUVsbnFpMTl4amYyM3h1RWdtU0VDV1JrSEhfazY5MzNsNjZVUzY?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T04:57:00+00:00",
+    "s": "New York Post",
+    "t": "California city hit with shocking utility rate hike proposal: \u2018A slap in the face to us\u2019",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3B5cm1PWWVOSVFPQ1FlWHdTMzdMT3BMVW5GdUk3aVNJTElIRS12ZHdZQTNzNW53V3JFcnNnU1c4ckMtaVlmU09LcWtJVFhYV1h6ZV92cGRsZkxxMEVQQ0lnVnFpSEdNQkZtOUk1VDhPSDJjS0REODVsYXpLN1A4ZUFtOFpyWTZmMXAwZHE2RXBHZEFWc0luWHZFbFJhVHdLekc3S21nSnNUOGM?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:41:29+00:00",
+    "s": "Axios",
+    "t": "Credit card debt hits record high as Americans struggle with cost-of-living",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm5UZExLSlhOUGpRc1BHVWhRYlhrSmJjMkhObEN5Mnlpc2pHcld1Y0ptNnhaRzUyb25EcGdkVmFWYVJBSV9RYVM5VDVrMTY0OXVDeDFBSFZ1MFF6UEtKV1pFajRHYnBLUW5iY1hkeEdFZzk5X3FyZmkwSDJJME9ZRVljOHlURkZHM3lUQQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T20:12:51+00:00",
+    "s": "Block Club Chicago",
+    "t": "Illinois Delays Hemp THC Ban For 250 Businesses That Sued Over It",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFhyUllTa3QxMHdxdkFYdFJwRXl0NFFZaVllN2U5ZXlwQ2FycUE2Q3Bhb0RKSVp0alJzUkRKU05IZEltX0lneWFjZXprMlNuX1BJVTctVEo4eUJKXzcwMzlPZm1MdWRhV0l2QlZRblJNRUROYnRSY2xHVHZNdFRDMzRVN0YtdXF5dzNWQ2NYVktSR1VYWDlIYXFfRW4tVm9NWUhjUFpnbnFCQQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T11:25:53+00:00",
+    "s": "WSJ",
+    "t": "Nissan, Back in Red, Cuts Sales View on China Slump",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelhwVDNzeTRXQTB5ai1DTEM2b2Z3WWdzb1hWQVEzWE5PUW44aEhSWUZLMjdjcjBxNXVOVDNmYms4N0hQWmtXLUh2RWExUUtLRFpCQXRORlM4MkpPeHJ5ZkZiYVJGN3ExQ0ZtbmJLYWlmYUVRQ2dQQkxOLUkycTVoM0pKd0lZMVlpd296eHNwY1hsaUIwbmtZRTVzdEstMTRGOFJmMA?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T12:38:32+00:00",
+    "s": "CNBC",
+    "t": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUZxa3hUQnZocTljMEFidmJheXdlMVpXbnc5TEx2M1pBQ2VacWVDQU81REoyV0RjTmhaMFlMdkxPdnpkMVNOeGpfUGRpVUE5ejY3Y18xdFlHdXUtbEIwOXlkTmp2UkFsbTZhYUd4UUFSME93ckFtMkVIUHJfUFc0alhCUzdCbkRndTRfdFk5Y2lUZkpuTmZBLWpHOVV1clFvTzl4eUZFVWo?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T00:57:00+00:00",
+    "s": "Bloomberg.com",
+    "t": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDhDaVpHZTR4QzFGMnM1bVhVOUJVM2FkeU1wTUxKYUUzMldHbEVGVC1XR25iZ3hrdGhIbHdheUJhd1Q2T0tqX3cycXFhU0ppemhfZ3dHcG11RDdaS2JPVU5vSThNZmUtYWdveWNiOUplbG1MTFFCY2hLenNVRUxhQ2xibktrUzNaU2pVMVk3UlVqWFhGQllxcGtYclZfMlF5a1pTR2x3ZkhhUkNSNUE?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T16:00:00+00:00",
+    "s": "Variety",
+    "t": "Skydance Succession: As David Ellison Sets His Team, Heads Are Rolling as Hollywood Finds Out Who\u2019s Really in Charge",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW5HekpiOTRMQjMzYXcyRnF0V3dFM19ScTNBX3VxMUx6Ump1cndFRFRkNTRrRkVaOTlIYUdycE12UGJicnRMNXQteTZITjRsMG9lU3BjMDFhNnJZWXNENWUzT25sQ1JiYTdXd3BrUXFETWd6dlVERUhjNVl4aGZiVE5aM2U0NHhZVWlvY2NoVnFmOVJMX1NoanJNREM0emM1a0E?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T15:50:00+00:00",
+    "s": "USA Today",
+    "t": "Americans want to live to age 88, but their money dies at 83",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGhsYzB4VDNoSm8yZVV0VlNBX2lIejJzNW5LZENaUG5LNzN4Rno3b1hISWd2Tkhid0o5QzA3Q24tREExaEpSOUVsSXE4dXNmUGRFbkFtNHBsNEMtOEVHaTRNVDhWSXNVd0pHemNZM1NiX2JtdnR2WUZoMXZZSU1WZ0pGR2VCZzJxQXRvekw2X0lZTGkzamliUjh5dFBUUkZGRG9kdF9PdHZGN2VreHl4M2VleHhHd1M3Z3VtMUd0ZXd2bWU5QWI4dFB3?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:22:59+00:00",
+    "s": "WSJ",
+    "t": "Google Agrees to Privacy in Spirit Airlines Data Sale",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpUUkJkNWF5Yk1IX2NRdURubEF3NkExb2Y3dlVXUGxsUHNGZnVhLUtBdVNpdi1tdmZRX3M5TUVjSG1FNzVfbkxUb0h4dWIxaDF1dVM2Z3JPSzB0YnRwOUFzN0k3YktoS1VCWkY3SWdtUUlxaDBiMjFFOW9BbldZZnU0d2FTVXdIYkhaNzFUOWtDOHlxTUJBeXB4MlNmZw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Yahoo Finance",
+    "t": "Consumers are turning to cheaper brands like it's 2021 as inflation pinches",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWhlQktuZU9LMG42NVVRMVU1LTd4eHpzNS1kZno2VTlnSWJ0QXBoMnY0MFAydDg5OEpGSWlIVUpzcTRNMGRoWnVkRkZPRVBnZjZJUFFsbnd1QzZfRnRRdUVtTkZDaUNvU19adUdoSmhQOHQ2QVR0Y25PaXcyQWJqeVU3a21ZYkRqSzB4c09VRFVYODl0N1Vta2E2aThLVnJYTWRvNTVKVjhyTG9BRW5nUGJtb3FhNHJnZ01GYVc0M0hIRFdnYUZwazY0OA?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T11:01:46+00:00",
+    "s": "Reuters",
+    "t": "SoftBank books $7 billion quarterly loss on US data centre hit, financing costs",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTRXdUFfbE1YejhTSXgtVUktdnY2bGMzY1MyVElPTEFZR1RtYzRQeHdYN2RoZV9sdjVyNGNVYVRtRGctakhrcUkyOG1uX0F6Z2RYb0JCVk9wdTJmZGVIVjdyTU1YdWFSQTNxTlUzV2xWSjZRSE1NWENKR2M2cEtjdVJFUXNTSnRiZlFVVVowSUJycFNFbFc1ZE1lcXRtSGR4T0c0MFhoOA?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T01:48:00+00:00",
+    "s": "Electrek",
+    "t": "Tesla tuner Unplugged offers to take over Cybertruck production",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZMTGVkc2k5MlhfV2tGRUpjVksyaGlWcDlBX3JkMG40NHNrQmVNU0JxMVRCN2R2amNxSm10U0pObVpkSUV0REE0WERaLTllLWliOGRuWG1CRkh0Q083eHE4XzNNQUU1aGU4ajJMbU9zUDdlX09TcFVFM1hsb1VZam5NR3NVT3l6cXlKQnhBc0QxT0VBVEM5elliMU1BbFk?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T22:35:01+00:00",
+    "s": "Ars Technica",
+    "t": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzMtUkZBdVhIWE41Rkx3b2RFOHlPZTlkeGtTNlFGRFhlVzREWnBNSFVMbldLZkVrSkwtaDN3amN5cl9CQUdLOVRUMXhTa040WkVvdFhqOWtOTENqNkN1RklNaDNlRi1udjA1OUJNZnpYc3VOQVlNSUYxQjZOaTlWYTJxcXhhN2hJeXo3MS1yLXV4ZmphQ1ZYeDNacHJfSkk0U01FOU1UNTQtb3o0ckF1Rw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T14:02:00+00:00",
+    "s": "OregonLive.com",
+    "t": "Jensen Huang\u2019s Oregon story: Playing ping pong in Portland and waiting tables at Denny\u2019s",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRTNVUzhQdUd3S0huTW02T29ubHRycVUteWtYQ1JfOEowaExYbkdlSTFqUzQ3UzhhUWg0OVhYWEs5cEVjaG8xQ1BlQ1ZYNlpQNHdIRzhJZ1dadGdKMnBUNHhrbElWNlJCQklzRWczUXF1MW9WUnVkV2dlU1JVVC1YMnJCN25jUzlQbnhIRTZhbml0NUJfZUh0YkpXbUpZcGVfbng4anhidEtHY05WbTZ5bGVFX2dUYUgwM2IxenRoZExaeXY3MkVJZV9xV21VekhNb0hRWGt2RQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T13:40:22+00:00",
+    "s": "The New York Times",
+    "t": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWNqWFdDMHlSeUN3RHluTERFZlVwaVpqZ0ZEUzlURUkyeng1SjRQaG84V3ZnVURxdy1LdEp5RlpJeG5zQ25qQ1BXV05wU0lFRks2XzIyX1ZiS2tPVlZXbFVsTVFfUnpEUDVDeU9UczQ0aVZRYU85WkI0N0tGd1d6QTY1cw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T13:30:00+00:00",
+    "s": "NPR",
+    "t": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmR2Y2NpRWZRMFc5WlRrZTJiWWk5bi1JcVV4MWlCVmNOckVkUkdqQXNFSjJOdzVPYTYtdk9SRmlpbnlEaTJpSlRKQ1BUWGtCa3Q1dDdlU05BNXZsQmxONGJaTVNNZFU4c2I2eG1IRzU1d0l3WndVa1U0dklyWnRDOU9EdEk?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:23:38+00:00",
+    "s": "Inc.com",
+    "t": "A 15-Year-Old Bourbon Was Just Named the World's Best. It Hit Shelves Less Than 1 Year Ago",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2ppajJfcXc5a2hCaEtBWENrOE9xaUhIcFduSGhibV9zUjFXcDJMNE4xYU9zUlhvbWRBQXA0RE0xa1phN2xLS2xMSlBMVTVjZTFSZWVzVlZTMHR0SmNkUHdwdUpISmtzd1JPMTY5MXBVN1ZIWTFUeU9WNUNHOTQ0anUwZjV3eDV2NExXWHhVV1B2RklzQW5uMldJaTEtd0N1cER6R0dmUlFQVm5OblBRLTBoaHk?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:42:00+00:00",
+    "s": "Barron's",
+    "t": "Anthropic, Nvidia, CoreWeave, Take-Two, D-Wave, Securitize, and More That Explain Today\u2019s Market",
+    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBadmZWU2FuV3dHLWppWGY3d25ISDFGQXpneE9HcDRqX21TSjNzbWVIbk1OWUZiaWJhVktkSDlQMk1sQmg0aDJYdzMwTDI1eGJaQVdfRGdDel9ndHhNaXhROGZPckI?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T10:00:00+00:00",
+    "s": "Charlotte Observer",
+    "t": "Airport workers walk out as Charlotte approves multibillion-dollar lease",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51NVd6bVBvLThncnBMU2FJazk1YXpveG5DbEdIb3F4R2JoZUxUV0haazFkdFFKcUVpOGtYOXczU3Z0Z09YcHp0dmFxcThTRnI1dlBQOE93NVN2NlRkQVdqWTZFcVVzb0JzNlhTOG1iVEVVa0RrcG5KVtIBeEFVX3lxTE56TUJrbmotaGxxSnVtdDZDb3NEcVVOT25mb3I5bGQ5X0lVR1pDQU5zNnVMX3ZaN1dJNFFZZUJLQmVSUTlWU095Yk91azc4N2VBXzNnRnhtdjFYQkNmUmpzeUd6dTU1R1dacXJUUDBpQmVMU29mOThWaw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T23:30:13+00:00",
+    "s": "PBS",
+    "t": "U.S. inflation report highlights strain of rising food, energy and housing costs",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSEJxWVBzUmhfNGE3UkswZ3pLQVJwcXM4ZzNZWjdIRDJXZnprRkxxZDd5cVRCVEJLblg2cWw3bnJhbGYwY3IxTlE1cDl3RnlMTDV4SHdQVEtYbFQtZkxkbk1tSzJxenNaUzFQWU0yMkpLNVh1N2dieWQ5WVBfWkJUNy1JZEFlNmJjaWxJbjhTcnVMcGVYZUdGVTNqUlhzYTl6WmlOc3Z5dkdRN3BCdmcza3ZR?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T13:40:00+00:00",
+    "s": "The New York Times",
+    "t": "The Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41YnJEdXJIUUJDd0FYYVVtUnVDZnBPSDhZQnBaRk93cFdRZEs3U0NKd2VWaVh2ODZwVVpURGhaWEJVbjdMY2llRkNuMW82dnA1cjQ1TkxobWZPQkRONE9NVzdEVlZHWjJTNU5sdFJ0ZElac2I1Rk8zOC1ILXdRQQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T19:23:34+00:00",
+    "s": "TechCrunch",
+    "t": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkN3bE9kbEZlZTJMZmVZM2xfclJ6OHp6X3kwdVNfX0MtZmF4THg1cWlQRkRIRno5UmFUVEI0WWh0SVQydmt2N2U4VWt2N0p4bjFlOTFVbTU4cG5ZdHNuS0NHVzFvRU9MUFdoVnpyWFpTRDRPUmxHbi1KYl8wc1Y2ejRianBXbm5pX005cUZQWENrZ24td243Z2J6NlV4UVlNd0ZLQjEzUUw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T18:30:00+00:00",
+    "s": "KHON2",
+    "t": "Hawai\u02bbi\u2019s top-rated nursing homes revealed by U.S. News & World Report",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wUVRkWkpXX0dPb2Vkb2RyWDFVN1RzOWhmTDNYQTBFQUVBcmNYM1AtTlZ4bWJaeVp3MlJVWTJSMU5fR3lFM2lJSC1SVzlISlVVekdiN05CLUhManNNRHZHZmRTUEU2dzd2WnJsc1JzREdmY1dsb2Q00gF8QVVfeXFMTTk5RzZDX0dRX19zVlZUNEtqcWg3dkxxSGE1Y3lPN2tWekdqbnVaOWJYc3FtTHRVSFdPOFNLNDRuRkhadkRhalUtanh3cHd0YzE2aEJZNTltNl8xSnNQak1fZmtmSmdwOWM0VTNlVzFYaTJZandra3FpSHBieg?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T14:30:00+00:00",
+    "s": "All Things Distributed",
+    "t": "AWS Emulator and the engineer's job when agents write the code",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTHZzQ3hDLURuTW1ONktXdFI5VFZxYjFQcGtRUkZKY0JGN1EybHpvaUhTNFFBclkwSlh2b3NQc19NNVpyQm5iUnlfT09TV1lmcGJjTVhRaWV1Z1V4dGxtRlhVVjIyUW1uRVl5Z2FzemFCUEpWaXN4d1h0d1o1TWI2T3pmNVpYT1VLMGgyVTZOUzBRTXM4enR6VFhuazVoTXJuUE5RQUdjdjJXUWdFdWVuSw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T16:21:18+00:00",
+    "s": "Bloomberg.com",
+    "t": "Meta\u2019s Head of Infrastructure, Engineering to Step Down in 2027",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1dNLTZ2M1BDcjMyRHM2RE5VeC1IRG5id0c5Y0duMkVmc3NoMWZxckZuYmVLMUt0eXd4SzdrLVB3Z1FmdkhtcnFLd3J0WXFBMzRMQjEydkVJNHBRVHgxY1pIbTNZUklEM0dUaE5zcFdWT1FORW04TjB0ZE1NOW5sMzhfYWxlQTA4TmdMYWlOcVRqcEZyUTY5NlhQa1JaS3NoU1IxQnNKTFB6UU5SMTFZc2UwYw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T15:16:39+00:00",
+    "s": "Fierce Biotech",
+    "t": "AstraZeneca buys partner Omniose for bacterial vaccine technology",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmxoREM1eGNEOTJndmo0QWtQd3Rlb3o3eURYVGlkeU5kSHdnakZXRU1pLXpoLWJ1VWZKRWlZelI0akF4eWVaWVItQVpiSGNyZDdEXy1VMi1pc0VzV09TQm5mTDZBVlFuVm8yYzJaeXh5NzZQSWVIYWZJbzlhZTAyejdCOWZUZGtMZ05OVzVuS3UwQngxMHc?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T12:00:25+00:00",
+    "s": "Grub Street",
+    "t": "Why Are People Acting So Weird in Restaurants?",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlhuUHRGUVhnbHA2Uks0cG1OX2QyV0l5T2dRQlViWTU4XzJQVXo1TlpsaG9rcDhsYm90ZzV0ODRqU2JtVHB1cFJMeEJUaGVPbXltV3JmT3A5RkRVM2NKcGNwU3ItcjlHbnd4SmVGRXJTUkVELWJKZkdtTjNISHVuOUdETThfZw?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T01:29:00+00:00",
+    "s": "Los Angeles Times",
+    "t": "Two planes nearly collide at LAX after Air France flight veers into another aircraft's path, FAA says",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb25yRjZpQjUtZVpDN3VxNnYzY1BWX0hQM0FqT193cmc4bHBwUEF2Z3VBQnA0TTVwTXA5QnRNckZELWFJOTYtNE9PNUEyR2VtcGxGMHVoMFVTSmx0d3VBbnR4ems5ZGpfMHNhbXp1V3d4cE9xRWxnLTZOZEFWSU1pUUVhejRRa3ZSbWlMYXFkTzM0cGpYLWNIYQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T16:22:07+00:00",
+    "s": "TheWrap",
+    "t": "Skydance Stock Sinks Over 8% After First Post-Merger Earnings Report",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGkzd3ZzQVc5TENsU29Yb05fMWFra0F6TGEtWG80UDZLMWhscV9oalpjbDNWLTN5ZXloYnRtRHNqQ3VBcG1QMU9fOE5kU2VwNzlEQWRQX19PS00xdUZVYnFibTI0U0NFR2MwUHVjdE9xY3Q2MFFUOGk5Q2J3Tk53VXlQa1ZpR0g3QTJKNllqODVuUQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:34:00+00:00",
+    "s": "Politico",
+    "t": "Wall Street regulator poised to bring charges against prediction market giant Kalshi",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUG4taS1rREZ4dHJWZmgwTjRlVlpwaUVtei1EUlJYZ2g2R1lnVjV3YWwxZFhCb2pDV1hXZnJTRWV1NUxVaGtuUE9DWXdTWDROSnAzclcyc0NVa1l6ZHE5TVQ3dmJPU2IwbkJWOW9WZnV0MDZwVktxeWVNSm9ZNXMxdVFnckFCM2E1a0RyNG5qOGFEa3hWVE1n?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T17:00:00+00:00",
+    "s": "Newser",
+    "t": "China Continues Its Trade Dominance",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlU3dVh6VUFsSDhPd21BRVRZUG9rLXhBVmc4cFM3d0FQZjBCWV9RR1JKdUJpeENOY1Q2TUV5R2JScHlUN2xiNDBkeEdKdFYxaE4tQXhKSllaNHZTNHlfSDNRNERoVkFaOWw1eEd5QnUteDdOS3JaZ1dSWEhkbDZBVVpMU0ljYzczOWdz?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-11T08:40:44+00:00",
+    "s": "Yahoo Finance",
+    "t": "Exclusive-Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSTNwZEpXX3JSdDB0UER3XzBpVVBPZVBEWHJmb1pWdWhCdzBxT1ZTQi1rWnp3V3QtbVRrVS1GT3dQTHY3emE4empXRXV4M3FWbWtVYXJwOVFkUDBzbi1SVWVLQktLTlpwTXJsMU16QW1pZzlSM2NFYWQyYTB5Y3RJdko1aFZpcjVKYWJOeV9n?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T11:30:00+00:00",
+    "s": "Forbes",
+    "t": "The $38 Billion Hemp Industry Has One Month To Live",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3FyN2ZiSTNaSXNjeld6U091LWJjdVZaUTg2MzNRT0hvNmIzWDdOOHVVbXU3c2UzNTVuX01YZUtOb2xqRUMxZVhmWlItTXZUZFBSdWEtTzVkV2lnWWR1LUVxaHgtaGdMR0xMcFlXd1BXYmV0TTFEazFGaFZmVXd5TjQwSDRBeGVGUTViWkEtQ3BoYkZfendoa0d5d28tTTVOdXBBcmVkRQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T15:00:00+00:00",
+    "s": "Fox Business",
+    "t": "Trump admin pouring $480M loan into Gulf of America oil and gas project",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1oySkIwTmoyZHp5VUZZMEMzWm83ZWExQV9GckM5V1JoSTJlWV80X1Q5bWdKZklqMl9aUmtqWHZWWjJGMnB6WU03MFRpaS1hUzZkbVRZREVVX3l4YjJVSmc1V1A4WnJZS0c2MWYxN0hTTzRTWVZSTGlDTmNXMktmTWt1NTNaY0tFSHZWRTFrMDJHdHROY1JZNERBSdIBoAFBVV95cUxPd2hFbGRobG5NWGd4Nmd4RXFqZE5NN3pUckh4UXFMa0xiSDh3bVA2OEJiZ3J4ak1xU3RBNjdfbUlJX19kVUhWbWo0TXFuRE1nS2dtVXgtemE3aHhKNzRCR2RJdHhMeV96Z3BaRXF4OURSbGVBbE1fY0ZYaFFiZkJMUkpwT1NlWmJaalYwNFV2YTJTaXJabmk1NjlMTXFhZlp0?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T14:16:09+00:00",
+    "s": "Reuters",
+    "t": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY2I3VHRfaEF6T19qN28tZEVhN0piNERjTFpJRVlDMFdTLXJUZTlNdGJXblVLTVpEY0QzUVdvay1IazlCNTBmbGFWQ3NlNkIxRzBZSTIwSEJGUnJKTjl2YkZrUVdLVzB3T1V2WkRhRVAzcmVCVFJ6RjRfUEJveDZnWTlFYTBRZl9sMFlIUGZZaXlibmc?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T18:17:00+00:00",
+    "s": "Fortune",
+    "t": "SpaceX is competing for NASA\u2019s $10 billion in contracts to build a moon base",
+    "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSW5pbGN3cDlhVkt6YzZkZnJHQWJUZEcxZEthNi1RaDNIUG1ZRWpKbDJOcFNmNy10bENTeE1JS3J4cWh4OUhSbEZoLTRvemdnMnpkRmZSSkJrYnRDV3UtMVVEaGFlTFVhVWVtek9WUE1US09pa1lnN0JpSWRPVHBWWWdsY1lzaDVmZVpKNlEzdUxIdXFVNGNGLTAxc1VSRE9wT001QXdQUlBPZEhqTlBydXpBRXBwaXZ6ZVpZNEVLUk1udXNzWWVxUmp3dWtFaEJfcGNRb2wxWFRlR3UtLXBsdGxLT1YyZ1dYZ2VEdnZ4RU5tTnF6bFpXRUhaR01TdndOWk9VVQ?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:37:00+00:00",
+    "s": "Reuters",
+    "t": "Five US states join FTC suit against Hims & Hers over privacy practices",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE1CV2tIUEtWb3BTcEphTVpQZ3FiTnZwRElMTnplRDJUeUZfNzZLS0tKUTlWRWo4MEQ0WlJMZXJyTHMyRzZTNkpEVW1MdjhDcTM4dVNVZEhTcl9nakp1V0hvemJtSC1McXk5T2g4VWViQVZoUUpRQWpram40TUprZENDV0tKYU54cTlsbXhnc3dpZFZCckJlX2RKV2FZTE1BaDFvVjVwbExBeDVSX1UwYWV3?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T17:09:00+00:00",
+    "s": "Business Insider",
+    "t": "Read the memo Boeing sent staff announcing 2,500 job cuts in its airliner business",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGhfcm1FN09aZDAyVGpRd1dKdGNJVWlucGZoT29iMEhScUM5SUhQdGdkbF9oaXlYekxoSWFzaEVFN2MteHNsUVVmSkN3aEQxd0syaUpVSmN2U3BmZktLYkVBU1BnRGEtQklVYXBNTFdDZWRRSW9zYkNpVXJUaGlWT0lhbDEwYlBDWnl3?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T16:14:13+00:00",
+    "s": "Pokemon.com",
+    "t": "Pok\u00e9mon Happy Meals Return to McDonald\u2019s in the US",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTG14MTZiTnVYdXBYOU1fVUxJbzlTY25KNnZRZWZPb3JYX25MX1BjX08zS1RwUDNUbnJtSFpBbjczV3V5bkxxeDBsVDhZY3A3M1RHZGxVd0FvX1BqUzk2OXI3ODQyemdCWWdVdWVZNEc1c1ROSjN1MUdxc25kcWhDRlJOeElFMnV5?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T16:23:32+00:00",
+    "s": "Financial Times",
+    "t": "Moderna chasing \u2018holy grail\u2019 of cancer prevention",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY21iQTBwT3RDZFg4dE1lRkszNHVOVTA2SEd6bWdjNjRSQVJhUWRkY19TblByWHREN1RhQWJqRTJuaUlnOGV5RzJUMHVGOHd2azQyZ1BIdVg5SVU1VUJ2RDMwNWdxZ0lMR0NuX3JNQWRzeFpYS3lQTnpzRVNPTkRzZkh2dTE?oc=5"
+   },
+   {
+    "f": "business",
+    "p": "2026-11-10T21:27:00+00:00",
+    "s": "Investor's Business Daily",
+    "t": "Microsoft Stock Falls On Anthropic\u2019s Challenge To Office Software",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1YdlJPSUlEcmx5OUpyelIxZlBYSnp5QmUzbTJpNE5IcG4xSURIbndrNWlHSXJpMGVacnM2QlpmWGdUbWRtY0xJQ3l1Z3RqN0RCRDM5VXZEOFlQWktpNTBDdHZqTTJDRnhlUkFVS1VOQS1Dakx2VmFhSVU3WXlaTGFicjRpcnBPWjJkbHBtcExZbXQySktYOWRB?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T18:41:19+00:00",
+    "s": "Rolling Stone",
+    "t": "Coachella 2027 Lineup Takeaways: Madonna's Special Spot, Indie Surprises, and... No Drake?",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmVuQmZHbnJnVTR6amkzYXVoYmllbWhsYnZhMVduakRQelo3WjhScmV2RDAtQUlpa3RMVmJyRGNLNG1iUzlwa3dhYWs5WGV5ckN4azEyajZzTWs4TDdxS0lmajh1aGQ3S183QWNQckhuQXZjaEZZODUzQmVyblNHVVFrV3BZcFlNQXdfdUoyOFFVOTFuMEN5M1V5RHptY2lEaDAxZm0yTjctNE0zT2ZiSFJB?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T07:17:23+00:00",
+    "s": "The Washington Post",
+    "t": "Meghan Markle\u2019s estranged father jailed after allegedly removing ankle monitor",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjdNcmhhbmhncllDc0o2c3hfMnU3cElaSS1rOGRMQlcydG1hQnpCTnBobWRPeUwydTFUY2lOaV9xSm5IbWluTVQzV1Q0QjhIV1BQWUpGdC0tcF93c2dIeHZKNFRrNUJJNndOZUNJWC1XVlJIclVHYWg3Z3VvQjVHUmpCeEt5d1dNaTVETnFaZkpYQmxwVjluUnQxWXRkMk8wNHRIRl9KUlFWSkxQamxzd0JrZHdSbUJhZW9GU21WQnFMMlNDUXc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T14:51:00+00:00",
+    "s": "TV Insider",
+    "t": "\u2018Dancing With the Stars\u2019: Jenna Dewan Addresses \u2018Online Noise\u2019 After Elimination",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVhzaF9iUUsyTWRvTVpQWkNaRFNFQ2dvaThWS1ZWMEpEczNtXzM4MDJoeml0UXIxQU1vQTB1NmZGS2ZjYXNaTXdBM1RrSU8tMklOcTJRNnA5cG01NXdaNk1LWnNnQV9oMjZxT0hMZUtuVEc3U0p4NW5CNDgzQk9VanpMNEd4QkRCaVNZMnpzX1lZRnduMUNhQURoUXdMNWxuRmh0ajdXbFlqdm9tY01pLQ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T18:24:08+00:00",
+    "s": "BBC",
+    "t": "Author says there were 'real concerns' about David Walliams within publishing industry",
+    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fY25yVzB3RW1lRUR1eVJvbmVTalVfQm8xSEVleEdjdDROXzZlYnJXdENqaDBKcjNSY0M1WmNIaWR4THY0VUJHd1ZxeDJSaXk0a29XUGpIYjV4TjA?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T11:12:23+00:00",
+    "s": "The Hollywood Reporter",
+    "t": "David Leitch\u2019s \u2018How to Rob a Bank\u2019: First Reactions",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRkdU9nZlotVnkzYVoycER3cjFMb0hOcEdxWFVWbmM1bHZGTWRNLW0yQ1J3VmFoR3hxNjBhTE9udEdnREdqLTV1RkcwU1BncE1naXJiQWE1Y0RSVDJod19ITF9kUURSazR6ZDNpajJaZmE5cEFrZE5PRlBpZ2tOUEw2bkRaUVh1eTdQNWhXbGlCLXFkeXFNcjBrbVZub0drWUR3TzBGUEJjcmI5RGRZ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T15:50:00+00:00",
+    "s": "Variety",
+    "t": "Amanda Seyfried Joined \u2018You Can See Everything\u2019 Without Reps Knowing, Had \u2018No Approval\u2019 Over Filming and Got \u2018Disrespected\u2019 by Billy Evans: \u2018No Reason for Him to Get That Aggressive\u2019",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnR1Q0kxTnhuT3JfeUZoa29Xcm93ajlLTnhTM2RZSlg0emhUSUQ2c1NEY082MkRiczBWRHRqQ1RCRkdqZjRkY3ZaNW5UbUt0UVpMVmI3dkh0VFJXaUdxVDc4Wkd5NEJ6WVBCREs5RGl2NVI0NGNrdHE3RU5Gam1PdFc3eEdIM094SWM0dm95N2tlVnBCcEpCa25VWmlEeVkwVDFRdVRNMzAyb1l0eFZFUg?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T17:48:00+00:00",
+    "s": "Variety",
+    "t": "Russell Brand Pubic Hair Removed From London Museum After Conivction",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFFiNU9ZV0RzVTNWWFlBSTV4U1M4eVpBVVgzREtnWi01S3d4Smw0VWFBQzY3RW9sbHR2Q0JCWUZ3b0IzZE1EeHRaNWhKSkFTYXJIUFRJT2poY0s4cVJrWEJickc0dHJlQ2NqT1hleWZfUVJoVzE4b1A2UzJhY1h0TmFqLTZ3Nm96MFlRekg1SnJETEkxV1A1eE5hU0s?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T15:01:00+00:00",
+    "s": "USA Today",
+    "t": "Princess Kate speaks out on her cancer recovery in new interview",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM05wT2V3QnVacVlZdW1LMGxVdFRsN3BzVjJwYk5YWF9qa3I3RGd6YnRqT0RWWlJFdHN4UlVEeU1WMnBmbTZ4cHJnaVJqaUdMUmRLdk10WUhLWHpHVEV5MTZ6ajhuMm5Tc0dDQlVvZnFhQUtWbkktQkE2Nm45T25naGJDa24wTnFQNXVSSm80LThZemdKZm9xVExwSExXTjZzMVJnaXJuelJNQ0YtMVkwMDk4dVQwLW9ub2h4Rl9sai1aeXc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T00:07:44+00:00",
+    "s": "Rolling Stone",
+    "t": "Sade Are Not Attending Rock & Roll Hall of Fame Induction Ceremony",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGxkTWdZLW5Ib3VYZnM0cmpvbXVScW9lZldxckpDNVFkMkZKZjk1TkhYZy04Y0NzZkdIaUtOU0RSRVVTdEJXcFhOd1RraVNJZHRINHJDbzlyODUzOTBMWWlNbHFERXFqc1RLVmdaRGhZQ0s5QVo2bXFGUjd5LWtIVmVUOVhVTUU0OHJ4N0U1dmk3RzNEdTlJVXJmTldKdWdzTmZKNU1TOWVsVXdkZGpncnFKVnVGZw?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T16:46:00+00:00",
+    "s": "The Guardian",
+    "t": "Does M John Harrison\u2019s Booker win mean science fiction is finally accepted by a \u2018snobby\u2019 literary establishment?",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjk4VnVaSGRJTDRWTy15blE2VWRlSnBoM1RGM2hhVGQ3M2M0VHJlUGFfbkpOYjdkaUt3UVFsVTVhY0VYdEp0VXNuNE9INzJENThQTXM1QTM4YUFaNGNsMWlLYzY1MUI1cnVqRi1hZ1VaVFBXRW9xMFYzTEpxMGFMelRsbG40bTNwNjNzcg?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T16:00:05+00:00",
+    "s": "NPR",
+    "t": "Actor Stacy Keach, who played a private eye and plenty more, dies at 85",
+    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MekxqbHdTM2Z3c2VEa0FfbnVWLWJCc3ozMGlNMlROYy1ncldkNlJPZ002UTd3U1NDX3JibHZBdXg4am56QjZKSV9GQ294a2Nkcll2TmltaFlBbnNYcUVkODRkdDNIMlVY?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T10:35:00+00:00",
+    "s": "PennLive.com",
+    "t": "Reality TV star reveals heartbreaking reason she filed for divorce while pregnant",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT1drQmlwcWUzZFV2Q3AyR1NEQVA5TkVZR3hhSVVEYVhRSnFWQUxacmd4THZaNlUzQ0ZiS3hTRHJSUVhBTXhUR1lDYk5fUWRsX1hCNkZocWtxRU5vRTZiNFRtQjE1QklNSFY4SzJWdTB4bmIyQ0EzNkRFQ2lBZi12bnFmNWhoUzBPUlpsR0NCdGt1bGx4WEFIdXcxQzlNM3UyTEEyOU9mYXVvUkFwLXhITzUzaFpOb3djY2tmcGpSYkkxclNobWpEa0ZtVjQzZ9IB4gFBVV95cUxQRnJRNGVMamN0dERKRlM2Y2J0UTFFZVVmZG9kZFpTaXU0X1lCdndqM1kzbzFXemtNTkQxOUU0NDhpVUZTeDYwOHlnQjdISUVPRnlQN2xDZk5HUkt6UlgzUDJKUUNaVEpUQTJYSkI3VTVLRDZHT2F5cl9ya2FmOWNJRXdKc05oNjNnM0FQX2JPSE1YXzhnRlVpdFI4M0VwVnV6ODJzMkNNZ2FQZy1lcVpBei1EMXFEcmlGUklTWWtxdGhxUXBTUEo2U255Rkhsc05TbWs1QlUtbV9kM2l2Y09EVWxR?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T06:32:20+00:00",
+    "s": "The Hollywood Reporter",
+    "t": "Next Gen 2026: 35 Rising Hollywood Executives Under 35",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUUlMS25XSHdGMGNlUEpFZC1hckVMaktUbm1FOTJLekFIOFMzTnpqU3hpbWNWMGJSdFRSVkhxRWt1ci1WaFZQY2tYbUlKdGhQYUFtbzB5X3hLbVJwM0l0Nkg5ZXdaNS1ydGRyYXFlWTFpNjVJVDVBeWUzdy0zcTlmUU0ybWxLb3dKWmc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T10:00:42+00:00",
+    "s": "The Cut",
+    "t": "Your Daily Horoscope by Madame Clairevoyant: November 11, 2026",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVRyLU9UZkRpMF9rQ3pfSDZLR3BJQ1E3blhYVFFlaUx5TUVDMDJHWmw4S1ZUbm5lYXU1am41aDZwRE5NZWY1Q2JsMFdSNnNIZHEtWDJUSVBjaGt0WkVMVXQ3Z3VsVE1KWjA5d0FiNWdUZjhaZnhKdlUxSDctM3ZBaC1sdnNBaG4xbk1Rb0p5eUZYcW5IX1ZF?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T23:53:00+00:00",
+    "s": "USA Today",
+    "t": "'Lilo & Stitch' star Daveigh Chase's final days before death: AIDS, drugs revealed",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFJjcnNaN1BEZVVpMzVlT05IdEJlWEJUZXN6TmdRSXpRV21Nb2hlUzR4QU9hcS1oU0VpaEZRVTZod29JWS1BR3lVR3IwTFQxNjdKd0pfZ2JudFJieFJwbmF6U2R2SHFXcDNlSjdyS1FOVVpIVTBHdHFhRDZpRUZFR3NJMEpxcEcxVDRsY0c1THJ5RVFTVEtmajZRa0xsLUZnMkUtLVdzM2oxQm1ScEpxUU1kblExZFVKckw0T0RTcTZrTXp6TXZhcDZ4QQ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T14:31:00+00:00",
+    "s": "Page Six",
+    "t": "Usher and Chris Brown cancel two more concerts as feud rumors swirl",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa3hLZk1sSWpEMjN6ajM0STZIU255eFBvZk56eUd4V3NKemN6bjR3bUtPMURRLUZPcEJNMk9TaW11RFFaVUpBRUM3aFZyN1hRZk90V1pPenRuZjVzSW50ZmhidHVGNmR4RGNGdGIwUVBldFI4SVRISk5sYk02SDVhU1pWTVR6dDhkTEFFaER1WUFqR01vYk45b2NERzZtb0gycVJfdTg1bW1wVGhhcWZVakwySQ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T04:43:00+00:00",
+    "s": "Deadline",
+    "t": "\u2018VisionQuest\u2019 Teases Surprise \u2018Avengers: Doomsday\u2019 Character Return In Post-Credits Scene",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHNpR3FwNGRHbmpVTDRUTWxJdy01X2VIUHJEMmE5djJiMHNOWDZoMFl0THVDVFZGLWxHSXFpcFVjM1hOaFI4RnhTbmQxR1FtZWVCZWwtai0tMFNoN0h4cmFXSFlVd2d1Z0lVWm5mbzBrdG1tRnRPc3V4Rmg3cGNwNG1MMHNRemx5TTlWR0Vrc3oxR2dnbUl5TjViLVI0c2pxdi1SUVZ2MVJKQQ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T15:52:17+00:00",
+    "s": "NBC News",
+    "t": "Antonio Sab\u00e0to Jr. and Virginia Madsen\u2019s son arrested in connection with a fatal hit-and-run in Alaska",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGlXTzktQTBNUkhCLVVJTjhvTTU4WFkyeFJOOG9MNUt1aVk4MUV5dnJ0RnQ1amxRTWdEWGxrSXZyejNQaVlFaWFscExMeXBNUzRiZW5ZZ3Z6U0JiSFFMVS1FbEdRUW1oOUpFWGswWThkcy1veVZnV0kyZWE5TWQ4X1loY2JKVjFnaWpkYS10b3RiLVRZRHpTbTJERGFiVFdKR2tXRWNPZkZfQk1JR2xNUmcxUUc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T17:48:42+00:00",
+    "s": "Entertainment Weekly",
+    "t": "\u2018The Body\u2019 creator says new series applies \u2018the intensity and ritual of religion to girlhood\u2019",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWGh0Ujc5Yl9UWXo0b0dibm5SODl6Y3psZldaa3VMSzhXbUxyTWJSWHdJRm9kS1JMdWZDbmtGOWEzbVFES0J4eHlQLVVremJEdjdFb3c5NFV4S2hNczg1Si04eEtia0NEbVZXaFJDY0U?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T18:00:00+00:00",
+    "s": "Deadline",
+    "t": "Karla Souza To Star In \u2018Grey\u2019s Anatomy\u2019 Texas Spinoff",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3BBc0dXNjlBWVVfeTlKTzJReWZGR1RvcXl0SXVkVllaVGV6ZXZveVhCalJmaWlsR3lOajQwY3lIYi1tWFdnZG15UllGVnZld21BZ2JmZ181OTVLLVlJeUpiSnlwdXcyM2ZGWGhQRlJJcUd5VTFBakZUZkJUTGhraXItWTlUeFFiMjhZVkUtTQ?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T07:18:15+00:00",
+    "s": "TheWrap",
+    "t": "David Zaslav Torched for Praising James Gunn After DC Firing: \u2018This Is Your Fault\u2019",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMTJoY2N1VnZ2U0UwcnpoTkZ4LXlTOUE4Qm9XeDlYWHNVZFlsenJaRVY0bkdYNXRsdHBUVUhLYk53cWNVM2MyMGV6WV82bUU2T3p3c2NzeWZtUGE5T1BCM0FjMHg0YXpha0IwbS1TYTg0aFE3TTNISWJRVVYyU0F0TFBsVmdHWWlGMFBydzhTQXNRRmM?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T17:30:00+00:00",
+    "s": "E! News",
+    "t": "How Kelly Clarkson Is Helping Daughter River Rose, 12, Navigate \"Hard\" Junior High Years",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTB6TW5FV3MtNFgwVjdDMWItS19sVi1Ub1RYazd0SEF5VEtqQy1hd0VadWx6cG0zeEtHNTR1Vl9aeGhpUXhzVkU1UlZwVGVjSlMxNHJzZnJLZkZWWmdMMl9fYm9FUnRKNWJScVJpTmZlcExUaDBRVmpqNmpjNE1FS1lNRDRpWUpnUEsyUlAzZGFSYjI5WVRpaXBDR3ZyWW1TQ19OMTM4eTN0UTlB?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T19:45:00+00:00",
+    "s": "Deadline",
+    "t": "'The Lord Of The Rings: The Rings Of Power' Season 3 Red Carpet Photos: Jamie Campbell Bower, Morfydd Clark, Charlie Vickers & More",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnJXWXIwQXAxYnhYVlVhTno5NWFXdjdNVEc0T1BNb3pZQUo1OGtxWTYwZGpBb0tSQzgwNGJYeVJndmdQQUtPdjNUdWRsd2FCOEFPNkVTV3FienhDMXN1NmxzVm8wVnp5SjVnbTB4cVRlRlpwSHpDUjFhckJvNHp6dU5Dbk5UMm13QWg0TTVObjZpLVQ3OG1yc3RSUGVyTGR2SW81SlhUOHdFMTNHNkE?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T14:53:22+00:00",
+    "s": "Forbes",
+    "t": "\u2018Lanterns\u2019 Season 2 Cancellation Confirmed False, For Now",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE8xSlUwaHFCeGpMNVMzeXQ5NG5qV1VBVE1KZXJVcXJ1Vmk1VkVLbWpPQXVUZUhaSDd2QmsxU2RfaHdITUdYWkN3ZHk1LXVCOGFfcllGSzVUOFFvcUVfZGdGMmR1ZVo4RE1NZWNtQlZtS3dJMldnLWRfaTVBS2RUNjZXSWNzYmVRVGVjb09EZHFjaGlkc0h0U0ZjY1BocllrdDh6UXJQVUM?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T18:32:49+00:00",
+    "s": "WFAA",
+    "t": "Actress Irma P Hall, known for playing Big Mama Jo in Soul Food, dies at 91",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTBFamUwUHp6Z1BQazd3aEpVakZ3LVEtNlFkZmI0X19yQ09TTzhOdlB3d0ZwNEh1VEZMbTAyaV9FeENNS0htdUpJQVVxU1E0UFNoYXM0Y1JfRUFlSGZHVFphZDZLaE5tdWNyemg3ZDhVTHhvOVhUVDZ3ZW53SEZKRHlLTlNQSFhpZkZ3NVA5U1JZRlViWmY2aldFVmE4bVdfdWxIUlVYV0c1dnlJUU9BRzNHd1Y0QU4tVzVTWmRoZmRFczQ5WXBNaw?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T16:00:02+00:00",
+    "s": "MovieWeb",
+    "t": "After 55 Years, Warner Bros. Officially Confirms 4K Release for Banned Masterpiece",
+    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wa19ScUp4VG5nUEdhQV9CZVE0ZUh3SnZIeU1yaHRZb2M3MVJhS01WZ0pfUGg0elMzbGFvdjYzWFpQRnplZXROeWliQ1lCSTJHMDVZTDJCM3lmdWM?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T16:11:00+00:00",
+    "s": "Variety",
+    "t": "Sofia Franklyn on \u2018Call Her Daddy,\u2019 Alex Cooper and Hopes for a Scripted Adaptation of Her Memoir: \u2018I Spent the First Few Years Very Scared. Now I\u2019m Good\u2019",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVqVnAxNmxsYkJGLVlWNV84Nl9MTDBsWHVCTFRQaGprd0c3dmNkbHpBdkpMNHliaVRQN2Rtd1FSMkhkam1LbGo2ZWZOUWQydnhZdTVlUEtNY1JYS3pybXJuZGZ3bjFMU0VwNHNnY3ZlZm9xZVh0bHdpZHJKc00tZjdpRXBDWFRSczh1QkJTUklCVFVuR2VQazR3WFUyOGI4cWpjelJLcWdaZw?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T16:00:00+00:00",
+    "s": "Variety",
+    "t": "Druski Brings \u2018SNL\u2019 5.6 Million Viewers, Its Biggest Audience in Two Years",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5reVA5ams0R3NyWFYxd3ZJSlpyVFRiYlJTU2F4di1vX2U3VDlZNndENUlPdVFFa0Z0NUNhUExoZ09TZ3RXcXkwUDFlUVUydnlnSHE2WUpubmRZTkF5cDJmR3pGWjhVYkRXZUVLM2xZZXZGVDJhTkpQOEE1OA?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T06:54:01+00:00",
+    "s": "Financial Times",
+    "t": "Latest Godzilla release sets box office records for Japanese film",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGc3NnNCbjRhTlp0RE9ZRkVMX2k3d1hLdDBuY2RNT3VlR19EN0VIYTBVUFFHQ0oxam1Tbk5XOVRHMEl4cnk3SV9JSlFQQjZNWW1zbWVHcnk0Nm1QU0VsLUJjeWFjYnUwYmhRb1h2WkJLcS1rc0tFd1k0UkZlQWtGd0gxTHM?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T07:30:58+00:00",
+    "s": "BBC",
+    "t": "Prince George's art features in magazine edited by Prince William",
+    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YdlR4QjdMZW9GbndBTnkwSTEzaV9teTRVb3dvbktnc0I4YTdXb09VZmN0NmVPbnFqNW1mYWE0NklXX1A3cUEzOWVlV0M2cWVvUHBVX05PRkNGelU?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T02:26:12+00:00",
+    "s": "FOX 8 News",
+    "t": "New landscaping changes at Taylor Swift, Travis Kelce\u2019s local mansion draw controversy",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWFGckE3Mmsyai1qMUMzaEVZbEpzdFFMcUEzSEpvRC1OMEZQMmZiTld6eVJaVl9fU1hZS2hmRHhZNy1HS0RZS0JuY0l0VHhFU1FhVEZCLUpsWk10ME04VjI1cjhXQVZwQ2Q2WUZTekJpRUxqMTR4endsVkZFcng4T1A1V1ZqVUtfQ3RsdU9NMzd5MVl6eGRSMWp0TVFBeHFad1dsTWFod3dTREnSAbABQVVfeXFMTkJpZVhBaGhQclpTb1BvUld5MDhWems2LU04eVpjdjRpRkNQeWo1cnNrWHVQVlZ1RllMb3VJYkc0elBFOGUyY1drc19udVlnVE9pZXVoU24zYmpJRHFENUVndkhzMFUxYkw4bU8zcWdERjZXM0h2SzFoYWNTNmFLRnpVYy1JWkt3c3M4ODlQZk5ZT2E2TDQ5SnZUVzJpWnd2MExxaElSNHAtNVNVSnE0dVc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T17:46:25+00:00",
+    "s": "NPR",
+    "t": "Americans across the economic spectrum feel a 'panic' about finances, author says",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1icnlTZm4xNnZocnNmWGtwZGR3YkRGOFhBUkFLd3RjQk9OUGdIa3JSS1RGNWJmQjhUaF9EWWxJUXlpcW10RFBuSUc1YlkwSmZpRmJqQWw0cnBFTXB6YjRqNlRUTXBRUFRGWW9pdHBfWHppb3JoSWc?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-11T06:47:00+00:00",
+    "s": "The Independent",
+    "t": "Johnny Depp mounts controversial mainstream comeback with Ebenezer as first reactions drop",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2NjRXExQUh2Zjc5V0xac2MyOTdqLVF1amI4Q0txaUJUbDAzdHY2Q05jVHd5b3RkRDN1WFhmM2FZNmNmYUdNVVhDZk9EdVlRVnR0bXU5WHB1ZEpOaFU4OWZfdTBtOFo0UmNEMFJrOURHQWtBQmxPQ2I2ZWZUWkxDQktJQTZXUjRIZTBURUdmMncxYkVyMTRfckJncjJBVkd2N3hrRTZTQlBoR29LSWlCVWlHZllUM1hIUUtBcm9wVUkwWmszeEswag?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T13:37:00+00:00",
+    "s": "Billboard",
+    "t": "Jordan Fisher Will Step Into Prince\u2019s Shoes (And Strap On A Guitar) For \u2018Purple Rain\u2019 On Broadway",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSC1yQUZ1dmN4TS1naVFBRnhxNnFiVlI0RW9wbU1NUUtza0RhcXIxVHdlTDVER3NHdC0xX2xNbVc1dFNJdHlyNjFWYTM4MzFHSXBQdHR3OWFtbFZIT2wtMG0tdFNqT1ZPRE9LejdwMlZmUThzcUtfZjdIRGRqSFZoT3VwRnNIZGdSTGxDTmFNcnFkaktuSXJxc29URzcwbEZP?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T15:47:00+00:00",
+    "s": "USA Today",
+    "t": "Russell Brand, Katy Perry video resurfaces, sparking concern after conviction",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNclQ2RUxfUkNpSjJfU2dGUHFybHM4WE5ZR0gybWtla2doaW1KYnY0eXlXNU5mdFhtbkk5XzJCS3JqLVBIQmEzd0lpcWY1OWRsbkdmZU5lZWRvcU9POGtUTjlXTlR4X0tlNU5wM0VteVEtNHpJT2phbDYxczF3NjhKVXRPWnJYMlBoaU1KYjhOVmFWZ1F3QWtMdE1ieUJ3WXA0Wk9HS2U4TkU2eENxekZpNHlPcUg1OVBrcmpXTDh3?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T18:46:00+00:00",
+    "s": "Variety",
+    "t": "\u2018You\u2019ve Got Mail\u2019 Reboot in the Works at Warner Bros.",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnBkYjlkS21GTnpaY0NDbHJXdm9LVzNhdHNranpfbjJHcU1zMUkyc3Vpb2JHRnVra2dYMy1FbHNHbUZ2TnFERWJINEtUUmlpXzdoLWFoT3dtNUFfT0pCTmtvN2ZYWjBSekhtYTJXbjg2R2ppTWNrMTQ2ZW5ZbDJCUFZiVnVwa2M?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T14:22:00+00:00",
+    "s": "CBS News",
+    "t": "Harry and Meghan make first appearance since her estranged father's arrest over child sex abuse images",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOC1vVWxwb2xDNUxGeTVqVUZpemZrZndjb1ZfMzRROGVXTkUyQ3NsQ0dNZU41ZzFrWjI0ckFheC01aXJrdHg0SVdEOTZGQ2phQlphYzFrM2VzUlFfYkt3ZEZzakJZSU94MU1jZ3ZLbW5ITm5qbGFpZTJRaURkaTlrSXI2MmVENGYxMUxzb0xaZnJDN0Y3NjM1QzNDUmM?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T14:23:00+00:00",
+    "s": "WSJ",
+    "t": "Maybelline Redefines \u2018Maybe\u2019 in a Refresh of Its Classic Catchphrase",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmpwaGxrSjMtb1NHMW1HaUZ6dXJLYVVJMVpodWFfRnhvQncxX2RDVVN2Y2UtUnlPSEVRNmdpRHhhMlFzRFF3TXpPRlI2RXJqOTlTSmVuSUNCejN5MkdRbld1Q3Z2OFF4ZUdHZTNXNmpVZ0hjOS1JQV9EREVCYTJLcUROdFB0dzVvSURfaHFVMlV1WnVtRG1KMmhLTFRqMzdZS3Uwenk2SjE?oc=5"
+   },
+   {
+    "f": "entertainment",
+    "p": "2026-11-10T19:36:00+00:00",
+    "s": "Page Six",
+    "t": "Jenny McCarthy's health struggles pushed her to nervous breakdown",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWklRb2pKbHhRUnFiRi1wRUNjWVlHZnBxS28tYXBpUlVCM294S0ZUVW51ckVPbmQ0TE0xRW1nZ0cwSERzejVYMkdJSFZBQ3NnWkxBMFFhN1VkaGpqdXV0Wm5zTjU4Y2JWMW93REJmS08yNWJpTGtwdDB1U0E5a2J4SUdkcjYyakh1cDZzMDljVEVUZGlGdHE3c1JnOVlNejlzUE1IYlhoRGpBMmlTN1R3eQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T14:08:00+00:00",
+    "s": "Politico",
+    "t": "White House threatens criminal investigation into Democrats\u2019 oversight efforts",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDNIeFZyS0ItTDhWSVk1bXdLNGVPSWtBVzMtbm1tc19rX0lsYTNNdUtSSk9FRXc1Yy1Rd1VGcjVvUEdXdDc1cGRXdjUtXzFWYmtaeE14TjJmcy12YTRTeHgyYnc5OXBCRnhvOE5wNXpsYVZQQWNrNGtPc2syTVFWckFqOHBiMmdvOFBZc21qNV9kZEFCenhvdDRiZHdHNHlTaEE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T12:55:00+00:00",
+    "s": "The Hill",
+    "t": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXdKZjQyM2FpSnAyOENLWVhESnU3Y1pMWDlyNnVYQUswSjdldG82Wk5pTThaWVRHWVpRNG9EQndwdVdiUnh5YnZPSldBQkQwLTdHbnVMVlBIZUpTVldyVVFHOFJFRXVkaHE0NmJJRmRHdWpkRUtJU1RDeTBGQ1VScXRBc1Z0OURNcFBiaEpuQko1a1FHdzRNVVhEV2FRVnFFYmlsVHNKcjdRZ9IBrwFBVV95cUxPYVBzcm9Sd1JMc1B0azhlbWRCdWdGbEg0VEdXbmNTaHBla0NDVTlGcFcwa2ZPRU9SM3ZhVzMyZDF6blVuN0hHbXQ5MTN6X1ZBdVdJSFM2REJBc0xvYXEzYUNjcUhPTnV2eHpYUlRib0F1NW1QeVh3SWpNVnpGTjg5RWJGNkVoMEN1R1RoSXlrOThEdW1IM05EMTl5OURsalhUUDBiRzdNNGpDeFR5QUtv?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T12:21:59+00:00",
+    "s": "NPR",
+    "t": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGhlVThwT2hMM1VuY2FNM21GbFloXzRZYWNYeDRJVG5ZTkRuLTVfRW9pMElCNzVpOXQzOWtETXN3ck9xZWVZaWRSQ0JQWXBiblRnNlJNb2pnbWdCOGphYUhsb3RzOHF1aXZFODZ2WFJLZldEaVItUktER3FCdEdnTUV3ZG9RczIyUUljQWxuV05iQ0dTR2w0QXFkLTFLeHI2bzQ0ajlXZkNGelhkamRtUHln?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T09:27:00+00:00",
+    "s": "NBC News",
+    "t": "3 dead, 3 critically injured after vehicle smashes into pedestrians in Los Angeles",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0dUSlVUZVJOSEpEOWVaeFQyWTZiMU5GdnhXM1dGb0pFc3RCcmJYU1RJcFFWMGZRcE9EY3ZhV0Nid3dsODFIZkVPM2pCTFBnSHg4b2ZWRVh3b2N2TE5ta2psYXp6R2w4aXF6R1ZPdzBvVDd6a1NYNDF2ZTlVdTVJUVhpZmNyaUh1TEF6bGVGb2lJRk5qMGZmU0ZOSDY0RkpTZzJpVHFHVlIxdDNFc0dTTFF0QWRiUQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T10:03:55+00:00",
+    "s": "The New York Times",
+    "t": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbW1pbGhFa1BtUVJRR3ZES2dXZzllanJ3enR0VDRnajYyX1NQREVPMjlPa0h5REFxTkV5bXdRVWMtLXRHQkE1Tzdlbm1PeTRTdDk5ZGVoR3Z6d1paRUFlS18zaVBLQTJQUXRVa3l5UUNQdmhKMC1KeHNVT0FtS0toekhHQ0NYMzZE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T14:19:42+00:00",
+    "s": "NPR",
+    "t": "Following big Democratic wins, these swing voters are looking for results",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWtKeV9KbUhuR21zNUxrRXRYZG16eENOa0wtZDZNMTh3ZjBSeE1JTC1UMlRBNEhrZ2VJVW53NTRqNEpSd1lZT3RKVXgwYW5ENlN1Vkw0Ml8yY18tZGE1bU15dEZ3RXJQNVBKMW1MdkhlSWh1WWh6Q0ZUM1FpUHFhV1o4UTZUOW5abUhIeXFYQXNlT1E?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T11:54:00+00:00",
+    "s": "AP News",
+    "t": "Sanders won\u2019t support Schumer for Senate Democratic leader, Hegseth impeachment effort blocked by GOP",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GWDRUZGRSX05ZVmdtMTAxeHYzZmpZMXcwek51d3pJal9KTldSb2FjUkhGM3hnbTJselJSdzI4VjlVVWZzNkE3X0d2MER5aExTREZmSy1Qblp0SHpxaVdZZTF2SlZqbnY3c3Fz?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T15:24:19+00:00",
+    "s": "The New York Times",
+    "t": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHg4SG1YVGVmd216dVkydUxNRERxZjZTOHdORS16MldQUzBrXzl0Z3RmZ0VJeVplWFBZdlZUbExVSHBlSGt3VUtmUll4TzZoaGhRY3p6RzJocXVZVU1iSzk2R2VaY3NoUzBPQTVsTGtjemRLUFcwbmQ1S1hlRWlVMHNhQmtSaDAwQXlETjZrNmFLWVJjUHJXN202cDU3ZE5ZS0ww?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:10:57+00:00",
+    "s": "BBC",
+    "t": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xLWVocWgyeHdkV2kycV9lckFna0lUaXpDYkYzaEtxdEM3bnlUcnVobDV4OGZMN2Y0OXJFU2FQbXRsZ1IwbkhVcy0weTB3U1Q4a1FFNlByT1R2R0U?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:50:00+00:00",
+    "s": "6abc Philadelphia",
+    "t": "SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2dqbjNScGZtYXF0TFpWM3JHRzcxRU56NmczZ2F4bjJfYjlVRUx5UUFLcy1kZVFmRkVoUGVyQ3pqckd4eG9JUElBMUtjMHhnRzZkUWRCeVc4TkRjd3pnU29YWUw2TzFiT3gyZmhLd1dhcG5oTUFXamthOHczS0hqY3dYUG4tdTRsTFZkTWk4ejhKSHByNGZBZWgwZDhZcU0xU3RCOURJQVE2UFU5ajhtYThZdDZPUUVoTS1uRk5FWjA5anU2ek9oS0NEQVNRYjhTSUlNeGFsd1pEbmpNZkE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T19:13:17+00:00",
+    "s": "The Washington Post",
+    "t": "Russia and Ukraine agree to prisoner swap, but little else, in U.S.-mediated talks",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW1yX1RiU1k5UTZEa1lkZDMyX3A2SGNLZlZQRnY4N0dLSWM2SU9CRF9ua0xjV05ST0xHbGM5NExMVndLS240b01MQmVfeEJDNFY4WDh5Q3l3VDk0Z2hKaW1lLXlGX2dfNlZzSmp2TWV2cTU3ZUVZUV9aTFYtLWtFcmtzQm5xRXBJY0pORnV2cTd3VDhLX0lNdDZVQkZ1b3RvaWpTMWJBc04yVlhaRW96c3Etcw?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:45:00+00:00",
+    "s": "DW.com",
+    "t": "Spain: Housing crisis prompts first general strike in 14 years",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3JNcG9Uai1tWGVqMXQtQ09nU3RocURkRS1KMUlGLTZELS1KcXBPb19ndFFNTGN5LUhDREpaeW9RREVTTUM3czY1dFdiNUc3UXZpamx2b0J2djBRUVVSY21lZWxEcV93eGNkRHk1TjhRUDhIcXRhSkVNM1pNNGhqSERB0gGCAUFVX3lxTE5MZ2hES0lQbnlpN0NxLVNmMzBMblRHZ0pZWVhPZURaZ3Brb1B4VWVjcXVvZEZxTHVuazR2akNIRUpTSUJqbzNvd1lRYjlQcHRyelNDOVdTLWlORk8xQVpDSWk3UUlpQ1JlbGZjYlV3d245TEVYZHltUnZyb1JnQ280TVE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:03:00+00:00",
+    "s": "CBS News",
+    "t": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JdnI2N05uOHdtZFhtb0U3MGN6bEhNN05QbE85RV81UGRMenBqY04tWXhLU1MxRzR6NWxZOUx5cnNzYmRwRFEwRWJnbi1Cc0JpMUt2aW53VEpWOFA0cEptN2xLLVB6S1RxNDlydWs5MGsySnprakktTlkwUmxqODQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T17:22:00+00:00",
+    "s": "The New York Times",
+    "t": "Hundreds of Schools in Italy Are Evacuated as More Bomb Threats Rattle Europe",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHJyYmpzdkRWbjlkQzEzRVdEc3Vyb3Z3QkExbkZVbk02Sm1GMmxuMjVhbi1pdUd4M3I0QUJVM2wydmVTQWxQRERPZDhhOTEzOUhsMTNGRldpWXhmd3VOQnpxM3RveGZYM0JMV3Vxb00xSjlqamlTT0lfRmFER3h4N1lGQTRtQnNjXzhSckFxQVAtQQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T15:30:00+00:00",
+    "s": "WIRED",
+    "t": "China\u2019s Nvidia Honeypot Isn\u2019t Surprising. Jensen Huang Fell for It Anyway",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUwzR3hHeGVnOFQ5VVM4REFwdWpQUmEyaURtU3dnaTBDNDZYeGZiT08wTnZOdXZJUEZ5Z2YzeFZCUVJxanZUdHY5dTlZcllHamp4QTkxWjlWQnQ5eEdHNWdlU084aEgwbXp0c1lnbEZqOHFiRTgyUHpjUzVKbnY1eFV6TXVIM3FOR2Vhc3BWUGJxbnBoMml1Zl9HckJvU293?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:38:00+00:00",
+    "s": "WSJ",
+    "t": "Stock Market Today: Nasdaq Jumps at Open After CoreWeave Earnings \u2014 Live Updates",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Yahoo Finance",
+    "t": "What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklINDJpWmJ3ZTVfalJjaEFkb2FhRHFZWk9UbG9FbkF1RjFFOG9FVnZ5aVVfUzgyUGtjdmdoZXp2NkVxbHJsNWJ5d2g1OFR3Vmt4bm1qaU15Vi1hT3ltbkt2RFZCQ3lIaHNKTmJyQi1abWtvQXBvcDkwNi1PRlRVdGJ3dkJMV3phUkQyQUpTRzVfUmRwaXRNZmZiV1VnNk01cm5NYnhqU0xtOElMOXRlSUwzYjhyNjRzaHRXNS1Vdzk1dU5oSzFPUTVLMkpXYjBBWjlTcQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T17:16:17+00:00",
+    "s": "The New York Times",
+    "t": "Average U.S. Heating Costs Will Rise 7% This Winter",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FEbGRuaEtlOURrcHk4czNlQ29UVFdJWFFqUDJ4TFl0NmphNlJ1R3J2UHZqMzJsQVFxOWNhSnpBNUdRUmsteE5yNkw4VGZrRlBLdnpZSnpERXZtX2wzWDg3dHgwVnI0YWRXc3JQU09nUTZjNTBBYUNCUkJyYUVySTRUbUp5SjBjUFBrcl8zZUNYMzc2MXRn?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T15:22:43+00:00",
+    "s": "Forbes",
+    "t": "\u2018GTA 6\u2019 Pre-Loads Are Slowing Down The Internet, Warns ISP",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T17:37:32+00:00",
+    "s": "Ars Technica",
+    "t": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0c1SDBXdGlNei1qSTJESXA5c0dMZlNiSUNablBEV3dGUm9QdVVFLVhtZm03YjA4a3RzU2xFdklxSUlKaC10UnBfYk0wQmdXcGFzZkNrUWRzeHY5QWNoeExsb09CWm4tWk5qczRQVzlNNmpKaFR4dUNIYzFHVmFyY2NXbHVpMzNkZVZEbl9fY0VWeS10YVdYeTItSmJlSm1tdzdwRHg4TWtXcTkwOUJXWWJvWkNPZndNakE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T12:19:10+00:00",
+    "s": "The Verge",
+    "t": "Apple is killing its Support Community forum next week",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZm16UkFwNS1NR2tkZmtPdFVLV0RORzBZcmxfMDdFV1hYYWF1ZWF6dGZ2RzVNdXRGYW5oeXdZUWd0QmNQem9YaURPOXRzVklIYWdIRVNlemlQbEJQaXlNMDIwcVNJdWZGZnBxN2s0dHhUdFdRekFYTk9pRC00ZWNTWWltYmVqYUhQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-10T14:05:10+00:00",
+    "s": "TechCrunch",
+    "t": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk1iWnBiRk80V2l2bE5vdnVQYVU5LUdUdUhaMHFVdU90czRPZ3RoWnBhLWlVeVNXdzlFX2EtaWtPSnUteU1CQ2pBZHJsWlNIZWZMNV9idjh5VmxZZ2huaV9UWFVNQXJhRUlWMjJJQW9GY3A3RTlReDhzNEdlVTRFQ3h1MHFDa1ZVOG5XQTZGMmM4UTA?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:41:19+00:00",
+    "s": "Rolling Stone",
+    "t": "Coachella 2027 Lineup Takeaways: Madonna's Special Spot, Indie Surprises, and... No Drake?",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmVuQmZHbnJnVTR6amkzYXVoYmllbWhsYnZhMVduakRQelo3WjhScmV2RDAtQUlpa3RMVmJyRGNLNG1iUzlwa3dhYWs5WGV5ckN4azEyajZzTWs4TDdxS0lmajh1aGQ3S183QWNQckhuQXZjaEZZODUzQmVyblNHVVFrV3BZcFlNQXdfdUoyOFFVOTFuMEN5M1V5RHptY2lEaDAxZm0yTjctNE0zT2ZiSFJB?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T07:17:23+00:00",
+    "s": "The Washington Post",
+    "t": "Meghan Markle\u2019s estranged father jailed after allegedly removing ankle monitor",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjdNcmhhbmhncllDc0o2c3hfMnU3cElaSS1rOGRMQlcydG1hQnpCTnBobWRPeUwydTFUY2lOaV9xSm5IbWluTVQzV1Q0QjhIV1BQWUpGdC0tcF93c2dIeHZKNFRrNUJJNndOZUNJWC1XVlJIclVHYWg3Z3VvQjVHUmpCeEt5d1dNaTVETnFaZkpYQmxwVjluUnQxWXRkMk8wNHRIRl9KUlFWSkxQamxzd0JrZHdSbUJhZW9GU21WQnFMMlNDUXc?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T14:51:00+00:00",
+    "s": "TV Insider",
+    "t": "\u2018Dancing With the Stars\u2019: Jenna Dewan Addresses \u2018Online Noise\u2019 After Elimination",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVhzaF9iUUsyTWRvTVpQWkNaRFNFQ2dvaThWS1ZWMEpEczNtXzM4MDJoeml0UXIxQU1vQTB1NmZGS2ZjYXNaTXdBM1RrSU8tMklOcTJRNnA5cG01NXdaNk1LWnNnQV9oMjZxT0hMZUtuVEc3U0p4NW5CNDgzQk9VanpMNEd4QkRCaVNZMnpzX1lZRnduMUNhQURoUXdMNWxuRmh0ajdXbFlqdm9tY01pLQ?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:24:08+00:00",
+    "s": "BBC",
+    "t": "Author says there were 'real concerns' about David Walliams within publishing industry",
+    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fY25yVzB3RW1lRUR1eVJvbmVTalVfQm8xSEVleEdjdDROXzZlYnJXdENqaDBKcjNSY0M1WmNIaWR4THY0VUJHd1ZxeDJSaXk0a29XUGpIYjV4TjA?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:11:35+00:00",
+    "s": "Yahoo Sports",
+    "t": "NFL news, live updates: Browns to start Deshaun Watson in Week 10; Vikings trade for QB Kirk Cousins",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGdKczhRTlRUUFZFdGVtU0tZSHl3S2tlbjJ1YTc2bXZEU2NPWGF3T215dVpoT2VrN19kREhFWWQ2bklPQUJkeUVwdWZ6THprY3lTSXN5amk2b3kxSU50MHZvNjJjSWE0RjJnNXE3TC1HOXUyazRZNjZEaDBFcnJmbkhrdzR6OGc?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T13:23:04+00:00",
+    "s": "The New York Times",
+    "t": "NFL trade deadline winners, losers: Vikings find QB, Jags go all-in, Jonathan Taylor stranded - The Athletic",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHlVempKcDl2SlMyUUNiLUZEcmdwWVc5WC1zcHcwZWxLdlhmamsxaTNrYkZ0NXJvMEpsTXF5QXRpV056MUtjZUFqZDNvYURBdzI4aF9LNENtbnBabGxqalVBbVNzcG5PajZsQ1V3aEY1WV9tSkRpVTNTaWNfVGVRZHZqcUk2SkVOWXFKZHhVNzAtUDczSEE?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T12:21:00+00:00",
+    "s": "ESPN",
+    "t": "Inside the tension, suspicion and history behind Amanda Nunes vs. Kayla Harrison",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkxRTGpmaTFzNkZPaGdOZ0xHUzk0eFhtUVExNVdJSzdtNnN5aUNWWFNNMU9MT2J2Y2hUM2l4dVlEYlh6ZXhjNXhCeXhrNk81VEt4SjZOaXkwVjNFbFI4X3FrMEFMMHl4eW50NXJobGdVRE91NnpWU1NmRkFyZHFpVDNhMjNRR2JkWTdN?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T16:00:12+00:00",
+    "s": "247Sports",
+    "t": "College Football Playoff tiers: Where every Power Four team sits entering Week 11",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaXFTajA5NkJiODlhakpPcXo5RjRYTFNQRjRnWTdVT1NMeXd0ejl3ajBvY29PQnFKOXg4UFJfYnpfY09zbG9saXJUUVRpdUlKdGx6NW9SZnNiR0FsOEIyYVR6Ykw5RWV2WXJQMGh1XzZFZ1ZfV1JKdGJ2RTlKdzZGUEY4dXpodw?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T16:10:48+00:00",
+    "s": "Gizmodo",
+    "t": "Scientists Discovered a Mushroom That's Both Toxic and Trippy",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3B0d0twXzdHX0I0amNFYWl3UzZVLVcxelVZMUFoWWpmS1ZSdVY1RWhfNjhJb1JBemlmUXAzZlpwMVpXR25ZN0FsRndIdVdZY1VzS0JzUjhneFdKRER6Nzczd3lqYVRRanJ1b2Q3UFNObTlad0VBVGFpTkpmSGpBOTlURExLcTRyVkZqOXVn?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-10T11:00:00+00:00",
+    "s": "Space",
+    "t": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T10:00:00+00:00",
+    "s": "MPR News",
+    "t": "A new scientific mission launches in Duluth: Hunting \u2018ghost particles' in Lake Superior",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1hhSTF1R0dXZ1NnWHJsM3JZS2ZDdzJqeG5fMGFteDY3SGpFQnE3V3otNUVNYkR3QkowelVoX0s4ZTZMUUJJODBjc2U4d0RQOTZVTExVbGdIVVFBR2d5MDVuZ0gyY2lxdHJFM3ZST05SR2pBbTNfeV93Ri1lbGxCTmYzMVJVZUd6QzJfenpxbm01VHRBLUc4ZlpOWTBMaU5nSU1sams5QkpFVThCZFlGOHVBRGhJeVI1Um5hdmY0eWxGYzJwbXU4?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-09T20:33:49+00:00",
+    "s": "CNET",
+    "t": "NASA\u2019s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMldlTzROWmdVVHRPank5Q3paMzh5eUIxQVZJSmx2emRKa2xvejYwaVdqMHk5MklYQ21rdGtBZXRhQWZ3NXZrcTNqa1FvcEpuYjlhYkRsSF8yZ2NTeE9MekFVT2tlbWtwQU56cDdzU2o1QVBs?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T18:46:00+00:00",
+    "s": "The Guardian",
+    "t": "US could lose measles-free status soon as RFK Jr\u2019s pushes anti-vaccine agenda",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T11:41:00+00:00",
+    "s": "AP News",
+    "t": "Ebola tops 11,000 cases in Congo\u2019s deadliest outbreak",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-11T12:00:11+00:00",
+    "s": "CBS News",
+    "t": "Women experience migraines more than men. Here's a specialist's guide to managing the pain.",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TE5qSEk1OUxBdXR4NFRIakNuN2NlTm1qSXBXZGNlekl6R3gzaFpHbkJZWmlRdGszZ3JJR0l6STQ3MEJ6TnF3cjZZNWo3ZUdqMTktTm8tbXVmMEFoTTV1a2RjZHpXa3RlM1pXLU5mOHZCWE9iNmZKNENzQl9JMjg?oc=5"
+   },
+   {
+    "f": "general",
+    "p": "2026-11-10T16:46:50+00:00",
+    "s": "Futurism",
+    "t": "Energy Drinks Loaded With Bizarre Chemicals Are Causing Heart Attacks in Healthy Young People",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVJTbnFpQlpYczUtQV90VWhEa0xNcFkxcnh5eEMxVVZDbFpDR3hKY0hJaE1GWWd4NkhkVWRfZTNkOER4V1dIeDdwMmc3X19CQmFrdEJwMjdSSXk1dUpReFdaLXF5Yi1sSm1LdkRIYWd5UDAybTVNT01BdzlkcndpekVyRzFCa3pIU3c?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T18:46:00+00:00",
+    "s": "The Guardian",
+    "t": "\u2018A tremendous step backwards\u2019: US could lose measles elimination status under RFK Jr\u2019s leadership",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T11:41:00+00:00",
+    "s": "AP News",
+    "t": "Ebola tops 11,000 cases in Congo\u2019s deadliest outbreak",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T12:00:11+00:00",
+    "s": "CBS News",
+    "t": "Women experience migraines more than men. Here's a specialist's guide to managing the pain.",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80TE5qSEk1OUxBdXR4NFRIakNuN2NlTm1qSXBXZGNlekl6R3gzaFpHbkJZWmlRdGszZ3JJR0l6STQ3MEJ6TnF3cjZZNWo3ZUdqMTktTm8tbXVmMEFoTTV1a2RjZHpXa3RlM1pXLU5mOHZCWE9iNmZKNENzQl9JMjg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T16:46:50+00:00",
+    "s": "Futurism",
+    "t": "Energy Drinks Loaded With Bizarre Chemicals Are Causing Heart Attacks in Healthy Young People",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVJTbnFpQlpYczUtQV90VWhEa0xNcFkxcnh5eEMxVVZDbFpDR3hKY0hJaE1GWWd4NkhkVWRfZTNkOER4V1dIeDdwMmc3X19CQmFrdEJwMjdSSXk1dUpReFdaLXF5Yi1sSm1LdkRIYWd5UDAybTVNT01BdzlkcndpekVyRzFCa3pIU3c?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T13:05:00+00:00",
+    "s": "The Guardian",
+    "t": "Molecular signal in blood helps detect early risk for ovarian cancer, study finds",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T12:05:36+00:00",
+    "s": "Dallas News",
+    "t": "Here's why North Texas is experiencing an earlier flu season",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON20xUmJlOVJLLTFZMy1GRktLblpqdVdzb2J2MEM0ZDBSQzUtYktRMmozQktPUE5BRV9vM0ZxX2NhR1BiajlCS0l6SklMdU9mSU9aYkkwVXhFclBTamhxR0xTdFlvU21vMnIybFhjY0hWS1MxVGZMRHJTQXdaclB2U2xCQmViUHdqb3hkbFh6OTBwamZqN1puTGo1S25vYTV0RjJ1NXo1TDZTVkVt?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T10:00:09+00:00",
+    "s": "The New York Times",
+    "t": "Subtle Changes in Speech May Help Predict Dementia Risk",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjdIZWhfQnE3LW8wYmRqeWl2Q0NOS01EOW1TNmtZTEc2d1ZoWEs0ak1paXBtSlBITHZiQWRLTHBfVTVkMDdJRkk0cDVkMTdvbFlqQUltSG5tWUttTUJBRlo3bnNEX3pUMkJMZ3lOYThvTjVOdGk2WXY4ZEFaa0tpUTRBZzRqS1FxaUJwbjVMOU1JVDY5?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T16:02:50+00:00",
+    "s": "The Washington Post",
+    "t": "Column | Powerful new weight-loss drug may also ease knee pain, major study finds",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblRkZ2xpT3pwY2tNT2pnVXVvUktOTVdaSU43MmcxQ3JXVzFaNDFQazBmZ2Y3RkxtbzEza3QxNllvRy1zVEZHVnZDZ0tTVzctd2hELXBMeTE2TDVBN0ZlclZSV0M5dnIzYTg0ZFVjM3RIT09UUDVyZFp5dUE3UHE5QlRuMERZcU05Z2dXbkd3UFpiMFlhYVVkUElHR3ZPdUlfMWZxMkUwNVY3WnZvclVnbjJyWmN2dzR5Ym91Qk02blQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T15:11:00+00:00",
+    "s": "New York Post",
+    "t": "Some GLP-1 patients suffer hallucinations, other psychotic symptoms after stopping drugs",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWVyeFJ2ek5iQTBBc1dwTFNnMWFiT2tIY2lwcUZWaVJIRlVGN1RsVnBHRjk4ZXBLQ1lqU2RjcUE2Y2pja2o5Vi00ZkRzc3VoclIyVGxjLU56UGh4cVhleVU2aXh0Zk1BSk1VbWNvUGZOMWJzS3lDY0JZWW1fdW5vYzBLY1hPTVpqNmJUdEpkR2RBSDJmNmZER2NuT084YVNJb2R6Um00d0E?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T19:25:34+00:00",
+    "s": "ABC News - Breaking News, Latest News and Videos",
+    "t": "Measles cases grow among pregnant women in Pennsylvania: What to know about risks - ABC News",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0NEQlZVejBJWGN2UUwyc09hYmNqX3NEemhXamFaRDNCUWsxMElOS19nMEd4RWJ2ZnVpaG14SVBINHVoUUFFcVpXeEYxZkx2NkI3eWd6X18tRFNENng5ZXBld3I4SmZZbzVDS0RiTUJEMU1pdHhidmU2ek8zVF9sdEJ4STQ5YmIza0hidkJNVmFiWktoMWJCV3d5ZmxLeDg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T22:00:40+00:00",
+    "s": "NBC News",
+    "t": "Tracking the drop in U.S. childhood vaccinations: Our methodology",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzlVdy1tRjFwUGtxZmRHcm5tbVB6VzBmN2s4UjRkOUFmd0dqY0I2T3YzQ1pPbzdwQVByeU1HcXBYbEJGdVAwQ0M2dEVEWVdReEtLcDJ6LWZWX2xTdEpBY3NFUFdkNnVWVkJFdl81TEZGMm05WFphNUoxaS1WVGJiWkEzcTRBdzBjOWxRN2JucTQ3TFEtMUZ6ZzhubzJyNzhEWnptSmVGRQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T10:00:00+00:00",
+    "s": "The Telegraph",
+    "t": "The new high-carb diet that can reverse type 2 diabetes",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXdWYkR0aG9BZ0NaN0pFcjBIZlVRTFBlSGpvcDJfYml1Q0JYdEl1RGd2M0ZrRnkwYnNHU3ZRVDRZMV9FdWdrUG1idk8zSmJqU0dPT3V1ZERPTFZLN2J6bFp5bk1LZE1YazNCLTBFVTlid0VlR05Rb1kwUkJ6SF9ocVpBakdqdmQ2aW9IenZ6djFmclRoNjRqZml1MHJCQ01qVEJVdERyWTVCdw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T12:00:29+00:00",
+    "s": "Fox News",
+    "t": "Common heart pill under scrutiny for older patients as study weighs risks of stopping",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnlCNDUyRzZKZC16b09zQWFxdi1vd0RZQjNVeFltbzhlMzVOVHo4dWFyRTVSaFltazV4b0JDNEQ1M3pmZWl1d0ROMkNBWm9fTWNlbXI0WXdDYkJWYkhYR2p5YU13S3hTMlNUZU1OMXV0cHNkRjNDd0YydU4wdWljTE1vUmRtdUhMUF9odFMwekZSUjZLY3NUZmhYZjRkam1ZaGfSAacBQVVfeXFMTjJNZlV4UXFDdkNqQmR6WGtMMVJIeDA1RFk2X1RObDI1R2hBZElPd0hqVktPTEJERzJ1QU9hQVEwSjljWjdfZ2tzWTNXTHJFQlRGTWpaWnhHajhBZnhabHFMQzNkU085NE4wQjZxX29MSHQtTUs0QVpqS09UampnMjloZV82SWJfVGdsa1d1STRGbmU4V2N0MnFQWUlpV0ljTXhrdXJCdWM?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T10:00:16+00:00",
+    "s": "CNN",
+    "t": "An 11-day-old baby couldn\u2019t stop bleeding. For hours, the ER didn\u2019t provide a critical vitamin shot.",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85S1czZjI1U1d1UzkwSUZ1VGRQSm00WWdHbGlzMlFsV0p2bGdaNzZDME82RFgwT2o1ck9DWlBRdVVrTWYxU2FweHBZbTNyRVVnRkZKYUNHcEM0dWdFaHJTQmFiQ1lzTHRTYVNCX1BvVGM?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T13:02:00+00:00",
+    "s": "The Guardian",
+    "t": "It\u2019s not too late to get it: what to know about getting the flu vaccine this year",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55S09RYVJNUzc0dWw1Mm1QWWlhU2Vja1BybFI0bm40WS1GQzhlUUk0am1ta2FkWlhoTklDTFVBcmNtWV9JbHZvaWZlVnVkMTRmekk1NUVDcldsUjZ5UVRkSVJoZ0RKMVAwR2ZydW42bmJQWENOeGlsOXFkMHdEZw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-06T13:49:11+00:00",
+    "s": "HuffPost",
+    "t": "Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSEZhNFpPM2pGY01YdTBYVkZDOEJaM0VsUjM5RVMwcjRPZ3ZBUEs2bkV3a3FLNXM0UmtBbzNvR1hjZkRsQ1c0RVNjODlYZHVOOEtqTnNMWWptSTV2UmhJOTE5T1RSSEZmeE40RXVZQjRGeldERzBObllkVEllaW1rc25vdkp6STZYU3lpN0tnVU55Z9IBlwFBVV95cUxQQlh6VktsaFRpczBCZTUwanhZeGZmN0k0dVVOTVFvbEE4eUFEOVRuMURaSGxuX3A2U0phYXYwbHBDY0JnY292ZG1fb3hhYW80OTRualJqNkZhTnUwdzRiejFEclAzaWtCeW5mV2pvVm1QSGhOWlpKN2xBaXdRWEljNi02SDhuTTJhdnVDdzBMNG1xeU5xYXBF?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T19:20:12+00:00",
+    "s": "Phys.org",
+    "t": "Study finds links between bacteria in wastewater and chronic disease",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlJza1loN1J3VDdqdUlDdnhYYnZzcUgtelRacDFZYWdCY0ZZRUxpTU1EWHIycm5NdURpZGw4Z3BySWI5M2VIcDF0TTRDWXdPWnBZYTJoSUpjc2J3MnVheTZPYWltTWl6Y3EwclpuVGRJRmliSjhoaTFoSlZtN1A3S2NR?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T22:55:00+00:00",
+    "s": "WCAX",
+    "t": "Newport\u2019s hospital prepares for possible measles patients",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenB5cUdMVWxueFlpdk5sU3UyX1JDYktCQkNJMUk3Q0JGVnNGR0N0Z1Q3d0NpY1JDNzlWcS1KU0pxU09wZk5UZFVvaTZ3cmkxRlJVd2RNT3lCQkJKUk1IZmw1dVNoQ2JSc0hEUE5LZlBTY21lU1M4N2dyNlkyc2lDRlphaGpBSWJnLVBod9IBoAFBVV95cUxQS3N1WTdsaDg5M1BFeXByX2hfSE1fbXpJNC1TSFloSHhCMUN2XzNIb1NycVZxWnRUbE5BVDc5LWpFMGFCWFRMTlZYREpjX2pDRko1UzIwbEluMGFqYkU2UTdZZ051d3pSbm5VTURHTktWYmdCVkREU2ZXM1pINEgyOVdZSkltRkpZbkluampKcklmSEp0XzlycnFsY1REWlBL?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T18:34:50+00:00",
+    "s": "KSBY News",
+    "t": "SLO County health officials confirm death of patient in E. coli outbreak",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2hYbG9NdHQ5cWRROTBKMTNSa1VkYlR1Z1c4dDQtZDVYQXBGRTZTWDN3akFpVHBvVlhQdGNuLW03a0dyYUJyaU1oTm5xTG56Smh2NlVFeHFyOE9oWGQ1RWUxVk5jaVF2MUlUalZZN0VMV21UMlRTNENpNy14ZExDeXlibHFWUTZkYlJyekVZdzhjZVFyUE9Bb1lfSGlkWWFfZUlVNV9wSnZTWFda?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T17:00:02+00:00",
+    "s": "The New York Times",
+    "t": "My Wife Is Leaving the Divorce Details to Me. Can I Look Out for Myself?",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXN5ZmJIVm9aTG1aYVlrckhieEdnV3p6Z2k0ODM1Q3lqR2hjZnZpM0sxNG5KY1RZczQ0TlVGR25yaWQzS3Rpem56ekVpUE9vdUFnenA1YnZZYkJycVFaYTBWdVU3WlZfQVBOVC1mRjBJMkdod1dJQlo2dHR1NjA0UVJMWDdLUQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T21:14:27+00:00",
+    "s": "Fox News",
+    "t": "Viral \u2018heightmaxxing\u2019 trend has teen boys taking cancer drugs to grow taller, doctors warn of risks",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXNORG0zUmdkaUdaUHNiXzVGZzRnN3l3TGk0aElqSzBSZDdCM1dXM3dXX3J3dHYtQWhoSXZQRnZ0TG1aRnNqLXhoUUZtUFVUaEtTVFFSUU5IbDVrUi0zWkdPQWJoQ015dFhFU3dROHJrS3RYbTRnTTdSbF8yU2haMl9vb0tMSldkeWY3WmFLOHBUeWE3ZndHakFYTWpWYjJDRE55OUZjam1qTlppMzcyUVJWMUZ6eS1j0gG-AUFVX3lxTE5uY0ZGSnNzSi1zYUw5aVUwRUhvWlZyaDdOYS1yOE9HRGJvQk43VzdGRGFLQnNrend1Q2I2dHNQQUhiV2ZYXzB4Q3NDRUlOSGg0dEQ1VldGVXphQUluajUzaENSSUVBd0c2UjdDempmcnh5SGFQN0I5cUNEeE1hQUxBbHVxMTVScGNncnhzQ0dwUHR4eUR0ZjVHWkpBSmE5TUo3VHRnYW55TGg5UUY0SmdYN1lZR2xwRFloQzRJVkE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T15:02:00+00:00",
+    "s": "The Guardian",
+    "t": "The vaccine limbo in the US is worsening the measles outbreak",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2gwa3RPa0tFVjZ3NWNnV0h6S2xiN0wzSVh3LXNoZ3Vjbl9jWGFDNzIzb2MtX1V1cjZuVzg4SEJFODljdTJ0UWZqLUdHVlhqaXZmZkZoTUwxNHJrTG84d2pZZkxadVFRSUhKTWw3N3psMC1uM19IMUNRTTVJdTk5UnpyN2k3UG44dVE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T23:30:22+00:00",
+    "s": "Medical Xpress",
+    "t": "Study identifies antidepressants that get patients well and keep them well",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhS1RYZm8yTzk0WEEza1lnRnYtSGY0Q1hBa1dGSHA5SDNLRW9QdnhhckN2cjAyOFF5NjcxaGxoNzFGdW1UVUhZSjZPeEswd05SalJiZEJkNk1EVnBjRUZZX2RJVnQxSkJZWWRKR2U5MUNWSGJNUXZB?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T18:00:00+00:00",
+    "s": "The Washington Post",
+    "t": "New study suggests bedroom air purifier may support healthy blood sugar",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFNPNDFjNHdkSmdXVUtnckNwU3NSNEVHSklxdlc2VEU2Rk5IMGNMVlkta01HemE4M0J4WDlZWGdjV19ac2dBVWRDWXp2cmdaT0JhSWhlY3N1SGpjRUJoTXJjeXVfb3VKMlc1NGp6T2xaWmxuRmppZVNLWmh4SlNUZ0RSSDllMC11T0NNLXl5RU5RdkdGZkVBeHNBZmZKMnFzV01aV2JzUXJHUEVUbElPcmJfVlNhelhodmdXREtMUHQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T12:00:00+00:00",
+    "s": "Fox News",
+    "t": "Aggressive cancer type linked to common chemical exposure in new study",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG1IUnVOd01yd1NBUmRJellHVHptNGc1bU44cTV1YU54Q0VONDhJQVR6dlczZ2pacFl2RTN2RVZLNDhXbHQxOGRTYXBRMnRQYl9OVWtEYmoxYmplNGpDaUgwQWRqWHFGUXV6WlF4WG1ZRFo5SXMzWFVPanl0Vkd5clpLU0drd3BGbGNnamF0VjhyaWJiTjYxc2E0d9IBoAFBVV95cUxOTWtWV3RfZzR1eVRUcGV6OVRjRVkzRWJvOVJtclBHTEw5cUhHcElzRmZYVmRaX1llRE5IYkVIS2NhVFRZQUNHdjZrTUltcFdHNUg0SG5BWExFenEtSDYwTkpkR2Q1TGsyYW93bW9UOVp4ZlBwMzZSYXZqUWNPbXJSajBFdE0yLXBKVEtENWRJSVR6d2ROZEZzSjJGZkRFRk1q?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T14:08:37+00:00",
+    "s": "Scripps News",
+    "t": "Patients scramble to reverse surgeries after learning rabies killed their tissue donor",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0NscXNrRG5taF9ZMllZYnh0SDNlODBQeGZVdWFISlNHRFRnSzZ0Rmp5Z0tDNzJDdnhEOTV1T3c2LThYM3EyeDNXQTByUzZobGRKbmF0TEtIaEtKcGh2cFlaZnVtRDdDdW1Fc2lfTGtSQTBKV3hxTzhKV0ZRM3FuemZLeHpoeFF4Y1pybUZFTVhYeVlfOGJQdE4zY0RFQXM5d1luNFBpdGtySFVEdzZITWpkak1IbW9mS1RRNWZXVjZqZEtEV2h6Y2JhNDFXYy0tLUE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T18:50:06+00:00",
+    "s": "Phys.org",
+    "t": "Purple bacteria turn CO\u2082 and other industrial waste products into valuable supplement ingredients",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmszTXpIUWJCY3pxVWpnV0lVeXpvd2tvVGZlTWlrc1hfekIyUjRhTUE0blNlZzlCS0NIVFE3LXBjNjFXSXFiemdxRzdhczA3dXZoNUtIZTFrZW91dzdBVldSYTBJSVJ0QmpYd3VURmJQekhvclJZMFFZNkZ5Q2tlb1RoVnVUZw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T14:04:13+00:00",
+    "s": "ScienceAlert",
+    "t": "Study Reveals What a Lifetime of Exposure to Fluoride in Drinking Water Does to Cognition",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmpxX205Y25QS0dBczMwaWI1Mkdrd1lnUGdXRzBVNV91V0NHTWNnSWlmVWdFd25ESFpJNW9kam9UV3dwalRLWk9ENnltbUNwR1RCcmJIZDhtX2Z3TUhKdXdQdThXVEhGTWR4X19pdHhjektuNnFrQXcwYklLOFNzUFJIb2F2U2xrWU9lYXZmOHlsSF9IcUVsM2xVNTdSSU1KWG5IeFFiaERUSnNVSm1BdkxVRUZQQmgzTHc?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-06T08:00:00+00:00",
+    "s": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "t": "Weekly US Influenza Surveillance Report: Key Updates for Week 43, ending October 31, 2026 | FluView - Centers for Disease Control and Prevention",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRi1iNEQ1ZHJmSDBlM1JYWEMzQWY0M3ZWa3FFQ21pU3QxTVhWbnVjXy1oT0loSkFTSnhWdTFycG5aMl8yTjhiZkM4MzZkMjdBT29rN3U4ZzRqRHNKdjczbFAyRzh0RG1ia3c?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T12:29:58+00:00",
+    "s": "CTV News",
+    "t": "Florida\u2019s dengue outbreak is now the largest in a U.S. state in decades",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXdHME1tSk5MUmNLZzVwZ0xGc3gxRlZ6X0MzUWVwdzlXTVFiYnFNQl9OazhWaHZ0WGdCOVRmZ2U1ZHF3ZnRSSTlleUQ5Wmg0OVFSNUtFSWUzQ2VwNi1uNUF2M3VKWXhRcGpSdVlGc3pJc1NOME9Jc2xfNWdsUkRUWm1FUkFaQmp6R0k0eEVRaWxPa3NwYWoxR2RXRk0wVXVhMzlFaEVYTzRMOFU?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-06T11:44:03+00:00",
+    "s": "Katie Couric Media",
+    "t": "The Heart Risk Hiding Behind Your Hot Flashes",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qbFZCN3FicnU3eEpDMFN2UWktdjBkczd0dkUxcFpsTXhJS2hLRTUtOE0tcmI3Ul9iVVFuSlRHQVdNZG5FY2JFUWt0R3pJNW9KUklFTU9WYW83WWFjYlhqYm9JZTV2V1pSdXlTaA?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T12:00:49+00:00",
+    "s": "Fox News",
+    "t": "6-minute daily habit could help Ozempic users preserve muscle, expert says",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHpJWTNhV1ZOVDhMTmctWXZfYU1vQW4zYU52M0U3eVpsS3NydExDUzktWnFUTkZfYnA3algxdktUeThHczRBTjFiYXUwRzdyZ0tHbGtOd1oybzFSajNGUDVUSnl0Qk9EbnFXTUdTbm1HWkhHdTU4YnhaMWpZQUJJRllYNnFxcnhOM3Q1WGlzdG5uZ3AwOUs0QTRBTmlGamvSAaQBQVVfeXFMTmVGczhVbS1QdVd1b3ZrZTRUVkR0UVlyRHBmZXdmOEQyZHdLcWpiY1VTMkF2eGtvZ2JpSkZWM3daZGU0Qk8xNUdBd1UwczRuOUF5UHBLaV9oakE1SWQ3Y2lNZ1J3RHI4U3YzWHZpbHQ3RkNqeWp2VmdjV1FLQUlldzc1d0xROWlmbDhJSWdfNklvelFuTWpKbXdMVV9iSnlKekwySVY?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T12:04:07+00:00",
+    "s": "ScienceAlert",
+    "t": "Tattoos Affect Your Immune System in Ways Scientists Are Only Beginning to Understand",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Women's Health",
+    "t": "New Research Suggests This Common Supplement May Be the Key to Healthier Knees and Joints",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1h4WnJkT2RFWEdOM2lPb2tQR1ZodmNBYjhDU0gzUmZCQ0Q3YXE5QWpkbzUtWU1NRUo1Q2toZ3pMdnZHbDNubjhXUHk1SGlPUUZmQmNkdjE0eXo1OWhHWUFFbFVfVDg5ZHB0bjQ1Z3ByOHVueHJVT2tia3M1djRNaDFn?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T11:25:00+00:00",
+    "s": "News-Medical",
+    "t": "New mRNA therapy reawakens heart muscle cells to repair damage - News-Medical",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMS1rVkZ5eXo0QmQ2azBETVBmNFVHbmVFeXUwQnR6Sl9VZ0dWX2lJUFRuSThTNnNYb1NmWUJyQU1yMTY0VUI3MkxHWU9kSTMtZXlaaXpMM2l2YW9nZ2w0TkpLanpoLXpvYWRmRnJoNFVZME4ySmM4dGljSWdVanUwVzZmcElJRkg4TEc4ZnByWm1qdjltczBXazJjUEp2UHl1bmxJY3FuQXBoemxtMGFR?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T16:27:03+00:00",
+    "s": "Yahoo Health",
+    "t": "Popular GLP-1 weight loss drugs linked to potential effects on brain health",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0xJTVZCY2JZRDBRVnRWcUVLWFZieEtXZ09sYy1vM0E5bVNmamNDa1kwM3g0cWtKTUZ1bnVtdTE4SnhJNXJqRC0tOUthdTRBczktZ2oybWVGZFlicmhTSThuNlhoWnByYWlzZnI5MExfT3JFbHNfWGRPb0hOUENXX2s5OWZUX3hlRmsxMTVOYmx6c1BOREZjVXRBX3lSb1ZnM1BFc3NvVnhfTnQyem5nMUFOUnk?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T16:23:31+00:00",
+    "s": "The Times of Israel",
+    "t": "Israeli blood test detects early breast cancer with 95% accuracy",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXlYTXBmcmxQdjdsX1RRamlHU2hadUMtRlkwSGphWC03NGwybF9GVXFuUlZ4WG1tNml1WS01XzF3NjlFLTJaWjZJTms5aWJZbjJTQWRobmU2UV94TUZyTUF6aFBmekRtcXdXZXUwWmYwcWgxWlBQSVplRTJNWmpjR24zdTF5Z0Zuc1JIUEZwUU91bHFuTERSLWZ30gGfAUFVX3lxTE5Gamo3QXhZRnl2SlBYVmE1UFRIdFY4bnZpRENQR2ZPT2V4MjZJT2VEN2NaVG1SQVEtZFpOTmdvNUFoTU8xaWdzN2RBYlR4VVBiQVFZc0NmLXhEdzVKdHIyLU5Zc1ZLVW9uMGJtR3BTY2Q1NDZ3bTY5dDlXM3djc1E3dEVLakpiV3AxNEhjdmdrZ3J4cnVmbDNMRi0tZktacw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-05T03:00:21+00:00",
+    "s": "ScienceAlert",
+    "t": "Breakthrough: FDA Approves First Drug Offering a 'Functional Cure' For Chronic Hepatitis B",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0tRYkZJWkd6Uzk3eEdjaWdodWNQODNkTW1xUUFUSVFFU2hEVWJDc1Z5dDUzSWtCckNMV2cyc3RWX0xSbS1hOEUyZnVnZVU0eTVmdWFfTUZrSGIxaDBzdFJrWW9TQXRkc18wSEVweGJkMUN2VHBrRHJKNEhIOUpkSlZSckFMc0tISlhkUU16aTlwbnFvQW1NNW1GVWJHZGR0Tkd2QzJDUllGcnFhemRiQV9CSEJFRUU?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T13:00:00+00:00",
+    "s": "EatingWell",
+    "t": "4 Early Cancer Symptoms Doctors Say You Shouldn\u2019t Ignore",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1I5WFZhS0pCcFNuM1R2eDFLUUNGOGVBV1MtZ3JoQWl1TUhqNThyaHJ6QjlNamEyWXZ2Yy1hd2VnTFBXV3lZamdvb0VTUGt0djB6ODJreTBfV2JBSy1EWHBJNEFaelU5SU14RmxoV2FhT0x1U1NoUGV5R0xHcnJZS2dLbjRkaU42cUlvTVpn?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T12:34:19+00:00",
+    "s": "Science Daily",
+    "t": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eTRLNU1XSDlIcVkxMENhTUlrdFpQRUowUHdZU3d5YkliN1lXUzNCZFhtRjJCZEJ3T3BmNnUzRUdPZy0xMGpiclp0YVVzMzdtLWp1bWtFcUhNVlAzbnFobGk4THA0ejJ4dHBlWlg0dw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T17:00:10+00:00",
+    "s": "Medical Xpress",
+    "t": "Scientists turn protein-making errors in cancer cells into a targeted kill switch",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzJMZkd2SmJ3NElPajVyNzhnci1nMjlPbUwwZ0FxR0EwREJHWVFxTUpGcHFrUDY5Tm9yaHR1RGM0cU56dVRMMUdGejBVSWY3NDZEZ3p6UFlJX0wtN1VXYzlDdHdfMDdHQWduWUMxLXI4aUYtYTZLSGFPblhCaUNvVEJFU2FEcFdNdFE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-05T10:00:49+00:00",
+    "s": "The New York Times",
+    "t": "Can Creatine Supplements Make Your Brain Stronger?",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR096RWRyaHRHaGJYd293bDNCSm4yZ1ZuMl9SOVBpOEhoSnhhOEpnWFJULTBIR0V2ZmhQdVBaM2RMa1hVajhFdjVsUkNzMlVYNXF1RGxzQmJUdnl4akpSYkw1LTFMd0NSNFBqNEFzMjJ1Q3JqZGJHRmZxOXEyQjhNelI5WXlfbExlMmhTRDFB?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T12:50:08+00:00",
+    "s": "Science Daily",
+    "t": "Eating less protein could slow aging, review of 350 studies finds",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54S05QNXZCdF9HX2t3eS1SRThzajdRd3pXTFVDRjdzU3BLZlB1NFVPd1ZjR1UyREo4RFhzRkdTdEFkblF6S0x5Y0tpU1BsRi1xZWwtREQxcHpQRTN6TnBnQjc5Yy03QXpmMXJqdnhjSQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T10:55:00+00:00",
+    "s": "The Guardian",
+    "t": "Touch of evil: the terrifying truth about sleep paralysis",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXN3Q1hhd3p6ZkpGLTI5YmhlVGJMYVhtWjAyNm5RbV9kUlNnMzM5YkpmN3pNa0JteVIwMEtibm45NF9vMmhPenVxSmtKSFhmVGZFTW9IQ04tYkcybDBjZV9UbXduakVTZ1NDQ1ZLTlNNYnViUTFXa21yVVRXLWRsV3ZNMFRheTBQRkxlOWR6REVWTm43Q2UxbUNzN25jVXptSzFOMnNNcDdTOEIyMEE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T16:10:00+00:00",
+    "s": "New York Post",
+    "t": "Exclusive | NYC\u2019s rabies rate is highest in years \u2014 and people who feed raccoons are to blame",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDZwVEt1Qjc3b2tCV0NTNlhWbWxBLTFPLWkwRF83dERTZXlwbWZJWTB4X1FqcTNRdHRUZ2hkUDI0QjRHMHBTOVRqVEVEcGR1WG1pN096Sk5fMFJUenFFVy1GejVaT29Db3c2bklQVWt6aTA3bW56N2ZuZ1FGLXZHbU1Jdw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T14:23:24+00:00",
+    "s": "Yahoo Lifestyle Canada",
+    "t": "Irritable Male Syndrome Is Real \u2014 And It Might Be To Blame For Your Relationship Struggles",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVEyXzk4QXBRZDVFZjYzc2UxTVJJU1BfcklteTE1S0YyRXVRd0VOSzFXVnFHWW9qMXd2dFRyUFpZT2NPTTJnU2hMaV9jdHUzNzBsN0p4NEI1RC1wbDZNellJeUg1QmkyRmhqc2lzYUF2UXZOZUNKMzJqdW53amRJRjVR?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T11:58:08+00:00",
+    "s": "Science Daily",
+    "t": "Why heart attacks can still happen even when bad cholesterol is low",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lRk1ZVFFDUkN1MnVmUjU3RHBYdHFCOHZ2c1NjVlBxNjJPYlQ3VC1XWVA3a3Q4Q2lSY2R2ZlRxVjFaNjlTWFJVdnp4QTRFYTlzUXB3Vm5PVlBhQTlkc3hVTXNTT2xWRmx4WVNrUEh1Yw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T09:39:39+00:00",
+    "s": "Euronews.com",
+    "t": "Russia: HIV epidemic in 27 regions, epidemiologists say",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmJ0OG5fQ0VKWUUzTnNEdzRGQ1RSdzdGbW00aW9yeHVNb1piY2VRcUNHUUVTTVlENURtdnFVbGF4a3VZQ0c4dzJHX3BzcUVYSTVIMHltUjFtenIxR0lkWElCeGN0RUQzbEFxRm9kejdRTlB3NkJQY0g1U2JsTjBYT2Mya0plRThsWG9MTmVjY2thMDhJYXh6eGd4d1JaMm1reEhkckliTldBR1E?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T16:15:00+00:00",
+    "s": "The Telegraph",
+    "t": "Strong immune system can prevent prostate cancer, Oxford study finds",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUZmMVUyenU0NUFybmNIckM4bW9iZWpiWkE4RzVNQ2xoVmtXZW9jVkxncThpakVzR2h6cjRzVzVWNVYwTWtYYlBvSl9YbGo2U1dGOEVySmhyTXVSSGU3cVVCQkdvOGp2SFhwUXl2Vmh3UFdmVEJYY1ZaWmFnVVp6cHB0UVZvMjlLNW81dkZPbGJrVi1EMnhNN0xiam1RM25yV1NPWg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T16:54:12+00:00",
+    "s": "Hays Post",
+    "t": "GoFundMe account set up to help former Wilson Elementary teacher fighting cancer",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iUjZfVENyZktOblgzRGhkejNVTC1zdVU3Ry1QU1pjWl84d2o2aXpEbkdDXzB1X3cyVUtwYmxybW4xVFB3eTFrSGF3eTJxS3JHVmdIQzJzOFg5eG9IUG0xcFdBSWExbHh5WGk5eWJ1anY?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T21:17:44+00:00",
+    "s": "Yahoo",
+    "t": "Chemotherapy to treat breast cancer may accelerate biological aging",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTDdxNFF0UG1jYzkwbGNIbXlmYU85NFJ3RDFKSThRNk1qTksxVWRlMWM0elJrTDVzanZvVm15MjB3TTNOSzBfTTBKSmJUejZ0S25LTUlOOEpTc0pNYlFDNFEyYlF1c1Y4RktkVHNjbVoyUm1SX3hma2pTUDBiT2lXclBDT1h6OEV3Z21XaktWQmV0MWNUaUFrTWpFWQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-08T02:53:55+00:00",
+    "s": "Science Daily",
+    "t": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzQ0NzLVZtcThGLXh4d3ZwNE5SUzB4LVoxdnA0aXdBaU1BUXNxZzRqVl9KSlU2Z1Z2RzVLYmFCa3cyd29LRjNicmJRX01oYkJqM2xFTm1UcjdrdUlmRFJ1bVNqbEt3QWxpT09IYW9kYw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T18:00:00+00:00",
+    "s": "The Washington Post",
+    "t": "What to do if you, or someone around you, might be having a heart attack",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T08:00:00+00:00",
+    "s": "NPR",
+    "t": "An \u2018Ozempic baby boom\u2019? The GLP-1 pregnancy plot twist : Short Wave",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lQ2tLTmlkbVQtMzR2LUJHMTJNSjhMZFdETzJKOU9TSmJ2WDJyckRqY3FBbVltSGdKZVhfOEZWQkhZOUxoQW5seGM0YlJ1NGZoNHQ5RTV3SDE0clhBWDVld0stR2ozbW05TkJFZEpoV1ZlZWRSUExCMnZPT2VqdGs?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T17:22:00+00:00",
+    "s": "Cleveland 19 News",
+    "t": "19 News\u2019 Nichole Vrsansky recovering after colon cancer surgery, urges others to get screened",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXZnWVpnRTRpUm1Pd2VDaUN3VlVObkRZbGNJb0pZVjhqS3dLUHVqenUtSEVYTlVPTmxRTjFwNHlSWXAyQ2Y5S2c3Z25lR1Y4ZE1wQUxmSUFDVTVCejlkeEN3aUFVOGQtR19ZOEZmVkhSLXVrRVNJTWt0VUdXU294eVNleE1LeHNnOF9JNFVyNjRSQWRJcFZDanJPWlJDOWtJUWxhOFVXY2UtaEl0VndpRzgzN2RncXkyb0o3Tzh3elhjSVFSSkRR0gHbAUFVX3lxTE53VUx1OGtKdkxZYVlJRjVXVVpRUEVkNmZhSE9ubjN4Z0VfR0dJOTlKbGVRcjVGZ2lCRS10TE1MQnlrLWxqTzlFQnpwQ3NlRmVjVHF0SURUNklJNDZ4WkU0aGI0dXBObHJuOUZ2SlhweXFTQ3NRblBjWnZJVFVyQ1VOM2dIeUJ3NGV6WVFuMFBlX1pVMFV0c0dubXlxMWI1MEsteU41UGFQSGtrS0wxMG5BMDh4Q05zbzhOT3NXOTBNRHVwQmx3NkJTRHNXM1Nuel9PbXY3UzhKSW10UQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T21:22:35+00:00",
+    "s": "CIDRAP",
+    "t": "New study links COVID to fewer long-term health problems",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWhUdG5kZVRSSGhxVFlkcl95ellpYW1vWmUwcWFUeXAydmwwRUNiUlpGZDJNWFNUZmkyclBjcWg0UmtiSU5Kd3hHRDZPOG5PWmJCN0djdUcwM1d1d2JNcGZObGNobWRiMk5kUlFOVk8xeXB5S0hYSEhHY1E2MFFtWHpEQk9Kblp2NlRxTGVmbWtYRlU?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T19:00:00+00:00",
+    "s": "The Washington Post",
+    "t": "5 medications that can cause bone thinning \u2014 and what to do if you\u2019re on one",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXNYR0xWSEZnUmRUY0t4X2JVMDdMZzA3V3BCc2UyNkZvVmNySGxPUG9OdDRHWkgydVVlNWhRTWlFTzZKWWswVVZvOFZka1B5RU53S0NqR2JyakpmSWdIWmd3NXFQMndjQXdmWmRJdUpBXzlfUWdtS0xYNDN3VWlMdGF2N3hfRGtNVTRjOVRNRWJvSE5EZVJmWk05NVliZw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T13:44:50+00:00",
+    "s": "Yahoo",
+    "t": "'I'm shocked doctors haven't heard of my invisible cancer'",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbXZUMDNONUlyc0lDQmFoZl9RTGJsYnNQZHFXbzBrbWdIMVdxY3prbld3T0pmcWJ6c1pqRHg1U2ZJaVlSSEozRkhsOFJhVS14UnJRQldHNFZncTR0NDFzNmRlR19pZXdMcERSRzNIMlFZT0FpYU9qdEFvMTE3LTFWYzA4THlkc0xYQXUwbUhmalE0UQ?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T20:40:25+00:00",
+    "s": "Medical Xpress",
+    "t": "Blood pressure medication combo linked to fewer irregular heart rhythms after ablation",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1BiM0cybkdsS096cUxxcm53eXhGaXhIZUw5NkQ4M0JCOHBNdll6TXFyM0NmcThqUWZ6QWdvX0dMdHpuRzZ4bGNmSm45UWRzSEJLd1RLcEE0R3djTE0yd1NaLUk5NjFCZGpnbUNsUkU5T2JzVUVINFJqLV9zWk1LUnVpLTdHZElSOEE?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T17:50:40+00:00",
+    "s": "Gizmodo",
+    "t": "An Experimental Electric Comb May Stave Off Baldness",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkt0bXg3ZEVubTN4OVJYLWNRbGE2cXoyeFhrcWJLYVBzeXI1LU5kZUo0MjJTbGxUcFRzYTR2bndvd1V2SmFaYTFnUkN1RjZEbllWZzNVX3h2WlJwTW9OZ0xvZ2FrVC15OXEydG94UFgwUTZVME14eHBOSWh2czU2YnQxY2tGWFRpWVFnZ3BwS0Rjd0pNRXZNZE43ZFhhd29xX0NmUm13?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T15:33:00+00:00",
+    "s": "USA Today",
+    "t": "This NBC correspondent hid her bowel disease for years. Now she's sharing her story",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2dTcGI2SFVReFNoODFESk1DRWpfUjNhQW8tSS0zaU95NzVORUwzcUtRZjFUb3hSNjFhaktkMjAwem95ZEx1NVRCWlVkSVZFQ2dvMzNreFozRVAtRDI0U0hrQTM2UnRUWEF2SkxpaHZTMU85ZC1BclhENVBZNi1ndTNYUkU1cGViblFGVml6aS1YWkVQenktYUlHY2xHR0dCZG4wSmF2Z0k?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-11T04:29:14+00:00",
+    "s": "Science Daily",
+    "t": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ldU54V3pZb19Ra1dpYlJKSlZWN3lKelFLOUhNaFhPNTZIZVNaeWFXQlVQczYxQkhzRzNKVnZhVTNqaE1fLWRRNnczcTd6ZzQ2QTBxVkk4SWF2aXFQU0djaFVTQThYV3RwdXY3QUR3NA?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-06T19:25:00+00:00",
+    "s": "AOL.com",
+    "t": "Flu Alert: Get Tested for Fever and Body Aches This November 2026",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42MGI3X1JmZDl1ODZMLUVWdWdSNURhSV9fMlNTWmJvZ3dZUjExcG5icm5Jd1VMTDdCVE5pa2t6OUllZmNYNHlvU0lIdlNaQ1gxcmc2VUpCSHVjRWZTT2RFMlZ1UjVHaUFpM3dBdElBdzExLU5jdzdBMi1mdw?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T17:03:00+00:00",
+    "s": "New York Post",
+    "t": "Gen Z fueling tobacco sales as wild claims cigarettes are \u2018healthier\u2019 than vaping go viral: \u2018plant-based alternative\u2019",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzlxSTIwSTMyOVlWVEI5blZhZHRLdkpMUUpJS01zc2h2ZmEyMlotVWZzZU1wWG9fUkhabzZaMnlRN1loeWFkMGJJbk4wTkVVT3VvV1BvOGdiM0YwQzAxZTZfaW5nQi0xeTFqMlg1cy02NlhKMVZkanBLaDQ5MkY3R2pWQ21ldHBqMHFoNnpiRHhydm81YXJKYmJ3OGhCM3BfYWx1ZTZYa2xHR1piNk5UZg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T20:09:00+00:00",
+    "s": "New York Post",
+    "t": "Men and women who smoke marijuana may experience different effects, study suggests",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSk10aDV1RG92VmxHR3JLclZhVjJyVjRDNDBIR0dLakVNZnIya3RaQ0RkNHFpVHlXYjZsOUxOTDdhWnlVV25Xazl6Y2JwWnlqVVFQTUdPQl92VGVqdE53Qk5mTHhPSmF2ZTdVX280SmIxeEVvSGoyZDJTUl9GaUtEQ3JjU193d3lXcUVfMXdSRzhiX1o0aHo1T1BRWnVMTGx4UEx4YklvcVNhLTlVRVdTb3ludVAxWWJyeFZB?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T11:00:00+00:00",
+    "s": "New York Post",
+    "t": "The \u2018Low T\u2019 craze and rise of TRT has a dangerous catch men need to know",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV09JbjFhaENaeWpKT09ITjdtc3d0aWRfQ2FxUFhYTXpXcE9LeGl4QVV1a3ZFVWhkaW1vLU00S2xBR2hZYWRRZTdQaVNqU2daVmhIR2libWgwTWVsTVRZY1EyY1NsRDR0ckhEc3E4dHVURVYtQ1hpVW5jVkR3Njl5ZEh1Vl80MUVIT2IzcTU4a2xzVWI5c3I1NGdpSU95MUZwcVFhSg?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T21:49:00+00:00",
+    "s": "New York Post",
+    "t": "A simple, twice-a-day bathroom habit can cut your sick days short \u2014 it\u2019s not hand-washing",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmc3clc4eVQtTEhiVW1UZVJtUTJBbU81dk9sdUQxbklQZU5WQ2V5QjVYaXhYcll4UnMwOV9VX01VVHg0X1RaOWhDdFBUSXJuWUkxNEdHcDhkclB2b1I2M1RLRWU4Wjc0WXRmd2FlZXk5UkZBTnJWVnJtMFB6ZHBnRTZXWlNwRDVjQ0o2aUQ2ZGpNa1R2OUduYjVHek1IZXVEb2c?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-05T18:00:00+00:00",
+    "s": "The Washington Post",
+    "t": "New estrogen research may change how scientists think about women\u2019s aging brains",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVR0aTFCWWs4bFA5a0V6R0ltTFgxZ0hGSDJCaEkzcDRFZUhIVURrekNYdktoN0JYVWZwUEc3bmszLUloSjZmeUJkRmRXQmx5R2hhandkMXRjSl9LVzhYVHJTdEpWWXQxS01wTEZJRmlhQ1BPdjVpZWxZeTFUVTdNaWRHT3R1QzFsZGNMN2xoNXVIY2xRLUw1dXNhSW1CdUxOZXc?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-10T20:55:56+00:00",
+    "s": "Gizmodo",
+    "t": "Ancient Egyptian Cat Mummies Reveal Cats Lived Hard Lives",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHhKSGc3cDVmc05QeWg4MkZtWnI4a0VjNER3ODl1cVpPclQtcUlVQXBmS08ybmZpX2tNdFRCYnRCRmI4MkdIRy1POEx2YUp0UE5tV3VsakJEY1ltVUwwbUY0U3FWa1pZSW1WQ3RiMTVuZkEwV2ZVSEtaV1JpeXZFQXJJQWEtTGsxM1hCbGpXNTRnVVpjX2syU0xIeEkyNFRzbXB6RWpvVlRua1oxcTlYZFZlZ0tWWDZLWEZySEU2UzZhbGs?oc=5"
+   },
+   {
+    "f": "health",
+    "p": "2026-11-09T16:42:00+00:00",
+    "s": "The Guardian",
+    "t": "Medical breakthrough offers hope to people with same stiff person syndrome as C\u00e9line Dion",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZBU1M0ZVFMX1k4eUFyekt1NXNPNmYwUWh6MlB2azFuY2hGZ09WS2dNRnZWaEZsMTJTNl9vT244dVFORWdOd2NVaGxKUml6RXBFWUZfMFFIaGRPRkNyYkRKYkI3UUs5V2p1Y2ZGOVRUejRQUk50clVNZ3VEWUF0aTFWVUJ0RWxzVzBfclFVTzZ4YXpUZ08xXzlEUzAtenhuLTlBRV90N3JsMXJBUGM1ZHZZVGVtTVVsNWlfbGdUWllpQ3FIbTR1LVFFbnZjaFlqcWxB?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T16:10:48+00:00",
+    "s": "Gizmodo",
+    "t": "Scientists Discovered a Mushroom That's Both Toxic and Trippy",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3B0d0twXzdHX0I0amNFYWl3UzZVLVcxelVZMUFoWWpmS1ZSdVY1RWhfNjhJb1JBemlmUXAzZlpwMVpXR25ZN0FsRndIdVdZY1VzS0JzUjhneFdKRER6Nzczd3lqYVRRanJ1b2Q3UFNObTlad0VBVGFpTkpmSGpBOTlURExLcTRyVkZqOXVn?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T11:00:00+00:00",
+    "s": "Space",
+    "t": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T10:00:00+00:00",
+    "s": "MPR News",
+    "t": "A new scientific mission launches in Duluth: Hunting \u2018ghost particles' in Lake Superior",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1hhSTF1R0dXZ1NnWHJsM3JZS2ZDdzJqeG5fMGFteDY3SGpFQnE3V3otNUVNYkR3QkowelVoX0s4ZTZMUUJJODBjc2U4d0RQOTZVTExVbGdIVVFBR2d5MDVuZ0gyY2lxdHJFM3ZST05SR2pBbTNfeV93Ri1lbGxCTmYzMVJVZUd6QzJfenpxbm01VHRBLUc4ZlpOWTBMaU5nSU1sams5QkpFVThCZFlGOHVBRGhJeVI1Um5hdmY0eWxGYzJwbXU4?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T18:08:00+00:00",
+    "s": "New York Post",
+    "t": "Robot builds structure in space for the first time in technological breakthrough",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T20:33:49+00:00",
+    "s": "CNET",
+    "t": "NASA\u2019s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMldlTzROWmdVVHRPank5Q3paMzh5eUIxQVZJSmx2emRKa2xvejYwaVdqMHk5MklYQ21rdGtBZXRhQWZ3NXZrcTNqa1FvcEpuYjlhYkRsSF8yZ2NTeE9MekFVT2tlbWtwQU56cDdzU2o1QVBs?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T20:30:00+00:00",
+    "s": "East Idaho News",
+    "t": "\u2018Brilliant fireballs:\u2019 meteors to shoot across Idaho night sky. Here\u2019s when to watch",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmt2OFlsLThwX285cFpBamdyenI2S3VNUl8xOVdZWGdiazFoWjcwNS1qNkFUVTJNSE9tcU1uVmg2VDQ1YmhSaHhtZ1BRYjFTWi1FU2VVcmNVdTZXY0lKS1VZdm5HSjBzMW5Pcl9wd2c1TGdzQmlQMW1lTkRPNE5CRmRVZ3BfWjVRRl9xX3RZSWJDc1YxVThHSkZVejhEYk9fbzdObXpIOFB5d2FaQUhYN1NhektBWmp6U1E?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T18:56:00+00:00",
+    "s": "CBS News",
+    "t": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon.",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDRmRElSOGJjYjJmVFFTVzFhNHZJd2tpUEhzZ1liak9lT1hCeVB3bU1RN0xzMW9oVlZYRnM0WDE5V2ZWV1BVNV9OZFZ6bWxTRk9BZGVkODZIdkZFV3lsQXFNbGVlWjRFS2I1aTQ0N3djQ3BOY29JZzBtcS1QWXR6SXBIQnpXWm1sVnc?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T13:30:15+00:00",
+    "s": "CNN",
+    "t": "How did the universe take shape? A new simulation offer clues",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5udUE3YkUtOXg0RzFPdjNOQTVTZHpkQnJDOTB0WUJOSlNYRExPejJBNHNNZUxBNkx3cnZoQ0w0a2FoY0FXNllNa2Fhd25VaTJQYU9odkRPSTFraEhEVHVkQzdXei11LW51Um5uSWRBSXJhcVlqellqbFJiZw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T13:49:05+00:00",
+    "s": "Eat This Not That",
+    "t": "4 Wall Exercises That Flatten Lower Belly Faster Than Crunches After 65",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXROcGdWNUgtakU1X1JjZlRjOHhLSkhtamhRb3A3RUpMX0luTlBNa2lrY21IY1oyWDU1OUdXWnpSSDJqOE1XRUJPbmdoY3ZvLXlQaDhoQW5ZX0FMb2RpVkprQWJXZTFMcWR4OHNya3kxTnoyc3ZDdGpFenhXWjNUemtONTRUTFRDc0x0b1J1bHVhblNxaVRRMjdtOTI?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T19:00:00+00:00",
+    "s": "Space",
+    "t": "Uranus has a weird magnetic field that's stumped scientists for 40 years \u2014 we may finally know why",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlJwUl9LWHFWdUkyVmJyTWxra01KVTZrYWxtUFhVZ2ZYa25LN2tvT21SWVFHcnJ3c2ROVDY0eWp5c2s2OGk3M1YwXzJzTkhxOHpBZjQ1Smp2MnN2N09aa3J5WlFVeGFkSmJoSHk4alR6Qmotb2lPeHpEOFcweFN5QW1YQVpzWE1ZcGZaZXBCWDFpUFd0OTlqSFpkZmdPS0p3S0tqa3E3S3FZU0Q5Qng3TzVhaWVLUDY4Rjl4Zg?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-04T20:45:00+00:00",
+    "s": "Newser",
+    "t": "NASA's Sinking Telescope Has Fallen to Earth",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHpZSExsT2F0eDc5UlpvTVB2OE9VY04xV0NOQWo0Vm5JNjV5NS1xa0dHSGtXeXlkRTB6eXJrNjR3MW1OYkRNRzc1b1lmWEF6QXJaNDhNTVcxQk0xUjdPQ3pQT29fT1RkbkFBemROVWMxYmd4Q25IYmxKVUNEOTRROEFnS2dtZE1KaWE2cEV3?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T20:40:05+00:00",
+    "s": "Phys.org",
+    "t": "Webb's controversial 'little red dots' may finally have an explanation",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16YnFWek93Y2tWYlB0Snd6c09tTGVTOWlGVmpGSEQtRU9qTUNTRVZzNXQzQ2JkRWJGUnliM3FsLVh2bG5Welp6SE01TFZ2bVdQdDNrNE51bDNqeXdhLVd2MGc5SWVMR28xUkpLNXhUV0lGSlYzUFVHdE53M1B0VGM?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T20:44:50+00:00",
+    "s": "WRAL",
+    "t": "Earth is surrounded by millions of pieces of space junk and the problem is getting worse",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnFhWUhqbTdZQUY5azdvem94anh4NGdSaXVjVFR4MVNSWUdyMndabnRuUERaejFJMjZfWTcxems5SU4zdjVXSXU0dV92Tmc2RDZfWlUwN3VWQ25hNVZtNnZJODQxMktxTmhsVGtSbmNYWFBOTkFMZUJxWUk5ZVJleVZIbzRROXZYLVdGZUVGZlB0dWtrWU1wUEVwdndSZmNjcFFPSXItQ1FvQkxPQ0NUZXRxMk1fSmx1YVVr?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T17:53:58+00:00",
+    "s": "KTLA",
+    "t": "Planet 1,000 light-years away mysteriously vanishes before astronomers\u2019 eyes",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFdSal9Ra3NyYjk2UFoyOWFBZUlRWFRyajFHcTN1clUxMXZ4U0Zuak9XNWd4aEpFZ29uZ0JNdGZ1aU1UVkJneE92aHBGYVRWOGdqOHJJV1BfRS1qR09GbWMxZkIyR0pKdXBiODRXcnhad2Q5VHliUWZLY2pnYjdsMXNPbThqTnByNGRpemtnOTVmU1BIOGJNa3E3bkRTcW1OOWpidWtWVnlkamNn0gGyAUFVX3lxTE1OSTlkc2RlWXRTdHpDc2xZLVZ0Wm5rNG42aDduMkFzcnFpc0R5WmtoNS1ReDQ2U3hpcWZ5dkdQbHZnb0Z1MFItTE9xQzIyMlhFZG9IdVpRZkNqOGpCQnF5bGxZcm12Qm9HTVZNbUhUN0tPaWRtYy03UlYxOHRIOXBxMUZPNkdYSkRGdnVVeUp5UXBWa3BJMldoVG1ZR05Oa2JJSTRtUURRT3NKVnRDSjhYdlE?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T15:24:17+00:00",
+    "s": "Quanta Magazine",
+    "t": "Did Life Begin in an RNA World?",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hRVA5UXNDOGJDaV9FWldBRXpiekMwV3prT1ZTbnVfU09hcmZUa0p5U3dpendSZ0JKN0NBVzRqdWhnZV9RWjFLaWRkNUxJUl9fTm9xZlBJU3lrTWZ4OF9SNGNUNm9jZ2lhcV8xWWttN0VpMHJTbFcwOGdqUQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T06:47:49+00:00",
+    "s": "Science Daily",
+    "t": "A radical theory says the universe is twice as old as we thought",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QVdsSU1KX2RzMVFUb3M5TUN6Yy1VWFUtMEt4bVhJdUxPNkNwV0JZbzJVeFJkemNzMlFsM1djZGhfVXpYSHY4Y1FaNVF4dDVtYm9sUTc3d3llUEM1cXplNlg0T3BxT3hvNkNsZDRvcw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T10:00:06+00:00",
+    "s": "Phys.org",
+    "t": "Ice core records uncover widespread air pollution from early 20th-century copper production",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5VTBTZkJ0cjgzbG84VG54WUVoT0FUMV9aNTM1bWdNa1N4UDJidzhSU1ZFTjcwdXB4VUhGMVN3a09xUjRLSEJOekhlN21xSUdpRF9telhTNm96RDJFbzZzdDUxaHNGMWdzb0JYOW1PYW9zMmNI?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T00:10:08+00:00",
+    "s": "Phys.org",
+    "t": "Ancient rocks reveal when Earth's tectonic engine 'switched on'",
+    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kYW83bFJOVXZOVWJOWmlwUWp2VnNsUmhSTkxNNXRDOXE0TGZRQ2tBd1dQU3NhVGRBN0xCTkZaalMwbVRuVUFIVVl5NlJsZFYxczl0d1ZfYkMzeTl4bHMwRmpaNHp5TmVwT2dONWhkejIxdw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T17:50:00+00:00",
+    "s": "Newser",
+    "t": "Fossil Teeth Reveal Biggest Asian Rodent",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczkyX2FqZV9LX3JpM2JNZW9EcHJ2TWVMQzM0RjVveW9kdTQ0LVlaOUVqWXM4dHpiSlp1cEUzcTEzM184V2VjVEZmZS1uRE9PekdCVzJ3d0F0VE9wTjExeE9YT3NPNXd6X254SWdvOEEzV1k0cS13RE9mSVFNVlc4OTIxdjduUmdBMnZJcWlzTElzNlNYY3lNdEFn?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T18:45:48+00:00",
+    "s": "Nature",
+    "t": "He spent a year on \u2018Mars\u2019: NASA science officer emerges from mock mission",
+    "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kQ1ZYVUZFcXE5UXBxX3pQVW9ydERnZGtieGVTR1lrQ2VQUDl0RERyWVVodFVpRWFQZnlNY1Z6MWdLSkR5X01DWDR6ekZRbUw3UjZZd1FKUUpnSHdVS0dB?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T15:07:56+00:00",
+    "s": "SciTechDaily",
+    "t": "The Solar System May Have a 6th Dwarf Planet \u2013 and It\u2019s Been Hiding in Plain Sight",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRThfZU4taFJjd0YtaEd1ejl2TmhJUVlLWG9MUkF3bGhvZmFDODJzVTZPSmRKZzdvTU1BTkRodVlkQ1VTZHA3Y3otYVk2TTBlZUdna1htZXdueEFkX1R1SkVROWYzLXVHZjRqZHFXaFdNbEJJaHdRRUJ2YnQ3aUQ1X2lHYm05dUVnWjdzQ2pROG1ZVzhHT2tHSlZzcFkzVWNiS2w5ZEpZNkE?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T20:10:01+00:00",
+    "s": "Phys.org",
+    "t": "Gravitational waves hint at black holes born from failed supernovae",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JLWxzTU90ZGdrd01MYi1LUGpnREw2WWhjSk5FMXhGNTNRdzhZaDFWNHVrcEdlUFNmMUlfV1cxTzUxUHZCRVRSQmVzSkNjQ0hmUWI2b1NrdEFZNmtPUWJGNnBLc1Q1NHAtVnFjSnBELXZ4LTY0eVpGYzRB?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T21:01:27+00:00",
+    "s": "KATU",
+    "t": "Every second matters... or does it? The way we tell time is expected to change",
+    "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbEdiX1NEb0NsZWh3NGIxOEFDbkhWc2ZvUVB6aW1oMjVDRVByYzFOU251QlJaLVlDLS13MW9yRTMwX3EwNWNhc25FNDhNOHUxVHh1VGNHd0ZOQjF1ZktvYkxET25vWGJlZ0RsZDZVSGNsWXV4UFF0UUxfcHlaaFVVSWtuclVsaUdPUFZfNnhBajVDaDBwV2psaUhLX3NzQktKZGlnN1FvN0dGZ1VZV2lNRFBYWUZEV2hFbi01WGdiTWlNM20tWTNiZENZbFlXR1VfZTBucXJfR1hlVW85b0ZkLU00SmtlQzg2ZUtIYlREcXh3amUyQWR3enhNc0tpUQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T14:28:07+00:00",
+    "s": "CBS News",
+    "t": "Fireball traveling 47,000 mph lights up sky over North Carolina and Tennessee",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5VTNvdW43RTltWFA0TzZUN3NnQXhGLUVtcnNSYjZOSHBpRmhjZ2hpUVFQNEtkQnpBSWd6eUtIU213ZFRiOVlVdmhSSWo0VE00cUI0TDI0MFhMSjdFUHJ6ZXlFS0VQSGZ6N0hNenNidzg0M1R1N3BLYy01R3FRdw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T14:30:25+00:00",
+    "s": "Good News Network",
+    "t": "Martian Volcanic Discovery Could Be \u2018Smoking Gun\u2019 in Search for Life",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk82QzJBa0VXemRuSVVmS0Y1X0hSaS16blhFQ25QNDV3SVVkSjlmbjZKSG81dVV5c0J6ZTN1cFV4MUhfeXpteWFtaWRQd3AtTmRNVWs3OUMyYzlfVjl1YlFPOFZHd2l1MTVITHVGR1dsLS1tU3BjRVE4dkVla29Hd1lWV2V6UkdFaTlFY01BSDk5U3Q2WWh5UmZlY3NWVlo4?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T13:00:00+00:00",
+    "s": "Yahoo",
+    "t": "Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood in a 115 Million-Year-Old Bone.",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMThsaGsyYWVUNzhzaXl5SVJtNGNuQlFXZE1xMjRISU5pRGVTWnoyZXJxamJuUXR2clF5bDFOMFl6WWxEUkIxbHpmX1FWbUw4SkdkYVNMdUtQS0JkYXZ5VGtMa3RiV3BHa25lTVNmVjIwWFlOV1JpNU5KaUotQU5NMkVIQ0liX1IwLUZhazhxcWpHeUlTRnozSF82a0hIQQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T11:10:00+00:00",
+    "s": "The Colorado Sun",
+    "t": "This state park is Colorado\u2019s first Urban Night Sky Place. Here is what it means.",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm5KZndGUlhsQmVkV3RwZ1p0YkRhdERBTUdMWm5Ca3FsUlJaT2JoWTFRdnczc25fRUMzQWlzeU5WdUtqV2QyLWNuWHlTZzV3cnE4ZDZQR1FwOEpvVzlyc3dYTThtUVN1cjhTWEpmYUFkRVg4WFl5Ykl4R1pRQ3ZjaVZjS1pOa3FuenRxWmVMQkc2QjRQVUxoMmc2aGFLdlRxRG5yajRGV0VLQQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T12:18:08+00:00",
+    "s": "Science Daily",
+    "t": "Paleontologists discover \u201cone-in-a-million\u201d fossil with 450-million-year-old soft tissue",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CemRuLS1nUVV5dmZabHpOa1JxRml1ODRZLXR1M3NuWEdSYkJqVmItY0lHMThIdTB3djFxcldXMGZzcEE3TWtVdGJBREQzQVphOEZHcG0wMzhCb09JQ2t3VVVPdDRxeTJMalFKMzRucw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T01:24:03+00:00",
+    "s": "ScienceAlert",
+    "t": "Here's Why The Dire Wolf Really Wasn't Brought Back From Extinction, Scientists Argue",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQktCRjdrQXBPLVJWQjllaWVrdkRiSThUQTJIejRLRDFkY1BiUFoyQm5SeURSVmExS0ZpU1owOGhHVWo0OGF1Y0hDcE5rSTRWaFN2anVkV01vN190X2g5TzM3ekp1RUNJSS1VRm1uRmR1M3hsQlhRMmhzdUNsUVg5N3VIZWI2cjgzRTBkR0JqOWstbl9lSUZHTkpLSXN2NkhFRTNYZGY3VFJmaHR1WE56Mw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-06T13:00:15+00:00",
+    "s": "CNN",
+    "t": "4.1 billion-year-old Martian meteorite holds clues to the red planet\u2019s watery past",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3NrWnFiN0o4YlUwMDRwcVFhaHQzcEhyenJJeEdnd1NPcXFMSWcxUkZCNEdaMV9GRktOaFJLRktEMm93NmphSXM5NmNlWWZqUC1QNV9qU0JuRk9WelFONU9XckRuWmNoWHdqYzVQano2UlYteUtkQ2x3UE9tY0hjX0JHcVY?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T01:04:56+00:00",
+    "s": "ScienceAlert",
+    "t": "Scientists Simulated What Earth Would Be Like if Life Never Existed",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2JJVVRDUVhmQ0d4QVNTd1B4OTFxRjJ0WXVWS3FsMVpXbGpPdW0tMklsbExfYUN6cXdodUJDSF9QMlBMaXZmX0wxdjEyUm1TM0tKNk5JWExKVURiNmNtbUlQVy1kdEd3WWRQOVpHbHZOSHZ5VzBpUXdNVVdXWnNhc2N4WTNweUo3THppUWIyYURkY2tacGhlZ1NWSUI?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-06T17:53:07+00:00",
+    "s": "SpaceX",
+    "t": "Go For Orbit",
+    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQzl1R0xIWEFvcTRFWkdmM2dhUVJQUklNQzBiaWFOeUJzdDhDeDcwWFJsdEtLYmZrTzBUc1ZJb2VRczlkdEZaVzU2Qy1RY21VdWFrYTM1TXdXRmJocEFkVFNB?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T22:34:02+00:00",
+    "s": "KSL News",
+    "t": "Have You Seen This? US Geological Survey worker shovels pile of red-hot lava",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb28tekZ5NXlUVFd3VjNaNlUyTjR1LTkxcmVPZGdTNHE1Z1M3Z2FfV0FnWlNNODVaVTEtNHMwcDE0UEtVZlJ5VE5veEN2eEtQWWd3VHB2QndzQW1fdUNjb1FqVVdxcE8zWExXSHZTNkpnTWRZN28xTm9ZMVR3aFc1cXBmQ21wVkhPZWo4MjF1S251YndFaWZ4Ung3VWFkNl9lUVcwd0tMTkdKdWhPNi1jRnBR?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T15:12:08+00:00",
+    "s": "Quanta Magazine",
+    "t": "The Case for a Bubble at Life\u2019s Start",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUsycFMtczZuLTF2emNGaGpHSElCZEUxUE5YdGVTbDItNnBoSGhqdnRkdkZLTzNId0hXVjdlQllrYVgwMlpYQ2xUNVh6YWJDNHU2ZDFCTm5MZXd4Y2xfZ25PWXZLVzdXemtEcEJWR1JzWXdMdk5UYVlJU3dYendRR1VwOA?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T13:27:00+00:00",
+    "s": "Syracuse.com",
+    "t": "Adam Weitsman plans research observatory at Carl Sagan\u2019s former Ithaca home",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0JLM1dlbUVJYk5zMjhjal9JdHZJVlNBeWtGUjJmbWdpZGJXaHR2Q0EyXy1BQnpwV3FhT1J3b3gzR0gtWkFCNFdBSkF3Njhnc3F1ejdQaE45ZWpZR24xRlZvVTVYSFV3VzFFVlhLN3N6TGZkNDNZc0RKWmYxQ1llZFJQaHBxZ2xhcW5jeE9ralRzSUtib2hldFFtTkFhdVI2Vy12U0ZIenVxWFpQaEpqM0tpTXBuOGMy?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T17:00:00+00:00",
+    "s": "Space",
+    "t": "NASA just unveiled $1 million in prizes for students that solve future moon base problems",
+    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjY4ZnZZNENQTE5sUm1iT0F6dTkxZkhjaTJBZy1fdy0wVExuUjhnM1JNeE5PZm5hSm1Ud3JRUnJFdGlMR1FCTWlrZE9vUF9zTks3RFF2T1BSNld0Z21qUGozdVZPS09pQ1ZKV3J1cElZbHJwbnFKaUtBYmduSnlNalF0TG9RTGk0a0l0eV9IMGFzcFE4NFZENEhGTHFzWUM5TThxN25JOUs4VGo4N0NQYjE2aVJmU0xvY3BMMjU5ZzhDeV9WaWtlSDViY0gweU5TS2J4QUJRRnNIZWg1Zlk2SjVRdW1mSjNJQ09GSV8xVTFrSHhNR2pOMA?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T22:10:06+00:00",
+    "s": "Phys.org",
+    "t": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55M016eHdjc2pZTHc2b0JwdTF0R0VoMjZlMENNeEhXRVRsOVRUV1RReE1ZelBLV2JiSTFNS3d0QTY2V3AzTUI4dXdfdjFvLXhBaXpWWU5FZXhVWjJobnB5OTVpWmFSMFlXZTNOanNqdnNfanVLVm81ZW5tQjJyQQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T10:00:43+00:00",
+    "s": "The New York Times",
+    "t": "Could Alien Life Thrive in Acid Instead of Water?",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1ozUnVKc3RSNHNmOWVKYUNkT2tIeWZUeF8tRExLZ3U3dVhaTjVKSzFvNWlCdmVNVkN3Q2tEMFdjTmJqcUo1LTNCXzFNWmtjWC1aR3l5OUhHUkdjVDdpNXR5cEJ6WFJrNE15c0ZFeS1OVzk4cVM2TTZfNEtCMTR1Z1VR?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T19:34:00+00:00",
+    "s": "New York Post",
+    "t": "324-million-year old California fossil found stuffed in drawer changes everything we know about life on Earth",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2RsNlNTM0RmeHZkbHFXOWRJWkFpQU1feXU3c0wwSmRGSTFGaGtfaWN0WDN6cl9xOHRiYmtFN2RlT0hWTjIxRWNxNlU5QWsxRXh6bTJmYXZJdm50MldyLVVrQWZNY1ZNTzJxSzdHcWhGWnhkNUhObFVoWVNkTk5GZnA5ZE9ranNoUl9mNUlLNmpTbEVEc2xKWW1nb2VoQVU?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T00:44:33+00:00",
+    "s": "Science Daily",
+    "t": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ybVVpYmhkMHQ2Tk5PQUZyaE1kdkxzeVk4TXUwSUhqbFJMRXlhZFNVd09MZkhiZGJhdkRuNXkwSk5Zb0RlQ0Vmb3VIeUoyQ3dSZm12dnp3S3VwdnRjQ2JDYXJKUFhFd19uVmkyb3dmNA?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-11T10:50:50+00:00",
+    "s": "ZME Science",
+    "t": "Earth\u2019s rocks are missing about a billion years. Scientists finally know where it went",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3ZwUDkzdlgwTlpXQTFJTjhiYXY0a3RmeVdYX1ZkT1o5ZGg4ajFlRFVYajdMeVN1cEh4cVJKY0tzelNuYS1NZDgxamZPQ05lOG5ISnpjaFpkZWVDeWtmUERZdUNnTkQ0UHNoRE94dzdNcTlhY3RlWE9iYnU5WGdpZHlvYjRiSVhiX3VnUVNYZzh1NmF5b0FXdmY2YkVyZFlCTkVNWlJWNkpfbHByTFhxNHZUTDZGdVVnZXJRNWVDYTI3anZ5emFr?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-05T01:01:00+00:00",
+    "s": "Daily Kos",
+    "t": "How Trump self-soothed as the blue tsunami hit",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFRUZWRHQnNuTEFrQndRbFlaVUFKWmw2X1cybHdVNjVieF9jLTlHRG91VGdsTGlaWDc3NmVmcno0ZGdlRWo4VFZ4TVRsd3VlTFBlc2NDWXFnWTI1VFk2b1FRZ3RmOWdZXzd2ZDE2MENMZ1RMMWFuU1RqUGZvTmlOSzNUNTFON1BxMUNqLW5kRVRpdU13SUU1Z2NzZXZVcFJWTnVKTGo5bktENFZ4eFln?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T10:01:59+00:00",
+    "s": "The New York Times",
+    "t": "Does Rinsing With Cold Water Really Make Your Hair Shiny?",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96UEdId0ZIQTJTZDMtdzFLbFJaalltQ1BYZVBFa3gxZTlMMjZLUEFwM1VyWFk3TWw2cEdLQnZjLWloRW1GUlkwNUZrLVhsbTNRal9HQ0N3Rno4ekZKRGdGaXRXN3dYeXhZU2p4cnAxSGlpOW9S?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-06T09:26:26+00:00",
+    "s": "BBC Sky at Night Magazine",
+    "t": "Artemis II launch tore a hole in Earth's atmosphere, say scientists",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWdfNmFEczZ5NzNaRVZjeXF0UUtJMEdjUjVIeWk2RXhnYXk0RW5xZldVa2lPQ20xOGlvZnJpMG4tVERPdnpMd3lQV2NpYXdNd0lKcmJMaEFvSVZfMmN4RjdrVjRLWW0xREtlS2pYeFBDREU5SjYxREVvSmpFU1ZUcm5rUUVoeUdQQlE0VTJyb1VUUVE?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T22:02:24+00:00",
+    "s": "Sci.News",
+    "t": "Fossil Skull from Peru Reveals Pygmy Sperm Whale with Record-Breaking Facial Asymmetry",
+    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TME9ZeExMdlhVTEVJZHNSeENiU2hDa0hfOGRLTlE4RTlJZ0NmUm0wcnRHc3pXQUVhUm9DaXFJd2lqdHF0bndfbnVCRzVNQktQQWMzNEROU01PUGNnRHB1VElBWk5QdV9aVThMc0Q2dEhnZk0?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T14:03:15+00:00",
+    "s": "Vintage Aviation News",
+    "t": "Today In Aviation History: First Launch from Kennedy Space Center Complex 39A",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW9ETU0yYUlhN3l3NmhTQ0xCdWxWSUhjVEh0d2NicHh3U2Jhck43ZUl1bWdxNWcxWVhTNFZQNlJiSWpocXNWTmwya3E4ajlOWkFnd1htOV9QZGNaWWgwY1h5dzN4QVNNMERJeGhzQ0FoNS0xdmtYMjVUSml4LTFxSFJFU0V2OE1lc0U0TnFNcFpWUmtMVVo0TU53SEFJQmNVdUdoZ3dIdWNLZEtaZEhjV295RU84eXEwU3o0cVNJemdHa2UwbDZucHpn?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T00:30:06+00:00",
+    "s": "Phys.org",
+    "t": "Accidental discovery enables room-temperature recrystallization of molybdenum",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFVycHI5TjdFN3Q3WXJYTEtlR0Y0RjkzLWI3cjVDRDM5LWRRX19jODRMNy1reVRsR2s5aDdVSVhCVjBDc2RrOVlWWWhTb1F0TUp0d1VSQ1pVaTFra1ZqempHUnF2amNDUllKTDVHWVFqdnc3d1dlbW9jYVpHY2dFU0RTMGdzcG8?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T12:04:21+00:00",
+    "s": "ScienceAlert",
+    "t": "Scientists Reach a Record Temperature: 280 Billion Times Colder Than The Universe",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTNWVmNtNGtWZFNhZHl4aFM0NkN2c2R2bkgyN2pManFSVHpRU2JiSGZqa0cwczQwZkg2cVZNVkxPd09JX0VXcWZzTHREYWkyRUJLY0syYmM3Zjhwamd3NUhNSVk1V0ptbDludGc0MjVRdnUwVmlTd0dhMnNLSWhhR0NuV1U5MlBlOUk3TGU3eDhNdlZjdklTeE9GQmlyalZ1T1VSb2NjRWYybHRacHc?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T17:43:00+00:00",
+    "s": "New York Post",
+    "t": "Sun's hidden twin is hurling killer comets at Earth -- and may have wiped out dinosaurs: expert",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcG1JUlF2S2gtWmQ5d1RLdHpaX2R5MFhPU21lQ2NhdU0zd0NMbEVoeWR2NEJrX0c1cExjSTRieVphV3h5V2wtZTBUbFBkTkhiLXZuNHBQNDBMdlJSOU1oR2xqa2dCaU1Ra0xzTm9ZRF92aHZvZWxOSmkxY0ZUSUZPbkx0ZHFZZElfNXZNSlZpUjZMdS1laWVqV2ZJNmlQcWRqdjMtZnVSd2NLZDVnajJpR2xDd01HSlVWcmFJUlFkUTd4cl82NzduWg?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-08T14:47:00+00:00",
+    "s": "Yahoo Tech",
+    "t": "Starlink Satellites Fall Back To Earth Every Single Day - Here's What Happens To Them",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDdDM3Jialh0Q2QwTjVLVkJKV0p0dUFZTnBISzRxaHdTMjFPTkh0UGhvLWxOcjZmY0wxdngwM3dISjVOeDItNHVhaWpfQkt5MnNiNE1lcDRqOWtoejVBSG5zUFdnS2R1OUU3ZHUxQnJPckJHYXBTaE83c3RYSUQ4YlBocXhfNDdKOFphNDhNTnY1VUtX?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T20:20:48+00:00",
+    "s": "Gizmodo",
+    "t": "An Earth Microbe Can Grow in Simulated Mars Conditions",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnJ2czJydDhkZmMtSDBFR2VWZ0h2a1dhRl9YMVE0Q1c3MmRKWkpYaDUtMnpjU0JNcXBlckh2LWRLbXFPTFVSUEU3WjFhbVRsck1wZlhrbDNvdzVLLXJQNlBEWGdKWHRHdXl5M2FwWmdLbVpCWjNaUV9EWTNYWnlac1ViWUkzM0VuS0trM3NZS3hWa2hlTmItQVZjUlgtaFhldURxWkJjd1pMYnc?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-07T19:04:12+00:00",
+    "s": "ScienceAlert",
+    "t": "Scientists Discover Two Enormous Tears in a Tectonic Plate Beneath Iran",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGwyZnYtMl91UmxiWDAxT2hwNDIwYzFwd25CRzJnVHJuZFNmQXFzQTRPaVhRUXVqUE5RT3JQeUdwWXZoNlZrQlFuemppRTduWnhhQVYyTGluWnU0SXFtX01Bb2hSX3J0UGJsXzhoLVhmYWY4MldEdUZXVVNIRGM3dXBnd3cyWGlmNFhHU0lYN1lJbWJBaElRbWg3VTh5bTI1cVE?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-07T10:01:43+00:00",
+    "s": "Reuters",
+    "t": "Astronomers spot white dwarf star with two rings of planetary debris",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVRYOHZVMWNvcVJ0TlZQcGViUFRVaGVlOFk3TEUxNDFLaDd1V2tJMkRwRnlkOGNWVDVUTGtRZ09DbnlNNXFKX1VXVXBJd1BGZ3Flcm1tTUdydUV3U1c1MDA4c3ZzMERjY3ljcnRUbk1jZ3RNOVRTc3Z1RGExU29iSVJEUDEyYjRzajh2SElnN1NIQzZZSXIwc09iRjFaVGhZdEJ5SzduUE9EWnFNaHc?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T15:00:00+00:00",
+    "s": "Space",
+    "t": "Curiosity Mars rover sizes up new 'Nazca' dig site photo of the day for Nov. 10, 2026",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSl9PZlJGR3VHZWY1eGNZYzRXWFBqZkJ5SHBRZEJtSm9yZE5OTzJGU2pRemp0TmZOQnB0amlBblFlQzMxY0luS2JheGVBQng1VUFLTTdzb2hUb3VYT0NsQ2pzeFJ1NzN2YjB0b1gwaEdwMUV2UEh6Z3QzNnNYdXRhMzlGSlJDXzljU2RwNlA3Z21JR2ZFY0xWaWREWUFZYlMtSm9tbUtfV3VxZzFQenBtNmdLV01HRHVUMFhiS05nVUJhdw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T18:17:00+00:00",
+    "s": "Yahoo",
+    "t": "I Snorkeled Over a 663-foot-deep Blue Hole in the Bahamas\u2014and Nothing Prepared Me for What I Saw Beneath the Surface",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGhKQjFLMmhYTWlnYjM3eDdBMjBVMEI5UVdSbkZXTjBJeXhGc3M1NEFxV1dmQU9JTEhfTjY3aTNSR2JwUEh5cW5XYVcwZ0dSZFJCNEttLWxkb2NjbzA4ZGhNRkpLeE1Nd0otT3hqdWNZbkZ1TzEwUU9oNDRMVk5Ea0lzWks5Qk5tZ2lPWGp4b0NKSTkyV05B?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T14:40:08+00:00",
+    "s": "Gizmodo",
+    "t": "Astronomers Spot Backward-Orbiting Object Beyond Neptune",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWpWd19yVFRqd1FyWGpZUkpmUEZTSVJUVVg2ejBEZzBaV0NWWmVuUTZrSjZWUDU5V3lGT0NYTVR4d0pmWTRXejVnQXk5SklEUEwzRkNMZElVc3l2Z0hLR19Tc3luRWR1ZERlZlhCckgySmR1UzZMR2NmcF93UmYwM2dwVmUzbU9QOEM5UU1IX2tQNllVM2g1WEhVS3NXMzVJeTlSbGFmc184T1daWS1vVElHZ2k0bU5J?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T16:50:01+00:00",
+    "s": "Phys.org",
+    "t": "LHC collaboration presents first result in the hunt for 'quirks'",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tOEZrR1dUUURiWUFOeW10OThXSUFIVUdybzBRNi04SDU3YjE0cWJzMVdMS2VJMkhDQkU4eUkwUy1qLWlscFZCdDJrT3lqUmhGWDNFS2VQREhick85RHRrOVVMWksyT1lmT2FTT205TkRfc1ZS?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T14:30:00+00:00",
+    "s": "Yahoo",
+    "t": "Blood Rain Has Terrified People for Thousands of Years. The Culprit Might Be Growing on Lamp Posts.",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2E0UTBoai10TlJjQ3RsQkVta015TlR3OXNDMWx3VjBwU0lTQlhfSTE0X3BLcEF4bE1SN2p0MF9FdEhqeVFrejRfZ2UzbU9vU1E2QXloeGl2MDk5RzM3R3ozQ1BsZElMdXRkdmRJempOZ2hBQXBqZUhYZDNTTFNvQmxJemVGUk1LWHNnc3ZUUE9UcDRIazJhZVZPRTU?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T11:04:58+00:00",
+    "s": "ScienceAlert",
+    "t": "Einstein's Equations Reveal Gravity Can Break And Reconnect Like Magnetic Fields",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWVDbkV2V2l6UktXM00xTDZKdTBWRGh0Umo2Mm5GUkVZLTYtV0lqZ0QzYzA5cXdQaWUzRk4zSTZESDlSbDFMM0NUY09Nd1FTaVBCaE9sS3c1RGJfTEpsY1FTMFBGcExUOFQzMktvT2E3V1dVaHJ1X0o3NWJHUmhrdjdSOGE0SWg4SU9lRlJMRm5LMFM3NW5ZUGN1LXlCUVVTMWlKX0N2MVBSaWZ2?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T11:12:30+00:00",
+    "s": "IFLScience",
+    "t": "The Taung Child, The First Hard Proof Humans Originated In Africa, Is Even Older Than We Thought",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2NrdkZnMjhac241TVppSEI3Xzg5Vjh0T3pQR1FJbEZyd0o4UWdGNGdmOF9hVDF3b1F1eEYtUS1XVEppYjVJYW42b0RPWmR4WlhGZmZxWUxjZTdKV05rNFlfVURGYTloOTFReVR1Y3JjUFNHNW9jTnRDUHF2WTVsUjQ3VlNpdDNURmQ2eUJxNGI2SmpwZWF5dGpPMFNnV2dVVERBanZLaGJPT1ljaDBIbFFIWElJZkZueUFHV2V6SGtqb3VFSUE?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T20:04:16+00:00",
+    "s": "Phys.org",
+    "t": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots",
+    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oNlBXR05MOVZpMEdKSW1HN0g1c3luX1RoNmRQQ0wyWTNjTW5EZ20zNFlicUVPeXFhanZHVFNqS1FVRy05dFRfcjdOODc2d2RlaThEeFR5Mzl3aUwxRWpIbVRxNU05WFN5SWljZ19MU1Nkcmc?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T13:40:01+00:00",
+    "s": "Phys.org",
+    "t": "World's most sensitive lab-based axion search presents its first results",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mQk5lOUZDb3Q4ZXhRbFplTnQ2UWJrV0pvMThNbXROWW9iN0NnUXByMDlQdTNRRXhxVDVKem10Zmg0S0UxTFA4U3FzN3lMZlN6SW1nWElqQjZ6dEx4bDFsTHo0NFAza1hqMVdsQUJXdWR0R2sx?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T07:00:00+00:00",
+    "s": "Big Think",
+    "t": "5 big astronomy \"facts\" that changed in the 21st century",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3N4M1BkUEJ1aW5LeUozZFQ1TnkzX0I0aGU0YmFzS05ERFoybXVjMjYtenltX09KSkQyclVGZkJhY0xFLWdzZE83NDI5RnhwNFlHQl82WUE1aXdMS3QyRG0xLURjUHg4b3c5N2FFYXlfMFhqS2JBYXBKaFYzbGlPengzVEZyUQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T12:32:08+00:00",
+    "s": "Science Daily",
+    "t": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZMFV3bXhDRDI0OTNNREZXV0dCVVpUMC04WnZuMzQ5aWUtRVBmNnRVV3phSlZpRXQySGtSSy1jdWRkWGttbnZmMS04cl96clBzZDRObllrS2NsTXF0MDJhWFdjSWhmb291bFcxVWR0NA?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T12:51:00+00:00",
+    "s": "The Brighter Side of News",
+    "t": "A new twist on Schr\u00f6dinger\u2019s Cat could finally unite quantum mechanics and Einstein's relativity",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnZUcHB6R3F3dG9zWGg4RG13S3EtVEo2Z3VQa3UydFVYc1ROOFFpcEx0b0JvR3REMjZ1RGJkV0dNNXFZc1ptYXpuaFBfTHNYSFd6M3ZmaGxYWklib2tVSE1DS0JYY2pqaWgxSjMtZGtYYXNiZkhVOTRvM2QwQTZYMnA1RjJkQktwNHdORU84QzVNWTdZbE1GMzAwN0EwN0FkOGN0WUdfdS1fdUppUWpmeV8tVjAtOWpMYlZSSmVRbmdOZy1NR0R6MVJrWFNmdw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T18:20:40+00:00",
+    "s": "Gizmodo",
+    "t": "Japan's Hayabusa Is Racing Toward a Mysterious Object in Space",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd1FrT3VQWmxNQ05oTmNnNE5KUG1fMTA2R1hjc0hjTy1TbWdIbzBGT0ltNGxCNG5idGRSUXFGU0Z3Q3V3RkQwclMyMzVLM1l5a1VVcWgyT1ZUNXByME9SdXFmb24xc1JPMURoQzJGRE9SaWozZUs0UnJGX2VlYjl0OHNGRk1Vb3lqZVdhaDJTaUJoVERGbkxJeWFEdkFNcjg4RkExcUlBTm00eUpnbEdzdEdLTmgzUlVQcDRvXzREa3hfcFJTN080MnRGR3Q0dw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-06T08:00:00+00:00",
+    "s": "NASA Science (.gov)",
+    "t": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWJxZG42MmFlMzN3Umg2SEJRdkhydG1yZDROWHloMlh6c3FqVmpUaEd2X2NLLTBzVklYMGFrWWwtcnlkdnF2VDl2clFqZXhMYjVac19YT2M1bWpWZ25obmM1bFVwYTZmXzRrQTRDaEgtYjZKc1VDNXE3Y3ctTGhmMTUyYXRGbUttWDQxRFZfXzV6cFRmZWJuWA?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T11:21:31+00:00",
+    "s": "Science Daily",
+    "t": "A quantum breakthrough makes light behave like both a solid and a liquid",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RaHZCSFFIbmZ1Y05DWlQyQmFoMzgyVXNoN3Jta2tFSUNZcUtMOV82RFNtdU9HV2kyZGdxNUdsdkEzX0pEMnRDQVpZeGh3VHZSUTk3cDR3QklDSGZGR0J2NG8wbmc5d0tOVkVyc3ZQZw?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-09T13:09:00+00:00",
+    "s": "Women's Health",
+    "t": "Experts Say This Type of O May Offer the Most Health Benefits",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGJ4SjY4X1laOWFnTUJOcGRja2hXTm01bnBheGR4SFZHZkVOb2dMTEtSWHVxQ1JaRUhDVmFjdWRxWFhEblZnSExxUEhVR0FzQXZHeW04RjV2LU11WjZlOXNFa0swZ0pRcmZQakJqaFhPZUpYSjRrQ0dEM3dWRDFTQzhDZ05iUQ?oc=5"
+   },
+   {
+    "f": "science",
+    "p": "2026-11-10T00:10:14+00:00",
+    "s": "Phys.org",
+    "t": "Methane-eating microbes grown on electrodes build electrically conductive nanowires",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGoxVW1EczdLV0l4OVo2dE8zWHoxc3BPaWRTTkRPd2FTekZJRmJ4bExIWldJY0Q3TmtOdndYeDhSaGc0Si0zcTAtVjFpTDZSdkxuZmF2NDBuUHowWDdCSEZjcVNZOEhPTmxWMlZuenZ5N1R2Yk5TeDZ3Q0RxRmRycVRpX01jRVlV?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T18:11:35+00:00",
+    "s": "Yahoo Sports",
+    "t": "NFL news, live updates: Browns to start Deshaun Watson in Week 10; Vikings trade for QB Kirk Cousins",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGdKczhRTlRUUFZFdGVtU0tZSHl3S2tlbjJ1YTc2bXZEU2NPWGF3T215dVpoT2VrN19kREhFWWQ2bklPQUJkeUVwdWZ6THprY3lTSXN5amk2b3kxSU50MHZvNjJjSWE0RjJnNXE3TC1HOXUyazRZNjZEaDBFcnJmbkhrdzR6OGc?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:00:12+00:00",
+    "s": "247Sports",
+    "t": "College Football Playoff tiers: Where every Power Four team sits entering Week 11",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaXFTajA5NkJiODlhakpPcXo5RjRYTFNQRjRnWTdVT1NMeXd0ejl3ajBvY29PQnFKOXg4UFJfYnpfY09zbG9saXJUUVRpdUlKdGx6NW9SZnNiR0FsOEIyYVR6Ykw5RWV2WXJQMGh1XzZFZ1ZfV1JKdGJ2RTlKdzZGUEY4dXpodw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T12:21:00+00:00",
+    "s": "ESPN",
+    "t": "Inside the tension, suspicion and history behind Amanda Nunes vs. Kayla Harrison",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkxRTGpmaTFzNkZPaGdOZ0xHUzk0eFhtUVExNVdJSzdtNnN5aUNWWFNNMU9MT2J2Y2hUM2l4dVlEYlh6ZXhjNXhCeXhrNk81VEt4SjZOaXkwVjNFbFI4X3FrMEFMMHl4eW50NXJobGdVRE91NnpWU1NmRkFyZHFpVDNhMjNRR2JkWTdN?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:12:41+00:00",
+    "s": "The New York Times",
+    "t": "Manchester United finalising deal for Mauricio Pochettino if Michael Carrick departs - The Athletic",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2VnY1VPVW1kMk1wN2ZfUkYzZ0NkcTZUUU1nM0cwWGp6Qjk5MWY1QU4tSW1MNnA1WnpjZlNkbHpFbC1KT056NnI3VjRzVEVIVE0tbnpxOHhuQkJ3eXJ1YUtETkljQVEtSk5Wd3JuUnM3R0tlTWxMakNPWlI1a3NGSnRORXRYQ3c5aTdyaWNOWnFlUWRuMXdDXzhNeUZIX1NyT2RRSkh4RQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T12:00:03+00:00",
+    "s": "Sports Illustrated",
+    "t": "2026 NFL Midseason Report: First-Half Surprises, Second-Half Storylines and Super Bowl Picks",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0NnZzNDejZKd1pub3JvSXVnZngxLUZmT25aRk5LS2RidzlNUVk0NDIzbE9jR28xT1BvZ3A0RkpmaVBCQ0IzQ095UU1ZLUZxWkZPcHVpYnlKWk8zcmw4XzlBcFd1ZWdvTFgybkFsLWdSajhiZ3l5RERiN3RsRlRkbjAtQk0tbFE?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:08:00+00:00",
+    "s": "Defector",
+    "t": "Jayson Tatum And Jaylen Brown\u2019s Beef Is Severely Undercooked",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPczk2a21jQnZJN0FGM180UzB5UndpZHZwNEJBY0RKUUx0NUhTbndyR2pkWHIxSE9mZmNLRFd6LWhMeXhpcHVKNlJXNGtEcXdIUWx5Y0FHdTJuTG5kM09NWjZubC1LVGtSY2U1bU9YS0V3a3BwN3NDRWtXX3NTSUlvVTNKUGtNYTg?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T11:55:25+00:00",
+    "s": "Fox News",
+    "t": "CFP reaction: Alabama feels the love, Indiana gets the shaft and Big 12 gets relief as committee confuses us",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3pCTGhDTVQxcllJRFo5TXhzTS1ubVgwVEVNOXM2VzN2VlVxSkxQZ05zUUdhdmw4dVVvNmVIQ1B1aG9LWE4wa0FhOXYzdHZMUzE2cHFTOWM2UnZOWDNCMFZQUzFqRWRxbngtQTJka1JlVE5DbEJKZnlYQXhoTTJsNm1pdGxET0x4WmJ5SzludHBLdkx6emFWR2dOczluVWxmQkpFWVFEY255YVl3QTJjaTEyVE1JUWxxcnpqSWR0clRaY3E0T2duNjdB?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T18:07:43+00:00",
+    "s": "NBC News",
+    "t": "Former New York Jets coach Rex Ryan charged after allegedly running over feet of two pedestrians with truck",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGVLMmNRWjJRcnRBUlRDZWd2VV92TkZiVFNxeUxHelFsZVZzeHduNW82Z3MzWXp6SkdvSTZESTdaM0xhUjNBelFoYzdlNjFfWl9RTS1YWFFEZDh4eUJqb1pOdTRsM0RhQnp3cE9QN3FzODV5eDIxVXlxamd4Qk0xX0VNeW1BZjZuZlVmWTFqLXdkVzB3R3c?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T19:07:30+00:00",
+    "s": "Kansas City Chiefs",
+    "t": "Five Things to Know About New Chiefs WR Josh Downs",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlZqeERUS3l0UDh4eWR2TjlaV2tNX3hNd0NfOVVobVhlOGwwRWhKYXI3RW91d0xaZC0zc1lIcmFKZU1Rend6VVJaU0VEbHp6QlZKMkVGUXVZUnpRM0QzbHVmVnI4ZFdFZmhCWjNaWXVYelJ5ZVZFTzA3dWFDQWtUMnRsTVI?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:01:00+00:00",
+    "s": "CBS Sports",
+    "t": "Kansas' three-week trial thrashes Kentucky's five-month build in eye-opening Champions Classic performance",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGV5dzZsRTJ1VXFNVGIyNGdVVEFpQVZIaEhLR0RVcmZyNmJleThHQ3FOb0xiNGdJczVRczRNOV81OThDcm0yQWZmamtncXFRMDVNZGQycEI5cEpJS1JlMnI5OGp4aEFkdWxmdy1vQS1nRWF0ZFN5TmFLOHlITEF6ejRPbGJrMFhLQU1EZEptRUVyS01pdExuUWhR?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:36:36+00:00",
+    "s": "NBC Sports",
+    "t": "Colts mishandled the Jonathan Taylor situation",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLU1VUENVQ2l1NEpzX0p6OF9nN3lwLXR4WGFIbXlxQjFvV2VnM2VRd29LQkg3VzNidkdxbDFfb1BRTnNza0hsZG5NMlZYN2lnbnZWRnlndEZtSl9kbU5jTU95OVZJeFN0b1hhLVpIUXZneVhaZXFyVmlMd2h2R0xYdUJYRXZjSXN4clcxOVFUMFNYNVpBV3ZnSlhYTWNMeHVEN2h0Qm45WFlsN1l0?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T18:42:14+00:00",
+    "s": "MLB Trade Rumors",
+    "t": "Astros Expected To Name Brad Ausmus Manager",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFRsek1sRXRXUzVodGU4SnlITnlzUjRERFg4V2s0MGlmdjlFTWR1aktwYzdLVVYwbFdrLTFERDRpWTg5aUx5b0pFMHhKMVZEOTFQbGV3b29uVk1PLUdzWjFKSU1xRlpKSjNQamp4dTQzb1R4S2lndE5VN2VJTzlRZGpEQkd2eDZ4bkFlV1llSW0?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T13:43:00+00:00",
+    "s": "Cleveland.com",
+    "t": "Deshaun Watson will start vs. the Texans on Sunday over Shedeur Sanders",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUd1NW82NHJrdTZYdWRmblE4cm5FU1ppRmhGdncxR0xSWnRSblZHNlBYczJXd0VFRGRVQVpxTVdGOEFOOW40X1dTYlZLWnJaSFo3TmpUMWZaVGNHWC1tbWdTTFQtdWVNNzhCUktKZmV2UUlza2ZOZUpQNE5sSmQtcnpmUlMxeU9QS0N0SmRuUnBxREYzZC1KTWpUQ01Rd1UxU2NVWS1oZ0NhZjhvelczTU5ycXBoUHM?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T11:15:00+00:00",
+    "s": "ESPN",
+    "t": "Questions on 2026 NFL trade deadline deals: Does Kirk Cousins lift the Vikings?",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDRkSEkxeVNucnV2bXdyN3NjZ1FvMHVURldLVmN0bGRZMmplRTdabkg1Y0dQMkx2bEFickItaUt6MUFOWDZjRnd4WkJZbDFDVzBGYm5IaGhsTm5saW5BcU12N3Q1WVV1bUtaekk2d2IzVWxKZVBuV0NSQXAtVmtjdVphVkVqakFSdVJ3QjBhN2hsMGZCOV9fME5YVWZSUQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T14:00:00+00:00",
+    "s": "MMA Fighting",
+    "t": "Matt Brown: Ciryl Gane and Josh Hokit are \u2018fighting for second place\u2019 in the heavyweight division at UFC 334",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmYxNHpjR1dBLVNFM0ZwUzBnYkdGTVVHWGpza2FRMW96cEdkNXhKRlJwd013UlFJaUJycVo2d0Y3UHptZ2dYd3pLRGRvWnc4LWcxakpPd0dVOEVKV0dKMUtKOHpnUHo1QlVkMm0zbDViME54WDg2ZE9yczd1SjhDUVJBeWs0MzN0ZDlBZk54TVEyXzU0R19MTWlMVVhjTTFXblU2MU9Qc0NYYkp6YnhxLXZabFl6YnhvYmstUEdfMWpOVGVyYTk2S202UTM3cW5zSkVwZy0tQU9Hcl9n?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:14:51+00:00",
+    "s": "TribLIVE.com",
+    "t": "Mark Madden: Steelers prove once again they\u2019re content with mediocrity",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakVZa0ZOMEM4WVp5S1RKZ1lxakNIQ3U4RTh1Qkh0ZS1NZUVwZy1BcDJVT25DUzMyZnl3VFJ3SzFnM0tXcEFLbUlaVjlETmRVa05zczluLVR0UVNfRWg5eGZqSVlRaHNTMDhISHdNcVhmV3FZVEpta3N4T2tIN2lCeHRqSEM3RGtmV0pWRFVHak0tVll2UmZ6aVhxVlBRZw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:17:05+00:00",
+    "s": "NBC Sports",
+    "t": "Jaguars GM James Gladstone: We value draft picks, but don\u2019t always use them in April",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS19UYUtGUk14bXVUWmVSdmsxVFVrb0RCSHNyQ3JQU1plb3kzZmsxdllFQW1JbEh4SlEySXNlWFZ5YUtLRy1td0tYX3FFY1laYTBVbFNianB5Nk5xdlRFY0xWTTVKSDZYTnhPelJTTFdQT20wTzk5SW0zaW1udWRfaXJudEtXUXpEVF9lNmg2MXNkeENuYVVWUFh5bkZERUxGNFB0Yk1BWTBmV0NFTjFuSkVtdmg1dFFxNW9yMzdURV9OXzdsRzJyZ0gzU3VTTW1iZWRyU2Y5YnZmWXM?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T04:55:00+00:00",
+    "s": "CBS Sports",
+    "t": "Dismantling of Duke by Michigan State shows it might be time to recalibrate expectations for Blue Devils",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1RpMVMzQVRlV0J0b3pJM1FnSTRTOVVna0VYdVI3aDZpLW54Q3hYZlFaZTlnaTFYZTQwVTctMlhvQ2VzMEZ5OXJTS2RyLWdKMlM0dmNhdWZWVFIwc0l2MTNoakJqcGJ4bmpVYVlXTURuVFRiV2NkTkxFVnFLQ3BnOFZTdFFJOGNfTU15bHM2ZDBIa0Fvc0JyRXZhbHpjdWpFa2RQNm0zUDZpWkVmRjhhWjBSVENhZm56VS05SWZHZlJWUQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T17:50:01+00:00",
+    "s": "NBC Sports",
+    "t": "Report: Giants called Falcons about a potential Bijan Robinson trade",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUHI2MVVYVE9ZYkxjV0lNQ0N2RzhpU0VvMklsSnVxc2ZrQlpGRmpGaTFuOVpUdGViRGcxcUgzbWJnWnFKNWNPQnJZb2lQVmhOUzZ3a3c4aWNpdU5nVi1EN3podHRDalR3Tnd4a1dfX20ydkRoNTBORXlvRXVMb21jU01sZXM0Q01SOUJmMW9xUU1zenE5emJ6U19HNmVrZmVOUzNGZVB3cTN6YnRRY2Jla095VGp3cjdMcVVKRl8yOHdNbVhTZ0Nndw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:20:43+00:00",
+    "s": "NBC Sports",
+    "t": "Cards officially place Gardner Minshew on IR",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEVyR3JuMVhuekJ2WDFCcENvaHY5aHp6NDJzSVN6QTYxTm9CTWhUVjZtMVp1YTJubmlPWXdnek5mOVJGQkw0azlQaV9EcEZGWnFkYXBlSmlROExkTG1STXJyLTRGZFplNTRoY3ZoLWVqaVJ3NGE4TFhObWI2WEFVM0Nta0M2eXJxLWZKNEhlNEZvQlZsNmhCaGhMdVRLLUk5ZUx6RHQyVkpyRWppOXBr?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T22:41:00+00:00",
+    "s": "USA Today",
+    "t": "Week 10 fantasy quarterback rankings: Top QB streamers, starts",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2xSY1gzVTNTc1FaZ2FuRW1RTjJ5S28xbGtSRHpXY3p6RWxpRVVvYTVYRzJIb2FLZ1RhbGdwYkpsN19va3JVdm1Kd2NGNThkN0RpRGV0NnJkY3BPUk9uODd4cXIyb2x1OVR4eXh6TS1DSDFEUFd2RkJfb0lVa1ktN0JNajk3Z1k5a0IzMDljRXl0b3FqU3lIS3ZpZ1NMa3k4clBBR0dPMGpYUnNfWDRXMXM0cHRXelJodWFxYkJKUDAxRmc?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:22:00+00:00",
+    "s": "ESPN",
+    "t": "Miami (Ohio) flagged for distracting images during FG attempt",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEpXcWdsRHdxZy1reXlTMlE2S2pYRGk2RE0tX3MyeS1qU2hqMERvbjU1a0dNWG5vLXJFMEFnLU5ITmtfZTVaaTZ1Q3JUazVzQ3ZZcFBoUTk4NjN6WmFVOFJqZzVTZWZKNkgtekdaOEVkYUU3RnBwMGh0akNSMUFmY3Q1aWIyM3h6QmZOdlRDdzlIMnA3WG1wMS1KLVBqbHJnZkd6MWhpZDhSQQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T21:11:06+00:00",
+    "s": "The New York Times",
+    "t": "Connor Hellebuyck says threats made against family pushed him out of Winnipeg - The Athletic",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUt1TW5yeXQ1cFlVMXJuZk9pZFFCd2c5MDNyZVJyTV9FYXdoR0lTUnUwQURObV9jOGpPbEQ0Ri00TjEwQzJOZ1ViVmd3OXZYcmJFcUNETDgyRHhUdUZ4TkhQZHBDVVl1ZEM0UDVFTklzYVE1N1d6ZmZ5U2J4WjNYMzI0djJHZV9FMk83YWlIYU0xTHlPZTgtZXBCUDA?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T00:46:59+00:00",
+    "s": "MLB Trade Rumors",
+    "t": "Dodgers Expect To Have Meeting With Tarik Skubal",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamh0akNKUnJOelNqYm1ZUVFVVUQ0M2NjaGJlZURRNXlfcjlOSHNIZE02T25SRGFFZ3FDY1M4WGVJYlVlM3J5ejg2TldEQVV2WEZmRDJBbU85WkNoc2FkZUNrdndFdjRYQy1NM095R1h1YUpWWTU5bWYtZDdNVHAyblljMmtGZFJYaHB6UVcwRXE5NHd3alAw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T13:58:00+00:00",
+    "s": "Democrat and Chronicle",
+    "t": "Buffalo Bills report card: Defense aces test in gritty win over Vikings",
+    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVUlZMjd2Rlo5NzJSdS1tMXhNMGR5dUhVVmFsOE5oUWVGRzdQcVVtY2NJZk9sRHZjWWk4QXpxMFBnb0N6aHA2SDJNbVlUQWtRY1JETW56Rnp3RG9ZNkNNNDZoTW1MMWRLbFRKaGU3VDE0ZGQ5QllsNmFBWEttM1VORzZLak5kaHpRLVB0RU9tbkhmRENzZEJJZy1DT0thOERVbVliRHZWNzFVbU5MTVcwUFZEMmMxNmhoS0kwUnNDRWdaTWhjZ3VaREhCcVV5Ny1HdVdERERVaFNMLWhwYV9GQTNxamI1NUs3MFdLUldhZ2JRV0VkS3c?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T20:49:28+00:00",
+    "s": "Awful Announcing",
+    "t": "ESPN was reportedly against 24-team College Football Playoff",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1g3TTM3QnQ4ek1UVVo4OXNRbGRLOUdoVzAwMDJWM1FfRG42YzBubW1EbS1fX3VneXZXNVp1aVBsbDFaREF5M21HQWFMZXR2N2J6QnhzNHdCX2l0RmYxZDZoTUZXcXRxTGtNZ1RfanJRM1JORXpXXzB1VXZjNkVKZTZ3bE9MVUhYTFVRVlppaGVMalZ1Zm05VDA1UQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Acme Packing Company",
+    "t": "Malik Willis going on IR can cost the Packers a round in the 2027 draft",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekhsWGZkNWowUndVbXkyM1kweGl4cFE5QlllSUVuMllUa1ZvWnNpb0Y4cDBueEZ0OGw5NVFDUnMtWklfMk9LX1hLR1c2RWIzX0xrM19aMnU0Tlk4N3ppLU5zS1N6RF9LRWlQdW1ENFFSaTlWRmlrNkdzd1hBczQxYmNXM1ktZ3lvTkhDMVJqNnYtbUdZczZrRTltd2VEWmttVl9pN1dmSGc2bldYX3p6WkdrdGVFejVwWi1RSlhKcVdHdENSbUROQ3lhSE9FaVNN?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T05:37:05+00:00",
+    "s": "Florida Gators",
+    "t": "Haugh, Free Throws Finish Off FSU",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb01kSHRfOU9BUnhGM0VWY3JkWk14TGhlYzBILV8xSnZUWjlvMElZZEpKb2xBdEpDMElzOVo5Y1pheDFJQlRnMGU3TENEcDVGNWFybzZydnBZV0FFS24zMExCNGVlNWEtUGtXUkhPVDBrSWNXZjZoWFAzcGdyamVVeUd3S2JMT3VQNTd6elFic0t6NUlGc3JZZ0JXX015bUkxY1luTQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T11:00:00+00:00",
+    "s": "ESPN",
+    "t": "Commanders running low on time to 'put it all together'",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTlNM3RHQUJ1Umg1bWNKOFpqV1Q2amg1VzBlb1Q5T01jNmZhNDA3dmxsWlFJdC1qOEFKLTZEQXBocWliSFlQdEoxYWVPM3BzVnBzS1A1N21Kb0hGNnJ3a3laNmUwRHdTWWVPNURvcmlpMU9zOTZHdGlxQ1I4eDBGaTQtR2lpSTR0SmdV?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T00:59:40+00:00",
+    "s": "BBWAA",
+    "t": "Brewers\u2019 Pat Murphy makes history with third straight NL Manager of the Year award",
+    "u": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DRnk3Y09KYlhKczhlWU9PR0NWeGpxV3NVeE9sYjZva01nMi0wVVNyS1RfNm9NSFNzbjBrRk81ZnNrZw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T14:14:13+00:00",
+    "s": "NBC Sports",
+    "t": "PFT\u2019s Week 10 2026 NFL power rankings",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGJOM2k2RjhiZTNtY0xTTGthUzBobWNlWk1qNDMwN2NtMzVxR3haMDBoaTM0MUNOLUtoU2N2MEt1RDRXZHN2TlR2TTZPTkduMkxncU1DODNHQWkzZl81MDJsZW9nc3V3N01IdGx1a1RSRGJVTDZacG4zQW1GMTdqUGc0dlhwbm00dzNBM3F1Nl9Fd3hUSGJNM2ZBZEtRU2s?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:06:30+00:00",
+    "s": "The New York Times",
+    "t": "Flyers\u2019 Matvei Michkov has not requested a trade: Source",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUJTbzZEU3gxQW82U0J3dFpBeV9xTTZla2V4ck5ZWDJsWS1Yb2ZyVDFObzZ6WUJOMkd0NFZUbHl0a3JST2RLMl93TFNpQThLQ3FxaDdjdG9pb2RWRmFBZzNYd0xsN3VrejZ1WmFHaEprVUpOR1BET3MyZ1Jic2dlc19iVW0?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T12:34:43+00:00",
+    "s": "Bleacher Report",
+    "t": "B/R NFL Scouting Dept's 2027 NFL Updated Mock Draft After 2026 Trade Deadline",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHgxQm83Rnp1T1ZzRnFlWlkwendiaHlzTDF3SHZRSllBaDRTWnA2RE1jZWZkNGstNDVZY3JLYURLUHRCeHQ2Yl9ab2FZT3hfdDdqRFI2MjhMUXM4aDM0WE5kSndZWFRQaVFVOV8zOEF3b0tCazFqVHRqY1c3TElxRlU0cmsxVm9WVDNKeC15eUllUUFZUFNrV0t5ZzQzV2lDb2M4MEtEVTU4U0E0ekN3V1dUaEMyTGVpLWlSdQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T18:22:00+00:00",
+    "s": "Action Network",
+    "t": "NBA Prop Bet for Shai Gilgeous-Alexander on Tuesday, November 10",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTY5S2NMUktYM01qTC11SGppMXZUYTlHWjJYSEJ0bHNpYkd2WGFMei1nNlBYSkFmVVo4N1B1aWxFNTMxQ3EtWVd4ajJ2WW5oemlOLXJjY3oyR2IwNEpUZFRHSHdaZjUydmJwWkdFWG5DSGEteTJLVXZnTE9sNFRuSVJsYzhScnEzejVFMGJfSHZSbjJaaURSNUxWYU9WUQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T20:14:20+00:00",
+    "s": "LA Kings Insider",
+    "t": "11/10 Preview - Zuccarello To Play Tonight + Ceci In, Gustafsson out \"day-to-day\", Laviolette on communication, special teams impact",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPek9xMUJRWkRmV0lOTm0wYzN6TjZEazZBU21aMklWcUhBY29JN2lscGlFMHpJaUxCYUl1bmkycVNTR3ZxcG9seHVyNm5MMWdLbFVMRElpRUZ1aEFwX2ZjV1JrTVZUYXBIVGRxcVJMQ2JLRjN3NjVDeGJTOC1fVlhaWktDQzZxa0w0RF9DTW04eGdPUDdYOW9ITXJvYmpEX3FfQWY2d2lybWdPNzhqeklDemI5eVVsY3YybjZ4blZzOGhlTnkwcWw5a3h3a0ZIUHIwODJjS1gyQUZ3aXNlcE5OT0x4SGZnYnVpTHJKTlFuRW91cTBO?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T01:55:45+00:00",
+    "s": "University of North Carolina Athletics",
+    "t": "Lucas: Wyoming Rapid Reactions - University of North Carolina Athletics",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHRZb1NYTXdxYmVLcUxqZmUwWUhwdkVuYkFPY2lraURDMjUzNWhGWUVnNGtYOUZCbzUyODhSaGtHMlJJSjhPNnl0MlRGUURMX2g2aUVHbVZGM0tzekpvaXR6dTJMUkk4V2pfYWw5R2NIV29Xb3QyOWVOSmRhZ21oalZiRW1rUnYz?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T00:59:36+00:00",
+    "s": "BBWAA",
+    "t": "Slugging Reds first baseman Sal Stewart takes NL Jackie Robinson Rookie of the Year",
+    "u": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9oTk9DUjJLOURVVnEweE9kWWFMSnVrWUhMekN4Ti04anU2eG9KcVRvQ29RTVBrZGdDa1BtMjdlNkctdw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T21:07:47+00:00",
+    "s": "NFL.com",
+    "t": "Week 10 NFL MVP tracker: Bengals' Joe Burrow leads race at midpoint of 2026 season",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3UtaUJZMXBLWGgtZjY3ZVhCNVp6MUVSRmEyeEgwNXNDLTBOYi1XY3NVSTQtRk5mcVhuRmR5bDU4QkkzREduOXp0UWtYbXF1M21ISW1JY24taV91SzRNQy1Odkl2UmNPWTZ0a0s2SnZwWFVoTzhFRVNnV3FiU1pRWENvQmdoaXdOTm03RDlLVWR1VmFTb29MVVdFdnkweU1UM1VXaUVsbw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T19:07:00+00:00",
+    "s": "Page Six",
+    "t": "Dianna Russini faces brutal mockery as she makes bold social media return ahead of show launch",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdGtkb0l2YXVDMzFFTHBubW4yUW5JMEtJRnhFbTBFazBmV3haNkxsN1pZd1F1UXBDR2pJcVp4VTNobnE0dndpaTRnVGpfWlpaQ0V4dkRkMGd5UDhtb1ZMYU1ITHJDWmd2bEJtYVZuSThXcE5nNzdENndUVXdrWllyVUpyZkJEOEhWODVrSTNaU2JTa2ZyVkJmemI2bUZCMFAtUFRWUEJCWlkwY08wQVVmbFpSaWtYVndwb0tIU2xKMVU2VkM4cTZ0UlhYbU9FNVJBZmRDSkpUTTc?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T03:13:34+00:00",
+    "s": "NBC Sports",
+    "t": "CBA allows 49ers to not pay Brandon Aiyuk during two-week roster exemption",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHdSVWhWd01WTW9aeUFHTlBLdTlGVmJOWHFJT1ZYMDJPTVRkeW1sRm9mWGk0Rk1URjVHM1pDdWdrcnl4Y3BzVW1tUXBRVTFhNl9WLVFJUUZuR3V3ZkRrUURwYVZZOGRFU3dNbU1ZN21KdFRMZ3hDUEU5WGhZS2pWakRMRlJSdGFjRmx2RHo2MngtWnV0SU1SazNZRS1QUVN0VnlfVUZQbVNwRkpLMEpwcmFtY3RXUEVFNDFzZUNub1k2NU5JNUpDdHRFWXljVDRuWkE?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T11:49:24+00:00",
+    "s": "RotoBaller",
+    "t": "Fantasy Basketball Cut List: Player Drops and Holds (11/11/2026)",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUZVbXZySVhiRnNsNmRQWVhhNDh2RlU1ZktuMlRvMEZNRlFJQmZ5bGMyNl9nZ0ozdTdOakxPVEZmNUZlRUtVaGppTWlNVUdmcGVMd0QzdTVCSDBRNnhWc2dRcjcyVjZubkJpcW5aSGVrd2xGcHpZZjg0WnNpM3l0M3czdndmTDVhM1laQ2Q0R0N2dE9mMnd3dWIyRjg?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T04:44:04+00:00",
+    "s": "RMNB",
+    "t": "Jakob Chychrun hit-of-the-year candidate appears to knock out Senators\u2019 Nick Cousins",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSG1QVERsaVkwX0U4YUhqLUQxYW1mVEp3cjYzdEh4N0txeXNpYVRtSWdDdm9lMzdoaEpxeW5fVFdJc0l3ZG1CejBRT1dpMkFNNk5VM1VaUGpKWDRsQnZQNGRFSHBVS0hCTFRQNF82dGtXejZyTDFHVUp1b1gyeC1sNFB2OVhYRU84?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T16:50:18+00:00",
+    "s": "Sports Illustrated",
+    "t": "Brady Quinn's Michigan Theory: Is Kyle Whittingham Trying to Get Fired?",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQndrUnQ3eXVxWUJBRFJEYVJhNzN2OFVoLXVwYjJCTUY1Z1FlWENRN293RU80ZEowdlM1YlJNSVd2elhUOWl1aXVFS0Q3SE9GMzFIN0hDNkYwZWZZSWtpRHBzYjUzTEJhR0hwZkVNcHZJRXFUUFBnRzl1eDF5dTViNVV6anR1a3oxLUE2VGhtYTlrWG5DNDJJNktORjk4U2NWNk9iQ3otZHlZaGtXcDZCall3?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T02:02:00+00:00",
+    "s": "Action Network",
+    "t": "NBA Best Bets for Kings vs Magic, Blazers vs Thunder, More (Tuesday, Nov. 10)",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1FpdFlMWk1fbTk2VERfLVhWTXV4QkcwWEJocXVFU25Ta2dPQXJLVnNoOUFVbUt6NjBuTm15T3VnVE5iTWRjSjhwSjR1VGhtRVlUVFBkUXNiUkoxbGhIaGdXSU5xYm1KaVROR2c3dE5RenRnMmctZTdoZ0RXS0ZkUk5GMHRRbGlaVEtFZFEtT2F2TGlyWkV3bHg3M0VFS2xyejZWZDJGdnZaWnM?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T16:40:23+00:00",
+    "s": "Boston Sports Journal",
+    "t": "Giardi: Mike's Musings on Vrabel's multiple personalities; plus the secondary's no good, rotten, very bad day",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWmxNc0R0UXVZdmREWVFjTFc5TFhIYngwNnRYcW9uNGJEM24wdjNtb0hrRURicFdiYm5ya1NHR0tielJpQXNPNXB2Sk15SDRWU3pRb3Z4SVpZWk9leVlhYTE0VWExUlRZTGJrSGFndm1lYWRLS0dvU18za2htaWMzVmVTcExLU0VPbG1uMWJwUk5TaTVzUHg0YTdweEVxZlFGRVlqYjFmeG1jcWVJRnNtbTRsTDc1dk44djA4by1odGZncXdObzJFbWhPWGpReEZLakI1bXZwUmE1b09FMGFCdXBhQQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:28:09+00:00",
+    "s": "CBS Sports",
+    "t": "College Basketball Power Rankings: Florida opens at No. 1; Michigan State, UConn make statements with big wins",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOel80U3FpZ0xJaHNZNGdPbUd0clpEUnlQeDZ6VHkySjg3UWVSaWxZTTIxYmwxVjlUNlpuYkU3TmZiYzJYRHdrcGh2TEdRMW1UczNuc2h6QUpZeGoxTll4QTRnR1c5dzgweDVWdVEyNkNOZ05BbjlQTGIydTc4d0NBVkxkSDVRZHFtS1dQSDVkWXlveHFWelJZUF9B?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T22:00:10+00:00",
+    "s": "Pats Pulpit",
+    "t": "8 Patriots winners and losers from the NFL trade deadline",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVi1WajUxQmpMb19STzhydFdlZlRCbHBVaFFWYUZlZGE0bG9UT1M4WEQxb3V3VGFQTTlHU0p5VWV3UlFMaGROMFZjMXl6UFY0NmNXMXBNcjZ5T19rSUdiYi1HSnR2ZDhva3I5Y1p0cm15Z2hoSlZLVHA4VUg3elFkYnV3LUZKU3gzd0tmTFJqQXZac3NWZHJiTmlWaDR1XzVLRFY5WWVfbVQteGtvbE5xRmRkemMwS2xWTnR4SQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:40:27+00:00",
+    "s": "FanSided",
+    "t": "Everything I\u2019m hearing from the GM Meetings about Ronald Acu\u00f1a Jr., Tarik Skubal\u2019s market and more",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlFobk9MTTgwLWZqSTItdHVmWUYxS2MwemZHck82dFRpUGlrYjVkZXUwcTNUWGhpRV8tYzF0b3FCVHJWRDNwQy0xQkxEWjh3ZTJHWGt3bVlXeWFqUFpZZGRPYUg1Q2FQTHRjbjRPVzYwa3p6dkszTktRQWFHZXpkbVJERXJFbW9pc0tUeG9wbGUtOEU1aXVmNlNCbTlfV1ptRzdoM29JQ3ZzQWZyZWpvNE11SVV6eFJzMkFUdmFn?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T18:02:01+00:00",
+    "s": "Ultiworld",
+    "t": "2026 Club Women\u2019s Div. Player of the Year: Boston Brute Squad\u2019s Levke Walczak",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjVBbjlxOHV5VFJFNEY1TE1SUkVSbG00d1hGTm5YdW5MbDByNndaMTc4ZGpvdU03akx6alBrOXBJYWV3MjNRZGVsbkozQXFjX01rVEVNM3hFZ3FMdHF6LWFMd1BIc3RHdTZBT3VJZDFHZlRjMnQySmlyWVM5N09sMUZrLUNERU9ueEItT0JKTklEZG9Wb2UwSkxiUmxnRGJucHd5bXcwTVZya2s?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T14:11:37+00:00",
+    "s": "Fox News",
+    "t": "Sophie Cunningham's 4 am hotel hallway dance party goes viral, Instagram ladies who served & #MACtion",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDJQc3dKcFZZdk9Oc0V1Vk5pUnZDMHNSem5lVS1WemZIei02cTRzYW55LWF5R0hYbEFoZGlQNy1iT0M0cnE4RHJaeklXMThyZlZQWlNMeDA2dGhZWGFMemJwOEo1Y0JDWjZ3ejI0eWxWOFg0SjNkT1ZJc2lveWdoODJuQTVIM3B2aTVzVDF1ejFfbVZhcTN4bzB4QXBhYlBuZWk0ZFdmUTVJaEVJcVUydEVGeHVMd2dPZFVPNXVGdXpQak1ENHQ3Qg?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T21:58:00+00:00",
+    "s": "ESPN",
+    "t": "Falcons trade center Ryan Neuzil to Ravens for guard Andrew Vorhees, pick",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVldKdWMwcUFTMFhPbERJRjhjSGZFUk1CTGR0bGJLV0xoQVVhTHB3V1FzOGlqVHMycWxVS0Z2Tkt2WUdVZWRTTDlBUGQ2N3Y1Q3BQaG1wMXo4dUlfaHJGbWFNMzNPY3FidDhmRGl4ZXdHbXc5c1U0SU84elducGpJZXpHckFPcVdobGFLTDFCdjFkUzRBTzVYYXA3R2RNMTA?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T14:50:54+00:00",
+    "s": "Sports Illustrated",
+    "t": "LJ Martin and Evan Johnson Return to BYU Depth Chart for Baylor Game",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa2dJemVFNDVHRXVBMHAyeUdwR2lSaktTNWFpOHA1X3ZVMldYU0JRajFHMkp6cU42RzVxODFldm42LURhMlRmZlJzTWt1cDQwdXBTd0xBMEFFTnJoYmEwZmNvWWRTTTFTRFZqYXcxR3dIMWdCdk1OQURPWnpFTmMxSXktY2hfa2JSdUJqclFjMjh5a0FUQ0tBTi12LUxvYmdXbktiVkNPdUxZTEp6?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T20:08:36+00:00",
+    "s": "San Francisco Chronicle",
+    "t": "49ers add wide receiver Keenan Allen in trade with Colts before deadline",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWZhckM1UzNESFhkM01qNDBfSFVxWWtTSUJXWkNOLVhwNjRDX08tQ3BBRXY3WmFqbUI0S2tiMnJrZ2psU1RiQUdHOWFKRDlVYVAxRkk1MEk1Ymt5dm9LcVVfVFBIb0tpSnFRRnlBcXN6N2cxQmNFa2J1ZnRoc0QwcGFRa2lKSzJickhWdU1JVDBtVm5TYWh4ek13NnRhSENJZWZraEtTN3Q?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T21:04:21+00:00",
+    "s": "Yahoo Sports",
+    "t": "Bills acquire playmaking safety Amani Hooker from Titans, send second-round pick in return",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTGlDOFJJOE1nNEk3VGdUNVNseHIweVFQMGRUOWg3QlFVaXFPdEZWemFpVFpOVGM3bkFZV0w2QzZBNk1SSC02M2VmTEhfdkw3ZnBILXVaTlZUUUc5VlFMeFJrMndZcXNHUjZsZTVCTDMwdXJ4TzVhUVdOUjBFb2xPX2RTWmo5bXlaQ3B2cVJ2MlJfWDF1RjRGUVQ3X3I0ck5SZ2NELUJjS0ctOVlwdGswS0hVa2p5eFVPTGZFdmNFRFNtdTJPZHowa2swcnhaRGpPLUpnZkZvZmYzcFRuQmNfZ2g4bDRUM1BWMVZN?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T10:30:00+00:00",
+    "s": "PFF",
+    "t": "Grading all 32 NFL first-round rookies after Week 9",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0EzZTVoeU81MzlJN0V4Zy1OblZRazFrVGdoeFBBZW1qU0NZSHl5RE5rOW55akpMMUVmWDVZMFdqOXViNEFPNDZaSWRWTENKVk82amUwTG0xWTVnbXd0WWVOa1pQRHYzTWFCNkl2WFdyamJjVTNKREh5Qkk1ZTVRVklR?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T21:51:54+00:00",
+    "s": "MLB Trade Rumors",
+    "t": "Dodgers Hire Pedro Guerrero As Hitting Coach",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDVQekhYZ2xzVHp6Zkp6WUgxME0tX0poN2JabUFPVzRvbFdtZXV4UEhZajBKY0U5ZFpwWlB3M3pkT0ZkSWJPS0FoSHZORWVlWUZWck9PSmtXTnBOOVVJQjl0YXNpbjVWcXpRSlp2bjZSR3hEOWlZQ19HcmFwa3NaWmMtYlByN3Vta1ZPeWdRVmp0QQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T12:50:00+00:00",
+    "s": "Vanquish The Foe",
+    "t": "How to watch no. 23 BYU Basketball vs. Queens",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlljTWxWbWJYUFdiM0RwZC1rZ2FxdzFZQUVJVFVMa1FkSlJaYWRGdjFSUUo4aXlGX2ZvTHJHaEFKN2Z0MmF6dkJkLUFSR3ZHMkxWYXpBODVfU2wya3NUWjdfbEZtN21UQndoZXNyaElaZ0c2WkNjbWUzaVRwZzZoX1hPa2FCTkpHdm5JS2h3X1lfUEhaX0ZvRkpfZzI2c1JIaHFrRlYtZUtld0ZpVHhMbmVXUjRJbl9iOVhMUzVwNkRZek5uaVBDVXhlSW13X3FUUnZKQnJxU3FwQQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T12:09:00+00:00",
+    "s": "Syracuse.com",
+    "t": "Cause of mystery illness revealed for 27 runners in Santa Barbara half-marathon",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1pUWmtCNFZVVmRVVW1jWDFLRXQwbHMwUEFUZW5seGNIWFhydDV0MDdPejk3MFhGOFNXU0F5VmFmbk5hOHYxQ2RtWnUzMXdGWHp1SUVTUi1DMlpJYjhKRHdXNmlrVmhxMllLd2JHODhLek9xVmk2aDlBYWx3Q0dqWHpuaUkwaGR3UUllOWVhYkxiRDlQVUoxeFZwRUJJNGM4Rlh2X21Wa2lNdEw0SnNxY2VFN2Rva3N5dUpxUU5sNGlPZkU?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T12:00:00+00:00",
+    "s": "ESPN",
+    "t": "Bottom 10 after Week 10: Toothless Wolverines on list after rivalry loss",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0xKZ01HRUpBdkJUb2EyZElad2FRY2IyeHhKRG1RUHpFTFh5SlhjSk1FSFUtT2xpeXBjaHpoUW5XRVdqTVRiYU1xV294aEdJV3Y1SUxlUk1xX1pQMGt3aTE4WUJrTlFfUVAxTTBacXJDclNlc1d6OEJyYnBITHEzd1VaSlp0QTRSOFlSdkVwbFpjNkpHQmVDb1d4VQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T15:22:13+00:00",
+    "s": "Bleeding Green Nation",
+    "t": "Eagles News: Howie Roseman among biggest winners from the NFL trade deadline",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnhiaDZmTUN3VHI2SFVvYUZFbV9zZDVVcjc0NE8wQXFkQjFVeDROb3VrVjJ6UEIyUl9JTXRQZzgxUFdhQTJ1cUNHbUdFQkU0UmhqUW8tMXFvOTV2VjIxaHBHUDQ5ODVPT2JyQl9BRXIwYnZ2ZElGQnZpc2d0cXVMOUNtX21JYTJRaGFNZW5XQWtvdmFSOE9VQ2VyUExuaXpseC1LcW4zS01ZUTF4S2xjYWx4Y3NJeDNkRkNkX0ZVTTg?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T16:00:40+00:00",
+    "s": "The Seattle Times",
+    "t": "Seahawks NFL trade deadline 2026 tracker: Seahawks face Fernando Mendoza",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDF1N0g4ZUtCSGtZV1hRU0R2QmJqXzBac3E0ZTM0enNldXFHNHlScDhJSUZTQ1pBNEZ0RVZmaTNfUS1hS1NqamtfVHZoQ0l5b2NuSTgzcEFFUGhxcUYyenhJd0ZKcjhDRG1jYjl2V3UxQzFGNHN4a0gwZFYxRFVRaVhRU2FTOV85cndDaUs2YXg1bDBHQXFRdW1fZUxzUUE5MEVWQ3ZpS2lvZWJDX1p5QTNZblZLZGZG?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T17:35:40+00:00",
+    "s": "247Sports",
+    "t": "Jeff Purinton's five best quotes from his introductory press conference as Florida State's next AD",
+    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGg5enBRc2RqRmVXbEtpWGxCb0ZoYlkxMW42QzVTQ1RQU2dRSUZodkw3RTJndmRNTkpYcUN5ZlFtXzFqa09Oc3lVeEl1Y01Ka05IRkVKVmpoc2pEQmY0Z0tTUEJmUmtTYjJreTN2ZzJyOFdMd1lKU2syVnNXRzlmOHBrUkZmV1NDUzJ6OFpBLVh2WWpNa1B5eDJ1NVFGbklhLXVMZVA5UVdhNWtoQjRhRUtXeTJwLV9SZXd3YnJQcXIxQ1B3V01jMVVDZXFZcW0xdElpYml5WEJ1YVMyMVg0V2g4ZlhBZUI5eC1zZWhKTHZEb0xZZTZUaU92bw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T02:27:22+00:00",
+    "s": "KRON4",
+    "t": "Man in viral 49ers-Raiders football game fight video arrested",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ2wyXzRYTW8yYmw0WnNWTnhuMlM2c2pmVlA5OFZiUnpUanVOSWJFdFA4ZG13YVFlSlF4VHk2VWlfSFpIZy1iYnFtRzdOMXQ4ZElSWVpmY0tka3YtUEJ1Y2toUFd3by1SZDVfZF92eHJQdHVPRE9CdkNWZTlnZmx2LVJmeWRudy1XcFJkcjNOY24xTHlNRU5mUVFYUjBlMUHSAaQBQVVfeXFMT01pUEQySHAyZHJJVmNPczVkWWU0LVlSTlhPNjFvd2R2dXZYZDhKYzBpbF9mV2IxSHNDMGk2VGp1Ujg5TnE2cDhqZVNRbVloY0d1eVhCTUxodm1CbzY3cXhzNDBOQWtTQ0JGQnE0a3NUa3BHVVVlYm9uNmVrbVFNQ05KZllnMTZWZzFWNHltQjV5N0tlUnZrS2V1SnY1Q1NOZ1FXVFI?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T23:16:06+00:00",
+    "s": "Arizona Sports",
+    "t": "Cardinals bring in Phillip Dorsett II, place 2 on IR",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmV4WERZQWZUNzJTR1VZVi1ER0c3dW1DVzRwcjVDT0cwQ1ZJZzZvWDNWVG1wY2hwYlNMeHZBZnI5SFFhU0NZWm5FN1lYRTNrSGlnQ0M3QzdHV3N0WFhKVVgxQ3A0bDFnTVV2WWdMZ21kb1ZXbnNkdFBTZi1UMFB1bHZqRVZnSjRMQkR0OGpqaHluSjRUTVFNYzJn?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T18:49:29+00:00",
+    "s": "The New York Times",
+    "t": "Why Arnold Ebiketie\u2019s trade from the Eagles to the Bengals fell through",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa251NlE0T1pKNFVRUnp4MVNYWWJ0bll4T2U4emVzZ2gxRy1GelI3cm5ubHBqb0Nxa2VMSFRhRk41bDVoaFZrd1pxZ2EzaUdVN0Y5LVp6RTJNejR2Wm8zSFUtQ0dIOVNhdmV6THowSjlUdDZqem5faDBieC1uM203OVhMTnFjZ1VWX0RQampJSlZOOVZQTnItRUhUaVVGRFZ1aElFVXhlNjNaNGhvcUE?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T11:00:00+00:00",
+    "s": "Syracuse.com",
+    "t": "Kiyan Anthony's leap: Better shots, more makes, more effort to defend",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYTNZVGdVRFZtSjNCamxlcGQzSDBKT3VfUUVvMGVySmdKbXQtVXFyX1g4Y1piYWVSNjZIdU5kWnYtdF82cDI1Szk1eFR0bXlvZFZONE85bDN5Z1pnT002ZFZUY0ZLcHlkbHVxdmJmeWlKMDBYdE9VX1dMOWVRZW9yS29wRENjNWEwWGFGZkMwdThRUHQzQWRjUzJ0YVdvdTJGUXZhbTU1NHdyLTZEMWxSeHdBWW1RZVBvV0oycTEzZGh4cTZNUU91aTNR?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-11T04:11:00+00:00",
+    "s": "ESPN",
+    "t": "The ACC and strength of schedule top this week's Anger Index",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTBwZVFpbV9lcWVvcGNIOW43TXJjN1h6TFlIOWExSV9oZVJRZG5uaHZfeG84MmtHOFFwblhiWFdXeTVIWTJHN1doVy12eU0tRURmdWxlM3d3MmIwcHFZY3h5eW1wSUstNDJoZ2cxa2sxNWRZUzBUNmJlVjZLZHJFVDU3SDA2LUw1YmdRMy0wZXp2ZllMTG9heGV3?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T20:33:55+00:00",
+    "s": "The Denver Post",
+    "t": "NFL trade deadline: Broncos deal for Chargers LB Daiyan Henley",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQi1UNVlQZkpZVDg1Q0I5c01FVktMODlNdzlLMDdqcWxfWkpNRHNPMnJZVGRGbEhWNXlFQ0F6SXRIOEJOaXF6T2llREYySGZWZ0tTTXptM1QtR1VWczQtZ0tyLUJ2MVhZT3dlbUJhcXV2blZRZm5VcWFKVWIwYTZweWZGUQ?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T18:35:42+00:00",
+    "s": "247Sports",
+    "t": "Clark's Clipboard 11/10/26: Rivers close to being official, potential staff names gaining steam and more",
+    "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSHFYcGs1V3k3cTFqX2hJZ0FWamVFX0VvQmZJc0hSWXk2N2diTUhleklzMjVQbENENkV2NDVtdXF6QWxyb0lBZk1fN29oYjZ5aDdCdC1EZW1Zb0lhY1JpT1k4MFpUOWdYMUJ0UmNCQXNkUEhyZFhDMkJnank1cF9ORHZwSDlfMmdqdE03amtKaEplVTFsbVdpdjEzOHhBQVdUQ3lpTk1KVnlMS1M2aG5pT0FvNFFKaG1YcW9Idy15cEI0T2poc1lWLTZ3UFhwZTlyUEZzTUFPdnkzdVJWM2JtYWMxazJtTVQzRW1kejZIc25pM215WHRPbngxRE9Qdw?oc=5"
+   },
+   {
+    "f": "sports",
+    "p": "2026-11-10T15:48:18+00:00",
+    "s": "Yahoo Sports",
+    "t": "Bob Boone, four-time MLB All-Star and father to Yankees manager Aaron Boone, dies at 78",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmJEelcwRVZTekJSZkV4d19JQ0kzeW1SRUlWRUdxT1lkSHpsZTUweDVaZE10RmhJQ0VlWDJMWmpxeEM2NTNUR1Z3LUJzM0hoenZ5OVpCcHY4YVd2VDJ1b09LOUZOSkhMaF8tQWcyMTU2R1B0UjhHVmdmMmZpWVcwalpCdHpscm1lTENHOGJwR092bkc0SkF2TTJReUZCZkVvQ2tac0lLQTY3aU5rRnJuZnFzUmlyc1BRS1E3Zk1fcURORGJmZEJPcWIzYWFpc1hKWUhB?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T15:22:43+00:00",
+    "s": "Forbes",
+    "t": "\u2018GTA 6\u2019 Pre-Loads Are Slowing Down The Internet, Warns ISP",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T14:05:10+00:00",
+    "s": "TechCrunch",
+    "t": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk1iWnBiRk80V2l2bE5vdnVQYVU5LUdUdUhaMHFVdU90czRPZ3RoWnBhLWlVeVNXdzlFX2EtaWtPSnUteU1CQ2pBZHJsWlNIZWZMNV9idjh5VmxZZ2huaV9UWFVNQXJhRUlWMjJJQW9GY3A3RTlReDhzNEdlVTRFQ3h1MHFDa1ZVOG5XQTZGMmM4UTA?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T17:37:32+00:00",
+    "s": "Ars Technica",
+    "t": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0c1SDBXdGlNei1qSTJESXA5c0dMZlNiSUNablBEV3dGUm9QdVVFLVhtZm03YjA4a3RzU2xFdklxSUlKaC10UnBfYk0wQmdXcGFzZkNrUWRzeHY5QWNoeExsb09CWm4tWk5qczRQVzlNNmpKaFR4dUNIYzFHVmFyY2NXbHVpMzNkZVZEbl9fY0VWeS10YVdYeTItSmJlSm1tdzdwRHg4TWtXcTkwOUJXWWJvWkNPZndNakE?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T16:00:00+00:00",
+    "s": "The Verge",
+    "t": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3ZSdms1ajJ3SzBCbnlsQWRSVDJ3ZTFvUjh3YlFuWFhWb2tsZ242RkN3clFNaHh2SE10Yk9IUDZZRWV1VUFNUWM3TlQxUjBrMU5aaUNWV0lvZk9mcmdDOFdBTkdCTnVZUDlNWGQxbnhZQ1RxNTBEeUpMOUN2YmpFVm9hN2FkTWZCMV9XQ1VOc2cyOGc?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T08:51:02+00:00",
+    "s": "PhoneArena",
+    "t": "Google Pixel 10 has a clever charging trick, but there's a catch",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVIzc0xEd2J0eW5DZ21iOG0za29VcHN4OHNlMFZiWXNPVXMtOVdCQW5IRk9SQjM3eU1VNkp6d1NKeXdHY2xURTVhNUJQNVRXVmZBWmFmdjNqX2NUdHZ0cHh0aUNEbXRTYzBJRzVUNWg4N2hXUGpmMUhHN2tzSV81ZnlwMVdqbkZxdm9IVFVGYXNxT0tBY0NKSnVnVUpxTGg5blhBVjNB?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T06:53:00+00:00",
+    "s": "Android Authority",
+    "t": "Google Photos is getting a big save upgrade to eliminate unnecessary duplicates",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRjFsMldiV0ktalgxZk9yakU2aXpJZ3o1ckZzdXhVY3VRem12XzRodTF3TldNY3NDZXRNbkpHbG96M2ZrYlVld3pJWFllaXJfbmxNRGZKNHRDUDYzc0FfajkwLUN1eGtYQzhHUFVmM2Y0dWdQckRZ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T23:34:45+00:00",
+    "s": "MacRumors",
+    "t": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44RElyaldVb09aWGZKM2lEX2RnekczbXhsWkRTVVVLeXlDUTM3d1FlZ2ZEMEZsME9TcDFCLXZSek90QzVJYVJpOFdBanQyTTZVcEdBX1NWMVBaYW9Hb0VFMmFpMGhGLTE5MTVZVXZ3?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T17:10:00+00:00",
+    "s": "Eurogamer.net",
+    "t": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAta2dLU2ZjLUlJdDlSeFk4RjEtY01uRlhGazB6NVN4TGtZRmlYcjVadk9ud0xEMWZ0MDlJZXRPN21fQnFqa2N4Q1FhMUlTZ3Fra3I2bng3d1FURXVpUTZqQ2prV2RoZHFmdmd6Zw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T17:20:00+00:00",
+    "s": "The Register",
+    "t": "AMD winds up Zen 6 cores for faster clock speeds",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDROUjZlRC1fNHVNOTZsWTFpbFNkOF81aUh2RlJHSHRyd2JibVZOaXZHX0dFdU9sREQ5aVNNUUtmS2xVQzVNTUZPRXYya242RUEzbEFRTzE3N0h6VHNiejBibDRWcFF2QktTN3AtR1M5WnFYcWY3QUdQRkkyczBYLUU4QndtMVVHeFRUcmtXQ3FqY2RoN21zS2xfZnVqV0hpWXNqbWJn?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T18:15:22+00:00",
+    "s": "The Washington Post",
+    "t": "\u2018Grand Theft Auto VI\u2032 reportedly passes $1B in sales a week before release",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGpKbTJwaHF3VnRPMzh2SWx4dm1jNk1tckF0bUo1RF9RTGtsdkdNUE12M2J4Wjh3eEdvekwwamNSYlU5T3N3RS0tb2t3clFoYXA3eTlFSk1kcXYwX25QWkZkaloxMWdaaExKYk51WkhVR1FQTEdjOEFwT0pWN2ctYzMtNUdra1d5X3VjT3RUdlRzdTlJSUUydFQyM0RGV0d0Q3I3NTJnN2dxMXZnczNzTzRmLVNsTE9hUHhObXdmRmdIVjhGalBqTHgteWZSVzlF?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T07:06:00+00:00",
+    "s": "Bloomberg.com",
+    "t": "Nintendo Sold 5.2 Million Copies of \u2018Zelda\u2019 Remake in Four Days",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDJWaWNibmNrZTN0SmVJN1NScjRrYjRWTkZaekdueE1tRDN1NTllMklKVTJuN0ZaZHZiT1ZscjBTQXFGZ2hNbmVPTGpPUnJPektaWTZhNTUxenBmRi1VVTZlYVdZbkxvRE5KTXB0d1VaQWEzRG9MZHE3LTYxY2FEOENPZ1Rxc2pZb18yQjJXSi1PRXQ4M085M3REZDhHTDZUTlRzZVY5bGU5aUw5Y2JfWHJn?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T16:00:00+00:00",
+    "s": "The Verge",
+    "t": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T08:17:00+00:00",
+    "s": "The Hacker News",
+    "t": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT21KN0hjQ2puYWxyS0kxN2VySmxtZExoSHVnUjBfNzJRWGlGVjRHel84ekxRTHAxVjE1Z1VRd1lXaVJuZjVWM2ZBbkVVdE9JdGtKTElYc0dMQU8yVGhGTmlCR0NMdW0xcW1HVy1RRWI3N2djZFUxWl9MLTI3cjlJOU9kaw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T16:19:00+00:00",
+    "s": "9to5Google",
+    "t": "One UI 9.5 might bring Pixel 11\u2019s \u2018Rambler\u2019 feature to Samsung Keyboard before Google\u2019s",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVXU0WGVXRnViaG50SlQwQUU1ZU1lRXdxejJFZEJpYzdOQWFJYkoybjNSS29YVkl6Mi1MSHE1LU80RXVmTkR0b0Q5ODE0NTdCMjRzLVptRE1lTGcxWjdzbWNlclBNSmlzRTh6NFZtQW9rRDkyX01ZMHFMaHpDQlZFcWZ4OA?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T13:07:31+00:00",
+    "s": "Mashable",
+    "t": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YbHZsZFVLZUtrMV9qcjZGTlRqMWowWl9WWl9aMnY5eFljUl95dzdPaElTVzVGZ0hiV0gyMVlTbllTQmlmTTlScmtaRE5QNFRlRmZNd3JneW4tY2FIdDcyOUktRU5RZDRZWlpNWXZpNA?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T09:04:18+00:00",
+    "s": "CyberSecurityNews",
+    "t": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wQjZiLTgzcks3NzBQa0pTRWtKSFNpYWN0Qld0dndhbkhGR1pKdElZWG9MdFhueVgtWnRtVTFKdjlDTHl2bWhXMklaUWxRWnRqUW12WWRSemNiNnZsWl9YcjYzaTRHZXFWS0RuSNIBckFVX3lxTE5qZVNkS3U4TW5ndnZmbk5IRVdJTnZXSzZrR1dzckV3VTdUWmtPNkhUUW1LbE9VUTg3by03M2wtdU9pY0hiVHNuUi10bkZIc1lhRGlHLXlfX1VSMWNQSDRFQ2NORncyUjlUcFFZeU9wcWNiZw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T17:04:26+00:00",
+    "s": "Ars Technica",
+    "t": "Apple is shuttering its 28-year-old online community forum",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFqMFc1UlNBTDg5ZnBmRXJkdHMtQXBqMkRaVHdKalpuWVNOWkdqSExPaGJOdDYyczZrZjk0QmhqNGlrT0dTQnNDc0NuV2haME82MjZhRTJMMzVwc25Rc2pKWmk3aFdOdmN5bDNKSXZhM000WTdvRTYtRkxIaHNZV1dSUG9saFFUSG01X1lnSDRiOE5zcUR0N1VBdnJPc0NR?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T17:49:00+00:00",
+    "s": "The Guardian",
+    "t": "How years of research built Grand Theft Auto VI\u2019s obsessively detailed world",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1ZocUx4N0hZdnYwaWVObDNWRS1MZmpCQlhGUFlBRmdWc05TVDh1ZUFvZllab3RWeDd3aFFvbFFqeWVwb1RqelJXZFgyTHVrTDBVMk02bHVSbGkteWhMT1VKTVJiSkZoWVZMcjFFMEVGNW8xd0hyQUw2aHd0SnZVS2N0VWhzYTlWamJqbEp3YlhTdWRYX1d3RWxSMnRzZmVmNUF3OXFYS0gyM0gzaXZuV1pjZVJlQ0E3cDNva0l3YndTQQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T07:21:00+00:00",
+    "s": "The Hacker News",
+    "t": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFVQMXMyV196MU9CR1hjVzBhbmFqMjJ1ZWdvb3A2VXo3Z01iemJnMk1PVjJRY2ExNlZaWWtJYnNUYW5wOGlVOVpFQlZuaVVRbzFmM2hQdUdDc2VBS2RjQ3VsdW5jTVJ6SFVoWmFxOTR6SW5MYzVnb2RFamcyNWNiaw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T12:35:00+00:00",
+    "s": "9to5Google",
+    "t": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lZWN2RFB0NnpSUE5pYjJwa3NXci1oRGJkVUVmbVVCVVNGeWZLWGJVUXR6dzZZT3dXVDZ6c21IQUZPRGlqNjQyVm13VnJWd3dBRTNsbGtrZElBenJJeVNaVmNfeUhWMzhKeDd2dkF5cklCaUVEQjhQalFKeThyZw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T20:32:00+00:00",
+    "s": "New York Post",
+    "t": "Google warns users to protect their inbox as new hacking tool threatens to expose your private information",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGxma3F3eF9RcXVpYlo1dlZLTWp1dHJTTlU5M2lTM3ZiRU9WM1F4NlVWdFlHSmNweU0tXzZ2NEJHZ0NvMXp0WmxicVhfQ3pwNmZtRHhJT0IxRG5NWGtRdG5CREVJQ2dUUm4tcURMWEhLRlJzeHE5Yzh0aGY3RXV4LUhFdGF0MTZNNDJReUJOaFNkeDRGQVJjM2ZtYVRZX1dJMVR6NDVWSQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T14:45:00+00:00",
+    "s": "9to5Google",
+    "t": "Samsung Gallery officially adds Google Photos backup, but not for all Galaxy users",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFFBcFZVNEhLbUJaZ1Npb21waWVzYTU5X2E4Vi1rWkFEVnhKT0gtcnZFZnF4NDZlUi1FYzJzbXdLa3lTQ0l2SnBLa0VTaE8tWlhhMDhSbS1MbThDSjYyQkFSbzRjY01ybE90VWQwMVZCRGZjSndlSXdPU1lwZlVEOUR2TG44Zw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T14:09:30+00:00",
+    "s": "Eurogamer.net",
+    "t": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdtSGdubGpockdlUGFpYzBpMVBOOWlBajhZMnJNdkVwWGdSU0hZYVlRcFhXZ2tNeWNlcTFueFhuNE5MS2tmRGctUExjQnBLU3ZFbGZCVlRzWnR2dy1Zc2hyb3BlSDhyQTBMckViYUZjTWZfUmE0a2FhNkdWVzRsVGlsNkVFM0k?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T09:49:27+00:00",
+    "s": "IGN",
+    "t": "PS5 Hits 100 Million Units Sold Mark 6 Years After Launch \u2014 Here's How It Compares to Other PlayStation Consoles",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWc3WFl5TmpJYlRvdlFibXBWSFoyWHc0dEE3SDRqMzhqYjlBZ3N4TkZ3Szc2dEl1TlAwN0pJRGdXOFRRTUlzcldXNE5sNmNxY05mNnhkRl9HRmRWM2ZBTE9aQUMyQURXRnFzdEhDdl9ab0lzMjdMbE1JdFZuQXN6OHg1TmtXQmEzTUJhemtqaWpiSlZ6eVAtU2pOUHVkWUFFb2NDeVgwbE1aWTh4ZDRRVl9TQzI2czJ0M3lQTDFsckZDcmo1RGxrdG5wdEpIeHprcXl5Vg?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T10:40:00+00:00",
+    "s": "GamesIndustry.biz",
+    "t": "PlayStation cancels live-service shooter Fairgames",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVDJqTG9BUDdjeWt2S08wdm9KazJ5cjR5RjFWc2xTRWVtRUttTmk2cDRtY21iYWxSbFppQ0ZCRExtNldlMDh3Y0l2ZHZHU1JNc0dlYXNmdTA1ZmgxMW1Wa042cVd6MXcxQUVMX3VhSGFYLVJ2WHM3Q0Jyc282dDZBbUdyYTQ5Nm8?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T18:04:21+00:00",
+    "s": "XBOX Wire",
+    "t": "Side Effects Guaranteed in the First DLC For The Outer Worlds 2, Coming December 2",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU1BUGhzLTRmQmJDT3VWNzMyZ2kyMVNXSjB1VXRTOWtRN3ZTLXlGNjBmRTRsVG9zcjVLQkxlUmFtTkxWanlNRXJMd1RVR3QwajN2Wjg5SEwxV29uLVM5Vk5OUkd6QV8taDhhSDRhbW0xZWRPeWdQY05DT0lxTG1WZUgzSngtSzUtMmpCNE5rRdIBlAFBVV95cUxNUlNTRjZNSnRwU2FyMzc2SHUySVlvRzl4bHBxcjZlaEpuUE1yTjNCeEpqZmU5U3VaSG4zaGVyTzlCc3REYU1VOS1pZ2dnUlR3Q0Q1MEUtYVZBT3dfYW1UcXltc0RoTlpCUUhBOXNxSWNjM1Y2bmtCOTdGYlVWdlFaRDNzV1owNFVFYmNPVHVnOHpTS3px?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T15:41:50+00:00",
+    "s": "Eurogamer.net",
+    "t": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3ZXSEN4UXJiTDNPeDg0Znh6dktheXhjZG9MRzdtVmNBTFVjOERlOWNSYUNlbkVrN01wb3IxUmdwN2lvQ1dVaUszSjlGQ3RRdGdDcG1WNkh2QXJQdXYwNFhETVBjY1lmdl8zdVhidTZ5akszd0lSbzNUWnBNVG9iVmtR?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T15:32:00+00:00",
+    "s": "Road & Track",
+    "t": "Ford Teases New Mustang Cobra for 2027, Potential Return Of the Flat-Plane Crank V-8",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTQxV1FhZi1sRG9zbFFtU3lzLXA0U1NWWXZEajkyTDNjcEFXTVhwaml2VU42ZExmTTF1TG1QM2hwbV80TWZvTUJPX0VPajFiWDVxYVdPb3Z3UTVCUk5tR3R1VzNoZnJ5S2RUVnN5TmQ5NW45c0ZMNGxpSENTaGdjQ01fM2lHXzhEaFk3bVZfOUd6ZkdXa190eUMwOW51MkJ0RUVrWURKMHphQzNRZkpLcEh5N0lfZDA?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T15:28:00+00:00",
+    "s": "9to5Google",
+    "t": "You can now buy the Pixel Tag, cases from Bellroy & Spigen available",
+    "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGNHc0Z014TmN2ajVNU1oyTE5XUV9EZU1RV2hfTEZPVC1MQk5nMDFvMWNQN01FODBSanViMV9ZY19iYng1YlhmTUVGOTFYVzRzdkZ5M0RwSVIxTzdz?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T09:15:01+00:00",
+    "s": "VideoCardz.com",
+    "t": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU19PLTFyZk5jLXZNSVlITk5sNFdJbDhsRTIzWGh2RmJiX1J3bjl5R1RxNDFDRDdoeXc0bWJpOFdfVElnekVCU2R0U29mYW1Dck43Y3JqenNwd2NzLWhqc1h6Rm9OMVdoWXZBbDhxTmhERFdaSVBFcDBPUEtEVFBjYTFqbmU2MnBwTEp1ZVMtRkhXR0hYakMtV3BUZ2FrVnN1Qko5OVB2MEZCUE1kLUFoQUVaVnFrTzk3MjZUQmY3cw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T22:15:00+00:00",
+    "s": "WSJ",
+    "t": "Exclusive | Australian Billionaire James Packer Sells Aspen Mansion for $42.68 Million",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGVuYmdfSXZud0tLaWF1NDBENmtMTmhta09TN2dTVTM5SEs2VUx5UU5EXzFSbC16eEp2UzJWUEVHYVNxa2ZwMENTaG1XRF82Sl9CT284RkpaQWpmaVlqVE5yME9mWllUSDJTbXlHNkYyXzUxRm9kRUhZMVo1UHgwNTNuNA?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T15:42:03+00:00",
+    "s": "GameSpot",
+    "t": "GTA Releases Could Speed Up, Take-Two Boss Says",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWWdyZkxpNEVUeWU2ekpUU192M0RtVmxzaU54WF84dUdzeG1qZ29sTHFoNFpHaURsU2Itd2ZIeWxEN3M4ejhjMzc1ektGRjdjOWxPWHJkTWM2SzQweXM5TENGVHVuaF8zWVFoQ0g5cnpkRldUN1VGY1FseVRZWUZfRFlVaXN0SnY1?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T14:13:00+00:00",
+    "s": "9to5Mac",
+    "t": "If you bought an iPhone Duo, have you kept or returned it? [Poll]",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTBpT3RvUzV5V3RUMjBIY0Y5UnktR1phWXJtSUxOLXBtVXRlbDI0MmJGUlYtTHNycWs4eHdOZmludnA1ZnMzVmlacDRZTF9tTDVSaTNENGdYN3lNeDZUNlVVUXo0VWMtbTR6YTVwSkVXaDg1YkNXYWxiMldvZGYxVTJrdVAzb0pDZDlwaTl3bjJDRUs3cVdacg?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T16:00:00+00:00",
+    "s": "TechCrunch",
+    "t": "Apple TV makes sign language interpretation a built-in accessibility feature",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHN6TDcyWGcwV1BOdXptaU9nWGNlRXVRS2hucEF0VjhveHRadTQ3SmJqUXFnYmh1UXNCX3FLWW1WV2k0Q20yMkM2R2FDOHBBdU45QzdvU2VoMjkwcGhMSkt3d1pyTzdXUFdlZkQ2akVxR1pMSFVrell6bktmWnAzNnkyczVvd0hDWGYyQ0paLTM1WTYxdl9Ya3NfRmZJSlRJMkYzQms0bEZ1QWtZcGQ5MQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T12:15:50+00:00",
+    "s": "Eurogamer.net",
+    "t": "World of Warcraft: Forever secret hunters have found the MMO's first hidden treasure",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFVUTDRDRU0yTXFoYjFyT3Nocl9FbDUyUWpWaUNpc280TkpGckxZWGE0NFphdlZHVS01MjBOZWFOSmJiNlg1ek9nLTQyVU9kejR3TGpRQXh2cnFoVTEwS3p3VUhlR2J3NnFIRWhQaDQxS1BEMXFXWU5KZjB0ZEEwbFB3?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T14:00:00+00:00",
+    "s": "TechCrunch",
+    "t": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1Y1MGRRRVE4aS03c2VsZFRDc0ExTWpuNW5rcWdFWVJtUlcyNEpuOGZsamx1dllUbk9pOVVQS01QeGtxRFNLTGYtNFBzODlqLThUQWhwd052bmdZVVRQYV8yU2Z3ejZCeWItX0VtTDAtS2EzdG02YkpZT1R4a1pSdzhYZzlMRERqT0twejBFZk5vRGJETF8wWk9GQkpkeHJpMTJxZjgyNzRuWUt4UjJz?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T05:01:00+00:00",
+    "s": "WIRED",
+    "t": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSV9UXzJZbldTTW1URGM4UVozZGNvMTlrZldGaWR1Y3ZjTngwa0JTdVVxWURJcDdsd3kxUjd6bWRZUFBkemdIMjdYX1ZsUExYY1Y0X2pMdTJDVy01WDBfdzZTN0RQblloam5VbUpNU3FzeV9FUWtaS3c1N3pobFBJUk1RMlo3bEk0MFFobVptODFNUWcxRW9wbHRUcWpJcXNCTldn?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T10:03:54+00:00",
+    "s": "XBOX Wire",
+    "t": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkJxTFE3Uy1JMHJ4UXY5bkVJTDl4cWkyUnZaM2prTl8yZUZWVUN2d2p1VUJNUmNIY1ZBck9vMFVPUFhMMUY5QTVHYkpJdGEySkR6WV9zUTlxU25jd1JvS3Z4Q01VczZ3VmFZQ0phU3dhdlV3ZWZidk9TUXBUdmlsb9IBhgFBVV95cUxQZFBKOFNEOUUtZU5tREZybm42SXNfTG9tOGkzcVl2eU5vdXg5eXJfeGRNVXFfa0phSE1uVmtCU1ZiTHRnMUZQd2pyQTlmdk1nb1R1N2NWT1FhS2N6NDNuemctWkVkQ0Y1d1hONU9ucF9lY0VpMV8xY1JXQklzTUw3UVdRYl9tQQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T19:23:00+00:00",
+    "s": "The Hacker News",
+    "t": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTh2WHFSUXJfbEJCaFNDaUUzTmpTMjljenJPTWdHRHhnNjZUOGFraktSMHVKUHlFcXJWQmg1aHRHdzY3eWlOMGZ6OWIzODk0Sng4a0R6UWk1SFZKU2htTXBad3M0VktidF9uc1N4c19USklTR2VfZmZjNUE2R2g3LQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T17:20:25+00:00",
+    "s": "Tech Xplore",
+    "t": "Radar wristband turns your arm into a smartwatch trackpad",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHhfcU9sSXRZZGZfbUJtZm13U1Y5bTdmVlhOOVRqWVRzOWo5bGFHeDVadFdQdkRRdHIwOEpyVndZUW1Zckc4RVl1THlUdEprTEdOa0ZxNlhnTENoVHl2OFlHMVBzSzJ2NkhycHpFVVJrR0RPMV9qZmJEVGQtd3VFSDc0YnJoams?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T10:16:00+00:00",
+    "s": "The Hacker News",
+    "t": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnNTMjFQRW1FNWFfcFhILTNyQUFXMlZnNUIwczhzV0ROak0xOU9BYXZuOUZqU0xuUXR3OE9OUXA2ZURkcGxMeC1UVjhKRVN0T25LYlhEN21acUlnWXhCZjhDb0NtVHdHY19jWnRUR2FIOTBjWkJqdzR3ekM?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T19:00:26+00:00",
+    "s": "Ars Technica",
+    "t": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGFkNEl3T1V5MkVOSTI4ejVmQ3BpeUNGTnZwcU5PSllQTmpxQ3gyNHMtUDJWcWt2dnUxV1A4Q0hLRVY5WmN5bXdoNk94MV96WXhTX2ltMnY3Qkt2ME5RTTdHVWhQcEROWkJ6Qnl1dEcyb3JWdVFCcU5zRUxvdG5BdWpITEt6T2R6cU5PX1I1S2trQ0R0MWE5SUZ2dk0tUnBkQzc5THJXYzlzUQ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T12:47:00+00:00",
+    "s": "9to5Mac",
+    "t": "This video lets you actually see the \u2018incredible\u2019 new MacBook Pro cooling system",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFRBUEoxOGVYVGF1SDZYZDB1RHZHZWw1M3NqZGFlbFpXb3UtM3doWl84YV9HcURXMGdQRGpaY1RNbWNYUy1YSUp2WDJaU1dzN2cxdEdXRmlKNFk4QWFCM2dENHlDQUI4SGhaak1LM1pSNUpaWTFwUzZGcDRVR2Q4ek9yYTN0SlJSeEFtcEFoZDF2QUU3X2p3dkE5YkhBeE80TXZmc1JXOHVsLXgzUkdB?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T17:45:58+00:00",
+    "s": "Gear Patrol",
+    "t": "Vacheron Constantin Gives a Sleek Update to Its Entry-Level Everyday Watch",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zNDNDTGFTRmg4ZnBvejYyNjNwaXN0ODN5TXVXVm5kcnJkRHJuTWhEZnNaME9rT21JTEl6UHV0dXMtcFF6NGpfZkZ1ejJxU0VqeHV6NENybzl3aTBQZHk0a09mTURRWS1DVmVsMzFqU05XUjUtb2RmVw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T17:32:39+00:00",
+    "s": "The Verge",
+    "t": "Google Fi is bringing back multiple cell network support for better coverage",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHU5T2dqY2VCXzJvUmQzM1IwN1NLSEhPVFo3bjJlN0U4c1poN0lPb2ZQRHlrRDBmUFVhbEFacHl3US01MFJNMUdSbXpMY1d6TTdlVmxaaE1YNnJ3bmlCOXNSTTFEMFprdEZkQl9YV2VXanJwMjhYd0MwdXp3LVFKeUxfTklkNmJ1?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T14:34:47+00:00",
+    "s": "Insider Gaming",
+    "t": "Marathon Will be Going Free-to-Play During Season 3's First Week",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcXR3bW1PZDg0dHpjU3J1bkYtZ2xKRTE4c0YwZXBHaDZrYUZrdHgzemtzUElCRnVaQUhRcGxfY3oxRXg4WWRiUnRsUWplLXBodVI1MG5HdUJteFR6QTl6Y2RMdFJ4ZkJCMmc?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T15:49:00+00:00",
+    "s": "9to5Google",
+    "t": "Google and Adobe partner to add app integration in Google Drive, Gemini",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbEhTRkNoRE52Q1h5dk5ESW9ZRlB4YVBXNEdhTkFocXVuYmxJampqSW9yWktuNGsxNXQ0OUFqWmJFQ0lDSDM1alc3YVpVMmRWbUpvLThvSnJuZE9QeGRPZFV3RVlIUlJoMVV1NVQxeW1yZURUZ1RWWkMyazhPWE1yaVE0ZDlqc0hTYnpxLVVFTE9STnhzOHhLajJ2YWVLLVk?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T11:00:11+00:00",
+    "s": "Gematsu",
+    "t": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle unveiled",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRC1UaHQ0cmNVM3NPSzV3YksxdHdTX1Y3UmJMWlpOMDVzVThIQ2lKUmU5S3lHMDMwcm9fTG5aVV83eW13SFhyVzJzNGhRS1RHQWxQeTJrc0RJNlRDZFZhX0FJUVg5Sl84WWJoS0RIR2pVRHFwOEdMM3J3UldaZjMyaE0yWGY5c0NiM2REczV2ZWk5TkVlalFNYg?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T10:52:12+00:00",
+    "s": "CDM Create Digital Music",
+    "t": "Ableton Live 13 hands-on: ARA 2, Drum Synth, new effects, more",
+    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hdkd0WEtwQlpxWUVKT3VEaGFqQkRPT2dONTlwc1NiUjZJb0ktdTBOeldxNE9XTVlHSWktTF9IM0ZCN3FzRVhVc1pTUUhJRGh6ci15ZERaQXpFXzJFUHFYd3BR?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T12:00:00+00:00",
+    "s": "The Hacker News",
+    "t": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tRDU5OHVTLTNMenBtUzNsN1hBYlk5NExwQmdtU0didG1DWExGUUdQekxyYUtDYWJ4SlNiMF9VVVJXX01ORnhfZVptM1V6U2o0enU2MElOcUhOWHBWejV5S1dhcVItWlRpSkFzSUc5aE1iZGlQZnV3?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T15:21:00+00:00",
+    "s": "Fortune",
+    "t": "Ahead of GTA VI\u2019s release, Logitech is giving 7,000 employees the day off to play video games",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnl3U19VVF9tRFpkLVZTZDRCTFF2VW5GbG1UX1llNkc0R3laXzU5UnlTUnNucDljdzVfTGY4RDhsc0xPRkxnWWlsLTZUN1lxNUhKX0JDeG1XU0lUZ1UyZFQyM2U1RVpkZ3BMaXk3ZUt6dkNDUDVuMU91d3hXSDNJQ0F1aGxYcnROLS1sTGV3WURtbG1BUFN0ZGtzODhYdHpwVnVEdU5mUU5DcElNTXVJWjRUQU5aM0xES1pWSUNaUEF2bjFxX1dPeE13?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T04:08:46+00:00",
+    "s": "COLlive",
+    "t": "Aviva Helfand, 74, OBM",
+    "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqTnFTNEJBdF92TjdpYU93eUVYVloxczBSNVBVa19EX2FIbW9iZEFGRnVEZDUwZnlOOXFFSjRYanVBRmhlNGhWeGpOQk1qTDVyV2Zv?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T13:00:00+00:00",
+    "s": "The Verge",
+    "t": "Are your TVs spying on you? We asked their makers",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hcGhuX1YzV1NhV1NzRVBmQzBHV0pXZ0lDeEJTWFV2UzZnZ21QM0E0bjlrTUlMUm52Y3pQaC1EVlI4N0p0dENVZm9VYmYweFI3M1dobVpfNk1wSzhoUWdRQUJFODB5SGRoVFYxU1E4dw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T23:00:35+00:00",
+    "s": "Kotaku",
+    "t": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSTExaGNQT2FJS25Wdkpid2tOc0ROWkE0b2lmZnA2ZUprR2JjdllQc3ZLRWV1b2FaajNTVHQyNkJQWmJwby1uVW16ei03TTRueXhhYXNTSFk1QlVrTkRvbTBsaW1DUFlGVmZkLWNtclFvcHZWRWRFYlNCdlVZODFQS3JEeTU5TC1XUVJmYlplSEVZZG14c2tHV3ZSWXBhNWxWZUZTUktTWUxxS0xJUlB3QS1lQVlTNWJKTENj?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T10:30:00+00:00",
+    "s": "GAMINGbible",
+    "t": "Nintendo drops new Switch system update that introduces one of Steam's best features",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDBjS1RMUnFDSjd3cDdsMDNmOERoNFEtdFRaTll2bklheFVlYXlBbktDdHdFdU9mcks3dnBqVHVDaE1ZYjdUTndOX1NvYVZQZUJ4NnpMTG1qOUU0cndwdTlLVXNtRVVyQWp3eDM0b3VGcXI5eE1vUVFaTUNjQlZrd0ptYzFmQ1F4SWhwYjd2WnBHZWFsNHk5bmhUUlgzZmJo?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T15:07:39+00:00",
+    "s": "Outside Magazine",
+    "t": "You Can Now Run 55mm Gravel Tires on Your Zipp Road Wheels",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcklnYUQxZU81LVVVcXRpeDRiX05wT0NuQUxVZ2NZTk5DSlpxbFpFS1Eya2pqdElQSUh2ZUNvOFZ5NVI5RVZvRTRvckRtbDFOSG8tSTJEbm0zX3l6bkZNMzU4WlVFZVN1WG5vTTJ4UnlfU0RhUGdHSjZ0bV9rN0MwODY5b0g?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T12:57:05+00:00",
+    "s": "Warhammer Community",
+    "t": "Khazalite Holds make their Battle Report debut",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0xsWG5Nc3JMNlpIN2RZVHVSaFZrLU5Tc0JuaTBya1haWHd2cHZzaEt1VjkzaDZtN1M0Vnh2STJmbElPSllIS2NsRDRXVHNmZXFwMmcxWjYwYTIwNXo5V0kxR2JRVUtzenNWMkgtM1lZbGtlamw4M2EyNldldmM0RUJiTGxFaS1VbTVnN2t6eXFQVzhBMEtSU3B6QVMwQ3NzVzhWSTMwS3c5cVU?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T13:30:14+00:00",
+    "s": "Forbes",
+    "t": "The No. 1 \u2018Unspoken Rule\u2019 Of A Happy Relationship, By A Psychologist",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVZ1SzJya1Jsam5KYWEzV3B2cEtPdDR6UDRpU3V5Tnl1TFVnRjltek5XUDR4RVphTDY5dEJjcGpOOExEVE0zVV9hLW1oRk5OckFfS3hURFNBWnN1TExZQ0ZjT1NNcFFRZXpHcFp4N190Z01QdXNESzZ0cVJjckMyX2NCWjNWMkk4enNRZzdZNVAtenVfLTJWQTNtUU90ZERxZVpmTUtmdGNUeGFWTzZzVlY1bExpeDJ0?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-10T18:43:44+00:00",
+    "s": "COLlive",
+    "t": "Chicago Shliach Received His Bracha on Bus Ride to Ohel",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1JrbmJkbURDbm5mX2FzbDdpSTRRb2R6aWdvR0YtR0NuVElQQ3Y0TVg4SC04U0lDNnEwWVphZHhUYXRycnhPb1FmWDM1RTlQcDFMZ3RvVGlCSmZzcnBZdlFXUll6RXZ1dk94UkRNOFM3ZHFmTlVTcWxqYVB1bHBuNndB?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-11T10:51:30+00:00",
+    "s": "IGN",
+    "t": "Nintendo Defends Decision to Cut Mario and Yoshi Easter Eggs From The Legend of Zelda: Ocarina of Time Remake",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmtqZEV5anhuUzRMSDBqdHdyOGZsaXdaRmV2V0Q0Yzc2TnlfX2RDdWx1dXpZRXFDZ1pMWWJFcUtob1pMSF9RUjRFV0NVa1RQSzNHdmlsbDVPbGRseTd1Umg2QjVDYlExcm1WZWxKMzdUTDduNTlZTV9FeXMtRGpOeVBBN1lhWlAzTGlDcTB2TWxjeFhYaWtJSnBtTWFJR205aVRicVFfSVhrazVKOHFMQm9ua1BBa2ZyQUZfcjhxUW8yUUZjY2ZFOHYwd0hvYkJuV2xJ?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-09T21:53:42+00:00",
+    "s": "IGN",
+    "t": "Rockstar Games and West Coast Customs Created a Real Car from GTA 6 And Are Selling it For $1.3 Million",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanZJakxaVFZoMmRrZUcxMDlHU1BLRjdPaE5wWVhqSXRjb052eUdPc3pjTGVCS25ZWGxON0Y2R2xRRVV0RmlEdDV1UnJhZ1FiWUZITW5DV0pDNTdvTDY5ZFJqcElHRHVza0J3LXc3UmFGalduaEczZjlCNmJodExRVGxHNFdlZw?oc=5"
+   },
+   {
+    "f": "technology",
+    "p": "2026-11-09T23:18:52+00:00",
+    "s": "IGN",
+    "t": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWJyT285aXdlMEZIM1U1eVczcjV1SGxHWVRlX203Ty1oY0xYMHFORjdfSk1tNTFVTkI2Qzd2c1FIemxiT01lV3BzQWlHTmtPUnhlT1ZzN2VPel8wOVJPYlJFQW8wZXNFeUFUN1NqcXpWSnBoV0xFSm9Ub2FPX1NobWUzdW9CMnp0bV9ZMl9VWmFqWk1iSVlqMVpmLVZCN00ySHBaRGZkeExIcGY5bGZ4X2ZiVzRSVTdmdGdwVk43c1M2TkVrNjVkQ3B2d0hTdw?oc=5"
+   }
+  ]
+ },
+ "fetched_at": "2026-11-11T19:28:41+00:00"
+}

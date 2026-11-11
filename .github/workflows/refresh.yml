@@ -1,0 +1,42 @@
+name: Wire Refresh
+
+# Modelled on hangar's refresh workflow. Every 2 hours. GitHub Actions cron is UTC
+# year-round and does not follow DST.
+#
+# This workflow only generates content and commits it to the branch. Pages is served
+# from the /docs folder on main, not built by a workflow (see
+# project-management/docs/PUBLISHING-PROTOCOL.md).
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install feedparser requests jinja2
+
+      # Each source declares a max_age in wire/cache.py; a failed source keeps its
+      # previous payload and the page flags it. No secrets are needed: every feed is keyless.
+      - name: Refresh and render
+        run: python run.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Wire Bot"
+          git config user.email "action@github.com"
+          git add docs/ data/
+          git diff --cached --quiet || git commit -m "chore: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
