@@ -6,50 +6,78 @@
     "f": "Top left",
     "p": null,
     "s": "nytimes.com",
-    "t": "Huang Affair Puts Wife in Spotlight...",
+    "t": "NYT: Huang Said to Have Relationship With Exec Who Reports to Him...",
+    "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.GieR.RfRdXdIFO6_r&smid=url-share"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Stock slides...",
+    "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Wife in Spotlight...",
     "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html?unlocked_article_code=1.PlE.bONC.QHfECbC23PiS&smid=url-share"
    },
    {
     "f": "Top left",
     "p": null,
     "s": "apnews.com",
-    "t": "Collateral damage in Washington?",
-    "u": "https://apnews.com/article/nvidia-huang-investigation-china-spy-ai-chips-56e1c03b4797c38aa04f4804f7cdf4db"
+    "t": "Could cause collateral damage in Washington...",
+    "u": "https://apnews.com/56e1c03b4797c38aa04f4804f7cdf4db"
    },
    {
     "f": "Top left",
     "p": null,
-    "s": "nytimes.com",
-    "t": "NYT: Trump WAS Told About Spying...",
-    "u": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html?unlocked_article_code=1.PVE.Nm-G.KJ4bpz8G_3lf&smid=url-share"
+    "s": "cnbc.com",
+    "t": "NVIDIA too big to fail?",
+    "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "axios.com",
+    "t": "Lutnick Stalled China-Chip Curbs...",
+    "u": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "CHIP KING SET FOR CHOP",
+    "u": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "mediaite.com",
-    "t": "TRUMP AND BIBI CLASH IN CALL 'SHOUTING MATCH FROM HELL'",
+    "t": "TRUMP AND BIBI CLASH IN CALL... 'SHOUTING MATCH FROM HELL'...",
     "u": "https://www.mediaite.com/media/news/trump-and-netanyahu-clash-in-shouting-match-from-hell-over-iran-war-report/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "cbsnews.com",
-    "t": "BESSENT MOVED TO MILITARY BASE",
+    "t": "BESSENT MOVED TO MILITARY BASE...",
     "u": "https://www.cbsnews.com/news/bessent-relocate-dc-area-home-military-base-iran-threats-to-kill-him/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "HEGSETH IMPEACHMENT BLOCKED",
-    "u": "https://apnews.com/article/hegseth-impeachment-briefing-trump-massie-87a78193502f716e6fb8eee5aef06ac0"
+    "s": "yahoo.com",
+    "t": "IRAN VOWS TO KEEP URANIUM...",
+    "u": "https://www.yahoo.com/news/articles/iran-not-allow-enriched-nuclear-102614440.html"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "yahoo.com",
-    "t": "IRAN VOWS TO KEEP URANIUM",
-    "u": "https://www.yahoo.com/news/articles/iran-not-allow-enriched-nuclear-102614440.html"
+    "s": "wsj.com",
+    "t": "VP Considers Direct Talks With Hardliner...",
+    "u": "https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4"
    },
    {
     "f": "Main splash",
@@ -57,6 +85,13 @@
     "s": "telegraph.co.uk",
     "t": "PAPER: White House officials 'destroying documents' ahead of Dem takeover...",
     "u": "https://www.telegraph.co.uk/world-news/2026/11/11/trump-officials-destroying-documents-democrat-takeover/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "Threatens criminal probe into House oversight efforts...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2he9XM"
    },
    {
     "f": "Main splash",
@@ -82,9 +117,16 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "dailymail.com",
+    "t": "Top White House aide quits...",
+    "u": "https://www.dailymail.com/news/article-16284547"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "apnews.com",
     "t": "ICE raids continue unabated...",
-    "u": "https://apnews.com/article/immigration-arrests-midterm-election-trump-f3b9d1c9aab7d701c9b2c2550efa0332"
+    "u": "https://apnews.com/f3b9d1c9aab7d701c9b2c2550efa0332"
    },
    {
     "f": "Main splash",
@@ -96,9 +138,23 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "politico.com",
+    "t": "'Draft Marco' effort grows on Capitol Hill after bloodbath...",
+    "u": "https://www.politico.com/news/2026/11/11/hill-republicans-rubio-vance-2028-01160686"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "archive.is",
     "t": "State Dept. official took Mediterranean trip paid for by tech billionaire...",
     "u": "https://archive.is/Is2o6"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Donor Who Bankrolled RFK Flights Also Hosted Him on His Yacht...",
+    "u": "https://www.wsj.com/politics/donor-who-bankrolled-rfk-jr-s-flights-also-hosted-him-on-his-yacht-a82edfca"
    },
    {
     "f": "Main splash",
@@ -117,9 +173,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "thehill.com",
-    "t": "Colom extends lead in Mississippi Senate race...",
-    "u": "https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/"
+    "s": "nbcnews.com",
+    "t": "MISSISSIPPI GOES BLUE: COLOM WINS...",
+    "u": "https://www.nbcnews.com/politics/rcna605729"
    },
    {
     "f": "Main splash",
@@ -166,9 +222,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "businessinsider.com",
-    "t": "VIBE SHIFT: Karp says he's lifelong Dem! PALANTIR 'essentially progressive'...",
-    "u": "https://www.businessinsider.com/alex-karp-palantir-democrat-progressive-midterms-2026-11"
+    "s": "mediaite.com",
+    "t": "VIDEO: Tomb of Unknown Soldier Sentinel Yells at Hegseth Group Over Laughter...",
+    "u": "https://www.mediaite.com/media/news/watch-tomb-of-unknown-soldier-sentinel-yells-at-pete-hegseths-group-over-laughter/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nbcnews.com",
+    "t": "'Pay respect!'",
+    "u": "https://www.nbcnews.com/politics/trump-administration/pete-hegseth-others-reprimanded-guard-tomb-unknown-soldier-rcna608869"
    },
    {
     "f": "Column 1",
@@ -187,37 +250,30 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "thehill.com",
-    "t": "Moscow announces 'sudden death' of ambassador to USA...",
-    "u": "https://thehill.com/policy/6213787"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Trump Plan to Import Russian Diesel Stalls on High Seas...",
-    "u": "https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66"
+    "s": "businessinsider.com",
+    "t": "VIBE SHIFT: Karp says he's lifelong Dem! PALANTIR 'essentially progressive'...",
+    "u": "https://www.businessinsider.com/alex-karp-palantir-democrat-progressive-midterms-2026-11"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "politico.com",
-    "t": "Dems going all in on FINISHING Epstein investigation...",
+    "t": "New Congress going all in on FINISHING Epstein investigation...",
     "u": "https://www.politico.com/news/2026/11/11/democrats-majority-epstein-files-01160584"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "people.com",
-    "t": "Biden Goes on Camera with PEOPLE to Talk About Everything...",
-    "u": "https://people.com/joe-biden-new-interview-video-exclusive-12247044"
+    "s": "cbsnews.com",
+    "t": "Set to probe 'pardon industrial complex'...",
+    "u": "https://www.cbsnews.com/news/democrats-congress-trump-pardon-industrial-complex/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "nypost.com",
-    "t": "Californians who fled to Texas to escape Dems -- plot move to new red state...",
-    "u": "https://nypost.com/2026/11/10/us-news/texas-blue-wave-leaves-california-transplants-looking-for-a-new-home"
+    "s": "wsj.com",
+    "t": "Target Trump Warship as They Look to Slash His Signature Projects...",
+    "u": "https://www.wsj.com/politics/national-security/democrats-target-trumps-warship-as-they-look-to-slash-his-signature-projects-41ceae17"
    },
    {
     "f": "Column 1",
@@ -238,28 +294,14 @@
     "p": null,
     "s": "the-express.com",
     "t": "SINGAPORE AIRLINES new cabins -- with lobsters and 'largest bed in sky'...",
-    "u": "https://www.the-express.com/news/world-news/219549/singapore-airlines-unveils-1-6-billion-luxury-cabin"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "UNITED Bans Bots From Booking Flights...",
-    "u": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38"
+    "u": "https://www.the-express.com/news/219549"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "nypost.com",
-    "t": "Ex-NFL coach arrested for allegedly running over pedestrians' feet in heated Nashville scene...",
+    "t": "Ex-NFL coach arrested for 'running over pedestrians' feet in heated Nashville scene...",
     "u": "https://nypost.com/2026/11/11/sports/rex-ryan-arrested-for-allegedly-running-over-pedestrians-feet/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "The $26 Million Cyber Heist Rocking Small New Jersey Town...",
-    "u": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d"
    },
    {
     "f": "Column 1",
@@ -272,8 +314,8 @@
     "f": "Column 2",
     "p": null,
     "s": "abcnews.com",
-    "t": "Daredevil couple who scaled Empire State Building speak out... 'Willing to die for message'...",
-    "u": "https://abcnews.com/GMA/News/empire-state-building-daredevils-speak-out/story?id=138031409"
+    "t": "Daredevil couple who scaled Empire State Building speak out... 'Willing to die for love message'...",
+    "u": "https://abcnews.com/GMA/News/story?id=138031409"
    },
    {
     "f": "Column 2",
@@ -285,23 +327,16 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "soapcentral.com",
-    "t": "Former TPUSA member claims she was attacked and violated by members of RUTGERS chapter...",
-    "u": "https://www.soapcentral.com/entertainment/who-megyn-doyle-former-tpusa-member-claims-attacked-violated-members-rutgers-chapter-viral-video"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
     "s": "dailymail.com",
     "t": "'Russell Brand you naughty boy, we'll be seeing you': Murderer welcomes to prison...",
-    "u": "https://www.dailymail.com/news/article-16280815/murderer-recorded-rap-prison-warning-Russell-Brand.html"
+    "u": "https://www.dailymail.com/news/article-16280815"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "dailymail.com",
     "t": "Don Jr leaps to his defense...",
-    "u": "https://www.dailymail.com/news/article-16284347/donald-trump-jr-defends-russell-brand-rape.html"
+    "u": "https://www.dailymail.com/news/article-16284347"
    },
    {
     "f": "Column 2",
@@ -313,9 +348,16 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "dw.com",
+    "t": "Only 1/3 of Germans satisfied with state of democracy...",
+    "u": "https://www.dw.com/en/live-79915066"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "nbcnews.com",
     "t": "Hoax bomb alerts sent to schools in Italy, UK, Ireland in latest disruption...",
-    "u": "https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717"
+    "u": "https://www.nbcnews.com/world/rcna608717"
    },
    {
     "f": "Column 2",
@@ -336,16 +378,9 @@
     "p": null,
     "s": "dailymail.com",
     "t": "Scientists may have got human evolution WRONG...",
-    "u": "https://www.dailymail.com/sciencetech/article-16283775/human-evolution-WRONG-fossil-family-tree.html"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "msn.com",
-    "t": "He learned he has 35 siblings. Here's how he aired his family secret...",
-    "u": "https://www.msn.com/en-us/news/other/he-learned-he-has-35-siblings-here-s-how-he-aired-his-family-secret/ar-AA2hcSuV"
+    "u": "https://www.dailymail.com/sciencetech/article-16283775"
    }
   ]
  },
- "fetched_at": "2026-11-11T19:28:25+00:00"
+ "fetched_at": "2026-11-12T01:49:46+00:00"
 }
