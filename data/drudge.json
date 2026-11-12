@@ -6,29 +6,22 @@
     "f": "Top left",
     "p": null,
     "s": "nytimes.com",
-    "t": "NYT: Huang Said to Have Relationship With Exec Who Reports to Him...",
+    "t": "Huang Said to Have Relationship With Exec Who Reports to Him...",
     "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.PlE.GieR.RfRdXdIFO6_r&smid=url-share"
    },
    {
     "f": "Top left",
     "p": null,
-    "s": "cnbc.com",
-    "t": "Stock slides...",
-    "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Wife in Spotlight...",
-    "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html?unlocked_article_code=1.PlE.bONC.QHfECbC23PiS&smid=url-share"
-   },
-   {
-    "f": "Top left",
-    "p": null,
     "s": "apnews.com",
-    "t": "Could cause collateral damage in Washington...",
+    "t": "Extramarital affairs could cause collateral damage in Washington...",
     "u": "https://apnews.com/56e1c03b4797c38aa04f4804f7cdf4db"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "afr.com",
+    "t": "Alleged Chinese Spy at Center of Firestorm Now in Beijing...",
+    "u": "https://www.afr.com/world/asia/suspected-chinese-spy-at-centre-of-nvidia-firestorm-living-in-beijing-20261112-p61dmu"
    },
    {
     "f": "Top left",
@@ -45,11 +38,25 @@
     "u": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls"
    },
    {
+    "f": "Top left",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "The Don ties in spotlight...",
+    "u": "https://www.yahoo.com/news/politics/articles/trumps-ties-nvidia-ceo-jensen-020132818.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "marketwatch.com",
+    "t": "CHIP KING SET FOR CHOP",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d"
+   },
+   {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "CHIP KING SET FOR CHOP",
-    "u": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    "t": "HILL TO PROBE TRUMP-CHINA LINKS",
+    "u": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746"
    },
    {
     "f": "Main splash",
@@ -75,29 +82,29 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "VP Considers Direct Talks With Hardliner...",
-    "u": "https://www.wsj.com/world/middle-east/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war-0c2e3ea4"
+    "s": "telegraph.co.uk",
+    "t": "Humanoid robot start-up backed by Eric Trump in talks with Israel's military...",
+    "u": "https://www.telegraph.co.uk/us/news/2026/11/11/trump-humanoid-robots-hamas-tunnels/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "archive.is",
+    "t": "Dems pledge to expose 'absolute avalanche of corruption'...",
+    "u": "https://archive.is/8NzRB"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "PAPER: White House officials 'destroying documents' ahead of Dem takeover...",
+    "t": "White House officials 'destroying documents'...",
     "u": "https://www.telegraph.co.uk/world-news/2026/11/11/trump-officials-destroying-documents-democrat-takeover/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "msn.com",
-    "t": "Threatens criminal probe into House oversight efforts...",
-    "u": "https://www.msn.com/en-us/news/other/ar-AA2he9XM"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "nytimes.com",
-    "t": "LABASH: Trump's Reign of Terror Isn't Over...",
+    "t": "LABASH: Trump's Reign of Terror Isn't Over!",
     "u": "https://www.nytimes.com/2026/11/11/opinion/trump-miller-blanche-jordan.html?unlocked_article_code=1.PlE.R-Xv.9C0-IRWaVXkn&smid=url-share"
    },
    {
@@ -111,15 +118,8 @@
     "f": "Main splash",
     "p": null,
     "s": "axios.com",
-    "t": "Miller's Secret Scramble to Stop MAGA Exodus Revealed...",
+    "t": "Stephen Miller's Secret Scramble to Stop MAGA Exodus...",
     "u": "https://www.axios.com/2026/11/11/stephen-miller-focus-men-maga"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Top White House aide quits...",
-    "u": "https://www.dailymail.com/news/article-16284547"
    },
    {
     "f": "Main splash",
@@ -145,36 +145,15 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "archive.is",
-    "t": "State Dept. official took Mediterranean trip paid for by tech billionaire...",
-    "u": "https://archive.is/Is2o6"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Donor Who Bankrolled RFK Flights Also Hosted Him on His Yacht...",
-    "u": "https://www.wsj.com/politics/donor-who-bankrolled-rfk-jr-s-flights-also-hosted-him-on-his-yacht-a82edfca"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "finance.yahoo.com",
-    "t": "WIRE: Trader's ties to JD Vance helped land prized Venezuela oil contract...",
-    "u": "https://finance.yahoo.com/news/exclusive-vitol-traders-ties-jd-111121278.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "axios.com",
-    "t": "THE OTHER DONALD: Incoming House Dem already rocking Capitol Hill...",
+    "t": "THE OTHER DONALD: Incoming House Rep. already rocking Capitol Hill...",
     "u": "https://www.axios.com/2026/11/11/don-leonard-ohio-democrat-house-jeffries"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "nbcnews.com",
-    "t": "MISSISSIPPI GOES BLUE: COLOM WINS...",
+    "t": "SENATE 55: MISSISSIPPI GOES BLUE: COLOM WINS!",
     "u": "https://www.nbcnews.com/politics/rcna605729"
    },
    {
@@ -201,30 +180,16 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "WSJ: OPENAI Continues to Suffer Heavy Losses...",
-    "u": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "studyfinds.com",
     "t": "STUDY: Grateful People Healthier...",
     "u": "https://studyfinds.com/thankfulness-gratitude-better-health/"
    },
    {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Doomscrolling? Try Brain Stacking...",
-    "u": "https://www.nytimes.com/2026/11/11/style/brainstacking-tiktok-hobbies-brain-rot.html?unlocked_article_code=1.PlE.9OhJ.-0cgV8yVar29&smid=url-share"
-   },
-   {
     "f": "Column 1",
     "p": null,
-    "s": "mediaite.com",
-    "t": "VIDEO: Tomb of Unknown Soldier Sentinel Yells at Hegseth Group Over Laughter...",
-    "u": "https://www.mediaite.com/media/news/watch-tomb-of-unknown-soldier-sentinel-yells-at-pete-hegseths-group-over-laughter/"
+    "s": "apnews.com",
+    "t": "Hegseth and group reprimanded for laughing during Veterans Day honoring at Tomb of the Unknown Soldier..",
+    "u": "https://apnews.com/article/hegseth-tomb-of-unknown-soldier-guard-arlington-4d4d5c96d3e0413a0e37742bf012b08e"
    },
    {
     "f": "Column 1",
@@ -236,23 +201,23 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Honor and Anguish: A Veterans Day When Losses Are New...",
-    "u": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html?unlocked_article_code=1.PlE.c81d.NEefu5Ws4GZU&smid=url-share"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "nypost.com",
-    "t": "POLL: Alarming number of college students claim USA deserved 9/11...",
-    "u": "https://nypost.com/2026/11/11/us-news/alarming-number-of-college-students-claim-us-deserved-9-11-poll/"
+    "s": "theguardian.com",
+    "t": "Spain roiled by first general strike in 14 years...",
+    "u": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "businessinsider.com",
-    "t": "VIBE SHIFT: Karp says he's lifelong Dem! PALANTIR 'essentially progressive'...",
+    "t": "VIBE SHIFT: Karp now says he's lifelong Dem! PALANTIR 'essentially progressive'...",
     "u": "https://www.businessinsider.com/alex-karp-palantir-democrat-progressive-midterms-2026-11"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "qz.com",
+    "t": "Texas Grid Boss Wants Data Centers to Cut Power Before Blackouts...",
+    "u": "https://qz.com/texas-ercot-data-centers-curtail-power-emergency-111126"
    },
    {
     "f": "Column 1",
@@ -272,7 +237,7 @@
     "f": "Column 1",
     "p": null,
     "s": "wsj.com",
-    "t": "Target Trump Warship as They Look to Slash His Signature Projects...",
+    "t": "Look to Slash Trump Signature Projects...",
     "u": "https://www.wsj.com/politics/national-security/democrats-target-trumps-warship-as-they-look-to-slash-his-signature-projects-41ceae17"
    },
    {
@@ -299,16 +264,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nypost.com",
-    "t": "Ex-NFL coach arrested for 'running over pedestrians' feet in heated Nashville scene...",
-    "u": "https://nypost.com/2026/11/11/sports/rex-ryan-arrested-for-allegedly-running-over-pedestrians-feet/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "dnyuz.com",
     "t": "Most trans people have NO regrets years after hormone therapy, study says...",
     "u": "https://dnyuz.com/2026/11/11/most-transgender-people-have-no-regrets-years-after-hormone-therapy-study-says/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "MAGA influencers fade away...",
+    "u": "https://www.yahoo.com/news/politics/articles/maga-influencers-reel-midterm-rout-185239087.html"
    },
    {
     "f": "Column 2",
@@ -382,5 +347,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-12T01:49:46+00:00"
+ "fetched_at": "2026-11-12T09:24:23+00:00"
 }
