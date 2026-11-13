@@ -4,6 +4,167 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-13T14:03:26+00:00",
+    "s": null,
+    "t": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
+    "u": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T14:02:52+00:00",
+    "s": null,
+    "t": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+    "u": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T14:01:24+00:00",
+    "s": null,
+    "t": "Jensen Huang scandal casts doubt on Nvidia\u2019s AI dominance \u2014 how we got here",
+    "u": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T14:01:21+00:00",
+    "s": null,
+    "t": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+    "u": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
+   },
+   {
+    "f": "International",
+    "p": "2026-11-13T13:59:37+00:00",
+    "s": null,
+    "t": "10-year Treasury yield hovers at 5.14% as traders weigh producer prices data",
+    "u": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T13:41:03+00:00",
+    "s": null,
+    "t": "Nvidia stock inches higher as investors continue to weigh Jensen Huang\u2019s departure",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T13:15:35+00:00",
+    "s": null,
+    "t": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+    "u": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T13:11:35+00:00",
+    "s": null,
+    "t": "Outlook outage continues as Microsoft flags 'encouraging recovery signals'",
+    "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T13:04:00+00:00",
+    "s": null,
+    "t": "Trump says he wants to \u2018get Cuba done\u2019 before leaving office, would consider military force",
+    "u": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T13:01:01+00:00",
+    "s": null,
+    "t": "Huang's downfall may undo cozy ties between business and government: analysis",
+    "u": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-fallout-business-politics.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T12:54:43+00:00",
+    "s": null,
+    "t": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T12:47:16+00:00",
+    "s": null,
+    "t": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
+    "u": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-13T12:46:12+00:00",
+    "s": null,
+    "t": "I interviewed Huang at peak \u2018Jensenmania.\u2019 Three weeks later, Nvidia is grappling with a world without him",
+    "u": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T12:44:20+00:00",
+    "s": null,
+    "t": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T12:05:22+00:00",
+    "s": null,
+    "t": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+    "u": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T12:03:24+00:00",
+    "s": null,
+    "t": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
+    "u": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T11:48:56+00:00",
+    "s": null,
+    "t": "NHL\u2019s next media deal will test the league\u2019s strength",
+    "u": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T10:54:40+00:00",
+    "s": null,
+    "t": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T08:27:07+00:00",
+    "s": null,
+    "t": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-13T08:17:04+00:00",
+    "s": null,
+    "t": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+    "u": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-13T07:29:15+00:00",
+    "s": null,
+    "t": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers?",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-without-jensen-huang-what-lies-ahead-for-asian-chipmakers-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T07:15:01+00:00",
+    "s": null,
+    "t": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-13T05:51:34+00:00",
+    "s": null,
+    "t": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-13T04:07:44+00:00",
     "s": null,
     "t": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
@@ -11,34 +172,27 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-13T03:59:40+00:00",
-    "s": null,
-    "t": "As Nvidia reels from Huang's affairs, who stands to gain?",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
-   },
-   {
-    "f": "Finance",
     "p": "2026-11-13T02:56:35+00:00",
     "s": null,
     "t": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
     "u": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html"
    },
    {
-    "f": "Top News",
+    "f": "Earnings",
     "p": "2026-11-13T02:43:26+00:00",
     "s": null,
     "t": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
     "u": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-13T02:25:02+00:00",
     "s": null,
     "t": "The world's super-rich are piling into alternative investments. Here's why",
     "u": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-13T00:01:19+00:00",
     "s": null,
     "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -52,21 +206,21 @@
     "u": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html"
    },
    {
-    "f": "International",
+    "f": "Top News",
     "p": "2026-11-12T23:41:00+00:00",
     "s": null,
     "t": "From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on old favorites",
     "u": "https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-12T23:14:56+00:00",
     "s": null,
     "t": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
     "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-12T23:12:15+00:00",
     "s": null,
     "t": "Nscale updates IPO prospectus that shows widening loss",
@@ -80,18 +234,11 @@
     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-12T22:47:28+00:00",
     "s": null,
     "t": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
     "u": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T22:24:12+00:00",
-    "s": null,
-    "t": "Widespread Microsoft outage takes down Outlook and other 365 services",
-    "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
    },
    {
     "f": "Top News",
@@ -102,38 +249,17 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-12T22:06:08+00:00",
-    "s": null,
-    "t": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-    "u": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-12T21:20:35+00:00",
     "s": null,
     "t": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
     "u": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-12T21:17:21+00:00",
     "s": null,
     "t": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
     "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T21:16:37+00:00",
-    "s": null,
-    "t": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-12T21:04:59+00:00",
-    "s": null,
-    "t": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
-    "u": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
    },
    {
     "f": "Tech",
@@ -150,7 +276,7 @@
     "u": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-12T20:32:21+00:00",
     "s": null,
     "t": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
@@ -165,24 +291,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-12T20:24:59+00:00",
-    "s": null,
-    "t": "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
-    "u": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-12T20:03:57+00:00",
     "s": null,
     "t": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
     "u": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T20:01:29+00:00",
-    "s": null,
-    "t": "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying dips",
-    "u": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html"
    },
    {
     "f": "Top News",
@@ -192,25 +304,18 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-12T19:47:57+00:00",
     "s": null,
     "t": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
     "u": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-12T19:42:41+00:00",
     "s": null,
     "t": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
     "u": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T19:33:50+00:00",
-    "s": null,
-    "t": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html"
    },
    {
     "f": "Top News",
@@ -220,7 +325,7 @@
     "u": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
    },
    {
-    "f": "Top News",
+    "f": "Wealth",
     "p": "2026-11-12T19:00:12+00:00",
     "s": null,
     "t": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
@@ -241,32 +346,25 @@
     "u": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html"
    },
    {
-    "f": "Top News",
+    "f": "Earnings",
     "p": "2026-11-12T17:53:31+00:00",
     "s": null,
     "t": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
     "u": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
    },
    {
-    "f": "Top News",
+    "f": "Real Estate",
     "p": "2026-11-12T17:50:59+00:00",
     "s": null,
     "t": "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018cocktail of disruption'",
     "u": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html"
    },
    {
-    "f": "Business",
+    "f": "Top News",
     "p": "2026-11-12T17:23:25+00:00",
     "s": null,
     "t": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
     "u": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T17:23:14+00:00",
-    "s": null,
-    "t": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
-    "u": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html"
    },
    {
     "f": "Tech",
@@ -274,20 +372,6 @@
     "s": null,
     "t": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
     "u": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T15:34:31+00:00",
-    "s": null,
-    "t": "Yankees President Randy Levine pushes college sports bill, discusses MLB labor negotiations",
-    "u": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-12T15:25:49+00:00",
-    "s": null,
-    "t": "\u2018It had to happen\u2019 \u2014 Jim Cramer on Jensen Huang\u2019s resignation and future for Nvidia stock",
-    "u": "https://www.cnbc.com/investingclub/2026/11/12/it-had-to-happen-jim-cramer-on-the-resignation-of-nvidia-ceo-jensen-huang.html"
    },
    {
     "f": "Tech",
@@ -311,18 +395,11 @@
     "u": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-12T12:03:39+00:00",
     "s": null,
     "t": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-12T11:23:04+00:00",
-    "s": null,
-    "t": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-    "u": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
    },
    {
     "f": "Tech",
@@ -332,7 +409,7 @@
     "u": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html"
    },
    {
-    "f": "Tech",
+    "f": "International",
     "p": "2026-11-12T08:20:56+00:00",
     "s": null,
     "t": "AI is coming for consulting\u2019s billable hours \u2014 and its graduate pipeline",
@@ -346,7 +423,7 @@
     "u": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-12T07:50:34+00:00",
     "s": null,
     "t": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
@@ -360,53 +437,18 @@
     "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-12T06:11:16+00:00",
-    "s": null,
-    "t": "Nvidia board meeting to decide CEO Jensen Huang\u2019s fate stretches into evening",
-    "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-12T03:25:05+00:00",
-    "s": null,
-    "t": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-    "u": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-12T03:02:03+00:00",
-    "s": null,
-    "t": "What we know so far about Nvidia partner Megaspeed\u2019s Asia footprint",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html"
-   },
-   {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-12T00:46:08+00:00",
     "s": null,
     "t": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
     "u": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-11T23:57:38+00:00",
     "s": null,
     "t": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
     "u": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-11T23:41:46+00:00",
-    "s": null,
-    "t": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
-    "u": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-11T23:30:48+00:00",
-    "s": null,
-    "t": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO",
-    "u": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html"
    },
    {
     "f": "Business",
@@ -442,13 +484,6 @@
     "s": null,
     "t": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
     "u": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-11T21:04:36+00:00",
-    "s": null,
-    "t": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-    "u": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
    },
    {
     "f": "Retail",
@@ -591,20 +626,6 @@
     "u": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-11T07:02:45+00:00",
-    "s": null,
-    "t": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
-    "u": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-11T06:00:01+00:00",
-    "s": null,
-    "t": "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
-    "u": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-11T05:15:50+00:00",
     "s": null,
@@ -689,13 +710,6 @@
     "u": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html"
    },
    {
-    "f": "Politics",
-    "p": "2026-11-10T13:43:38+00:00",
-    "s": null,
-    "t": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-    "u": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html"
-   },
-   {
     "f": "Business",
     "p": "2026-11-10T13:00:01+00:00",
     "s": null,
@@ -715,13 +729,6 @@
     "s": null,
     "t": "Bilt bets on local businesses, hospitality and major sports franchises, expanding beyond residential rewards",
     "u": "https://www.cnbc.com/2026/11/10/bilt-expands-beyond-residential-rewards.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-10T11:52:54+00:00",
-    "s": null,
-    "t": "Trump sees opening for Ukraine peace deal, but key questions remain ahead of Abu Dhabi talks",
-    "u": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
    },
    {
     "f": "Politics",
@@ -745,18 +752,11 @@
     "u": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
    },
    {
-    "f": "Politics",
+    "f": "Energy",
     "p": "2026-11-10T07:00:02+00:00",
     "s": null,
     "t": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
     "u": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-10T06:19:09+00:00",
-    "s": null,
-    "t": "Trump\u2019s C-SPAN call marks latest surprise post-midterm appearance",
-    "u": "https://www.cnbc.com/2026/11/10/trump-cspan-call-elections.html"
    },
    {
     "f": "Business",
@@ -1424,7 +1424,7 @@
     "u": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
    },
    {
-    "f": "Earnings",
+    "f": "Health & Science",
     "p": "2026-11-04T10:40:51+00:00",
     "s": null,
     "t": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
@@ -1732,13 +1732,6 @@
     "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-10-30T11:29:59+00:00",
-    "s": null,
-    "t": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-    "u": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html"
-   },
-   {
     "f": "Economy",
     "p": "2026-10-30T11:16:46+00:00",
     "s": null,
@@ -1963,20 +1956,6 @@
     "u": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
    },
    {
-    "f": "Economy",
-    "p": "2026-10-27T16:15:35+00:00",
-    "s": null,
-    "t": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-    "u": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-10-27T15:51:00+00:00",
-    "s": null,
-    "t": "Fed rate hikes are coming, but not this week: CNBC survey",
-    "u": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html"
-   },
-   {
     "f": "Wealth",
     "p": "2026-10-27T14:29:29+00:00",
     "s": null,
@@ -2122,13 +2101,6 @@
     "s": null,
     "t": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
     "u": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html"
-   },
-   {
-    "f": "Autos",
-    "p": "2026-10-21T23:32:04+00:00",
-    "s": null,
-    "t": "Tesla beats on earnings and sales even as auto revenue declines",
-    "u": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
    },
    {
     "f": "Autos",
@@ -2682,15 +2654,8 @@
     "s": null,
     "t": "Top Wall Street analysts see robust growth potential in these 3 stocks",
     "u": "https://www.cnbc.com/2026/05/31/top-wall-street-analysts-see-robust-growth-potential-in-these-3-stocks.html"
-   },
-   {
-    "f": "Investing",
-    "p": "2026-05-24T12:52:28+00:00",
-    "s": null,
-    "t": "Top Wall Street analysts like these dividend stocks for steady income",
-    "u": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html"
    }
   ]
  },
- "fetched_at": "2026-11-13T05:28:47+00:00"
+ "fetched_at": "2026-11-13T14:04:02+00:00"
 }
