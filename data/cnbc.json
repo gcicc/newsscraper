@@ -3,6 +3,69 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Top News",
+    "p": "2026-11-13T04:07:44+00:00",
+    "s": null,
+    "t": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+    "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T03:59:40+00:00",
+    "s": null,
+    "t": "As Nvidia reels from Huang's affairs, who stands to gain?",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
+   },
+   {
+    "f": "Finance",
+    "p": "2026-11-13T02:56:35+00:00",
+    "s": null,
+    "t": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "u": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T02:43:26+00:00",
+    "s": null,
+    "t": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "u": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T02:25:02+00:00",
+    "s": null,
+    "t": "The world's super-rich are piling into alternative investments. Here's why",
+    "u": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T00:01:19+00:00",
+    "s": null,
+    "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+    "u": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-12T23:45:00+00:00",
+    "s": null,
+    "t": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+    "u": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html"
+   },
+   {
+    "f": "International",
+    "p": "2026-11-12T23:41:00+00:00",
+    "s": null,
+    "t": "From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on old favorites",
+    "u": "https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-12T23:14:56+00:00",
+    "s": null,
+    "t": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+    "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
+   },
+   {
     "f": "Tech",
     "p": "2026-11-12T23:12:15+00:00",
     "s": null,
@@ -15,13 +78,6 @@
     "s": null,
     "t": "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-12T22:48:26+00:00",
-    "s": null,
-    "t": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-    "u": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
    },
    {
     "f": "Top News",
@@ -64,6 +120,13 @@
     "s": null,
     "t": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
     "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-12T21:16:37+00:00",
+    "s": null,
+    "t": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+    "u": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html"
    },
    {
     "f": "International",
@@ -130,13 +193,6 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-12T19:58:11+00:00",
-    "s": null,
-    "t": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-12T19:47:57+00:00",
     "s": null,
     "t": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
@@ -165,20 +221,13 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-12T19:04:21+00:00",
-    "s": null,
-    "t": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-    "u": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-12T19:00:12+00:00",
     "s": null,
     "t": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
     "u": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-12T18:46:36+00:00",
     "s": null,
     "t": "Unions helped Democrats win big in 2026. Now they want action",
@@ -206,7 +255,7 @@
     "u": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-12T17:23:25+00:00",
     "s": null,
     "t": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
@@ -255,14 +304,7 @@
     "u": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-12T13:15:02+00:00",
-    "s": null,
-    "t": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
-    "u": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html"
-   },
-   {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-12T12:56:27+00:00",
     "s": null,
     "t": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
@@ -325,13 +367,6 @@
     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-12T03:36:44+00:00",
-    "s": null,
-    "t": "The world's super-rich are piling into alternative investments. Here's why",
-    "u": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
-   },
-   {
     "f": "Tech",
     "p": "2026-11-12T03:25:05+00:00",
     "s": null,
@@ -353,7 +388,7 @@
     "u": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
    },
    {
-    "f": "International",
+    "f": "Top News",
     "p": "2026-11-11T23:57:38+00:00",
     "s": null,
     "t": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
@@ -374,7 +409,7 @@
     "u": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-11T22:58:11+00:00",
     "s": null,
     "t": "Feds arrest top official of healthcare company, alleging illegal drug importation",
@@ -409,7 +444,7 @@
     "u": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-11T21:04:36+00:00",
     "s": null,
     "t": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
@@ -542,13 +577,6 @@
     "u": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-11T11:56:11+00:00",
-    "s": null,
-    "t": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls",
-    "u": "https://www.cnbc.com/2026/11/11/coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-11T10:06:58+00:00",
     "s": null,
@@ -624,13 +652,6 @@
     "s": null,
     "t": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
     "u": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-10T19:43:59+00:00",
-    "s": null,
-    "t": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-    "u": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html"
    },
    {
     "f": "Finance",
@@ -1753,13 +1774,6 @@
     "u": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-10-29T20:12:29+00:00",
-    "s": null,
-    "t": "Aon CEO warns AI data center insurance risks could threaten financing",
-    "u": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html"
-   },
-   {
     "f": "Economy",
     "p": "2026-10-29T18:06:31+00:00",
     "s": null,
@@ -2678,5 +2692,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-12T23:25:14+00:00"
+ "fetched_at": "2026-11-13T05:28:47+00:00"
 }

@@ -5,6 +5,13 @@
    {
     "f": "Top left",
     "p": null,
+    "s": "investmentnews.com",
+    "t": "REGULATION OF WALL STREET AT ALL-TIME LOW AS FEDS LOOK THE OTHER WAY...",
+    "u": "https://www.investmentnews.com/regulation-legal-compliance/sec-enforcement-against-public-companies-hits-record-low-under-atkins/268982"
+   },
+   {
+    "f": "Top left",
+    "p": null,
     "s": "theatlantic.com",
     "t": "Spectacular rise and fall of Jensen Huang...",
     "u": "https://www.theatlantic.com/technology/2026/11/jensen-huangs-icarus-complex/689393/"
@@ -12,79 +19,37 @@
    {
     "f": "Top left",
     "p": null,
-    "s": "the-sun.com",
-    "t": "THIRD AFFAIR...",
-    "u": "https://www.the-sun.com/news/17297041"
-   },
-   {
-    "f": "Top left",
-    "p": null,
     "s": "marketwatch.com",
-    "t": "Resignation puts AI boom in jeopardy...",
+    "t": "AI boom at risk...",
     "u": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079"
    },
    {
     "f": "Top left",
     "p": null,
-    "s": "afr.com",
-    "t": "'Spy' at Center of Firestorm Now in Beijing...",
-    "u": "https://www.afr.com/world/asia/suspected-chinese-spy-at-centre-of-nvidia-firestorm-living-in-beijing-20261112-p61dmu"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Alice Huang tied to biggest Chinese competitor...",
-    "u": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Mystery Businessman Introduced Paramour. Her Husband...",
-    "u": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "yahoo.com",
-    "t": "Chinese university bought advanced NVIDIA chips despite US curbs...",
-    "u": "https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Who Is Interim CEO Colette Kress?",
-    "u": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "washingtontimes.com",
-    "t": "AI Bubble Closer To Bursting...",
-    "u": "https://www.washingtontimes.com/news/2026/nov/12/resignation-nvidia-ceo-pushes-ai-bubble-closer-bursting-analysts/"
+    "s": "ca.finance.yahoo.com",
+    "t": "Lutnick future as Commerce Secretary in doubt...",
+    "u": "https://ca.finance.yahoo.com/news/white-house-discussing-howard-lutnicks-181859215.html"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "nytimes.com",
-    "t": "CRASHOUT",
+    "t": "CHIP KING CRASHOUT",
     "u": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns?unlocked_article_code=1.P1E.MzK_.g26AkIoksSkc&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "HILL TO PROBE TRUMP-CHINA LINKS",
-    "u": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746"
+    "s": "yahoo.com",
+    "t": "SOLD ON BLACKMARKET?",
+    "u": "https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "ca.finance.yahoo.com",
-    "t": "LUTNICK ON CHOPPING BLOCK",
-    "u": "https://ca.finance.yahoo.com/news/white-house-discussing-howard-lutnicks-181859215.html"
+    "s": "barrons.com",
+    "t": "CONGRESS SCRUTINY OF TRUMP AND NVIDIA",
+    "u": "https://www.barrons.com/news/us-congress-steps-up-scrutiny-of-trump-nvidia-after-huang-exit-25f6a6d9"
    },
    {
     "f": "Main splash",
@@ -104,22 +69,15 @@
     "f": "Main splash",
     "p": null,
     "s": "the-sun.com",
-    "t": "Stephen A. Smith sparks press secretary rumors with White House visit...",
+    "t": "Stephen A. Smith sparks press secretary rumors with ANOTHER White House visit...",
     "u": "https://www.the-sun.com/sport/17297189"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "apnews.com",
-    "t": "IT BEGINS: Senators probe RFK Jr for perjury... Developing...",
+    "t": "IT BEGINS: Senators probe RFK Jr for perjury...",
     "u": "https://apnews.com/article/samoa-rfk-jr-senate-investigation-measles-vaccines-e4b97becad6d2951d9e84ea584979c41"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Inquiry into president's chief fundraiser...",
-    "u": "https://www.wsj.com/politics/policy/democrats-open-probe-into-top-trump-fundraiser-meredith-orourke-94f93562"
    },
    {
     "f": "Main splash",
@@ -173,93 +131,30 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "yahoo.com",
-    "t": "SENATE 55: Mississippi Dem flips seat in stunning upset...",
-    "u": "https://www.yahoo.com/news/politics/articles/mississippi-democrat-flips-us-senate-004121819.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "theguardian.com",
-    "t": "Angry parents helped flip Texas; Rejected MAGA culture wars...",
-    "u": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "The Concession Call to Election Winner Is No Longer a Given...",
-    "u": "https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html?unlocked_article_code=1.P1E.yS49.TULfaHLXgQbW&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Diminished DOJ Braces for Fresh Fights...",
-    "u": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html?unlocked_article_code=1.P1E.WWIb.xtYufMOvy6Sp&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "yahoo.com",
-    "t": "Don Jr. Humiliated in Damning '28 Poll...",
-    "u": "https://www.yahoo.com/news/politics/articles/don-jr-humiliated-damning-2028-132109208.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "money.usnews.com",
-    "t": "KALSHI DUMPS HIM...",
-    "u": "https://money.usnews.com/investing/news/articles/2026-11-12/exclusive-kalshi-ends-donald-trump-jrs-advisory-contract-due-to-polymarket-conflict"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "axios.com",
-    "t": "AOC prepares for biggest decision of political life...",
-    "u": "https://www.axios.com/2026/11/12/aoc-political-team-changes-2028"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "apnews.com",
-    "t": "Mass shooting at popular gay-owned gym in DC leaves one dead...",
-    "u": "https://apnews.com/3cee6a4ada875fcc18e932e536c63dcd"
+    "s": "thesun.co.uk",
+    "t": "BRAND TO ROT IN HELL...",
+    "u": "https://www.thesun.co.uk/tvandshowbiz/41008329/russell-brand-jail-transfer-hmp-wakefield/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "nypost.com",
-    "t": "Killer ID'd as Dr. who went berserk at HOA over apartment mold...",
+    "t": "Killer ID'd as Doctor who went berserk at HOA over mold...",
     "u": "https://nypost.com/2026/11/12/us-news/matt-lambert-idd-as-dc-shooter-doctor-who-went-berserk-over-hoa-dispute-about-black-mold-in-1-1m-apartment/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Updates...",
-    "u": "https://www.telegraph.co.uk/us/news/2026/11/12/gunman-shooting-washington-dc-gym/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "dailymail.com",
-    "t": "Blanche Forced to Move to Military Base...",
+    "t": "AG Blanche Moves to Military Base after threats...",
     "u": "https://www.dailymail.com/news/us-politics/article-16288453"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "express.co.uk",
-    "t": "IRAN LAUNCHES MISSILES AT US SHIPS IN MIDDLE EAST...",
-    "u": "https://www.express.co.uk/news/2265809"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "express.co.uk",
-    "t": "CENTCOM warns: 'Prepare for war resumption'... Middle East on brink...",
-    "u": "https://www.express.co.uk/news/2265794"
+    "s": "yahoo.com",
+    "t": "WARS: Four tankers struck by explosions in Strait of Hormuz...",
+    "u": "https://www.yahoo.com/news/articles/four-tankers-struck-explosions-strait-162708977.html"
    },
    {
     "f": "Column 1",
@@ -272,50 +167,15 @@
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Zelensky accuses Musk of another STARLINK slowdown...",
+    "t": "Zelensky accuses Musk of more STARLINK slowdown...",
     "u": "https://www.telegraph.co.uk/world-news/2026/11/12/zelensky-accuses-musk-slowing-starlink-again/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "wsj.com",
-    "t": "U.S. Military Officer Arrested in U.K. Detained in Sting Operation...",
-    "u": "https://www.wsj.com/politics/national-security/u-s-military-officer-arrested-in-the-u-k-was-detained-in-sting-operation-e809a042"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "mirror.co.uk",
-    "t": "President hints at invading Cuba before leaving office...",
-    "u": "https://www.mirror.co.uk/news/us-news/donald-trump-cuba-military-fox-37872590"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "theguardian.com",
-    "t": "Spain roiled by first general strike in 14 years...",
-    "u": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "msn.com",
-    "t": "Home sales plummet to lowest level since 'Great Recession' as prices hit all-time high...",
-    "u": "https://www.msn.com/en-us/money/economy/ar-AA2hjfeM"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "cbsnews.com",
-    "t": "While many Americans resist, China embraces AI data center boom...",
-    "u": "https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Meet Real-Estate Billionaire Spending Fortune to Slow Down Aging...",
-    "u": "https://www.wsj.com/health/wellness/meet-the-real-estate-billionaire-spending-a-fortune-to-slow-down-aging-9a372a1e"
+    "s": "barrons.com",
+    "t": "Paraguay Presidential Residence Raided In Digital Bank Probe...",
+    "u": "https://www.barrons.com/news/paraguay-presidential-residence-raided-in-bank-probe-03f475c7"
    },
    {
     "f": "Column 1",
@@ -327,9 +187,9 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "cnbc.com",
-    "t": "MSFT outage hits Outlook. AWS, GOOGLE reports issues...",
-    "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+    "s": "barrons.com",
+    "t": "NYC Building Collapse Exposes Gentrification Anger In Black Community...",
+    "u": "https://www.barrons.com/news/new-york-building-collapse-exposes-gentrification-anger-in-black-community-f89df911"
    },
    {
     "f": "Column 2",
@@ -342,15 +202,8 @@
     "f": "Column 2",
     "p": null,
     "s": "independent.co.uk",
-    "t": "Scientists want to send 'swarms' of robots to search for life on Mars...",
+    "t": "Scientists to send 'swarms' of robots to search for life on Mars?",
     "u": "https://www.independent.co.uk/b3084037.html"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "apnews.com",
-    "t": "Death toll rises to 8 in Brooklyn building collapse as rescuers dig through rubble...",
-    "u": "https://apnews.com/292b3ece5d9ba6e375413c9f4671cf00"
    },
    {
     "f": "Column 2",
@@ -376,13 +229,6 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "themirror.com",
-    "t": "Gwen Stefani slammed for 'Mar-a-Lago' face...",
-    "u": "https://www.themirror.com/entertainment/celebrity-news/gallery/gwen-stefani-appearance-new-look-2107503"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
     "s": "usatoday.com",
     "t": "Beware 'floodlighting' -- unattractive new dating trend...",
     "u": "https://www.usatoday.com/story/life/culture/relationships/2026/11/12/92587730007/"
@@ -393,13 +239,6 @@
     "s": "dailymail.com",
     "t": "'Heightmaxxing' teens taking cancer drugs to grow taller...",
     "u": "https://www.dailymail.com/health/article-16284645"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "express.co.uk",
-    "t": "Russell Brand bombshell as 'six more women accuse him of sex misconduct'...",
-    "u": "https://www.express.co.uk/celebrity-news/2265822"
    },
    {
     "f": "Column 2",
@@ -424,5 +263,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-12T23:25:09+00:00"
+ "fetched_at": "2026-11-13T05:28:43+00:00"
 }
