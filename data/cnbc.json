@@ -4,6 +4,83 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-14T16:18:49+00:00",
+    "s": null,
+    "t": "Ground stop followed updates to older L3Harris communication system: DOT\u2019s Duffy",
+    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T15:50:43+00:00",
+    "s": null,
+    "t": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "u": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T15:36:47+00:00",
+    "s": null,
+    "t": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "u": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T15:14:57+00:00",
+    "s": null,
+    "t": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+    "u": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T14:54:22+00:00",
+    "s": null,
+    "t": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+    "u": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T14:30:01+00:00",
+    "s": null,
+    "t": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+    "u": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T14:08:17+00:00",
+    "s": null,
+    "t": "Juice your growth and save on taxes in this workplace investment account",
+    "u": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T14:02:39+00:00",
+    "s": null,
+    "t": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+    "u": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T13:00:01+00:00",
+    "s": null,
+    "t": "Retailers are turning to entertainment to win shoppers\u2019 attention",
+    "u": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T12:15:01+00:00",
+    "s": null,
+    "t": "Meet the seven co-founders of Anthropic",
+    "u": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T12:00:01+00:00",
+    "s": null,
+    "t": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    "u": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-14T08:11:28+00:00",
     "s": null,
     "t": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
@@ -24,18 +101,11 @@
     "u": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-14T05:08:24+00:00",
     "s": null,
     "t": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
     "u": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-14T01:34:11+00:00",
-    "s": null,
-    "t": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "u": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
    },
    {
     "f": "Top News",
@@ -45,7 +115,7 @@
     "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-13T23:54:36+00:00",
     "s": null,
     "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -80,7 +150,7 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-13T21:19:04+00:00",
     "s": null,
     "t": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
@@ -178,7 +248,7 @@
     "u": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
    },
    {
-    "f": "Top News",
+    "f": "Energy",
     "p": "2026-11-13T16:54:40+00:00",
     "s": null,
     "t": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
@@ -190,13 +260,6 @@
     "s": null,
     "t": "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
     "u": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T16:00:01+00:00",
-    "s": null,
-    "t": "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work: 'I feel like I'm sitting on the sidelines'",
-    "u": "https://www.cnbc.com/make-it/2026/11/13/menopause-career-setbacks.html"
    },
    {
     "f": "Tech",
@@ -220,7 +283,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T15:03:10+00:00",
     "s": null,
     "t": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
@@ -234,28 +297,28 @@
     "u": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
    },
    {
-    "f": "Top News",
+    "f": "Autos",
     "p": "2026-11-13T14:24:57+00:00",
     "s": null,
     "t": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
     "u": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-13T14:22:07+00:00",
     "s": null,
     "t": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
     "u": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T14:01:24+00:00",
     "s": null,
     "t": "Jensen Huang scandal casts doubt on Nvidia\u2019s AI dominance \u2014 how we got here",
     "u": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-13T13:04:00+00:00",
     "s": null,
     "t": "Trump says he wants to \u2018get Cuba done\u2019 before leaving office, would consider military force",
@@ -267,13 +330,6 @@
     "s": null,
     "t": "Huang's downfall may undo cozy ties between business and government: analysis",
     "u": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-fallout-business-politics.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T12:47:16+00:00",
-    "s": null,
-    "t": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
-    "u": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html"
    },
    {
     "f": "Tech",
@@ -290,7 +346,7 @@
     "u": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T12:03:24+00:00",
     "s": null,
     "t": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
@@ -402,7 +458,7 @@
     "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-12T20:59:04+00:00",
     "s": null,
     "t": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
@@ -465,13 +521,6 @@
     "u": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-12T18:36:30+00:00",
-    "s": null,
-    "t": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
-    "u": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html"
-   },
-   {
     "f": "Earnings",
     "p": "2026-11-12T17:53:31+00:00",
     "s": null,
@@ -491,13 +540,6 @@
     "s": null,
     "t": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
     "u": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-12T17:00:49+00:00",
-    "s": null,
-    "t": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
-    "u": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html"
    },
    {
     "f": "Politics",
@@ -613,13 +655,6 @@
    },
    {
     "f": "Politics",
-    "p": "2026-11-11T18:02:32+00:00",
-    "s": null,
-    "t": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-    "u": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html"
-   },
-   {
-    "f": "Politics",
     "p": "2026-11-11T16:59:18+00:00",
     "s": null,
     "t": "Bessent moved to military base amid 'growing threats' from Iran",
@@ -676,10 +711,10 @@
    },
    {
     "f": "Politics",
-    "p": "2026-11-11T12:57:07+00:00",
+    "p": "2026-11-11T12:42:09+00:00",
     "s": null,
-    "t": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-    "u": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+    "t": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+    "u": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
    },
    {
     "f": "Real Estate",
@@ -729,6 +764,13 @@
     "s": null,
     "t": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
     "u": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-10T21:45:46+00:00",
+    "s": null,
+    "t": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+    "u": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
    },
    {
     "f": "Real Estate",
@@ -1186,13 +1228,6 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html"
    },
    {
-    "f": "Business",
-    "p": "2026-11-05T17:03:35+00:00",
-    "s": null,
-    "t": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet",
-    "u": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html"
-   },
-   {
     "f": "Earnings",
     "p": "2026-11-05T16:58:35+00:00",
     "s": null,
@@ -1270,7 +1305,7 @@
     "u": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html"
    },
    {
-    "f": "Business",
+    "f": "Retail",
     "p": "2026-11-05T11:00:01+00:00",
     "s": null,
     "t": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
@@ -1712,13 +1747,6 @@
    },
    {
     "f": "Energy",
-    "p": "2026-10-31T13:47:03+00:00",
-    "s": null,
-    "t": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-    "u": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html"
-   },
-   {
-    "f": "Energy",
     "p": "2026-10-31T12:49:58+00:00",
     "s": null,
     "t": "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all soared instead",
@@ -1739,25 +1767,11 @@
     "u": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-10-30T21:53:10+00:00",
-    "s": null,
-    "t": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-    "u": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html"
-   },
-   {
     "f": "Retail",
     "p": "2026-10-30T18:45:35+00:00",
     "s": null,
     "t": "Cheaper cars are selling considerably faster than at the beginning of the year",
     "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-10-30T16:55:41+00:00",
-    "s": null,
-    "t": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-    "u": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html"
    },
    {
     "f": "Retail",
@@ -1947,13 +1961,6 @@
     "s": null,
     "t": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
     "u": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html"
-   },
-   {
-    "f": "Retail",
-    "p": "2026-10-27T21:12:55+00:00",
-    "s": null,
-    "t": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-    "u": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html"
    },
    {
     "f": "Autos",
@@ -2243,13 +2250,6 @@
     "u": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html"
    },
    {
-    "f": "Real Estate",
-    "p": "2026-10-09T15:08:20+00:00",
-    "s": null,
-    "t": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
-    "u": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html"
-   },
-   {
     "f": "Media",
     "p": "2026-10-08T16:25:40+00:00",
     "s": null,
@@ -2482,13 +2482,6 @@
    },
    {
     "f": "Media",
-    "p": "2026-08-24T22:16:51+00:00",
-    "s": null,
-    "t": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-    "u": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html"
-   },
-   {
-    "f": "Media",
     "p": "2026-08-24T22:16:18+00:00",
     "s": null,
     "t": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
@@ -2647,22 +2640,8 @@
     "s": null,
     "t": "The new arms race in wealth management: Winning the ultra-wealthy",
     "u": "https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html"
-   },
-   {
-    "f": "Investing",
-    "p": "2026-06-21T11:19:06+00:00",
-    "s": null,
-    "t": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
-    "u": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html"
-   },
-   {
-    "f": "Investing",
-    "p": "2026-06-14T12:49:35+00:00",
-    "s": null,
-    "t": "Top Wall Street analysts are confident about the growth prospects of these 3 stocks",
-    "u": "https://www.cnbc.com/2026/06/14/top-analysts-are-confident-about-the-prospects-of-these-3-stocks.html"
    }
   ]
  },
- "fetched_at": "2026-11-14T08:53:04+00:00"
+ "fetched_at": "2026-11-14T16:24:55+00:00"
 }
