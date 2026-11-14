@@ -4,9 +4,30 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-14T01:54:38+00:00",
+    "p": "2026-11-14T08:11:28+00:00",
     "s": null,
-    "t": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+    "t": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+    "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T07:08:45+00:00",
+    "s": null,
+    "t": "Analysis: Companies love a \u2018rockstar\u2019 CEO. Until they depend on one",
+    "u": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T06:00:01+00:00",
+    "s": null,
+    "t": "Ecuador wants to monetize its biodiversity \u2014 while still drilling for oil",
+    "u": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T05:08:24+00:00",
+    "s": null,
+    "t": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
     "u": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
    },
    {
@@ -24,7 +45,7 @@
     "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T23:54:36+00:00",
     "s": null,
     "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -78,13 +99,6 @@
     "s": null,
     "t": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
     "u": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T21:08:20+00:00",
-    "s": null,
-    "t": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-    "u": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
    },
    {
     "f": "Top News",
@@ -148,13 +162,6 @@
     "s": null,
     "t": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
     "u": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T18:18:28+00:00",
-    "s": null,
-    "t": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-    "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
    },
    {
     "f": "Top News",
@@ -540,13 +547,6 @@
     "s": null,
     "t": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
     "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-11T23:57:38+00:00",
-    "s": null,
-    "t": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
-    "u": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html"
    },
    {
     "f": "Business",
@@ -1732,13 +1732,6 @@
     "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-10-31T06:00:02+00:00",
-    "s": null,
-    "t": "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have surged since",
-    "u": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html"
-   },
-   {
     "f": "Health & Science",
     "p": "2026-10-30T22:17:13+00:00",
     "s": null,
@@ -2671,5 +2664,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-14T01:59:35+00:00"
+ "fetched_at": "2026-11-14T08:53:04+00:00"
 }
