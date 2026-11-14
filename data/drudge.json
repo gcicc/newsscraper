@@ -19,36 +19,43 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "cnbc.com",
-    "t": "FAA DYSFUNCTION",
-    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "nytimes.com",
-    "t": "TRAVEL HELL CONTINUES",
+    "t": "UNITED STATES OF DYSFUNCTION",
     "u": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights?unlocked_article_code=1.QVE.-7YC.drOoPRqKqUvR&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "flightaware.com",
-    "t": "MISERY MAP",
-    "u": "https://www.flightaware.com/live/cancelled"
+    "s": "dailymail.com",
+    "t": "'IT WAS A WIRE'",
+    "u": "https://www.dailymail.com/news/article-16292711/ground-stop-faa-equipment-remote-location-sean-duffy.html"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "barrons.com",
-    "t": "WHY THE SECRECY?",
-    "u": "https://www.barrons.com/news/i-may-lose-my-mind-frustrated-travelers-stuck-in-us-flight-havoc-8e9d059a"
+    "s": "the-independent.com",
+    "t": "TRUMP HIDES",
+    "u": "https://www.the-independent.com/news/world/americas/us-politics/trump-blames-ground-stop-old-equipment-b3084980.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Duffy faces calls to resign after FAA meltdown...",
+    "u": "https://www.the-sun.com/news/17303114/faa-grounds-all-flights-safety-emergency/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Ground Stop Highlights Chronic Vulnerabilities...",
+    "u": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html?unlocked_article_code=1.QVE.fewk.RyGe4BMgXWaT&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "apnews.com",
-    "t": "FAA meltdown disrupts NBA, NHL and college football travel...",
+    "t": "Sports travel upended...",
     "u": "https://apnews.com/article/faa-ground-stop-sports-091ecf4f82a6158473357feeb05cf593"
    },
    {
@@ -75,13 +82,6 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "BACKYARD DATA CENTERS?",
-    "u": "https://www.nytimes.com/2026/11/13/realestate/at-home-data-centers-span.html?unlocked_article_code=1.QFE.ZB5c.pYhBsde-38CG&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "washingtonpost.com",
     "t": "NVIDIA scandal hits Trump's political vulnerabilities after Dem sweep...",
     "u": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/"
@@ -97,7 +97,7 @@
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "Inside Stephen Miller's Frenetic First Week as White House Chief of Staff...",
+    "t": "Inside Miller's Frenetic First Week as White House Chief of Staff...",
     "u": "https://www.wsj.com/politics/policy/inside-stephen-millers-frenetic-first-week-as-white-house-chief-of-staff-b89cedb7"
    },
    {
@@ -110,9 +110,23 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "nytimes.com",
+    "t": "Key Witness in Comey Case Attests to DOJ's Aggressive Tactics...",
+    "u": "https://www.nytimes.com/2026/11/14/nyregion/key-witness-in-comey-case-attests-to-justice-depts-aggressive-tactics.html?unlocked_article_code=1.QVE.Qhai.QXVaDkhtxcEp&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "washingtonpost.com",
     "t": "Spy plane tied to covert attacks leads back to Florida's largest senior community...",
     "u": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "archive.ph",
+    "t": "'Habibi' Becomes Cool in Country Suspicious of Arabs...",
+    "u": "https://archive.ph/3mTkA"
    },
    {
     "f": "Column 1",
@@ -145,9 +159,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
+    "s": "archive.ph",
     "t": "Middle East monarchies brace for Trump corruption scrutiny after blue wave...",
-    "u": "https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/"
+    "u": "https://archive.ph/9Uv5I"
    },
    {
     "f": "Column 1",
@@ -159,37 +173,23 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "theatlantic.com",
+    "t": "MAG: Don't Be So Surprised Mississippi Turned Blue...",
+    "u": "https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "nbcnews.com",
-    "t": "ANOTHER FLIP: Dem Kreiss-Tomkins wins Alaska gov race...",
+    "t": "ANOTHER FLIP: Kreiss-Tomkins wins Alaska gov race...",
     "u": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "mediaite.com",
-    "t": "BARI WEISS JIHAD ON EL SAYED BACKFIRES...",
-    "u": "https://www.mediaite.com/media/news/bari-weiss-clashed-with-cbs-standards-department-by-probing-el-sayed-and-muslim-brotherhood-report/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "barrons.com",
-    "t": "Wins By Religious Liberals Break Conservative Grip On Faith In Politics...",
-    "u": "https://www.barrons.com/news/wins-by-religious-democrats-break-republican-grip-on-faith-in-politics-bf0fd6e0"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Texas gov.-elect vows to trade Republican culture wars for moderation...",
-    "u": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
+    "s": "foreign.senate.gov",
     "t": "Dems Order Musk to Preserve Records Over Ukraine STARLINK Access...",
-    "u": "https://www.wsj.com/politics/policy/democrats-order-musk-to-preserve-records-over-ukraine-starlink-access-0e33db6a"
+    "u": "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-demand-elon-musk-preserve-documents-regarding-ukraines-access-to-starlink-and-starshield"
    },
    {
     "f": "Column 1",
@@ -213,32 +213,11 @@
     "u": "https://www.newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398"
    },
    {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "The Unstoppable Prison Gangs Transforming Ecuador Into Narco State...",
-    "u": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9"
-   },
-   {
     "f": "Column 2",
     "p": null,
     "s": "apnews.com",
     "t": "Tanker 'lost control' before colliding with river cruise ship near Port of New Orleans...",
     "u": "https://apnews.com/article/new-orleans-tanker-river-cruise-rescue-passengers-757bed7a70ceb72f0d7140143fe2a764"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "theguardian.com",
-    "t": "UPDATE: Pattinson leads Bond race!",
-    "u": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "yahoo.com",
-    "t": "Contender Jack Lowden Takes Embarrassing Spill Off Bike...",
-    "u": "https://www.yahoo.com/entertainment/videos/james-bond-contender-jack-lowden-175434827.html"
    },
    {
     "f": "Column 2",
@@ -253,8 +232,15 @@
     "s": "nytimes.com",
     "t": "These Luxury Retreats Want You to Forage for Your Food...",
     "u": "https://www.nytimes.com/2026/11/14/t-magazine/hotels-restaurants-foraging-food.html?unlocked_article_code=1.QVE.rQhj.EyxShHl7ysv0&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "showbiz411.com",
+    "t": "BOXOFFICE: Depp's 'EBENEZER' Comeback Won't Make $20M This Weekend...",
+    "u": "https://www.showbiz411.com/2026/11/14/box-office-johnny-depps-ebenezer-comeback-wont-make-20-mil-this-weekend-you-can-see-everything-still-drawing-audiences#google_vignette"
    }
   ]
  },
- "fetched_at": "2026-11-14T16:24:52+00:00"
+ "fetched_at": "2026-11-14T22:02:33+00:00"
 }

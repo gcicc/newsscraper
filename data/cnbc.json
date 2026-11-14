@@ -4,10 +4,31 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-14T16:18:49+00:00",
+    "p": "2026-11-14T21:52:01+00:00",
     "s": null,
-    "t": "Ground stop followed updates to older L3Harris communication system: DOT\u2019s Duffy",
+    "t": "SpaceX catches upper stage of Starship rocket in historic first",
+    "u": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T18:48:39+00:00",
+    "s": null,
+    "t": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+    "u": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T18:32:47+00:00",
+    "s": null,
+    "t": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
     "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T17:46:06+00:00",
+    "s": null,
+    "t": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    "u": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
    },
    {
     "f": "Top News",
@@ -108,7 +129,7 @@
     "u": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-14T01:18:51+00:00",
     "s": null,
     "t": "SpaceX launches Starship in key test flight of massive rocket",
@@ -141,13 +162,6 @@
     "s": null,
     "t": "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can help you avoid similar traps",
     "u": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T21:44:07+00:00",
-    "s": null,
-    "t": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic\u2019s historic deal is its next chance",
-    "u": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html"
    },
    {
     "f": "Investing",
@@ -234,7 +248,7 @@
     "u": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-13T18:00:01+00:00",
     "s": null,
     "t": "Is a bottom in for the Nasdaq-100? Charts to watch",
@@ -381,7 +395,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-13T04:07:44+00:00",
     "s": null,
     "t": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
@@ -451,13 +465,6 @@
     "u": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html"
    },
    {
-    "f": "U.S.",
-    "p": "2026-11-12T21:17:21+00:00",
-    "s": null,
-    "t": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-12T20:59:04+00:00",
     "s": null,
@@ -472,7 +479,7 @@
     "u": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-12T20:32:21+00:00",
     "s": null,
     "t": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
@@ -484,20 +491,6 @@
     "s": null,
     "t": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
     "u": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-12T19:47:57+00:00",
-    "s": null,
-    "t": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
-    "u": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-12T19:42:41+00:00",
-    "s": null,
-    "t": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
    },
    {
     "f": "Finance",
@@ -1956,13 +1949,6 @@
     "u": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-10-27T21:15:35+00:00",
-    "s": null,
-    "t": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-    "u": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html"
-   },
-   {
     "f": "Autos",
     "p": "2026-10-27T20:15:33+00:00",
     "s": null,
@@ -2643,5 +2629,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-14T16:24:55+00:00"
+ "fetched_at": "2026-11-14T22:02:37+00:00"
 }

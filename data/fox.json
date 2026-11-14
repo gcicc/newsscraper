@@ -4,174 +4,328 @@
   "items": [
    {
     "f": "Latest",
+    "p": "2026-11-14T21:43:02+00:00",
+    "s": null,
+    "t": "Tom Arnold admits he hasn\u2019t dated in nearly 10 years after calling people his age \u2018disgusting\u2019",
+    "u": "https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:30:06+00:00",
+    "s": null,
+    "t": "Ohio State's Jeremiah Smith becomes Big Ten's all-time leading receiver in just his third college season",
+    "u": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:17:47+00:00",
+    "s": null,
+    "t": "Maher challenges Sarah Huckabee Sanders on 'socialism' as Arkansas governor defends free school breakfasts",
+    "u": "https://www.foxnews.com/media/maher-challenges-sarah-huckabee-sanders-socialism-arkansas-governor-defends-free-school-breakfasts"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:13:55+00:00",
+    "s": null,
+    "t": "At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms",
+    "u": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:13:08+00:00",
+    "s": null,
+    "t": "Pat McAfee and Kirk Herbstreit apologize for picking SMU over Wake Forest on College GameDay",
+    "u": "https://www.foxnews.com/outkick-sports/pat-mcafee-kirk-herbstreit-apologize-picking-smu-over-wake-forest-college-gameday"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:03:49+00:00",
+    "s": null,
+    "t": "5 restaurant chains serving some of the best BBQ brisket in America, from New York to Oklahoma",
+    "u": "https://www.foxnews.com/food-drink/5-restaurant-chains-serving-best-bbq-brisket-america-new-york-oklahoma"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T21:00:27+00:00",
+    "s": null,
+    "t": "'Dallas\u2019 star Patrick Duffy says mother was killed rushing to husband after gunmen opened fire at bar",
+    "u": "https://www.foxnews.com/entertainment/dallas-star-patrick-duffy-says-mother-killed-rushing-husband-gunmen-opened-fire-bar"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:57:45+00:00",
+    "s": null,
+    "t": "Minnesota Wild's Brock Faber to make season debut just seven weeks after suffering skull fracture",
+    "u": "https://www.foxnews.com/outkick-sports/minnesota-wild-brock-faber-season-debut-seven-weeks-skull-fracture"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:55:11+00:00",
+    "s": null,
+    "t": "Democrats push back across the nation after voters approve girls' sports protections",
+    "u": "https://www.foxnews.com/outkick-sports/democrats-push-back-across-nation-after-voters-approve-girls-sports-protections"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:43:51+00:00",
+    "s": null,
+    "t": "Bruce Buffer recalls wildest UFC brawls in and out of octagon, has strong words for banned Dillon Danis",
+    "u": "https://www.foxnews.com/outkick-sports/bruce-buffer-recalls-wildest-ufc-brawls-octagon-strong-words-banned-dillon-danis"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:38:53+00:00",
+    "s": null,
+    "t": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
+    "u": "https://www.foxnews.com/entertainment/kim-kardashian-poses-barely-there-knit-beach-dress-fans-calling-most-beautiful-woman"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:35:03+00:00",
+    "s": null,
+    "t": "Boise State head coach provides a refreshing, faith-filled College GameDay interview",
+    "u": "https://www.foxnews.com/outkick-sports/boise-state-head-coach-provides-refreshing-faith-filled-college-gameday-interview"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:19:31+00:00",
+    "s": null,
+    "t": "Kentucky coach Mark Pope gives insanely tone-deaf answer after Wildcats nearly lose as 30-point favorites",
+    "u": "https://www.foxnews.com/outkick-sports/kentucky-coach-mark-pope-tone-deaf-answer-wildcats-nearly-lose-30-point-favorites"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:17:21+00:00",
+    "s": null,
+    "t": "Built from Scratch: How a meteorologist built a better umbrella",
+    "u": "https://www.foxnews.com/lifestyle/weatherman-umbrellas-meteorologist"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:09:00+00:00",
+    "s": null,
+    "t": "Former top FAA official warns of 48-hour recovery after aging tech 'overwhelmed' ahead of ground stop",
+    "u": "https://www.foxnews.com/media/former-top-faa-official-warns-48-hour-recovery-aging-tech-overwhelmed-ground-stop"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T20:00:48+00:00",
+    "s": null,
+    "t": "DEPROGRAMMED: A 'kind offer' of death sent this couple running from universal health care",
+    "u": "https://www.foxnews.com/media/deprogrammed-kind-offer-death-sent-couple-running-universal-health-care"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:42:41+00:00",
+    "s": null,
+    "t": "FAA ground stop forces changes for TNA Wrestling's Destination X pay-per-view",
+    "u": "https://www.foxnews.com/outkick-sports/faa-ground-stop-forces-changes-tna-wrestling-destination-x-pay-per-view"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:31:39+00:00",
+    "s": null,
+    "t": "Shane Gillis says he promised 'no controversy' before 'SNL' monologue that sparked backlash",
+    "u": "https://www.foxnews.com/media/shane-gillis-says-he-promised-no-controversy-before-snl-monologue-sparked-backlash"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:29:34+00:00",
+    "s": null,
+    "t": "Justice Alito warns America must preserve 3 core principles regardless of country\u2019s \u2018atmosphere\u2019",
+    "u": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:17:16+00:00",
+    "s": null,
+    "t": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
+    "u": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:04:37+00:00",
+    "s": null,
+    "t": "NFL official Don Willard will referee two games in one day after FAA ground stop disrupts travel, league says",
+    "u": "https://www.foxnews.com/outkick-sports/nfl-official-don-willard-referee-two-games-one-day-faa-ground-stop-disrupts-travel-league-says"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:00:35+00:00",
+    "s": null,
+    "t": "Princess Diana\u2019s legendary White House dance with John Travolta almost didn\u2019t happen",
+    "u": "https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T19:00:03+00:00",
+    "s": null,
+    "t": "Hugh Jackman, Sutton Foster enjoy romantic beach day in Australia",
+    "u": "https://www.foxnews.com/entertainment/hugh-jackman-sutton-foster-enjoy-romantic-beach-day-australia"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T18:42:12+00:00",
+    "s": null,
+    "t": "Two Americans drown after Caribbean current pulls them out to sea",
+    "u": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say"
+   },
+   {
+    "f": "Latest",
+    "p": "2026-11-14T17:48:19+00:00",
+    "s": null,
+    "t": "New prostate cancer guidelines urge men to start screening at specific age",
+    "u": "https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age"
+   },
+   {
+    "f": "Media",
+    "p": "2026-11-14T17:03:15+00:00",
+    "s": null,
+    "t": "Bill Maher warns Democrats not to 'go back to bad ideas' after sweeping midterm victories",
+    "u": "https://www.foxnews.com/media/bill-maher-warns-democrats-not-go-back-bad-ideas-after-sweeping-midterm-victories"
+   },
+   {
+    "f": "Lifestyle",
+    "p": "2026-11-14T17:00:58+00:00",
+    "s": null,
+    "t": "Why everything your spouse says irritates you \u2014 and what it could mean for your marriage",
+    "u": "https://www.foxnews.com/lifestyle/why-everything-spouse-says-irritates-you-what-it-could-mean-your-marriage"
+   },
+   {
+    "f": "Travel",
+    "p": "2026-11-14T17:00:30+00:00",
+    "s": null,
+    "t": "4 critical travel issues for those delayed and disrupted by FAA nationwide ground stop",
+    "u": "https://www.foxnews.com/travel/4-critical-travel-issues-those-still-scrambling-after-faa-nationwide-ground-stop"
+   },
+   {
+    "f": "Entertainment",
+    "p": "2026-11-14T17:00:27+00:00",
+    "s": null,
+    "t": "\u2018Below Deck\u2019 star arrested after brawl leaves 17-year-old dead",
+    "u": "https://www.foxnews.com/entertainment/below-deck-star-arrested-after-brawl-leaves-17-year-old-dead"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-14T17:00:05+00:00",
+    "s": null,
+    "t": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
+    "u": "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-14T16:36:20+00:00",
+    "s": null,
+    "t": "Dems seize on midterm rout to demand ICE reform\u00a0but polls reveal a twist in who prioritized immigration",
+    "u": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration"
+   },
+   {
+    "f": "Entertainment",
+    "p": "2026-11-14T16:30:22+00:00",
+    "s": null,
+    "t": "Test your pop culture: From Hollywood to the Heartland",
+    "u": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-32"
+   },
+   {
+    "f": "Politics",
     "p": "2026-11-14T16:00:48+00:00",
     "s": null,
     "t": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
     "u": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword"
    },
    {
-    "f": "Latest",
+    "f": "Media",
     "p": "2026-11-14T16:00:09+00:00",
     "s": null,
     "t": "Bari Weiss at CBS News: A year of drama and challenges as she attempts to revamp the Tiffany Network",
     "u": "https://www.foxnews.com/media/bari-weiss-cbs-news-year-drama-challenges-revamp-tiffany-network"
    },
    {
-    "f": "Latest",
-    "p": "2026-11-14T15:51:03+00:00",
-    "s": null,
-    "t": "UFC ring announcer Bruce Buffer, 69, has no plans of retirement any time soon; wants 'to keep going'",
-    "u": "https://www.foxnews.com/outkick-sports/ufc-ring-announcer-bruce-buffer-69-no-plans-retirement-soon-want-keep-going"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T15:35:16+00:00",
-    "s": null,
-    "t": "Five college football bets for Saturday, including two road dogs that are being slept on",
-    "u": "https://www.foxnews.com/outkick-betting/five-college-football-bets-saturday-two-road-dogs-being-slept"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T15:29:47+00:00",
-    "s": null,
-    "t": "Lane Kiffin owes LSU fans more than hype as Texas threatens to bury $40 million playoff dream",
-    "u": "https://www.foxnews.com/outkick-sports/lane-kiffin-owes-lsu-fans-more-than-hype-texas-threatens-bury-40-million-playoff-dream"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T15:23:22+00:00",
-    "s": null,
-    "t": "Clown Desmond Howard takes a disgusting shot at Jeremiah Smith, buy Melania's swimsuit & Butler Blue V debuts",
-    "u": "https://www.foxnews.com/outkick-sports/clown-desmond-howard-takes-disgusting-shot-jeremiah-smith-buy-melania-swimsuit-butler-blue-v-debuts"
-   },
-   {
-    "f": "Latest",
+    "f": "Politics",
     "p": "2026-11-14T15:22:21+00:00",
     "s": null,
     "t": "Dems descend on Denver to size up 2028. We asked who wants in the race",
     "u": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race"
    },
    {
-    "f": "Latest",
+    "f": "Travel",
     "p": "2026-11-14T15:00:44+00:00",
     "s": null,
     "t": "Grandmother mistakes medieval gold cross for costume jewelry before learning its five-figure value",
     "u": "https://www.foxnews.com/travel/grandmother-mistakes-medieval-gold-cross-costume-jewelry-learning-five-figure-value"
    },
    {
-    "f": "Latest",
+    "f": "Entertainment",
+    "p": "2026-11-14T15:00:25+00:00",
+    "s": null,
+    "t": "Former Miss USA contestant warns aspiring beauty queens she wouldn\u2019t touch Miss Universe \u2018with a 10-foot pole\u2019",
+    "u": "https://www.foxnews.com/entertainment/former-miss-usa-contestant-warns-aspiring-beauty-queens-wouldnt-touch-miss-universe-10-foot-pole"
+   },
+   {
+    "f": "Media",
     "p": "2026-11-14T15:00:07+00:00",
     "s": null,
     "t": "Comedians call out Dave Chappelle over 'disgusting' routine celebrating Charlie Kirk's murder",
     "u": "https://www.foxnews.com/media/comedians-call-out-dave-chappelle-disgusting-routine-celebrating-charlie-kirks-murder"
    },
    {
-    "f": "Latest",
+    "f": "Politics",
     "p": "2026-11-14T15:00:06+00:00",
     "s": null,
     "t": "Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'",
     "u": "https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill"
    },
    {
-    "f": "Latest",
-    "p": "2026-11-14T14:53:15+00:00",
-    "s": null,
-    "t": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
-    "u": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T14:51:24+00:00",
-    "s": null,
-    "t": "WWE's Tiffany Stratton leaves little to the imagination as she mocks rival in first appearance since title win",
-    "u": "https://www.foxnews.com/outkick-sports/wwe-tiffany-stratton-leaves-little-imagination-mocks-rival-first-appearance-since-title-win"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T14:28:40+00:00",
-    "s": null,
-    "t": "FAA ground stop puts obstacle in front of social media stars trying to get to AEW's Full Gear PPV",
-    "u": "https://www.foxnews.com/outkick-sports/faa-groundstop-obstacle-social-media-stars-aew-full-gear-ppv"
-   },
-   {
-    "f": "Latest",
+    "f": "Politics",
     "p": "2026-11-14T14:00:51+00:00",
     "s": null,
     "t": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
     "u": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war"
    },
    {
-    "f": "Latest",
+    "f": "U.S.",
     "p": "2026-11-14T14:00:38+00:00",
     "s": null,
     "t": "Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video",
     "u": "https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video"
    },
    {
-    "f": "Latest",
+    "f": "Politics",
     "p": "2026-11-14T14:00:09+00:00",
     "s": null,
     "t": "Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'",
     "u": "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy"
    },
    {
-    "f": "Latest",
-    "p": "2026-11-14T13:42:02+00:00",
-    "s": null,
-    "t": "Ring of Honor's Deonna Purrazzo talks possibility of Steve Maclin joining All Elite Wrestling",
-    "u": "https://www.foxnews.com/outkick-sports/ring-honor-deonna-purrazzo-talks-possibility-steve-maclin-joining-all-elite-wrestling"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T13:31:11+00:00",
-    "s": null,
-    "t": "Jayden Maiava and Josh Hoover face off as USC visits defending national champion Indiana",
-    "u": "https://www.foxnews.com/outkick-betting/jayden-maiava-josh-hoover-face-off-usc-visits-defending-national-champion-indiana"
-   },
-   {
-    "f": "Latest",
-    "p": "2026-11-14T13:23:05+00:00",
-    "s": null,
-    "t": "College football legend Brian Bosworth says he supports the controversial 24-team expanded playoff",
-    "u": "https://www.foxnews.com/outkick-sports/college-football-legend-brian-bosworth-supports-controversial-24-team-expanded-playoff"
-   },
-   {
-    "f": "Latest",
+    "f": "Media",
     "p": "2026-11-14T13:16:29+00:00",
     "s": null,
     "t": "Ben Shapiro warns Democrats have 'strong incentive' to crater the economy and blame Trump",
     "u": "https://www.foxnews.com/media/ben-shapiro-warns-democrats-strong-incentive-crater-economy-blame-trump"
    },
    {
-    "f": "Latest",
-    "p": "2026-11-14T13:07:12+00:00",
-    "s": null,
-    "t": "WWE champion wants no part of the John Cena Classic",
-    "u": "https://www.foxnews.com/outkick-sports/wwe-champion-wants-no-part-john-cena-classic"
-   },
-   {
-    "f": "Latest",
+    "f": "Tech",
     "p": "2026-11-14T13:00:55+00:00",
     "s": null,
     "t": "Ford privacy promise raises questions about your car data",
     "u": "https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data"
    },
    {
-    "f": "Latest",
+    "f": "Politics",
     "p": "2026-11-14T13:00:38+00:00",
     "s": null,
     "t": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
     "u": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions"
    },
    {
-    "f": "Latest",
+    "f": "Health",
     "p": "2026-11-14T13:00:31+00:00",
     "s": null,
     "t": "Stroke survivors get FDA-approved daily pill shown to cut repeat risk by 26%",
     "u": "https://www.foxnews.com/health/stroke-survivors-get-fda-approved-daily-pill-shown-cut-repeat-risk"
    },
    {
-    "f": "Latest",
+    "f": "Opinion",
     "p": "2026-11-14T13:00:09+00:00",
     "s": null,
     "t": "THAD ROTHROCK: Bible reminds us to keep serving God even after we retire",
@@ -195,7 +349,7 @@
     "f": "Politics",
     "p": "2026-11-14T12:30:39+00:00",
     "s": null,
-    "t": "One industry surged DC lobbying 337% under Trump \u2014 here\u2019s what\u2019s driving the push",
+    "t": "One industry increased DC lobbying 337% under Trump; here\u2019s what\u2019s driving the push",
     "u": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push"
    },
    {
@@ -514,25 +668,11 @@
     "u": "https://www.foxnews.com/us/mom-plowed-soccer-field-killed-2-will-not-face-charges-da-says"
    },
    {
-    "f": "Politics",
-    "p": "2026-11-13T17:41:40+00:00",
-    "s": null,
-    "t": "Rubio takes aim at 'soulless global bureaucrats' pushing Marxism to undermine America",
-    "u": "https://www.foxnews.com/politics/rubio-takes-aim-soulless-global-bureaucrats-pushing-marxism-undermine-america"
-   },
-   {
     "f": "Opinion",
     "p": "2026-11-13T17:28:00+00:00",
     "s": null,
     "t": "China\u2019s great AI chip loophole: How American espionage stopped China \u2014 this time",
     "u": "https://www.foxnews.com/opinion/chinas-great-ai-chip-loophole-how-american-espionage-stopped-china-this-time"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-13T17:09:24+00:00",
-    "s": null,
-    "t": "SOUND OFF: Will Democrats and Republicans come together for the good of the country?",
-    "u": "https://www.foxnews.com/politics/sound-off-democrats-republicans-come-together-good-country"
    },
    {
     "f": "Entertainment",
@@ -547,13 +687,6 @@
     "s": null,
     "t": "MICHAEL RUIZ: Cold case DNA unmasks 'Montauk Mary' as cops probe link to Jersey Shore 'Thrill Killer'",
     "u": "https://www.foxnews.com/us/michael-ruiz-cold-case-dna-unmasks-montauk-mary-cops-probe-link-jersey-shore-thrill-killer"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-13T16:48:35+00:00",
-    "s": null,
-    "t": "Incoming GOP congressman backs halting all immigration to US, warns about Sharia law in Texas",
-    "u": "https://www.foxnews.com/politics/incoming-gop-congressman-backs-halting-all-immigration-us-warns-sharia-law-texas"
    },
    {
     "f": "U.S.",
@@ -871,13 +1004,6 @@
     "u": "https://www.foxnews.com/sports/top-50-nfl-players-first-half-2026-season-ranked"
    },
    {
-    "f": "U.S.",
-    "p": "2026-11-12T17:00:31+00:00",
-    "s": null,
-    "t": "WATCH: Deranged animal rights activist arrested after allegedly hitting carriage driver with skateboard",
-    "u": "https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard"
-   },
-   {
     "f": "Entertainment",
     "p": "2026-11-12T16:52:35+00:00",
     "s": null,
@@ -1046,20 +1172,6 @@
     "u": "https://www.foxnews.com/opinion/trump-faces-brutal-impeachment-era-needs-lawyer-press-secretary"
    },
    {
-    "f": "Media",
-    "p": "2026-11-12T03:52:33+00:00",
-    "s": null,
-    "t": "Jim Jordan vows to push GOP agenda while party still holds majority, warns of Dem lawfare",
-    "u": "https://www.foxnews.com/media/jim-jordan-vows-push-gop-agenda-party-holds-majority-warns-dem-lawfare"
-   },
-   {
-    "f": "Media",
-    "p": "2026-11-12T02:06:20+00:00",
-    "s": null,
-    "t": "Blue states elect Democrats who supported permanent cash handout policy as part of mayors coalition",
-    "u": "https://www.foxnews.com/media/blue-states-elect-democrats-who-supported-permanent-cash-handout-policy-part-mayors-coalition"
-   },
-   {
     "f": "Lifestyle",
     "p": "2026-11-12T01:46:11+00:00",
     "s": null,
@@ -1074,13 +1186,6 @@
     "u": "https://www.foxnews.com/sports/tom-bradys-nfl-power-rankings-bears-bills-49ers-chiefs"
    },
    {
-    "f": "Media",
-    "p": "2026-11-12T01:17:26+00:00",
-    "s": null,
-    "t": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
-    "u": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody"
-   },
-   {
     "f": "World",
     "p": "2026-11-12T01:04:45+00:00",
     "s": null,
@@ -1093,20 +1198,6 @@
     "s": null,
     "t": "Jamie Foxx\u2019s daughter\u2019s 18th birthday bash erupts in violence as deputies make arrests",
     "u": "https://www.foxnews.com/entertainment/jamie-foxx-daughter-18th-birthday-bash-erupts-violence-deputies-make-arrests"
-   },
-   {
-    "f": "Media",
-    "p": "2026-11-12T00:28:36+00:00",
-    "s": null,
-    "t": "Rachel Maddow welcomes 'big fight' between socialist and moderate Democrats after midterm wins",
-    "u": "https://www.foxnews.com/media/rachel-maddow-welcomes-big-fight-between-socialist-moderate-democratic-party-members"
-   },
-   {
-    "f": "Media",
-    "p": "2026-11-11T23:31:14+00:00",
-    "s": null,
-    "t": "Jeffries promises \u2018remedial assistance\u2019 to anyone impacted by Trump immigration enforcement",
-    "u": "https://www.foxnews.com/media/jeffries-promises-remedial-assistance-anyone-impacted-trump-immigration-enforcement"
    },
    {
     "f": "Entertainment",
@@ -1298,13 +1389,6 @@
     "u": "https://www.foxnews.com/lifestyle/former-navy-seal-mission-erase-35m-medical-debt-thousands-american-heroes"
    },
    {
-    "f": "Entertainment",
-    "p": "2026-11-11T11:00:00+00:00",
-    "s": null,
-    "t": "'The Vow' brings Chris Harrison back to reality dating TV: What to know about the Fox Nation series",
-    "u": "https://www.foxnews.com/entertainment/the-vow-chris-harrison-back-reality-dating-tv-fox-nation-series"
-   },
-   {
     "f": "Opinion",
     "p": "2026-11-11T10:00:52+00:00",
     "s": null,
@@ -1338,13 +1422,6 @@
     "s": null,
     "t": "Jeremy Fears Jr. Leads No. 5 Michigan State Past No. 2 Duke In Champions Classic",
     "u": "https://www.foxnews.com/sports/fears-stars-as-no-5-michigan-state-knocks-off-no-2-duke-7973-in-champions-classic"
-   },
-   {
-    "f": "Entertainment",
-    "p": "2026-11-11T03:05:59+00:00",
-    "s": null,
-    "t": "Stacy Keach dead at 85 as \u2018Mike Hammer\u2019 star\u2019s wife shares emotional tribute",
-    "u": "https://www.foxnews.com/entertainment/stacy-keach-dead-85-mike-hammer-stars-wife-shares-emotional-tribute"
    },
    {
     "f": "World",
@@ -1389,13 +1466,6 @@
     "u": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal"
    },
    {
-    "f": "Entertainment",
-    "p": "2026-11-10T21:16:21+00:00",
-    "s": null,
-    "t": "Rising country singer CJ Beach dead at 22",
-    "u": "https://www.foxnews.com/entertainment/rising-country-singer-cj-beach-dead-22"
-   },
-   {
     "f": "Health",
     "p": "2026-11-10T21:14:27+00:00",
     "s": null,
@@ -1410,32 +1480,11 @@
     "u": "https://www.foxnews.com/travel/us-warns-americans-avoid-famed-tourist-square-after-gunman-kills-6-injures-15"
    },
    {
-    "f": "Entertainment",
-    "p": "2026-11-10T20:00:41+00:00",
-    "s": null,
-    "t": "Gordon Ramsay shows off abs in shirtless photo as he celebrates turning 60",
-    "u": "https://www.foxnews.com/entertainment/gordon-ramsay-shows-off-abs-shirtless-photo-he-celebrates-turning-60"
-   },
-   {
     "f": "World",
     "p": "2026-11-10T19:59:04+00:00",
     "s": null,
     "t": "TV anchor found dead with gunshot wound to head, officials arrest husband",
     "u": "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband"
-   },
-   {
-    "f": "Entertainment",
-    "p": "2026-11-10T19:57:18+00:00",
-    "s": null,
-    "t": "Kim Kardashian faces furious backlash as shoppers demand refunds over $148 advent calendar",
-    "u": "https://www.foxnews.com/entertainment/kim-kardashian-faces-furious-backlash-shoppers-demand-refunds-over-148-advent-calendar"
-   },
-   {
-    "f": "Entertainment",
-    "p": "2026-11-10T19:33:55+00:00",
-    "s": null,
-    "t": "Thomas Markle allegedly cut off ankle monitor after child sexual abuse material arrest",
-    "u": "https://www.foxnews.com/entertainment/thomas-markle-allegedly-cut-off-ankle-monitor-after-child-sexual-abuse-material-arrest"
    },
    {
     "f": "Tech",
@@ -1464,13 +1513,6 @@
     "s": null,
     "t": "College Basketball Catchup: Indiana-Syracuse, A 20-Rebound Game, Hurley Thoughts",
     "u": "https://www.foxnews.com/sports/college-basketball-catchup-syracuse-orange-uconn-huskies-dan-hurley"
-   },
-   {
-    "f": "Entertainment",
-    "p": "2026-11-10T15:00:41+00:00",
-    "s": null,
-    "t": "\u2018Yellowstone\u2019 star Dawn Olivieri chose Arkansas ranch life over LA to reclaim her \u2018freedom\u2019",
-    "u": "https://www.foxnews.com/entertainment/yellowstone-star-dawn-olivieri-chose-arkansas-ranch-life-over-la-reclaim-freedom"
    },
    {
     "f": "Opinion",
@@ -1506,13 +1548,6 @@
     "s": null,
     "t": "Aggressive cancer type linked to common chemical exposure in new study",
     "u": "https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study"
-   },
-   {
-    "f": "Entertainment",
-    "p": "2026-11-10T11:00:57+00:00",
-    "s": null,
-    "t": "Sarah Ferguson in touch with ex-Prince Andrew as expert warns royal downfall 'has further to go' after arrest",
-    "u": "https://www.foxnews.com/entertainment/sarah-ferguson-touch-ex-prince-andrew-expert-warns-royal-downfall-further-arrest"
    },
    {
     "f": "Opinion",
@@ -1795,13 +1830,6 @@
     "u": "https://www.foxnews.com/travel/florida-dad-makes-final-facetime-call-wife-before-dying-flash-flood"
    },
    {
-    "f": "Health",
-    "p": "2026-11-06T18:34:29+00:00",
-    "s": null,
-    "t": "Alzheimer's warning signs could emerge years before memory loss, study finds",
-    "u": "https://www.foxnews.com/health/alzheimers-warning-signs-emerge-years-before-memory-loss-study-finds"
-   },
-   {
     "f": "Tech",
     "p": "2026-11-06T18:30:08+00:00",
     "s": null,
@@ -1830,20 +1858,6 @@
     "u": "https://www.foxnews.com/tech/old-android-phone-become-walking-robot"
    },
    {
-    "f": "Travel",
-    "p": "2026-11-06T12:00:24+00:00",
-    "s": null,
-    "t": "Cannonballs unearthed at Alamo nearly 200 years after deadly siege, yet mystery remains",
-    "u": "https://www.foxnews.com/travel/cannonballs-unearthed-alamo-nearly-200-years-after-deadly-siege-mystery-remains"
-   },
-   {
-    "f": "Health",
-    "p": "2026-11-06T11:00:55+00:00",
-    "s": null,
-    "t": "Even occasional marijuana use linked to higher stroke risk, study finds",
-    "u": "https://www.foxnews.com/health/occasional-marijuana-use-linked-higher-stroke-risk-study-finds"
-   },
-   {
     "f": "Lifestyle",
     "p": "2026-11-06T10:00:03+00:00",
     "s": null,
@@ -1863,13 +1877,6 @@
     "s": null,
     "t": "Fake Amazon invoice scam uses $988 iPad order as bait",
     "u": "https://www.foxnews.com/tech/fake-amazon-invoice-scam-uses-988-ipad-order-bait"
-   },
-   {
-    "f": "World",
-    "p": "2026-11-05T17:26:07+00:00",
-    "s": null,
-    "t": "Melania Trump hails Oleshky ceasefire as potential \u2018spark\u2019 for progress amid Ukraine-Russia war",
-    "u": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia"
    },
    {
     "f": "Tech",
@@ -1989,20 +1996,6 @@
     "s": null,
     "t": "American Culture Quiz: Test yourself on brisket battles and Hollywood history",
     "u": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-brisket-battles-hollywood-history"
-   },
-   {
-    "f": "Lifestyle",
-    "p": "2026-10-10T13:00:01+00:00",
-    "s": null,
-    "t": "5 marriage mistakes couples make without realizing it \u2014 and how to avoid them",
-    "u": "https://www.foxnews.com/lifestyle/marriage-mistakes-couples-make-without-realizing-how-avoid-them"
-   },
-   {
-    "f": "Lifestyle",
-    "p": "2026-10-09T10:00:14+00:00",
-    "s": null,
-    "t": "Fox News Digital's News Quiz: October 9, 2026",
-    "u": "https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-october-9-2026"
    },
    {
     "f": "Science",
@@ -2181,5 +2174,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-14T16:24:53+00:00"
+ "fetched_at": "2026-11-14T22:02:35+00:00"
 }
