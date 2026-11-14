@@ -4,10 +4,52 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-13T21:48:49+00:00",
+    "p": "2026-11-14T01:54:38+00:00",
     "s": null,
-    "t": "FAA issues nationwide ground stop citing communication issues affecting \u2018multiple\u2019 air traffic control facilities",
+    "t": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
     "u": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T01:34:11+00:00",
+    "s": null,
+    "t": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "u": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T01:18:51+00:00",
+    "s": null,
+    "t": "SpaceX launches Starship in key test flight of massive rocket",
+    "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T23:54:36+00:00",
+    "s": null,
+    "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T23:42:18+00:00",
+    "s": null,
+    "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+    "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T22:18:43+00:00",
+    "s": null,
+    "t": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+    "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-13T22:06:55+00:00",
+    "s": null,
+    "t": "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can help you avoid similar traps",
+    "u": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html"
    },
    {
     "f": "Top News",
@@ -15,13 +57,6 @@
     "s": null,
     "t": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic\u2019s historic deal is its next chance",
     "u": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T21:27:15+00:00",
-    "s": null,
-    "t": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
    },
    {
     "f": "Top News",
@@ -60,13 +95,6 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-13T21:04:43+00:00",
-    "s": null,
-    "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-13T20:48:13+00:00",
     "s": null,
     "t": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
@@ -87,7 +115,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T20:07:30+00:00",
     "s": null,
     "t": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
@@ -102,24 +130,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-13T19:48:12+00:00",
-    "s": null,
-    "t": "Many people ignore these \u2018early red flags\u2019 in romance scams, says Harvard-trained psychologist",
-    "u": "https://www.cnbc.com/make-it/2026/11/13/psychologist-many-people-ignore-5-early-red-flags-in-romance-scams.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-13T19:30:36+00:00",
     "s": null,
     "t": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
     "u": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T19:11:13+00:00",
-    "s": null,
-    "t": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker",
-    "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
     "f": "Top News",
@@ -192,7 +206,7 @@
     "u": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
    },
    {
-    "f": "Top News",
+    "f": "U.S.",
     "p": "2026-11-13T15:04:10+00:00",
     "s": null,
     "t": "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare for NFL rights increase",
@@ -479,13 +493,6 @@
     "u": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-12T14:15:00+00:00",
-    "s": null,
-    "t": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
-    "u": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-12T13:59:30+00:00",
     "s": null,
@@ -533,13 +540,6 @@
     "s": null,
     "t": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
     "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-12T00:46:08+00:00",
-    "s": null,
-    "t": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-    "u": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
    },
    {
     "f": "International",
@@ -729,13 +729,6 @@
     "s": null,
     "t": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
     "u": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-10T21:45:46+00:00",
-    "s": null,
-    "t": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    "u": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
    },
    {
     "f": "Real Estate",
@@ -2678,5 +2671,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-13T21:49:21+00:00"
+ "fetched_at": "2026-11-14T01:59:35+00:00"
 }

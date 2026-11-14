@@ -5,30 +5,72 @@
    {
     "f": "Top left",
     "p": null,
-    "s": "mirror.co.uk",
-    "t": "DUFFY: 'Communication issue'...",
-    "u": "https://www.mirror.co.uk/news/us-news/ground-stop-flights-us-faa-37876557"
+    "s": "wsj.com",
+    "t": "Iran's New Cyber Playbook: Create Real-World Havoc...",
+    "u": "https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "fdd.org",
+    "t": "Sabotage Spreads...",
+    "u": "https://www.fdd.org/analysis/france-is-latest-victim-of-iranian-cyber-sabotage-first-unleashed-on-israel/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "apnews.com",
+    "t": "FAA LIFTS GROUNDSTOP",
+    "u": "https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "cnbc.com",
-    "t": "FAA NATIONWIDE GROUNDSTOP",
+    "t": "4 HOURS OF HELL",
     "u": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "the-sun.com",
+    "s": "cnn.com",
     "t": "'EXTRAORDINARY CIRCUMSTANCE'",
-    "u": "https://www.the-sun.com/news/17303114"
+    "u": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "express.co.uk",
+    "s": "nytimes.com",
     "t": "UNKNOWN EMERGENCY",
-    "u": "https://www.express.co.uk/news/2266121"
+    "u": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa?unlocked_article_code=1.QFE.Vv7f.CSB1f1xnFb5i&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "barrons.com",
+    "t": "TRAVEL CHAOS COAST TO COAST",
+    "u": "https://www.barrons.com/news/all-departing-us-flights-grounded-due-to-communication-outage-ecb466c9"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "flightaware.com",
+    "t": "MISERY MAP",
+    "u": "https://www.flightaware.com/live/cancelled"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "barrons.com",
+    "t": "WHY THE SECRECY?",
+    "u": "https://www.barrons.com/news/i-may-lose-my-mind-frustrated-travelers-stuck-in-us-flight-havoc-8e9d059a"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "UPDATE: Massive MICROSOFT outage disrupts businesses, schools and govts around world...",
+    "u": "https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e"
    },
    {
     "f": "Main splash",
@@ -43,13 +85,6 @@
     "s": "yahoo.com",
     "t": "CHIPS SOLD ON BLACKMARKET...",
     "u": "https://www.yahoo.com/news/world/articles/chinese-university-bought-advanced-nvidia-052401552.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "barrons.com",
-    "t": "CONGRESS SCRUTINY OF TRUMP AND NVIDIA...",
-    "u": "https://www.barrons.com/news/us-congress-steps-up-scrutiny-of-trump-nvidia-after-huang-exit-25f6a6d9"
    },
    {
     "f": "Main splash",
@@ -89,13 +124,6 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "cnn.com",
-    "t": "INFLATION HITS 6.5%...",
-    "u": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "thehill.com",
     "t": "Seven-decade presidential election trend predicts Dems will win in '28...",
     "u": "https://thehill.com/opinion/campaign/6216659-presidential-open-seat-history/"
@@ -110,23 +138,16 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "unherd.com",
-    "t": "Is Trump trying to destroy JD Vance?",
-    "u": "https://unherd.com/newsroom/is-donald-trump-trying-to-destroy-jd-vance/?edition=us"
+    "s": "telegraph.co.uk",
+    "t": "DeSantis eyes rival Mar-a-Lago in last Republican stronghold...",
+    "u": "https://www.telegraph.co.uk/us/politics/2026/11/13/ron-desantis-plots-return-power-republican-party-florida/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "MAGA voters soul-searching...",
+    "t": "MAGA soul-searching...",
     "u": "https://www.washingtonpost.com/politics/2026/11/13/maga-voters-are-forced-confront-future-beyond-trump/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "DeSantis eyes rival Mar-a-Lago in last Republican stronghold...",
-    "u": "https://www.telegraph.co.uk/us/politics/2026/11/13/ron-desantis-plots-return-power-republican-party-florida/"
    },
    {
     "f": "Main splash",
@@ -152,51 +173,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "cnbc.com",
-    "t": "Hassett denies report he's leaving: 'Not true'...",
-    "u": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "thesun.co.uk",
-    "t": "BRAND TO ROT IN HELL...",
-    "u": "https://www.thesun.co.uk/tvandshowbiz/41008329/russell-brand-jail-transfer-hmp-wakefield/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "dailystar.co.uk",
-    "t": "Will he become jailhouse messiah?",
-    "u": "https://www.dailystar.co.uk/news/latest-news/russell-brand-could-build-religious-37874391"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "metro.co.uk",
-    "t": "Bots could start killing people in six months, godfather of AI warns...",
-    "u": "https://metro.co.uk/2026/11/13/ai-will-start-killing-people-six-months-british-godfather-ai-warns-29789626/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "wsj.com",
     "t": "Zuckerberg plans own prediction market app...",
     "u": "https://www.wsj.com/tech/meta-testing-new-prediction-market-app-with-employees-bf7bacb2"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Deed Theft Going Up as Rising Values Make Homes Lucrative Target...",
-    "u": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html?unlocked_article_code=1.QFE.2Ud3.BaaFCGRzR_a4&smid=url-share"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "John Brennan son arrested on child porn charge... 'Sexually explicit' materials found on phone...",
-    "u": "https://www.dailymail.com/news/article-16291027"
    },
    {
     "f": "Column 1",
@@ -215,30 +194,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "apnews.com",
-    "t": "MICROSOFT struggles to restore services as outage hits worldwide... Developing...",
-    "u": "https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "metro.co.uk",
-    "t": "Workers resort to using fax machines!",
-    "u": "https://metro.co.uk/2026/11/13/workers-resort-using-fax-machines-great-microsoft-outage-2026-29790504/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "the-sun.com",
     "t": "Crypto hackers steal another $400 MILLION weeks after 'biggest ever heist'...",
-    "u": "https://www.the-sun.com/news/17300968/north-koreas-hacker-army-steal-identities/"
+    "u": "https://www.the-sun.com/news/17300968"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "the-independent.com",
     "t": "Board game sales booming as people seek off-screen connections...",
-    "u": "https://www.the-independent.com/life-style/board-game-sales-booming-gen-z-b3084586.html"
+    "u": "https://www.the-independent.com/b3084586.html"
    },
    {
     "f": "Column 1",
@@ -258,15 +223,15 @@
     "f": "Column 1",
     "p": null,
     "s": "barrons.com",
-    "t": "Wins By Religious Democrats Break Republican Grip On Faith In Politics...",
+    "t": "Wins By Religious Liberals Break Conservative Grip On Faith In Politics...",
     "u": "https://www.barrons.com/news/wins-by-religious-democrats-break-republican-grip-on-faith-in-politics-bf0fd6e0"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "the-sun.com",
-    "t": "US Air Force responds to raid sirens at UK base...",
-    "u": "https://www.the-sun.com/news/17302896/"
+    "s": "wsj.com",
+    "t": "Dem Order Musk to Preserve Records Over Ukraine Starlink Access...",
+    "u": "https://www.wsj.com/politics/policy/democrats-order-musk-to-preserve-records-over-ukraine-starlink-access-0e33db6a"
    },
    {
     "f": "Column 1",
@@ -286,7 +251,7 @@
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Ukrainian drone blasts Russian warship in Gulf of Finland...",
+    "t": "Drone blasts Russian warship in Gulf of Finland...",
     "u": "https://www.telegraph.co.uk/world-news/2026/11/13/ukraine-drone-strikes-russian-warship-gulf-of-finland/"
    },
    {
@@ -306,13 +271,6 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "barrons.com",
-    "t": "Paraguay Presidential Residence Raided In Digital Bank Probe...",
-    "u": "https://www.barrons.com/news/paraguay-presidential-residence-raided-in-bank-probe-03f475c7"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "batimes.com.ar",
     "t": "Milei's Image Sours With Argentines as Jobs Become Top Concern...",
     "u": "https://batimes.com.ar/news/economy/mileis-image-sours-with-argentines-as-jobs-become-top-concern.phtml"
@@ -321,8 +279,15 @@
     "f": "Column 2",
     "p": null,
     "s": "the-sun.com",
-    "t": "Cruise ship capsizes after hit by oil tanker in New Orleans... 150 people on board... Developing...",
+    "t": "Cruise ship capsizes after hit by oil tanker in New Orleans...",
     "u": "https://www.the-sun.com/news/17302664"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "mirror.co.uk",
+    "t": "'Miracle on the Mississippi'... 180 rescued from cruise ship disaster...",
+    "u": "https://www.mirror.co.uk/news/us-news/new-orleans-american-heritage-crash-37876493"
    },
    {
     "f": "Column 2",
@@ -369,13 +334,6 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "msn.com",
-    "t": "Candace Turns French Conspiracy Theory Into 'Gold Mine'... Battle Wth the Macrons...",
-    "u": "https://www.msn.com/en-us/news/other/how-candace-owens-converted-a-bizarre-conspiracy-about-brigitte-macron-into-a-global-business/ar-AA2hkfoK"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
     "s": "washingtonpost.com",
     "t": "Congress's newest members don't post like politicians -- yet...",
     "u": "https://www.washingtonpost.com/style/2026/11/13/congresss-newest-members-dont-post-like-politicians-yet/"
@@ -398,22 +356,8 @@
     "f": "Column 2",
     "p": null,
     "s": "mediaite.com",
-    "t": "Progressives Rally Behind Push to Oust Schumer as Senate Leader...",
+    "t": "Progressives Rally Behind Push to Oust Schumer as Leader...",
     "u": "https://www.mediaite.com/online/lets-go-progressives-rally-behind-push-to-oust-chuck-schumer-as-senate-leader/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "sfgate.com",
-    "t": "Dead candidate on brink of winning CA supervisor race...",
-    "u": "https://www.sfgate.com/article/22528017.php"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "dw.com",
-    "t": "MERCEDES suspends all future investment in Germany...",
-    "u": "https://www.dw.com/en/a-79934509"
    },
    {
     "f": "Column 2",
@@ -424,5 +368,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-13T21:49:18+00:00"
+ "fetched_at": "2026-11-14T01:59:31+00:00"
 }
