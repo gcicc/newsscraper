@@ -17,17 +17,24 @@
     "u": "https://www.express.co.uk/news/2266338"
    },
    {
+    "f": "Top left",
+    "p": null,
+    "s": "foxnews.com",
+    "t": "War machine tied to troubling recruitment of young women...",
+    "u": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge"
+   },
+   {
     "f": "Main splash",
     "p": null,
     "s": "apnews.com",
     "t": "UNITED STATES OF DYSFUNCTION",
-    "u": "https://apnews.com/article/us-flights-grounded-back-to-normal-7dce2343ceb56332aa7946a27fcae562"
+    "u": "https://apnews.com/ea5f7a1f95a38f65dd57e58cfc17672b"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "ROUTER IN ARKANSAS",
+    "t": "'ROUTER IN ARKANSAS'",
     "u": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
    },
    {
@@ -42,7 +49,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "FLASHBACK: DOGE CUT 400 FAA JOBS",
-    "u": "https://apnews.com/article/faa-firings-trump-doge-safety-airlines-27390c6a7aac58063652302df5a243d3"
+    "u": "https://apnews.com/27390c6a7aac58063652302df5a243d3"
    },
    {
     "f": "Main splash",
@@ -56,7 +63,7 @@
     "p": null,
     "s": "the-sun.com",
     "t": "Duffy faces calls to resign after travel meltdown...",
-    "u": "https://www.the-sun.com/news/17303114/faa-grounds-all-flights-safety-emergency/"
+    "u": "https://www.the-sun.com/news/17303114"
    },
    {
     "f": "Main splash",
@@ -124,6 +131,13 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "cbsnews.com",
+    "t": "Federal judge blocks President from closing historic DC golf course...",
+    "u": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "nytimes.com",
     "t": "Key Witness in Comey Case Attests to DOJ's Aggressive Tactics...",
     "u": "https://www.nytimes.com/2026/11/14/nyregion/key-witness-in-comey-case-attests-to-justice-depts-aggressive-tactics.html?unlocked_article_code=1.QVE.Qhai.QXVaDkhtxcEp&smid=url-share"
@@ -138,16 +152,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "archive.ph",
-    "t": "'Habibi' Becomes Cool in Country Suspicious of Arabs...",
-    "u": "https://archive.ph/3mTkA"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "NYC Democratic Socialists Urge Ocasio-Cortez to Run for President...",
-    "u": "https://www.nytimes.com/2026/11/14/nyregion/nyc-dsa-convention-ocasio-cortez-president.html?unlocked_article_code=1.QVE.Ocgd.8tFGEVLUwWhb&smid=url-share"
+    "s": "archive.is",
+    "t": "Get ready for genetically modified hounds of hell...",
+    "u": "https://archive.is/YRdpB"
    },
    {
     "f": "Main splash",
@@ -155,6 +162,20 @@
     "s": "nypost.com",
     "t": "Man accused of kidnapping screaming girl shot dead by NYPD after car chase on busy highway...",
     "u": "https://nypost.com/2026/11/14/us-news/nypd-fatally-shoots-man-during-incident-on-nyc-highway-sources/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "dw.com",
+    "t": "SPACEX carries out first-ever spaceship capture...",
+    "u": "https://www.dw.com/a-79950275"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Fetterman threatens to flip Republican...",
+    "u": "https://www.dailymail.com/news/article-16294275"
    },
    {
     "f": "Column 1",
@@ -176,6 +197,13 @@
     "s": "telegraph.co.uk",
     "t": "Tony Blair sister-in-law spoke at Iran 'spy recruitment' event...",
     "u": "https://www.telegraph.co.uk/news/2026/11/15/lauren-booth-cherie-hamas-new-horizon-tony-blair/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "After Decades of Blood and Mistrust, Doubts Over Who's to Blame for Israeli Hostage...",
+    "u": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html?unlocked_article_code=1.QlE.H7Ys.pCRTJBGjuWtx&smid=url-share"
    },
    {
     "f": "Column 1",
@@ -224,7 +252,7 @@
     "p": null,
     "s": "msn.com",
     "t": "USA Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands...",
-    "u": "https://www.msn.com/en-us/news/other/us-loses-measles-elimination-status-amid-surge-in-cases-report/ar-AA2hpiIC"
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2hpiIC"
    },
    {
     "f": "Column 1",
@@ -266,7 +294,7 @@
     "p": null,
     "s": "nbcnews.com",
     "t": "SENATE 56: DEM WINS AK...",
-    "u": "https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673"
+    "u": "https://www.nbcnews.com/politics/rcna608673"
    },
    {
     "f": "Column 1",
@@ -306,6 +334,13 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "nypost.com",
+    "t": "Another Arch Manning Miracle...",
+    "u": "https://nypost.com/2026/11/15/sports/arch-manning-texas-end-lsus-playoff-hopes-with-comeback-win/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "nytimes.com",
     "t": "Brain Implants Give ALS Patients Voice to Speak -- and Sing...",
     "u": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html?unlocked_article_code=1.QlE.9GYm.Y8vqHwIuDOp_&smid=url-share"
@@ -333,5 +368,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-15T13:34:18+00:00"
+ "fetched_at": "2026-11-15T19:36:17+00:00"
 }

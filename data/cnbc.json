@@ -4,17 +4,59 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-15T18:22:23+00:00",
+    "s": null,
+    "t": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+    "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T18:15:14+00:00",
+    "s": null,
+    "t": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T18:10:18+00:00",
+    "s": null,
+    "t": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
+    "u": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T16:56:40+00:00",
+    "s": null,
+    "t": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+    "u": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T15:26:20+00:00",
+    "s": null,
+    "t": "3 big things we're watching in the stock market in the week ahead",
+    "u": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T14:30:01+00:00",
+    "s": null,
+    "t": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
+    "u": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T13:48:01+00:00",
+    "s": null,
+    "t": "I'm a psychologist who studies couples\u20145 signs you've fallen into a common rut: 'It builds through small habits that each look harmless'",
+    "u": "https://www.cnbc.com/make-it/2026/11/15/couples-coexisting-without-connecting.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-15T13:00:02+00:00",
     "s": null,
     "t": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins",
     "u": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-15T12:51:28+00:00",
-    "s": null,
-    "t": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
-    "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
    },
    {
     "f": "Top News",
@@ -31,7 +73,7 @@
     "u": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-15T08:34:46+00:00",
     "s": null,
     "t": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
@@ -43,13 +85,6 @@
     "s": null,
     "t": "Could Budapest be the next digital nomad hotspot?",
     "u": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-15T02:53:59+00:00",
-    "s": null,
-    "t": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
-    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
    },
    {
     "f": "Top News",
@@ -73,14 +108,14 @@
     "u": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-14T18:48:39+00:00",
     "s": null,
     "t": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
     "u": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-14T17:46:06+00:00",
     "s": null,
     "t": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
@@ -206,18 +241,11 @@
     "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T22:18:43+00:00",
     "s": null,
     "t": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
     "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T22:06:55+00:00",
-    "s": null,
-    "t": "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can help you avoid similar traps",
-    "u": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html"
    },
    {
     "f": "Investing",
@@ -227,7 +255,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
    },
    {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-13T21:18:30+00:00",
     "s": null,
     "t": "AI risks are the biggest threat to the financial system, Fed survey finds",
@@ -255,7 +283,7 @@
     "u": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-13T20:27:47+00:00",
     "s": null,
     "t": "Hassett denies report he's leaving White House: 'Not true'",
@@ -668,13 +696,6 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/11/costco-is-giving-shareholders-a-big-early-holiday-gift-how-to-make-sure-you-get-it.html"
    },
    {
-    "f": "Politics",
-    "p": "2026-11-11T19:55:39+00:00",
-    "s": null,
-    "t": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-    "u": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html"
-   },
-   {
     "f": "Finance",
     "p": "2026-11-11T19:16:23+00:00",
     "s": null,
@@ -792,13 +813,6 @@
     "s": null,
     "t": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
     "u": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-10T21:45:46+00:00",
-    "s": null,
-    "t": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    "u": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
    },
    {
     "f": "Real Estate",
@@ -2636,5 +2650,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-15T13:34:23+00:00"
+ "fetched_at": "2026-11-15T19:36:22+00:00"
 }
