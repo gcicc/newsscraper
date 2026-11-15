@@ -4,6 +4,48 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-15T13:00:02+00:00",
+    "s": null,
+    "t": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins",
+    "u": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T12:51:28+00:00",
+    "s": null,
+    "t": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+    "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T12:49:07+00:00",
+    "s": null,
+    "t": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
+    "u": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T12:00:01+00:00",
+    "s": null,
+    "t": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+    "u": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T08:34:46+00:00",
+    "s": null,
+    "t": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+    "u": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T06:00:01+00:00",
+    "s": null,
+    "t": "Could Budapest be the next digital nomad hotspot?",
+    "u": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-15T02:53:59+00:00",
     "s": null,
     "t": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
@@ -17,7 +59,7 @@
     "u": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-14T22:54:47+00:00",
     "s": null,
     "t": "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
@@ -38,7 +80,7 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-14T17:46:06+00:00",
     "s": null,
     "t": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
@@ -52,7 +94,7 @@
     "u": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-14T15:36:47+00:00",
     "s": null,
     "t": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -157,7 +199,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-13T23:42:18+00:00",
     "s": null,
     "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -206,7 +248,7 @@
     "u": "https://www.cnbc.com/make-it/2026/11/13/honeypot-scam-red-flags.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-13T20:48:13+00:00",
     "s": null,
     "t": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
@@ -241,18 +283,11 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-13T19:30:36+00:00",
     "s": null,
     "t": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
     "u": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T19:01:12+00:00",
-    "s": null,
-    "t": "Retirees sometimes tap savings for one-off expenses. Here\u2019s what advisors say to consider first",
-    "u": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html"
    },
    {
     "f": "Tech",
@@ -297,7 +332,7 @@
     "u": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
    },
    {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-13T15:44:16+00:00",
     "s": null,
     "t": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
@@ -491,13 +526,6 @@
     "s": null,
     "t": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
     "u": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-12T20:32:21+00:00",
-    "s": null,
-    "t": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-    "u": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html"
    },
    {
     "f": "Politics",
@@ -1277,7 +1305,7 @@
     "u": "https://www.cnbc.com/2026/11/05/cnbcs-robert-frank-talks-with-brown-harris-stevens-ceo-bess-freedman.html"
    },
    {
-    "f": "Business",
+    "f": "Retail",
     "p": "2026-11-05T15:08:05+00:00",
     "s": null,
     "t": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz\u2019s Trian",
@@ -2124,13 +2152,6 @@
     "u": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html"
    },
    {
-    "f": "Autos",
-    "p": "2026-10-21T20:14:36+00:00",
-    "s": null,
-    "t": "GM aims to develop vehicles in as little as two years with AI, software push",
-    "u": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html"
-   },
-   {
     "f": "Real Estate",
     "p": "2026-10-21T13:13:48+00:00",
     "s": null,
@@ -2227,13 +2248,6 @@
     "s": null,
     "t": "Junk bonds are 'flashing yellow.' Watch these warning signs",
     "u": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html"
-   },
-   {
-    "f": "Real Estate",
-    "p": "2026-10-09T17:56:24+00:00",
-    "s": null,
-    "t": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "u": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html"
    },
    {
     "f": "Wealth",
@@ -2614,13 +2628,6 @@
     "u": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
    },
    {
-    "f": "Investing",
-    "p": "2026-06-28T12:29:57+00:00",
-    "s": null,
-    "t": "Top Wall Street analysts are bullish on these 3 stocks for strong long-term growth potential",
-    "u": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html"
-   },
-   {
     "f": "Wealth",
     "p": "2026-06-25T16:46:39+00:00",
     "s": null,
@@ -2629,5 +2636,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-15T05:15:17+00:00"
+ "fetched_at": "2026-11-15T13:34:23+00:00"
 }

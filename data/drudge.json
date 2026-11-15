@@ -3,6 +3,20 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Top left",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Putin 'lifts ban on killing Zelensky'...",
+    "u": "https://www.the-sun.com/news/17307132"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "express.co.uk",
+    "t": "SENDS DIRE NUCLEAR THREAT TO UK...",
+    "u": "https://www.express.co.uk/news/2266338"
+   },
+   {
     "f": "Main splash",
     "p": null,
     "s": "apnews.com",
@@ -12,9 +26,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "barrons.com",
-    "t": "'IT WAS A WIRE'",
-    "u": "https://www.barrons.com/news/us-flights-resume-after-rare-nationwide-grounding-but-delays-persist-370b9cef"
+    "s": "wsj.com",
+    "t": "ROUTER IN ARKANSAS",
+    "u": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
    },
    {
     "f": "Main splash",
@@ -29,6 +43,13 @@
     "s": "apnews.com",
     "t": "FLASHBACK: DOGE CUT 400 FAA JOBS",
     "u": "https://apnews.com/article/faa-firings-trump-doge-safety-airlines-27390c6a7aac58063652302df5a243d3"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "gulfcoastnewsnow.com",
+    "t": "UPS cargo plane collides with passenger jet at Miami airport...",
+    "u": "https://www.gulfcoastnewsnow.com/article/planes-collide-at-miami-international-airport/74431861"
    },
    {
     "f": "Main splash",
@@ -68,6 +89,13 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "nytimes.com",
+    "t": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business...",
+    "u": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html?unlocked_article_code=1.QlE.S83S.v9pNUp3b3vi_&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "washingtonpost.com",
     "t": "NVIDIA scandal hits Trump's political vulnerabilities after Dem sweep...",
     "u": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep/"
@@ -75,9 +103,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Goodbye, Mr. Chips...",
-    "u": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html?unlocked_article_code=1.QVE.B4P7.GTUIpT4NxkDH&smid=url-share"
+    "s": "theguardian.com",
+    "t": "How AI's smartest man fell for world's oldest trick...",
+    "u": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
    },
    {
     "f": "Main splash",
@@ -122,6 +150,34 @@
     "u": "https://www.nytimes.com/2026/11/14/nyregion/nyc-dsa-convention-ocasio-cortez-president.html?unlocked_article_code=1.QVE.Ocgd.8tFGEVLUwWhb&smid=url-share"
    },
    {
+    "f": "Main splash",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Man accused of kidnapping screaming girl shot dead by NYPD after car chase on busy highway...",
+    "u": "https://nypost.com/2026/11/14/us-news/nypd-fatally-shoots-man-during-incident-on-nyc-highway-sources/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Bahrain intercepts Iran aerial attacks as Tehran says it attacked US base...",
+    "u": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Mullahs Still Have 2,500 Missiles, Countering Trump Assertions...",
+    "u": "https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "Tony Blair sister-in-law spoke at Iran 'spy recruitment' event...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/15/lauren-booth-cherie-hamas-new-horizon-tony-blair/"
+   },
+   {
     "f": "Column 1",
     "p": null,
     "s": "archive.is",
@@ -148,6 +204,20 @@
     "s": "mediaite.com",
     "t": "'Weed Was Big Factor' on TX Turning Blue?",
     "u": "https://www.mediaite.com/media/joe-rogan-explains-why-texas-turned-blue-blowback-against-the-old-fcks-who-made-pot-illegal/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "World facing new credit crunch...",
+    "u": "https://www.telegraph.co.uk/business/2026/11/15/the-world-is-facing-a-new-credit-crunch/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "politico.com",
+    "t": "James Murdoch Escaped His Father's Empire. Now He's Building His Own...",
+    "u": "https://www.politico.com/news/magazine/2026/11/14/james-kathryn-murdoch-democratic-media-01166624"
    },
    {
     "f": "Column 1",
@@ -215,6 +285,13 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "sfgate.com",
+    "t": "Could top 60 feet! 'DO NOT GO TO THE BEACH'...",
+    "u": "https://www.sfgate.com/article/22527180.php"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "telegraph.co.uk",
     "t": "What exercising before 8am does to brain, sleep, waistline...",
     "u": "https://www.telegraph.co.uk/health-fitness/fitness/workouts/what-morning-exercise-does-to-your-body/"
@@ -222,9 +299,23 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "wsj.com",
+    "t": "Backyard Battle Over AMAZON Delivery Drones 'Stealing the Sky'...",
+    "u": "https://www.wsj.com/lifestyle/amazon-delivery-drones-4807e976"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "nytimes.com",
-    "t": "These Luxury Retreats Want You to Forage for Your Food...",
-    "u": "https://www.nytimes.com/2026/11/14/t-magazine/hotels-restaurants-foraging-food.html?unlocked_article_code=1.QVE.rQhj.EyxShHl7ysv0&smid=url-share"
+    "t": "Brain Implants Give ALS Patients Voice to Speak -- and Sing...",
+    "u": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html?unlocked_article_code=1.QlE.9GYm.Y8vqHwIuDOp_&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "time.com",
+    "t": "All Hail Philomena Cunk, Perfect Fake Newswoman for Age of Ignorance...",
+    "u": "https://time.com/article/2026/11/15/cunk-on-cinema-philomena-cunk"
    },
    {
     "f": "Column 2",
@@ -232,8 +323,15 @@
     "s": "showbiz411.com",
     "t": "BOXOFFICE: Depp's 'EBENEZER' Comeback Won't Make $20M This Weekend...",
     "u": "https://www.showbiz411.com/2026/11/14/box-office-johnny-depps-ebenezer-comeback-wont-make-20-mil-this-weekend-you-can-see-everything-still-drawing-audiences#google_vignette"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "How Hollywood turned its back on trans actors...",
+    "u": "https://www.theguardian.com/culture/2026/nov/15/hollywood-trans-actors"
    }
   ]
  },
- "fetched_at": "2026-11-15T05:15:13+00:00"
+ "fetched_at": "2026-11-15T13:34:18+00:00"
 }
