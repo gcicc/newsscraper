@@ -4,10 +4,17 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-15T18:22:23+00:00",
+    "p": "2026-11-15T22:33:26+00:00",
     "s": null,
     "t": "'We slept here': Flight delays linger but schedule is back on track for Monday",
     "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+   },
+   {
+    "f": "Finance",
+    "p": "2026-11-15T19:58:21+00:00",
+    "s": null,
+    "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+    "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
     "f": "Top News",
@@ -232,13 +239,6 @@
     "s": null,
     "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
     "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-13T23:42:18+00:00",
-    "s": null,
-    "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-    "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
     "f": "Tech",
@@ -2642,13 +2642,27 @@
     "u": "https://www.cnbc.com/2026/07/03/manhattan-luxury-real-estate-sales-mamdani.html"
    },
    {
+    "f": "Investing",
+    "p": "2026-06-28T12:29:57+00:00",
+    "s": null,
+    "t": "Top Wall Street analysts are bullish on these 3 stocks for strong long-term growth potential",
+    "u": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html"
+   },
+   {
     "f": "Wealth",
     "p": "2026-06-25T16:46:39+00:00",
     "s": null,
     "t": "Luxury spending now driven by experiences and 'inheritourism'",
     "u": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html"
+   },
+   {
+    "f": "Investing",
+    "p": "2026-06-21T11:19:06+00:00",
+    "s": null,
+    "t": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
+    "u": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html"
    }
   ]
  },
- "fetched_at": "2026-11-15T19:36:22+00:00"
+ "fetched_at": "2026-11-15T23:48:45+00:00"
 }
