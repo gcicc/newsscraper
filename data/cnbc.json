@@ -4,10 +4,31 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-14T21:52:01+00:00",
+    "p": "2026-11-15T02:53:59+00:00",
+    "s": null,
+    "t": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
+    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T23:10:14+00:00",
     "s": null,
     "t": "SpaceX catches upper stage of Starship rocket in historic first",
     "u": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-14T22:54:47+00:00",
+    "s": null,
+    "t": "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
+    "u": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-14T22:34:07+00:00",
+    "s": null,
+    "t": "$180 million Van Gogh tests the art market and collector confidence",
+    "u": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
    },
    {
     "f": "Top News",
@@ -15,13 +36,6 @@
     "s": null,
     "t": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
     "u": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-14T18:32:47+00:00",
-    "s": null,
-    "t": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
-    "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
    },
    {
     "f": "Top News",
@@ -241,7 +255,7 @@
     "u": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T18:56:26+00:00",
     "s": null,
     "t": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
@@ -451,7 +465,7 @@
     "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-12T22:47:28+00:00",
     "s": null,
     "t": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
@@ -701,13 +715,6 @@
     "s": null,
     "t": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
     "u": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-11T12:42:09+00:00",
-    "s": null,
-    "t": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    "u": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
    },
    {
     "f": "Real Estate",
@@ -2619,15 +2626,8 @@
     "s": null,
     "t": "Luxury spending now driven by experiences and 'inheritourism'",
     "u": "https://www.cnbc.com/2026/06/25/luxury-spending-now-driven-by-experiences-and-inheritourism.html"
-   },
-   {
-    "f": "Wealth",
-    "p": "2026-06-22T13:10:48+00:00",
-    "s": null,
-    "t": "The new arms race in wealth management: Winning the ultra-wealthy",
-    "u": "https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html"
    }
   ]
  },
- "fetched_at": "2026-11-14T22:02:37+00:00"
+ "fetched_at": "2026-11-15T05:15:17+00:00"
 }
