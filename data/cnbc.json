@@ -4,13 +4,48 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-16T04:34:00+00:00",
+    "s": null,
+    "t": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    "u": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-16T03:53:59+00:00",
+    "s": null,
+    "t": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    "u": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-16T03:35:09+00:00",
+    "s": null,
+    "t": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    "u": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-16T02:56:24+00:00",
+    "s": null,
+    "t": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "u": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-16T02:22:04+00:00",
+    "s": null,
+    "t": "$180 million Van Gogh tests the art market and collector confidence",
+    "u": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-15T22:33:26+00:00",
     "s": null,
     "t": "'We slept here': Flight delays linger but schedule is back on track for Monday",
     "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
    },
    {
-    "f": "Finance",
+    "f": "Top News",
     "p": "2026-11-15T19:58:21+00:00",
     "s": null,
     "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
@@ -24,11 +59,18 @@
     "u": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-15T18:10:18+00:00",
     "s": null,
     "t": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO",
     "u": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-15T17:14:17+00:00",
+    "s": null,
+    "t": "What I know and respect about Colette Kress, the person now leading Nvidia",
+    "u": "https://www.cnbc.com/investingclub/2026/11/15/jim-cramer-nvidia-colette-kress-jensen-huang.html"
    },
    {
     "f": "Top News",
@@ -106,13 +148,6 @@
     "s": null,
     "t": "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
     "u": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-14T22:34:07+00:00",
-    "s": null,
-    "t": "$180 million Van Gogh tests the art market and collector confidence",
-    "u": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
    },
    {
     "f": "Tech",
@@ -199,21 +234,21 @@
     "u": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-14T08:11:28+00:00",
     "s": null,
     "t": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
     "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-14T07:08:45+00:00",
     "s": null,
     "t": "Analysis: Companies love a \u2018rockstar\u2019 CEO. Until they depend on one",
     "u": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
    },
    {
-    "f": "Top News",
+    "f": "Energy",
     "p": "2026-11-14T06:00:01+00:00",
     "s": null,
     "t": "Ecuador wants to monetize its biodiversity \u2014 while still drilling for oil",
@@ -234,7 +269,7 @@
     "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-13T23:54:36+00:00",
     "s": null,
     "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -302,13 +337,6 @@
     "s": null,
     "t": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
     "u": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-13T19:53:38+00:00",
-    "s": null,
-    "t": "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html"
    },
    {
     "f": "Investing",
@@ -514,7 +542,7 @@
     "u": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-12T23:12:15+00:00",
     "s": null,
     "t": "Nscale updates IPO prospectus that shows widening loss",
@@ -710,7 +738,7 @@
     "u": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html"
    },
    {
-    "f": "Politics",
+    "f": "Energy",
     "p": "2026-11-11T16:59:18+00:00",
     "s": null,
     "t": "Bessent moved to military base amid 'growing threats' from Iran",
@@ -1795,13 +1823,6 @@
     "u": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-10-31T12:47:08+00:00",
-    "s": null,
-    "t": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-    "u": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html"
-   },
-   {
     "f": "Health & Science",
     "p": "2026-10-30T22:17:13+00:00",
     "s": null,
@@ -1954,13 +1975,6 @@
     "s": null,
     "t": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
     "u": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-10-28T21:06:37+00:00",
-    "s": null,
-    "t": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-    "u": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html"
    },
    {
     "f": "Real Estate",
@@ -2664,5 +2678,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-15T23:48:45+00:00"
+ "fetched_at": "2026-11-16T05:12:03+00:00"
 }

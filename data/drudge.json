@@ -5,6 +5,20 @@
    {
     "f": "Top left",
     "p": null,
+    "s": "barrons.com",
+    "t": "Prince Harry Says 'You're Going To Win' On Ukraine Trip...",
+    "u": "https://www.barrons.com/news/prince-harry-says-you-re-going-to-win-on-ukraine-trip-548dc7d2"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "Visits war-wounded...",
+    "u": "https://www.yahoo.com/news/world/articles/britains-prince-harry-visits-war-220410098.html"
+   },
+   {
+    "f": "Top left",
+    "p": null,
     "s": "the-sun.com",
     "t": "Putin 'lifts ban on killing Zelensky'...",
     "u": "https://www.the-sun.com/news/17307132"
@@ -20,7 +34,7 @@
     "f": "Top left",
     "p": null,
     "s": "foxnews.com",
-    "t": "War machine tied to troubling recruitment of young women...",
+    "t": "Troubling recruitment of young women...",
     "u": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge"
    },
    {
@@ -47,6 +61,13 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "msn.com",
+    "t": "TRAVEL MESS DAY 3",
+    "u": "https://www.msn.com/en-us/money/companies/thousands-of-us-flights-canceled-delayed-for-third-day-in-a-row/ar-AA2hvfHu"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "apnews.com",
     "t": "FLASHBACK: DOGE CUT 400 FAA JOBS",
     "u": "https://apnews.com/27390c6a7aac58063652302df5a243d3"
@@ -54,44 +75,23 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "gulfcoastnewsnow.com",
-    "t": "UPS cargo plane collides with passenger jet at Miami airport...",
-    "u": "https://www.gulfcoastnewsnow.com/article/planes-collide-at-miami-international-airport/74431861"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "Duffy faces calls to resign after travel meltdown...",
-    "u": "https://www.the-sun.com/news/17303114"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "themirror.com",
-    "t": "Prioritizes 'disruptions to football' after 1.5 MILLION people stranded...",
-    "u": "https://www.themirror.com/sport/american-football/sean-duffy-college-football-faa-2110131"
+    "s": "archive.is",
+    "t": "TOO BIG TO FIRE: Jensen Huang discusses comeback as NVIDIA CEO...",
+    "u": "https://archive.is/Om9zW"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "barrons.com",
-    "t": "Tech Chaos Hits Press Conference On Travel Chaos...",
-    "u": "https://www.barrons.com/news/check-one-two-tech-glitch-hits-us-presser-on-air-travel-chaos-3da28415"
+    "t": "Musk calls for reinstatement...",
+    "u": "https://www.barrons.com/news/musk-uber-co-founder-join-call-for-jensen-huang-s-return-to-nvidia-b14cac61"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "UPDATE: Massive MICROSOFT outage disrupts businesses, schools and govts around world...",
-    "u": "https://www.wsj.com/tech/microsoft-working-to-fix-widespread-outage-8df67a4e"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Unexpected Joys of 19-Hour Global Email Blackout...",
-    "u": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c"
+    "s": "archive.is",
+    "t": "Data centre construction stocks lose $4 TRILLION as boom unravels...",
+    "u": "https://archive.is/5M4u7"
    },
    {
     "f": "Main splash",
@@ -110,13 +110,6 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "theguardian.com",
-    "t": "How AI's smartest man fell for world's oldest trick...",
-    "u": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "wsj.com",
     "t": "Inside Stephen Miller's Frenetic First Week as White House Chief of Staff...",
     "u": "https://www.wsj.com/politics/policy/inside-stephen-millers-frenetic-first-week-as-white-house-chief-of-staff-b89cedb7"
@@ -127,27 +120,6 @@
     "s": "washingtonpost.com",
     "t": "Faces crisis...",
     "u": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-crisis-tests-stephen-miller-chief-staff-he-reorganizes/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "cbsnews.com",
-    "t": "Federal judge blocks President from closing historic DC golf course...",
-    "u": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Key Witness in Comey Case Attests to DOJ's Aggressive Tactics...",
-    "u": "https://www.nytimes.com/2026/11/14/nyregion/key-witness-in-comey-case-attests-to-justice-depts-aggressive-tactics.html?unlocked_article_code=1.QVE.Qhai.QXVaDkhtxcEp&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Spy plane tied to covert attacks leads back to Florida's largest senior community...",
-    "u": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/"
    },
    {
     "f": "Main splash",
@@ -164,20 +136,6 @@
     "u": "https://nypost.com/2026/11/14/us-news/nypd-fatally-shoots-man-during-incident-on-nyc-highway-sources/"
    },
    {
-    "f": "Main splash",
-    "p": null,
-    "s": "dw.com",
-    "t": "SPACEX carries out first-ever spaceship capture...",
-    "u": "https://www.dw.com/a-79950275"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Fetterman threatens to flip Republican...",
-    "u": "https://www.dailymail.com/news/article-16294275"
-   },
-   {
     "f": "Column 1",
     "p": null,
     "s": "cnbc.com",
@@ -190,13 +148,6 @@
     "s": "wsj.com",
     "t": "Mullahs Still Have 2,500 Missiles, Countering Trump Assertions...",
     "u": "https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Tony Blair sister-in-law spoke at Iran 'spy recruitment' event...",
-    "u": "https://www.telegraph.co.uk/news/2026/11/15/lauren-booth-cherie-hamas-new-horizon-tony-blair/"
    },
    {
     "f": "Column 1",
@@ -222,23 +173,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nytimes.com",
-    "t": "After Relative Silence, Rogan Said The Don's Policies Have Lost 'Podcast Bros'...",
-    "u": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html?unlocked_article_code=1.QVE.mAkl.XbGvByxxkZSU&smid=url-share"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "mediaite.com",
-    "t": "'Weed Was Big Factor' on TX Turning Blue?",
-    "u": "https://www.mediaite.com/media/joe-rogan-explains-why-texas-turned-blue-blowback-against-the-old-fcks-who-made-pot-illegal/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "World facing new credit crunch...",
-    "u": "https://www.telegraph.co.uk/business/2026/11/15/the-world-is-facing-a-new-credit-crunch/"
+    "s": "yahoo.com",
+    "t": "Mexican journalist who reported on missing people found dead in Acapulco...",
+    "u": "https://www.yahoo.com/news/articles/mexican-journalist-reported-missing-people-211145608.html"
    },
    {
     "f": "Column 1",
@@ -246,27 +183,6 @@
     "s": "politico.com",
     "t": "James Murdoch Escaped His Father's Empire. Now He's Building His Own...",
     "u": "https://www.politico.com/news/magazine/2026/11/14/james-kathryn-murdoch-democratic-media-01166624"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "msn.com",
-    "t": "USA Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands...",
-    "u": "https://www.msn.com/en-us/news/other/ar-AA2hpiIC"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Doctors treat conditions they've never seen...",
-    "u": "https://www.washingtonpost.com/health/2026/11/14/doctors-are-learning-fly-measles-surge-presents-rare-cases/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "apnews.com",
-    "t": "Flu season off to early start and intensifying...",
-    "u": "https://apnews.com/article/flu-season-influenza-vaccine-615b4eecba876dca82c5dd16fdb29984"
    },
    {
     "f": "Column 1",
@@ -295,6 +211,13 @@
     "s": "nbcnews.com",
     "t": "SENATE 56: DEM WINS AK...",
     "u": "https://www.nbcnews.com/politics/rcna608673"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Fetterman threatens to flip...",
+    "u": "https://www.dailymail.com/news/article-16294275"
    },
    {
     "f": "Column 1",
@@ -357,7 +280,7 @@
     "p": null,
     "s": "showbiz411.com",
     "t": "BOXOFFICE: Depp's 'EBENEZER' Comeback Won't Make $20M This Weekend...",
-    "u": "https://www.showbiz411.com/2026/11/14/box-office-johnny-depps-ebenezer-comeback-wont-make-20-mil-this-weekend-you-can-see-everything-still-drawing-audiences#google_vignette"
+    "u": "https://www.showbiz411.com/2026/11/14/box-office-johnny-depps-ebenezer-comeback-wont-make-20-mil-this-weekend-you-can-see-everything-still-drawing-audiences"
    },
    {
     "f": "Column 2",
@@ -368,5 +291,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-15T23:48:41+00:00"
+ "fetched_at": "2026-11-16T05:11:58+00:00"
 }
