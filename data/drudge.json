@@ -5,72 +5,93 @@
    {
     "f": "Top left",
     "p": null,
-    "s": "barrons.com",
-    "t": "Prince Harry Says 'You're Going To Win' On Ukraine Trip...",
-    "u": "https://www.barrons.com/news/prince-harry-says-you-re-going-to-win-on-ukraine-trip-548dc7d2"
+    "s": "express.co.uk",
+    "t": "UNITED AIRLINES HIT BY OUTAGE; NO FLIGHTS CAN TAKE OFF... DEVELOPING...",
+    "u": "https://www.express.co.uk/news/2266743"
    },
    {
     "f": "Top left",
     "p": null,
-    "s": "yahoo.com",
-    "t": "Visits war-wounded...",
-    "u": "https://www.yahoo.com/news/world/articles/britains-prince-harry-visits-war-220410098.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "Putin 'lifts ban on killing Zelensky'...",
-    "u": "https://www.the-sun.com/news/17307132"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "msn.com",
-    "t": "Risk of nuke accident increasing this winter, regulators say...",
-    "u": "https://www.msn.com/en-us/news/other/exclusive-risk-of-nuclear-accident-in-ukraine-increasing-this-winter-atomic-safety-regulators-say/ar-AA2hxa1Q"
+    "s": "express.co.uk",
+    "t": "AMERICAN HIT TOO...",
+    "u": "https://www.express.co.uk/news/2266743"
    },
    {
     "f": "Top left",
     "p": null,
     "s": "cnbc.com",
-    "t": "NATO member Estonia closes Russia border after attempted 'sabotage'...",
-    "u": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html"
+    "t": "'WIDESPREAD'...",
+    "u": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Days After All Flights Grounded...",
+    "u": "https://nypost.com/2026/11/16/us-news/united-airlines-suffers-widespread-system-outage-just-days-after-all-us-flights-were-grounded-due-to-faulty-router/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "UNITED STATES OF DYSFUNCTION",
-    "u": "https://apnews.com/ea5f7a1f95a38f65dd57e58cfc17672b"
+    "s": "dailymail.com",
+    "t": "USA PLUNGED INTO CHAOS FLIGHTS GROUNDED, BANK OUTAGES",
+    "u": "https://www.dailymail.com/news/article-16297865/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "'ROUTER IN ARKANSAS'",
-    "u": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c"
+    "s": "nypost.com",
+    "t": "PROBLEMS EVERYWHERE",
+    "u": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "express.co.uk",
+    "t": "CUSTOMERS LOCKED OUT",
+    "u": "https://www.express.co.uk/news/2266717"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nbcnews.com",
+    "t": "'TECHNICAL ISSUE'",
+    "u": "https://www.nbcnews.com/business/rcna609673"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "studyfinds.com",
+    "t": "Is cyberwarfare against USA increasing?",
+    "u": "https://studyfinds.com/cyberwarfare-against-united-states-edging-from-spying-toward-sabotage/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "FLASHBACK: Iran Behind attack on Minnesota Water Systems...",
+    "u": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html?unlocked_article_code=1.Q1E.e5ZJ.VT-dj9hOferr&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtontimes.com",
+    "t": "Fears of global blackout connected to federal emergency test system...",
+    "u": "https://www.washingtontimes.com/news/2026/nov/16/fears-global-blackout-tuesday-connected-federal-emergency-test-system/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "mediaite.com",
-    "t": "TRUMP HIDES",
-    "u": "https://www.mediaite.com/online/wheres-trump-social-media-puzzled-as-president-goes-days-without-a-public-appearance/"
+    "t": "Sean Duffy Called Out for Voting Against FAA Funding Bill While in Congress...",
+    "u": "https://www.mediaite.com/media/tv/watch-sean-duffy-dodges-hard-after-cnbc-host-calls-out-his-vote-against-faa-funding-bill-while-in-congress/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "FLASHBACK: DOGE CUT 400 FAA JOBS",
-    "u": "https://apnews.com/27390c6a7aac58063652302df5a243d3"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "archive.is",
-    "t": "TOO BIG TO FIRE: Jensen Huang discusses comeback as NVIDIA CEO...",
-    "u": "https://archive.is/Om9zW"
+    "s": "cnbc.com",
+    "t": "NVIDIA board NOT considering Huang back as CEO...",
+    "u": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
    },
    {
     "f": "Main splash",
@@ -82,43 +103,50 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "cnbc.com",
+    "t": "Trump traded up to $97.5M as gained White House access...",
+    "u": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "tinabrown.substack.com",
+    "t": "TINA BROWN: When the Chips are Down...",
+    "u": "https://tinabrown.substack.com/p/jensen-huang-has-left-the-building"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "barrons.com",
-    "t": "Elon calls for reinstatement...",
-    "u": "https://www.barrons.com/news/musk-uber-co-founder-join-call-for-jensen-huang-s-return-to-nvidia-b14cac61"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Trump stake grew to $62 million before scandal...",
-    "u": "https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "archive.is",
-    "t": "Data center construction stocks lose $4 TRILLION...",
-    "u": "https://archive.is/5M4u7"
+    "t": "US Data Centers' Carbon Footprint Rivals Small European Countries...",
+    "u": "https://www.barrons.com/news/us-data-centers-carbon-footprint-rivals-small-european-countries-0c4a0c1f"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "nytimes.com",
-    "t": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business...",
-    "u": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html?unlocked_article_code=1.QlE.S83S.v9pNUp3b3vi_&smid=url-share"
+    "t": "Elon Dreams of Larger Empire in Move Toward Technological Supremacy...",
+    "u": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html?unlocked_article_code=1.Q1E.5yAm.dvWD_Z9srnHt&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "Once Bitter Rivals, Stephen Miller and Marco Rubio Form Unlikely Alliance...",
+    "t": "Once Bitter Rivals, Miller and Rubio Form Unlikely Alliance...",
     "u": "https://www.wsj.com/politics/once-bitter-rivals-stephen-miller-and-marco-rubio-form-unlikely-alliance-3aaa17c6"
    },
    {
     "f": "Main splash",
     "p": null,
+    "s": "mediaite.com",
+    "t": "Don 'Started Picking on' Susie Wiles Because She Got Cancer...",
+    "u": "https://www.mediaite.com/media/news/maggie-haberman-claims-trump-started-picking-on-susie-wiles-because-she-got-cancer/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "wsj.com",
-    "t": "DOJ Ready to Battle Congress. Texas Prosecutor Placed Himself at the Front...",
+    "t": "DOJ Ready to Battle Congress. TX Prosecutor Places Himself at Front...",
     "u": "https://www.wsj.com/politics/policy/doj-is-ready-to-battle-congress-a-texas-prosecutor-placed-himself-at-the-front-deaceeb7"
    },
    {
@@ -129,10 +157,108 @@
     "u": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates"
    },
    {
+    "f": "Main splash",
+    "p": null,
+    "s": "barrons.com",
+    "t": "Prince Harry Says 'You're Going To Win' On Ukraine Trip...",
+    "u": "https://www.barrons.com/news/prince-harry-says-you-re-going-to-win-on-ukraine-trip-548dc7d2"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "Visits war-wounded...",
+    "u": "https://www.yahoo.com/news/world/articles/britains-prince-harry-visits-war-220410098.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "Risk of nuke accident increasing...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2hxa1Q"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "barrons.com",
+    "t": "French Troops Deployed On Secret Mission...",
+    "u": "https://www.barrons.com/news/french-troops-deployed-in-ukraine-on-secret-mission-source-to-afp-b6053ee5"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Still too young to buy beer, these teens winning elected office...",
+    "u": "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "archive.is",
+    "t": "Mamdani disbands 'controversial' NYPD unit...",
+    "u": "https://archive.is/8tIlX"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "futurism.com",
+    "t": "INSTA Algo Promoted Antisemitic Content...",
+    "u": "https://futurism.com/artificial-intelligence/instagram-algorithm-antisemitic-content"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "After claiming vote stolen, Netanyahu allies face own meddling allegations...",
+    "u": "https://www.washingtonpost.com/world/2026/11/16/after-claiming-election-stolen-netanyahu-allies-face-their-own-meddling-allegations/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "barrons.com",
+    "t": "'Attempted Coup'...",
+    "u": "https://www.barrons.com/news/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup-89c977ee"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "internazionale.it",
+    "t": "Pope hit in face by rosary...",
+    "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/16/pope-leo-misses-the-catch-as-rosary-from-crowd-hits-his-eye-in-peru"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "msn.com",
+    "t": "Trump Media faces $1 billion debt repayment as stock nears record lows...",
+    "u": "https://www.msn.com/en-us/money/general/ar-AA2hyGPQ"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "MAGA COMIC: 'Greatest Failure of President'...",
+    "u": "https://www.mediaite.com/online/popular-comedian-who-voted-for-trump-now-calls-him-greatest-failure-of-a-president-in-his-lifetime/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "cbsnews.com",
+    "t": "Biden library nears site decision as fundraising lags...",
+    "u": "https://www.cbsnews.com/news/biden-library-fundraising-site/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "COLD AS ICE: Agents pepper spray pregnant US citizen in California...",
+    "u": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen"
+   },
+   {
     "f": "Column 1",
     "p": null,
     "s": "qz.com",
-    "t": "Former SEC chair warns AI bubble likely to cause recession...",
+    "t": "Former SEC chair warns AI bubble to cause recession...",
     "u": "https://qz.com/gensler-ai-bubble-recession-warning-2028-election-111626"
    },
    {
@@ -152,37 +278,51 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "apnews.com",
-    "t": "Pricey tickets and gas keep Americans from traveling this Thanksgiving...",
-    "u": "https://apnews.com/article/aaa-thanksgiving-travel-gasoline-prices-flights-e7f3f746bcbaa3edbb6b2b2ff0f519c6"
+    "s": "sg.news.yahoo.com",
+    "t": "Paraguay judge orders ex-president Pena transferred to military prison!",
+    "u": "https://sg.news.yahoo.com/paraguay-judge-orders-ex-president-155509494.html"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "mediaite.com",
-    "t": "Iran Combat Vet Says White House Ignored Warnings About Drone Strike Threat...",
-    "u": "https://www.mediaite.com/media/tv/iran-combat-veteran-disputes-trump-admin-claims-says-they-had-nothing-to-protect-from-drone-strike-at-start-of-war/"
+    "s": "express.co.uk",
+    "t": "SKOREA SCRAMBLES FIGHTER JETS AS MULTIPLE RUSSIAN PLANES SWARM AIRSPACE...",
+    "u": "https://www.express.co.uk/news/2266746"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "themirror.com",
+    "t": "Third US aircraft carrier arrives in Middle East...",
+    "u": "https://www.themirror.com/news/world-news/aircraft-carrier-middle-east-iran-2111304"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "foxnews.com",
+    "t": "Vance vows: Iran not 'forever war'...",
+    "u": "https://www.foxnews.com/video/6408461848112"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "cbsnews.com",
-    "t": "American families demand answers on war deaths...",
+    "t": "Combat Vet Says White House Ignored Warnings About Drone Threat...",
     "u": "https://www.cbsnews.com/news/military-families-want-answers-on-iran-war-deaths-60-minutes/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "wsj.com",
-    "t": "Tehran Still Has 2,500 Missiles, Countering President's Assertions...",
-    "u": "https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67"
+    "s": "the-independent.com",
+    "t": "Will groceries get even more expensive?",
+    "u": "https://www.the-independent.com/b3085960.html"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "archive.is",
-    "t": "Trump Media group stares down $1 BILLION debt crunch as bitcoin bet fades...",
-    "u": "https://archive.is/2SyxU"
+    "s": "barrons.com",
+    "t": "Ecuador's President Denies US Has Secret Military Base In Country...",
+    "u": "https://www.barrons.com/news/ecuador-s-president-denies-us-has-military-base-in-country-97015557"
    },
    {
     "f": "Column 1",
@@ -194,9 +334,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "politico.com",
-    "t": "James Murdoch Escaped Father's Empire. Now He's Building Own...",
-    "u": "https://www.politico.com/news/magazine/2026/11/14/james-kathryn-murdoch-democratic-media-01166624"
+    "s": "the-sun.com",
+    "t": "Epstein 'likely strangled to death in his cell'...",
+    "u": "https://www.the-sun.com/news/17313699"
    },
    {
     "f": "Column 1",
@@ -208,16 +348,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "Still too young to buy beer, these teens are winning elected office...",
-    "u": "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "thesmokinggun.com",
-    "t": "HORROR: Hospital guard guilty of sex with corpse in morgue freezer...",
-    "u": "http://thesmokinggun.com/documents/revolting/morgue-horror-guilty-802931"
+    "s": "cnbc.com",
+    "t": "International student enrollment drops sharply, putting more colleges in financial jeopardy...",
+    "u": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html"
    },
    {
     "f": "Column 1",
@@ -229,9 +362,44 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nytimes.com",
-    "t": "American Roosters Fight in Philippines Despite Crackdown...",
-    "u": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html?unlocked_article_code=1.Q1E.FbKk.9QGOMEjrMKRS&smid=url-share"
+    "s": "espn.com",
+    "t": "MAYE DAY: PATRIOTS QB Could Be Out Rest of Season with Broken Ankle...",
+    "u": "https://www.espn.com/nfl/story/_/id/50500352"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "variety.com",
+    "t": "THE 7TH 007...",
+    "u": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "deadline.com",
+    "t": "BEZOS PICKS PATTINSON!",
+    "u": "https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "Bond's feminine side?",
+    "u": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "hollywoodreporter.com",
+    "t": "'Smart but Safe Choice'...",
+    "u": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattison-james-bond-1236756211/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "showbiz411.com",
+    "t": "Who Will Sing, Be Villain in AMAZON reboot?",
+    "u": "https://www.showbiz411.com/2026/11/16/the-next-bond-questions-who-will-sing-the-song-be-the-villain-play-m-and-q-and-the-love-interest-an-all-new-gang-awaits-us"
    },
    {
     "f": "Column 2",
@@ -257,9 +425,16 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "dailystar.co.uk",
-    "t": "Sermon from the slammer...",
-    "u": "https://www.dailystar.co.uk/news/latest-news/russell-brands-prison-message-bombshells-37880729"
+    "s": "nytimes.com",
+    "t": "Five European Countries Plan to Deport Migrants to Rwanda...",
+    "u": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html?unlocked_article_code=1.Q1E.6Piw.3WKsvAf-qcFc&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "nationalpost.com",
+    "t": "Can Canada defend Arctic? How military exercises in Far North went off the rails...",
+    "u": "https://nationalpost.com/news/defence/canada-military-exercises-arctic/"
    },
    {
     "f": "Column 2",
@@ -267,20 +442,6 @@
     "s": "washingtonpost.com",
     "t": "The GLP-1 boom has a dark side... Serious complications...",
     "u": "https://www.washingtonpost.com/health/2026/11/16/glp-1-weight-loss-drugs-have-big-cons-even-if-serious-problems-are-rare/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "The Surf's Way, Way Up as Huge Waves Pound California Coast...",
-    "u": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html?unlocked_article_code=1.QVE.DTLn.X4xAhRm9ustg&smid=url-share"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "apnews.com",
-    "t": "Iconic piers close...",
-    "u": "https://apnews.com/article/california-extreme-weather-storms-tides-surf-a17af23f100b3ee73c853da50cce22d1"
    },
    {
     "f": "Column 2",
@@ -293,17 +454,17 @@
     "f": "Column 2",
     "p": null,
     "s": "msn.com",
-    "t": "Gentrification by billionaire: Rich get displaced by ultrarich in LA.'s toniest ZIP codes...",
-    "u": "https://www.msn.com/en-us/lifestyle/other/gentrification-by-billionaire-how-the-rich-get-displaced-by-the-ultrarich-in-la-s-toniest-zip-codes/ar-AA2hxr2U"
+    "t": "Gentrification by billionaire: Rich get displaced by ultrarich in LA's toniest ZIP codes...",
+    "u": "https://www.msn.com/en-us/lifestyle/other/ar-AA2hxr2U"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "theguardian.com",
-    "t": "REVEALED: Israel uploaded millions of photos to AMAZON face recognition to track Palestinians...",
-    "u": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"
+    "s": "nypost.com",
+    "t": "Hidden cathedral floor emerges in Sudan, revealing one of biggest medieval churches ever found...",
+    "u": "https://nypost.com/2026/11/16/world-news/hidden-cathedral-floor-emerges-in-sudan-revealing-one-of-the-biggest-medieval-churches-ever-found/"
    }
   ]
  },
- "fetched_at": "2026-11-16T15:01:08+00:00"
+ "fetched_at": "2026-11-16T23:59:53+00:00"
 }
