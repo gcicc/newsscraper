@@ -3,25 +3,67 @@
   "failed_feeds": {},
   "items": [
    {
-    "f": "International",
+    "f": "Top News",
+    "p": "2026-11-17T07:07:35+00:00",
+    "s": null,
+    "t": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+    "u": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T06:59:42+00:00",
+    "s": null,
+    "t": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+    "u": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-17T06:51:40+00:00",
+    "s": null,
+    "t": "How Jensen Huang scandal makes Congress a bigger risk to U.S.-China relations",
+    "u": "https://www.cnbc.com/2026/11/17/jensen-nvidia-trump-xi-tech-curbs-congress.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T05:51:13+00:00",
+    "s": null,
+    "t": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+    "u": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+   },
+   {
+    "f": "Business",
+    "p": "2026-11-17T05:01:01+00:00",
+    "s": null,
+    "t": "Here's what to expect when Disney reports earnings before the bell",
+    "u": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T00:42:33+00:00",
+    "s": null,
+    "t": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "u": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T00:00:49+00:00",
+    "s": null,
+    "t": "United Airlines resolves system outage that affected departing flights",
+    "u": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+   },
+   {
+    "f": "Retail",
     "p": "2026-11-16T23:45:03+00:00",
     "s": null,
     "t": "Jim Cramer says Costco's hefty special dividend signals \u2018more gains ahead\u2019",
     "u": "https://www.cnbc.com/2026/11/16/costco-special-dividend-jim-cramer.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-16T23:23:47+00:00",
     "s": null,
     "t": "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
     "u": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-16T23:08:01+00:00",
-    "s": null,
-    "t": "United Airlines resolves system outage that affected departing flights",
-    "u": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
    },
    {
     "f": "Top News",
@@ -52,7 +94,7 @@
     "u": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-16T22:19:02+00:00",
     "s": null,
     "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
@@ -94,7 +136,7 @@
     "u": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-16T21:26:42+00:00",
     "s": null,
     "t": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
@@ -241,7 +283,7 @@
     "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-16T15:00:01+00:00",
     "s": null,
     "t": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
@@ -318,14 +360,14 @@
     "u": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-16T09:14:46+00:00",
     "s": null,
     "t": "\u2018Standing on one leg\u2019: IMF chief warns about global economy as AI circular financing hits $1 trillion",
     "u": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-16T08:38:16+00:00",
     "s": null,
     "t": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
@@ -479,7 +521,7 @@
     "u": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-13T23:54:36+00:00",
     "s": null,
     "t": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -512,13 +554,6 @@
     "s": null,
     "t": "Hassett denies report he's leaving White House: 'Not true'",
     "u": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-13T20:21:46+00:00",
-    "s": null,
-    "t": "Nvidia hasn\u2019t selected search firm for permanent Huang replacement, board tells CNBC",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
    },
    {
     "f": "Investing",
@@ -568,13 +603,6 @@
     "s": null,
     "t": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
     "u": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-13T15:03:10+00:00",
-    "s": null,
-    "t": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html"
    },
    {
     "f": "Earnings",
@@ -736,20 +764,6 @@
     "s": null,
     "t": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
     "u": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-12T12:56:27+00:00",
-    "s": null,
-    "t": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-    "u": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-12T12:03:39+00:00",
-    "s": null,
-    "t": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
-    "u": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
    },
    {
     "f": "International",
@@ -1151,13 +1165,6 @@
     "u": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
    },
    {
-    "f": "Business",
-    "p": "2026-11-08T13:00:01+00:00",
-    "s": null,
-    "t": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-    "u": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html"
-   },
-   {
     "f": "Investing",
     "p": "2026-11-08T11:47:24+00:00",
     "s": null,
@@ -1501,7 +1508,7 @@
     "u": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html"
    },
    {
-    "f": "Earnings",
+    "f": "Retail",
     "p": "2026-11-04T21:04:47+00:00",
     "s": null,
     "t": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
@@ -1823,13 +1830,6 @@
     "u": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-11-02T02:39:35+00:00",
-    "s": null,
-    "t": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-    "u": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
-   },
-   {
     "f": "Retail",
     "p": "2026-11-01T16:34:43+00:00",
     "s": null,
@@ -1963,13 +1963,6 @@
     "u": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-10-29T12:58:37+00:00",
-    "s": null,
-    "t": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-    "u": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html"
-   },
-   {
     "f": "Health & Science",
     "p": "2026-10-29T11:24:38+00:00",
     "s": null,
@@ -1996,13 +1989,6 @@
     "s": null,
     "t": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
     "u": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-10-28T21:31:46+00:00",
-    "s": null,
-    "t": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-    "u": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
    },
    {
     "f": "Real Estate",
@@ -2692,5 +2678,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-16T23:59:57+00:00"
+ "fetched_at": "2026-11-17T07:44:29+00:00"
 }

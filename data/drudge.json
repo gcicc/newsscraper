@@ -5,51 +5,30 @@
    {
     "f": "Top left",
     "p": null,
-    "s": "express.co.uk",
-    "t": "UNITED AIRLINES HIT BY OUTAGE; NO FLIGHTS CAN TAKE OFF... DEVELOPING...",
-    "u": "https://www.express.co.uk/news/2266743"
+    "s": "apnews.com",
+    "t": "UNITED AIRLINES HIT BY ANOTHER OUTAGE...",
+    "u": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff"
    },
    {
     "f": "Top left",
     "p": null,
-    "s": "express.co.uk",
-    "t": "AMERICAN HIT TOO...",
-    "u": "https://www.express.co.uk/news/2266743"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "'WIDESPREAD'...",
-    "u": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "nypost.com",
-    "t": "Days After All Flights Grounded...",
-    "u": "https://nypost.com/2026/11/16/us-news/united-airlines-suffers-widespread-system-outage-just-days-after-all-us-flights-were-grounded-due-to-faulty-router/"
+    "s": "nytimes.com",
+    "t": "Adds to Public Jitters Over Flying...",
+    "u": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html?unlocked_article_code=1.RFE.HZwa.Ns69x-qipiVk&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "dailymail.com",
-    "t": "USA PLUNGED INTO CHAOS FLIGHTS GROUNDED, BANK OUTAGES",
+    "t": "USA CHAOS",
     "u": "https://www.dailymail.com/news/article-16297865/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "nypost.com",
-    "t": "PROBLEMS EVERYWHERE",
-    "u": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "express.co.uk",
-    "t": "CUSTOMERS LOCKED OUT",
-    "u": "https://www.express.co.uk/news/2266717"
+    "s": "nytimes.com",
+    "t": "BANK TRANSACTIONS DISRUPTED",
+    "u": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html?unlocked_article_code=1.RFE.lfKc.zzgek8UT1mqC&smid=url-share"
    },
    {
     "f": "Main splash",
@@ -57,6 +36,13 @@
     "s": "nbcnews.com",
     "t": "'TECHNICAL ISSUE'",
     "u": "https://www.nbcnews.com/business/rcna609673"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "archive.is",
+    "t": "CNN: IRAN PLOTS DIRTY BOMB DC",
+    "u": "https://archive.is/2Oe0p"
    },
    {
     "f": "Main splash",
@@ -71,13 +57,6 @@
     "s": "nytimes.com",
     "t": "FLASHBACK: Iran Behind attack on Minnesota Water Systems...",
     "u": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html?unlocked_article_code=1.Q1E.e5ZJ.VT-dj9hOferr&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtontimes.com",
-    "t": "Fears of global blackout connected to federal emergency test system...",
-    "u": "https://www.washingtontimes.com/news/2026/nov/16/fears-global-blackout-tuesday-connected-federal-emergency-test-system/"
    },
    {
     "f": "Main splash",
@@ -104,7 +83,7 @@
     "f": "Main splash",
     "p": null,
     "s": "cnbc.com",
-    "t": "Trump traded up to $97.5M as gained White House access...",
+    "t": "Trump traded up to $97.5 MILLION...",
     "u": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html"
    },
    {
@@ -124,23 +103,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Elon Dreams of Larger Empire in Move Toward Technological Supremacy...",
-    "u": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html?unlocked_article_code=1.Q1E.5yAm.dvWD_Z9srnHt&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "wsj.com",
     "t": "Once Bitter Rivals, Miller and Rubio Form Unlikely Alliance...",
     "u": "https://www.wsj.com/politics/once-bitter-rivals-stephen-miller-and-marco-rubio-form-unlikely-alliance-3aaa17c6"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "mediaite.com",
-    "t": "Don 'Started Picking on' Susie Wiles Because She Got Cancer...",
-    "u": "https://www.mediaite.com/media/news/maggie-haberman-claims-trump-started-picking-on-susie-wiles-because-she-got-cancer/"
    },
    {
     "f": "Main splash",
@@ -155,48 +120,6 @@
     "s": "theguardian.com",
     "t": "Warren warned...",
     "u": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "barrons.com",
-    "t": "Prince Harry Says 'You're Going To Win' On Ukraine Trip...",
-    "u": "https://www.barrons.com/news/prince-harry-says-you-re-going-to-win-on-ukraine-trip-548dc7d2"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "yahoo.com",
-    "t": "Visits war-wounded...",
-    "u": "https://www.yahoo.com/news/world/articles/britains-prince-harry-visits-war-220410098.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "msn.com",
-    "t": "Risk of nuke accident increasing...",
-    "u": "https://www.msn.com/en-us/news/other/ar-AA2hxa1Q"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "barrons.com",
-    "t": "French Troops Deployed On Secret Mission...",
-    "u": "https://www.barrons.com/news/french-troops-deployed-in-ukraine-on-secret-mission-source-to-afp-b6053ee5"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Still too young to buy beer, these teens winning elected office...",
-    "u": "https://www.washingtonpost.com/nation/2026/11/16/still-too-young-buy-beer-these-teens-are-winning-elected-office/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "archive.is",
-    "t": "Mamdani disbands 'controversial' NYPD unit...",
-    "u": "https://archive.is/8tIlX"
    },
    {
     "f": "Main splash",
@@ -229,6 +152,13 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "irishstar.com",
+    "t": "Florida St. Patrick's Day parade canceled over DEI law...",
+    "u": "https://www.irishstar.com/news/us-news/ron-de-santis-slams-florida-37883223"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "msn.com",
     "t": "Trump Media faces $1 billion debt repayment as stock nears record lows...",
     "u": "https://www.msn.com/en-us/money/general/ar-AA2hyGPQ"
@@ -236,22 +166,8 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "mediaite.com",
-    "t": "MAGA COMIC: 'Greatest Failure of President'...",
-    "u": "https://www.mediaite.com/online/popular-comedian-who-voted-for-trump-now-calls-him-greatest-failure-of-a-president-in-his-lifetime/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "cbsnews.com",
-    "t": "Biden library nears site decision as fundraising lags...",
-    "u": "https://www.cbsnews.com/news/biden-library-fundraising-site/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "theguardian.com",
-    "t": "COLD AS ICE: Agents pepper spray pregnant US citizen in California...",
+    "t": "COLD AS ICE: Agents pepper spray pregnant citizen in California...",
     "u": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen"
    },
    {
@@ -278,16 +194,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "sg.news.yahoo.com",
-    "t": "Paraguay judge orders ex-president Pena transferred to military prison!",
-    "u": "https://sg.news.yahoo.com/paraguay-judge-orders-ex-president-155509494.html"
+    "s": "npr.org",
+    "t": "OPENAI sued by California over 80 'loss of control' incidents...",
+    "u": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "express.co.uk",
-    "t": "SKOREA SCRAMBLES FIGHTER JETS AS MULTIPLE RUSSIAN PLANES SWARM AIRSPACE...",
-    "u": "https://www.express.co.uk/news/2266746"
+    "s": "sg.news.yahoo.com",
+    "t": "Paraguay judge orders ex-president Pena transferred to military prison!",
+    "u": "https://sg.news.yahoo.com/paraguay-judge-orders-ex-president-155509494.html"
    },
    {
     "f": "Column 1",
@@ -300,7 +216,7 @@
     "f": "Column 1",
     "p": null,
     "s": "foxnews.com",
-    "t": "Vance vows: Iran not 'forever war'...",
+    "t": "Vance vows: Not 'forever war'...",
     "u": "https://www.foxnews.com/video/6408461848112"
    },
    {
@@ -313,30 +229,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "the-independent.com",
-    "t": "Will groceries get even more expensive?",
-    "u": "https://www.the-independent.com/b3085960.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "barrons.com",
     "t": "Ecuador's President Denies US Has Secret Military Base In Country...",
     "u": "https://www.barrons.com/news/ecuador-s-president-denies-us-has-military-base-in-country-97015557"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "yahoo.com",
-    "t": "Mexican journalist who reported on missing people found dead in Acapulco...",
-    "u": "https://www.yahoo.com/news/articles/mexican-journalist-reported-missing-people-211145608.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "Epstein 'likely strangled to death in his cell'...",
-    "u": "https://www.the-sun.com/news/17313699"
    },
    {
     "f": "Column 1",
@@ -370,7 +265,7 @@
     "f": "Column 2",
     "p": null,
     "s": "variety.com",
-    "t": "THE 7TH 007...",
+    "t": "BETA BOND...",
     "u": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/"
    },
    {
@@ -379,13 +274,6 @@
     "s": "deadline.com",
     "t": "BEZOS PICKS PATTINSON!",
     "u": "https://deadline.com/2026/11/robert-pattinson-james-bond-role-amazon-mgm-studios-1237225184/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "theguardian.com",
-    "t": "Bond's feminine side?",
-    "u": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond"
    },
    {
     "f": "Column 2",
@@ -466,5 +354,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-16T23:59:53+00:00"
+ "fetched_at": "2026-11-17T07:44:20+00:00"
 }
