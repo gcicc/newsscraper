@@ -12,9 +12,30 @@
    {
     "f": "Top left",
     "p": null,
+    "s": "the-sun.com",
+    "t": "FEMA DOWN TOO?",
+    "u": "https://www.the-sun.com/news/17318517/"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "futurism.com",
+    "t": "Absolutely Everything Getting Hacked...",
+    "u": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked"
+   },
+   {
+    "f": "Top left",
+    "p": null,
     "s": "newsweek.com",
-    "t": "Hackers Strike 178 Major Websites...",
+    "t": "178 Major Websites Hit...",
     "u": "https://www.newsweek.com/cyber-attack-websites-affected-12725863"
+   },
+   {
+    "f": "Top left",
+    "p": null,
+    "s": "apnews.com",
+    "t": "FAA halts router installations...",
+    "u": "https://apnews.com/a638c9651f1fabe8f95d20353779ee5b"
    },
    {
     "f": "Top left",
@@ -40,9 +61,16 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "sg.news.yahoo.com",
+    "s": "yahoo.com",
     "t": "NATIONAL SECURITY SYSTEM DOWN",
-    "u": "https://sg.news.yahoo.com/highly-classified-us-national-security-154201893.html"
+    "u": "https://www.yahoo.com/news/articles/highly-classified-us-national-security-154201893.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "9to5mac.com",
+    "t": "APPLE OUTAGES",
+    "u": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/"
    },
    {
     "f": "Main splash",
@@ -54,16 +82,16 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "dailymail.com",
-    "t": "JD VANCE: 'PREPARE FOR ALL OUTCOMES'",
-    "u": "https://www.dailymail.com/news/article-16299635/jd-vance-google-tech-outages-warning.html"
+    "s": "archive.is",
+    "t": "WHAT IS WHITE HOUSE HIDING?",
+    "u": "https://archive.is/nVDQn"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "rumble.com",
-    "t": "LIVE: ALEX JONES UNLEASHED...",
-    "u": "https://rumble.com/v7dur0o-alexjoneslive.com-webcast.html"
+    "s": "dailymail.com",
+    "t": "JD VANCE: 'PREPARE FOR ALL OUTCOMES'",
+    "u": "https://www.dailymail.com/news/article-16299635/"
    },
    {
     "f": "Main splash",
@@ -89,6 +117,20 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "the-sun.com",
+    "t": "Huge inferno burns in Strait of Hormuz after tanker blitzed by Tehran...",
+    "u": "https://www.the-sun.com/news/17319414"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "ynetnews.com",
+    "t": "US fighter jets strike Qeshm Island missile site after attack in Bahrain...",
+    "u": "https://www.ynetnews.com/article/sji00aq5cmx"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "mediaite.com",
     "t": "REAL WORLD: Duffy Called Out for Voting Against FAA Funding Bill While in Congress...",
     "u": "https://www.mediaite.com/media/tv/watch-sean-duffy-dodges-hard-after-cnbc-host-calls-out-his-vote-against-faa-funding-bill-while-in-congress/"
@@ -110,9 +152,30 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "cnbc.com",
+    "t": "NVIDIA beats top and bottom lines in first earnings report since Huang exit...",
+    "u": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "wsj.com",
-    "t": "Jensen Huang Breaks Silence, Signals Willingness to Return as NVIDIA CEO...",
+    "t": "SEC PROBING...",
+    "u": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Jensen Huang Breaks Silence, Signals Willingness to Return as CEO...",
     "u": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "CHAIR: NOPE...",
+    "u": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
    },
    {
     "f": "Main splash",
@@ -131,6 +194,27 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "politico.com",
+    "t": "Top Hegseth adviser represents Libyan warlord son accused of torture...",
+    "u": "https://www.politico.com/news/2026/11/17/tim-parlatore-libya-warlord-hegseth-01168919"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "IRS Opens Criminal Probes as Part of President's Pursuit of Left-Wing Groups...",
+    "u": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html?unlocked_article_code=1.RFE.EqW0.TChFqeKUe6Pw&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Bombshell secrets collected on Ilhan Omar during FBI raid of her home to be made public...",
+    "u": "https://www.dailymail.com/news/article-16300487"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "wsj.com",
     "t": "Bitter Feud Between Leaders of Brazil and Argentina Goes Global...",
     "u": "https://www.wsj.com/world/americas/the-bitter-feud-between-the-leaders-of-brazil-and-argentina-goes-global-6a91033f"
@@ -141,6 +225,13 @@
     "s": "washingtonpost.com",
     "t": "Brazilian federal police investigating JD Vance donor network...",
     "u": "https://www.washingtonpost.com/world/2026/11/17/brazilian-federal-police-are-investigating-jd-vance-donor-network/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Does This Man Have Right to Data From His Own Brain?",
+    "u": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html?unlocked_article_code=1.RFE.O7Kk.i6vdPp4WdQRp&smid=url-share"
    },
    {
     "f": "Column 1",
@@ -154,7 +245,7 @@
     "p": null,
     "s": "dailymail.com",
     "t": "Out-of-touch response as Americans scramble to doomsday prep...",
-    "u": "https://www.dailymail.com/news/article-16299229/Trumps-Americans-scramble-doomsday.html"
+    "u": "https://www.dailymail.com/news/article-16299229"
    },
    {
     "f": "Column 1",
@@ -180,16 +271,23 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nytimes.com",
-    "t": "As Trump and Xi Mingle, Their Govts Are Arming Up...",
-    "u": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html?unlocked_article_code=1.RFE.nifI.45FN-7IZrbx0&smid=url-share"
+    "s": "irishstar.com",
+    "t": "Florida St. Patrick's Day parade canceled over DEI law...",
+    "u": "https://www.irishstar.com/news/us-news/ron-de-santis-slams-florida-37883223"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "irishstar.com",
-    "t": "Florida St. Patrick's Day parade canceled over DEI law...",
-    "u": "https://www.irishstar.com/news/us-news/ron-de-santis-slams-florida-37883223"
+    "s": "lbpost.com",
+    "t": "CEO of homeless charity tried to flee on his yacht before arrest...",
+    "u": "https://lbpost.com/news/ceo-flee-yacht-homeless-housing-charity-fraud-helpful-housing/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Kanye West Comeback Attempt Gains Traction After Apologies...",
+    "u": "https://www.wsj.com/business/kanye-wests-comeback-attempt-gains-traction-after-apologies-f34af352"
    },
    {
     "f": "Column 1",
@@ -215,23 +313,23 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "nypost.com",
+    "t": "Inside AI researcher's sadistic orgies where no means yes... 'Moderate beatings,' 'light electricity' on menu...",
+    "u": "https://nypost.com/2026/11/17/business/anthropic-researcher-is-hosting-wild-silicon-valley-orgies-with-consensual-non-consent-as-the-theme-report/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "newyorker.com",
+    "t": "The Buddhist Sect That Wants to Take Over Silicon Valley...",
+    "u": "https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "thedefiant.io",
     "t": "ANTHROPIC, Other AI Models Regularly Identify Civilians as Military Targets in Tests...",
     "u": "https://thedefiant.io/frontier/ai/ai-models-mark-civilians-as-targets-in-vals-safety-tests"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Netanyahu pushing for new Iran attack in bid to stay in power, his rivals warn...",
-    "u": "https://www.washingtonpost.com/world/2026/11/17/netanyahu-is-pushing-new-iran-attack-bid-stay-power-his-rivals-warn/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "thehill.com",
-    "t": "Tehran targets US sites in Bahrain after 2-month pause...",
-    "u": "https://thehill.com/policy/defense/6225047-iran-bahrain-us-base-strikes/"
    },
    {
     "f": "Column 1",
@@ -243,9 +341,23 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "cbsnews.com",
+    "t": "Well-known journalist gunned down on street in Costa Rica...",
+    "u": "https://www.cbsnews.com/news/journalist-killed-costa-rica-camilo-rodriguez-reported-death-threats/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "nytimes.com",
     "t": "Scientists Stumped by Strange Object in Space... Moving in Ways Gravity Alone Cannot Explain...",
     "u": "https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html?unlocked_article_code=1.RFE.QUMg.uo-nrckVK98i&smid=url-share"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "fastcompany.com",
+    "t": "Elderly buying TESLAs for 'full self-driving.' This is a problem...",
+    "u": "https://www.fastcompany.com/91641371"
    },
    {
     "f": "Column 1",
@@ -255,18 +367,39 @@
     "u": "https://www.washingtonpost.com/world/2026/11/17/major-arab-newspaper-calls-decriminalization-same-sex-relationships/"
    },
    {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Gyms banning scantily clad women...",
+    "u": "https://www.dailymail.com/lifestyle/article-16224103/new-gym-men-confess-running.html"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "patch.com",
+    "t": "Rockville Makes History: City Lowers Voting Age To 16...",
+    "u": "https://patch.com/maryland/rockville/rockville-city-council-backs-lowering-voting-age-16-municipal-elections"
+   },
+   {
     "f": "Column 2",
     "p": null,
     "s": "abcnews.com",
     "t": "UPDATE: USA LOSES MEASLES ELIMINATION STATUS...",
-    "u": "https://abcnews.com/Health/us-officially-loses-measles-elimination-status-paho/story?id=138203543"
+    "u": "https://abcnews.com/Health/story?id=138203543"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "apnews.com",
     "t": "Babies being born with virus...",
-    "u": "https://apnews.com/article/measles-newborns-congenital-cdc-mmr-vaccine-a58272bce83828699dbb4d2eba4e27a1"
+    "u": "https://apnews.com/a58272bce83828699dbb4d2eba4e27a1"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "apnews.com",
+    "t": "CA bans WAYMO from freeways...",
+    "u": "https://apnews.com/37bcd5371a4699a1850b7666b271946b"
    },
    {
     "f": "Column 2",
@@ -280,14 +413,7 @@
     "p": null,
     "s": "abcnews.com",
     "t": "8 year old released from custody...",
-    "u": "https://abcnews.com/US/8-year-haitian-boy-detained-ice-released-custody/story?id=138213648"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "studyfinds.com",
-    "t": "SURVEY: Average American Falls Into Mental Rut At Least Once A Week...",
-    "u": "https://studyfinds.com/americans-mentally-half-present/"
+    "u": "https://abcnews.com/US/story?id=138213648"
    },
    {
     "f": "Column 2",
@@ -295,6 +421,13 @@
     "s": "washingtonpost.com",
     "t": "How much life could 10-minute walk buy you?",
     "u": "https://www.washingtonpost.com/health/interactive/2026/11/17/see-how-minutes-daily-exercise-could-extend-your-lifespan/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "hollywoodreporter.com",
+    "t": "Bat, Bond and Beyond: How Pattinson Landed 007... And What Comes Next...",
+    "u": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-landed-007-what-next-1236757722/"
    },
    {
     "f": "Column 2",
@@ -308,7 +441,14 @@
     "p": null,
     "s": "apnews.com",
     "t": "Miami embraces Vice City alter ego, seizing buzz around release...",
-    "u": "https://apnews.com/article/grand-theft-auto-vi-miami-vice-city-1441b5de7d3f458ad08626193d645a46"
+    "u": "https://apnews.com/1441b5de7d3f458ad08626193d645a46"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "nbcnews.com",
+    "t": "Gas geyser spews trash, noxious odor into air above LA landfill; Health emergency...",
+    "u": "https://www.nbcnews.com/news/rcna609892"
    },
    {
     "f": "Column 2",
@@ -327,11 +467,25 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "the-independent.com",
+    "t": "JIM BEAM pauses production at famed Kentucky facility because demand for liquor dried up...",
+    "u": "https://www.the-independent.com/b3086704.html"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "english.elpais.com",
     "t": "Empty airport, shuttered storefronts, abandoned hotels: Tourism decline in Tulum worsening...",
     "u": "https://english.elpais.com/international/2026-10-26/an-empty-airport-shuttered-storefronts-and-abandoned-hotels-the-tourism-decline-in-tulum-is-worsening.html"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "studyfinds.com",
+    "t": "STUDY: Prayer -- Really Does Bring More Rainfall?",
+    "u": "https://studyfinds.com/european-city-rain-followed-church-prayers/"
    }
   ]
  },
- "fetched_at": "2026-11-17T17:25:58+00:00"
+ "fetched_at": "2026-11-18T00:39:30+00:00"
 }

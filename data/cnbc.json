@@ -4,31 +4,157 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-17T17:22:56+00:00",
+    "p": "2026-11-18T00:35:31+00:00",
+    "s": null,
+    "t": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+    "u": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html"
+   },
+   {
+    "f": "International",
+    "p": "2026-11-18T00:12:21+00:00",
+    "s": null,
+    "t": "Cramer's lightning round: This sports stock is not for me",
+    "u": "https://www.cnbc.com/2026/11/17/cramers-lightning-round-this-sports-stock-is-not-for-me-.html"
+   },
+   {
+    "f": "Finance",
+    "p": "2026-11-17T23:30:13+00:00",
+    "s": null,
+    "t": "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
+    "u": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-17T22:33:01+00:00",
+    "s": null,
+    "t": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+    "u": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T22:17:44+00:00",
+    "s": null,
+    "t": "Nike lays out financial goals ahead of first investor day in 9 years",
+    "u": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html"
+   },
+   {
+    "f": "International",
+    "p": "2026-11-17T22:17:24+00:00",
+    "s": null,
+    "t": "Treasury yields moderate as investors parse retail sales data",
+    "u": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T22:03:57+00:00",
+    "s": null,
+    "t": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+    "u": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T22:02:05+00:00",
+    "s": null,
+    "t": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+    "u": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T21:19:48+00:00",
+    "s": null,
+    "t": "7 smart reasons to sell a stock\u2014and my \u2018golden rule\u2019 for offloading shares, says hedge fund CEO",
+    "u": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T21:05:24+00:00",
+    "s": null,
+    "t": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+    "u": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T20:53:24+00:00",
     "s": null,
     "t": "FAA pauses installation of new routers after ground stop",
     "u": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
    },
    {
+    "f": "Top News",
+    "p": "2026-11-17T20:31:27+00:00",
+    "s": null,
+    "t": "A generational flight from tech to defensive stocks is underway. How we\u2019re capitalizing",
+    "u": "https://www.cnbc.com/investingclub/2026/11/17/a-generational-flight-from-tech-to-defensive-stocks-is-underway-how-were-capitalizing.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T20:28:07+00:00",
+    "s": null,
+    "t": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+    "u": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T20:01:12+00:00",
+    "s": null,
+    "t": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+    "u": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T19:29:27+00:00",
+    "s": null,
+    "t": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+    "u": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T19:16:20+00:00",
+    "s": null,
+    "t": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
+    "u": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
+   },
+   {
     "f": "Politics",
-    "p": "2026-11-17T17:13:37+00:00",
+    "p": "2026-11-17T18:33:56+00:00",
     "s": null,
     "t": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
     "u": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-17T17:13:02+00:00",
+    "f": "Earnings",
+    "p": "2026-11-17T18:32:59+00:00",
+    "s": null,
+    "t": "Why Home Depot shares are falling despite an earnings beat \u2014 and how to proceed",
+    "u": "https://www.cnbc.com/investingclub/2026/11/17/why-home-depot-shares-are-falling-despite-an-earnings-beat-and-how-to-proceed.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-17T18:21:03+00:00",
     "s": null,
     "t": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
     "u": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
    },
    {
     "f": "Top News",
-    "p": "2026-11-17T17:09:09+00:00",
+    "p": "2026-11-17T18:06:18+00:00",
     "s": null,
-    "t": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-    "u": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+    "t": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+    "u": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-17T17:49:45+00:00",
+    "s": null,
+    "t": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+    "u": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-17T17:47:03+00:00",
+    "s": null,
+    "t": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+    "u": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
    },
    {
     "f": "Energy",
@@ -39,31 +165,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-17T17:02:34+00:00",
+    "p": "2026-11-17T17:00:01+00:00",
     "s": null,
-    "t": "Nike lays out financial goals ahead of first investor day in 9 years",
-    "u": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T16:49:12+00:00",
-    "s": null,
-    "t": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
-    "u": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T16:47:52+00:00",
-    "s": null,
-    "t": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-    "u": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T16:42:21+00:00",
-    "s": null,
-    "t": "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy on weakness",
-    "u": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html"
+    "t": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
+    "u": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html"
    },
    {
     "f": "Top News",
@@ -74,31 +179,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-17T16:39:43+00:00",
-    "s": null,
-    "t": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
-    "u": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T16:38:56+00:00",
-    "s": null,
-    "t": "Property Play: Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
-    "u": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-17T16:03:38+00:00",
     "s": null,
     "t": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
     "u": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T16:00:50+00:00",
-    "s": null,
-    "t": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-    "u": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html"
    },
    {
     "f": "Top News",
@@ -108,25 +192,11 @@
     "u": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-17T15:35:58+00:00",
-    "s": null,
-    "t": "Treasury yields moderate as investors parse retail sales data",
-    "u": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html"
-   },
-   {
     "f": "Economy",
     "p": "2026-11-17T15:35:13+00:00",
     "s": null,
     "t": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "u": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T15:27:51+00:00",
-    "s": null,
-    "t": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-    "u": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
    },
    {
     "f": "Real Estate",
@@ -141,13 +211,6 @@
     "s": null,
     "t": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
     "u": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T15:05:01+00:00",
-    "s": null,
-    "t": "7 smart reasons to sell a stock\u2014and my \u2018golden rule\u2019 for offloading shares, says hedge fund CEO",
-    "u": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html"
    },
    {
     "f": "Top News",
@@ -192,13 +255,6 @@
     "u": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-17T13:35:18+00:00",
-    "s": null,
-    "t": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
-    "u": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html"
-   },
-   {
     "f": "Tech",
     "p": "2026-11-17T13:28:32+00:00",
     "s": null,
@@ -213,18 +269,11 @@
     "u": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-17T13:16:43+00:00",
     "s": null,
     "t": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
     "u": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-17T13:15:01+00:00",
-    "s": null,
-    "t": "Roth 401(k) matches are 'surging,' report finds. What workers should know",
-    "u": "https://www.cnbc.com/2026/11/17/roth-401k-employer-match.html"
    },
    {
     "f": "Top News",
@@ -358,13 +407,6 @@
     "s": null,
     "t": "California sues OpenAI over Hugging Face, other AI model loss of control",
     "u": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-16T22:01:12+00:00",
-    "s": null,
-    "t": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
-    "u": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
    },
    {
     "f": "Tech",
@@ -605,14 +647,14 @@
     "u": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-14T23:10:14+00:00",
     "s": null,
     "t": "SpaceX catches upper stage of Starship rocket in historic first",
     "u": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-14T22:54:47+00:00",
     "s": null,
     "t": "'Root cause\u2019 of nationwide ground stop is unknown, FAA says",
@@ -799,13 +841,6 @@
     "s": null,
     "t": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
     "u": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-13T07:15:01+00:00",
-    "s": null,
-    "t": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-    "u": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"
    },
    {
     "f": "Finance",
@@ -1179,7 +1214,7 @@
     "u": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html"
    },
    {
-    "f": "Business",
+    "f": "Autos",
     "p": "2026-11-09T18:59:43+00:00",
     "s": null,
     "t": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
@@ -1480,13 +1515,6 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/05/were-raising-our-price-target-on-cardinal-health-after-another-stellar-quarter-of-profits.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-11-05T16:34:33+00:00",
-    "s": null,
-    "t": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "u": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html"
-   },
-   {
     "f": "Retail",
     "p": "2026-11-05T16:27:10+00:00",
     "s": null,
@@ -1655,7 +1683,7 @@
     "u": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html"
    },
    {
-    "f": "Earnings",
+    "f": "Retail",
     "p": "2026-11-04T17:21:06+00:00",
     "s": null,
     "t": "Kraft Heinz to divest its North American coffee business in $650 million deal",
@@ -1956,13 +1984,6 @@
     "u": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-10-30T13:29:50+00:00",
-    "s": null,
-    "t": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-    "u": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html"
-   },
-   {
     "f": "Economy",
     "p": "2026-10-30T11:16:46+00:00",
     "s": null,
@@ -2010,13 +2031,6 @@
     "s": null,
     "t": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
     "u": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-10-29T14:53:06+00:00",
-    "s": null,
-    "t": "The politics of President Lagarde's European Central Bank early exit  \u2014 and who could replace her",
-    "u": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
    },
    {
     "f": "Economy",
@@ -2199,13 +2213,6 @@
     "s": null,
     "t": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
     "u": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
-   },
-   {
-    "f": "Health & Science",
-    "p": "2026-10-23T17:15:08+00:00",
-    "s": null,
-    "t": "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wall Street reaction",
-    "u": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html"
    },
    {
     "f": "Autos",
@@ -2720,5 +2727,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-17T17:26:03+00:00"
+ "fetched_at": "2026-11-18T00:39:35+00:00"
 }
