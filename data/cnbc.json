@@ -3,6 +3,139 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Earnings",
+    "p": "2026-11-19T01:29:06+00:00",
+    "s": null,
+    "t": "Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age",
+    "u": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T01:13:20+00:00",
+    "s": null,
+    "t": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+    "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-19T01:05:25+00:00",
+    "s": null,
+    "t": "Intel signs first external customer for advanced 18A chips",
+    "u": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T00:31:00+00:00",
+    "s": null,
+    "t": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+    "u": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-19T00:18:28+00:00",
+    "s": null,
+    "t": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+    "u": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T00:08:14+00:00",
+    "s": null,
+    "t": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "u": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T00:07:06+00:00",
+    "s": null,
+    "t": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "u": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T00:01:23+00:00",
+    "s": null,
+    "t": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "u": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-18T23:46:32+00:00",
+    "s": null,
+    "t": "Jim Cramer says Nvidia has a new problem \u2014 and it has nothing to do with earnings",
+    "u": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T23:45:50+00:00",
+    "s": null,
+    "t": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+    "u": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T23:38:55+00:00",
+    "s": null,
+    "t": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "u": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T22:37:00+00:00",
+    "s": null,
+    "t": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+    "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-18T21:28:04+00:00",
+    "s": null,
+    "t": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+    "u": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T21:07:14+00:00",
+    "s": null,
+    "t": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+    "u": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T21:06:49+00:00",
+    "s": null,
+    "t": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+    "u": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T19:47:05+00:00",
+    "s": null,
+    "t": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "u": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T19:46:12+00:00",
+    "s": null,
+    "t": "Why Anthropic's hot IPO is bringing out sellers \u2014 plus, a silver lining of the down market",
+    "u": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T19:41:59+00:00",
+    "s": null,
+    "t": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "u": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-18T19:17:27+00:00",
+    "s": null,
+    "t": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+    "u": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
+   },
+   {
     "f": "Top News",
     "p": "2026-11-18T18:32:39+00:00",
     "s": null,
@@ -10,7 +143,7 @@
     "u": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-18T18:27:52+00:00",
     "s": null,
     "t": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -45,7 +178,7 @@
     "u": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html"
    },
    {
-    "f": "Top News",
+    "f": "Earnings",
     "p": "2026-11-18T18:06:59+00:00",
     "s": null,
     "t": "Off-price retailer TJX keeps its promise and the stock soars. We\u2019re satisfied, for now",
@@ -74,34 +207,6 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-18T17:35:27+00:00",
-    "s": null,
-    "t": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-    "u": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-18T17:17:44+00:00",
-    "s": null,
-    "t": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-    "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-18T17:11:11+00:00",
-    "s": null,
-    "t": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-    "u": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-18T17:08:58+00:00",
-    "s": null,
-    "t": "2-year Treasury note yield is little changed as Waller warns that Fed may need to \u2018shock people\u2019 with half-point rate hike",
-    "u": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-18T17:02:53+00:00",
     "s": null,
     "t": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
@@ -116,24 +221,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-18T16:36:21+00:00",
-    "s": null,
-    "t": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-    "u": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-18T16:33:14+00:00",
     "s": null,
     "t": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
     "u": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-18T16:14:10+00:00",
-    "s": null,
-    "t": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-    "u": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
    },
    {
     "f": "Top News",
@@ -157,14 +248,7 @@
     "u": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-18T14:20:58+00:00",
-    "s": null,
-    "t": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-    "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
-   },
-   {
-    "f": "Top News",
+    "f": "Real Estate",
     "p": "2026-11-18T14:17:18+00:00",
     "s": null,
     "t": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
@@ -185,7 +269,7 @@
     "u": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-18T13:58:53+00:00",
     "s": null,
     "t": "U.S. soldier taken into military custody over suspected spying for Russia",
@@ -197,13 +281,6 @@
     "s": null,
     "t": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
     "u": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-18T13:19:31+00:00",
-    "s": null,
-    "t": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
-    "u": "https://www.cnbc.com/make-it/2026/11/18/how-to-diversify-your-portfolio-amid-ai-bubble-fears.html"
    },
    {
     "f": "Tech",
@@ -248,14 +325,14 @@
     "u": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-18T10:49:37+00:00",
     "s": null,
     "t": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
     "u": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-18T10:45:01+00:00",
     "s": null,
     "t": "China\u2019s military seeks Nvidia\u2019s advanced chips for AI capabilities, commission says",
@@ -297,18 +374,11 @@
     "u": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-18T07:24:06+00:00",
     "s": null,
     "t": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
     "u": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-18T07:16:14+00:00",
-    "s": null,
-    "t": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-    "u": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
    },
    {
     "f": "Tech",
@@ -339,7 +409,7 @@
     "u": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-18T05:24:54+00:00",
     "s": null,
     "t": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
@@ -393,13 +463,6 @@
     "s": null,
     "t": "U.S. officially loses measles elimination status amid ongoing outbreaks",
     "u": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-17T21:05:24+00:00",
-    "s": null,
-    "t": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
-    "u": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html"
    },
    {
     "f": "Business",
@@ -535,7 +598,7 @@
     "u": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-17T13:28:32+00:00",
     "s": null,
     "t": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
@@ -570,13 +633,6 @@
     "u": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-17T11:04:17+00:00",
-    "s": null,
-    "t": "Nvidia's Kress faces earnings test after stock drags Wall Street into the red",
-    "u": "https://www.cnbc.com/2026/11/17/nvidias-kress-faces-earnings-test-after-stock-drags-wall-street-into-the-red.html"
-   },
-   {
     "f": "International",
     "p": "2026-11-17T10:49:36+00:00",
     "s": null,
@@ -605,13 +661,6 @@
     "u": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-17T06:59:42+00:00",
-    "s": null,
-    "t": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-    "u": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-17T06:51:40+00:00",
     "s": null,
@@ -624,13 +673,6 @@
     "s": null,
     "t": "Jim Cramer says Costco's hefty special dividend signals \u2018more gains ahead\u2019",
     "u": "https://www.cnbc.com/2026/11/16/costco-special-dividend-jim-cramer.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-16T23:23:47+00:00",
-    "s": null,
-    "t": "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
-    "u": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html"
    },
    {
     "f": "Finance",
@@ -731,13 +773,6 @@
     "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
-    "f": "Politics",
-    "p": "2026-11-16T12:13:47+00:00",
-    "s": null,
-    "t": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-    "u": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html"
-   },
-   {
     "f": "Finance",
     "p": "2026-11-16T12:13:23+00:00",
     "s": null,
@@ -750,13 +785,6 @@
     "s": null,
     "t": "Big-ticket holiday items may be harder to find as shipping costs rise",
     "u": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-16T10:44:02+00:00",
-    "s": null,
-    "t": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-    "u": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html"
    },
    {
     "f": "Finance",
@@ -1375,13 +1403,6 @@
     "u": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-11-07T15:23:46+00:00",
-    "s": null,
-    "t": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "u": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
-   },
-   {
     "f": "Energy",
     "p": "2026-11-07T06:00:01+00:00",
     "s": null,
@@ -1450,13 +1471,6 @@
     "s": null,
     "t": "Could CRISPR cure rare diseases before birth? Scientists are getting closer",
     "u": "https://www.cnbc.com/2026/11/06/could-crispr-cure-rare-diseases-before-birth.html"
-   },
-   {
-    "f": "Earnings",
-    "p": "2026-11-06T09:05:28+00:00",
-    "s": null,
-    "t": "Rheinmetall shares plunge 16% after outlook cut as military contracts stall",
-    "u": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html"
    },
    {
     "f": "Energy",
@@ -1583,13 +1597,6 @@
     "s": null,
     "t": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
     "u": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html"
-   },
-   {
-    "f": "Earnings",
-    "p": "2026-11-05T07:30:58+00:00",
-    "s": null,
-    "t": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-    "u": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html"
    },
    {
     "f": "Energy",
@@ -2094,13 +2101,6 @@
     "s": null,
     "t": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
     "u": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html"
-   },
-   {
-    "f": "Health & Science",
-    "p": "2026-10-26T17:00:14+00:00",
-    "s": null,
-    "t": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
-    "u": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html"
    },
    {
     "f": "Investing",
@@ -2622,5 +2622,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-18T18:41:03+00:00"
+ "fetched_at": "2026-11-19T01:45:28+00:00"
 }
