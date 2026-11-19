@@ -6,7 +6,7 @@
     "f": "Top left",
     "p": null,
     "s": "deadline.com",
-    "t": "MUSK: 'I AM NOT MAGA'...",
+    "t": "MUSK: 'I AM NOT MAGA ANYMORE'...",
     "u": "https://deadline.com/2026/11/elon-musk-midterms-regrets-1237228534/"
    },
    {
@@ -47,6 +47,13 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "cnbc.com",
+    "t": "Investigators still hunt for cause of FAA ground stop...",
+    "u": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "apnews.com",
     "t": "DHS Chief in Hot Seat After String of Glitches [and Football Game]...",
     "u": "https://apnews.com/ce63a22797c61ee53d88678000236c37"
@@ -64,6 +71,13 @@
     "s": "marketwatch.com",
     "t": "COSTCO benefiting from 'apocalyptic concerns'...",
     "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Kash Patel skips Congress after Mar-a-Lago gala sells $50,000 access to officials...",
+    "u": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html"
    },
    {
     "f": "Main splash",
@@ -215,9 +229,9 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "dailystar.co.uk",
-    "t": "UK govt asks GOOGLE to take down Russell Brand YOUTUBE after prison message...",
-    "u": "https://www.dailystar.co.uk/showbiz/breaking-government-finds-way-silence-37892260"
+    "s": "billboard.com",
+    "t": "Julio Iglesias Under Criminal Investigation for Sex Offenses...",
+    "u": "https://www.billboard.com/pro/julio-iglesias-sexual-abuse-investigation-spain/"
    },
    {
     "f": "Column 2",
@@ -263,5 +277,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-19T01:45:24+00:00"
+ "fetched_at": "2026-11-19T09:57:56+00:00"
 }

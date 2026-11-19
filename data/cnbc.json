@@ -3,6 +3,69 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Health & Science",
+    "p": "2026-11-19T09:50:49+00:00",
+    "s": null,
+    "t": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
+    "u": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T09:34:17+00:00",
+    "s": null,
+    "t": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
+    "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T09:02:00+00:00",
+    "s": null,
+    "t": "Trump praises \u2018great relationship\u2019 with Putin after meeting, as Ukraine war takes center stage",
+    "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T07:38:29+00:00",
+    "s": null,
+    "t": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+    "u": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T07:32:56+00:00",
+    "s": null,
+    "t": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+    "u": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T06:07:29+00:00",
+    "s": null,
+    "t": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+    "u": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html"
+   },
+   {
+    "f": "Business",
+    "p": "2026-11-19T05:01:01+00:00",
+    "s": null,
+    "t": "Walmart is set to report earnings before the bell. Here's what to expect",
+    "u": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T03:43:38+00:00",
+    "s": null,
+    "t": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+    "u": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-19T02:49:35+00:00",
+    "s": null,
+    "t": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+    "u": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html"
+   },
+   {
     "f": "Earnings",
     "p": "2026-11-19T01:29:06+00:00",
     "s": null,
@@ -101,7 +164,7 @@
     "u": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-18T21:06:49+00:00",
     "s": null,
     "t": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
@@ -185,14 +248,14 @@
     "u": "https://www.cnbc.com/investingclub/2026/11/18/off-price-retailer-tjx-keeps-its-promise-and-the-stock-soars-were-satisfied-for-now.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-18T17:56:50+00:00",
     "s": null,
     "t": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
     "u": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-18T17:50:37+00:00",
     "s": null,
     "t": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
@@ -262,7 +325,7 @@
     "u": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-18T14:02:52+00:00",
     "s": null,
     "t": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy",
@@ -277,27 +340,20 @@
    },
    {
     "f": "Tech",
-    "p": "2026-11-18T13:46:11+00:00",
-    "s": null,
-    "t": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-    "u": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
-   },
-   {
-    "f": "Tech",
     "p": "2026-11-18T13:05:24+00:00",
     "s": null,
     "t": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
     "u": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-18T12:55:01+00:00",
     "s": null,
     "t": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
     "u": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-18T12:50:00+00:00",
     "s": null,
     "t": "Democrat Mary Peltola wins Alaska Senate election",
@@ -416,7 +472,7 @@
     "u": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html"
    },
    {
-    "f": "Top News",
+    "f": "Earnings",
     "p": "2026-11-18T03:15:00+00:00",
     "s": null,
     "t": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
@@ -577,13 +633,6 @@
     "u": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-17T13:58:07+00:00",
-    "s": null,
-    "t": "Demis Hassabis\u2019 AI company raises $5 billion, months after he left as Google DeepMind CEO",
-    "u": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
-   },
-   {
     "f": "Business",
     "p": "2026-11-17T13:57:47+00:00",
     "s": null,
@@ -603,13 +652,6 @@
     "s": null,
     "t": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
     "u": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-17T13:25:58+00:00",
-    "s": null,
-    "t": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang\u2019s exit",
-    "u": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html"
    },
    {
     "f": "Investing",
@@ -696,14 +738,14 @@
     "u": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html"
    },
    {
-    "f": "Politics",
+    "f": "U.S.",
     "p": "2026-11-16T22:11:09+00:00",
     "s": null,
     "t": "California sues OpenAI over Hugging Face, other AI model loss of control",
     "u": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html"
    },
    {
-    "f": "Politics",
+    "f": "U.S.",
     "p": "2026-11-16T21:51:43+00:00",
     "s": null,
     "t": "Nvidia fallout: Commerce targets loophole for China's data center use",
@@ -724,7 +766,7 @@
     "u": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html"
    },
    {
-    "f": "Politics",
+    "f": "U.S.",
     "p": "2026-11-16T18:55:46+00:00",
     "s": null,
     "t": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
@@ -1193,18 +1235,18 @@
     "u": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html"
    },
    {
-    "f": "Business",
-    "p": "2026-11-10T13:00:01+00:00",
-    "s": null,
-    "t": "How GM is trying to talk used car shoppers into buying new vehicles",
-    "u": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html"
-   },
-   {
     "f": "Finance",
     "p": "2026-11-10T13:00:01+00:00",
     "s": null,
     "t": "Polymarket says annualized revenue has topped $1.8 billion",
     "u": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html"
+   },
+   {
+    "f": "Autos",
+    "p": "2026-11-10T13:00:01+00:00",
+    "s": null,
+    "t": "How GM is trying to talk used car shoppers into buying new vehicles",
+    "u": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html"
    },
    {
     "f": "Real Estate",
@@ -1396,13 +1438,6 @@
     "u": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-11-07T16:02:33+00:00",
-    "s": null,
-    "t": "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new makeup",
-    "u": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
-   },
-   {
     "f": "Energy",
     "p": "2026-11-07T06:00:01+00:00",
     "s": null,
@@ -1513,13 +1548,6 @@
     "s": null,
     "t": "The October jobs report is out Friday. Here's everything to expect",
     "u": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
-   },
-   {
-    "f": "Earnings",
-    "p": "2026-11-05T21:16:39+00:00",
-    "s": null,
-    "t": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-    "u": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
    },
    {
     "f": "Energy",
@@ -1837,13 +1865,6 @@
     "u": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-11-03T15:19:14+00:00",
-    "s": null,
-    "t": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-    "u": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html"
-   },
-   {
     "f": "Media",
     "p": "2026-11-03T14:17:42+00:00",
     "s": null,
@@ -2066,13 +2087,6 @@
     "s": null,
     "t": "A rising wealth tide lifts all yachts",
     "u": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html"
-   },
-   {
-    "f": "Health & Science",
-    "p": "2026-10-27T14:07:03+00:00",
-    "s": null,
-    "t": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    "u": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html"
    },
    {
     "f": "Real Estate",
@@ -2622,5 +2636,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-19T01:45:28+00:00"
+ "fetched_at": "2026-11-19T09:57:59+00:00"
 }
