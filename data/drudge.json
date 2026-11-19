@@ -17,11 +17,46 @@
     "u": "https://www.mediaite.com/media/news/im-not-maga-elon-musk-scrambles-to-distance-himself-from-trump-in-bizarre-pivot-at-ny-times-forum/"
    },
    {
+    "f": "Top left",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "DEMS WARN WON'T SAVE HIM FROM INVESTIGATIONS...",
+    "u": "https://www.mediaite.com/media/tv/top-dems-warn-elon-musk-his-maga-u-turn-wont-save-him-from-investigation-still-getting-a-subpoena/"
+   },
+   {
     "f": "Main splash",
     "p": null,
-    "s": "nypost.com",
-    "t": "BOTS 'PLAN TERROR ATTACKS'",
-    "u": "https://nypost.com/2026/11/18/us-news/ai-chatbots-claude-grok-chatgpt-and-gemini-share-plans-on-plotting-mass-casualty-terror-attacks/"
+    "s": "apnews.com",
+    "t": "ANT DAY: TRILLION-DOLLAR DEBUT",
+    "u": "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "google.com",
+    "t": "WILD SWINGS; PLACE YOUR BETS!",
+    "u": "https://www.google.com/finance/quote/ANT:NASDAQ"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "DOW FALLS BELOW 50,000",
+    "u": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "hindustantimes.com",
+    "t": "Risk of new US Strikes on Iran Grows as Sides Escalate Skirmishes...",
+    "u": "https://www.hindustantimes.com/world-news/trump-considering-another-round-of-mass-strikes-on-iran-as-tensions-escalate-101795087599276.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Houthi Attack Damages Saudi Capital's Tallest Tower...",
+    "u": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874"
    },
    {
     "f": "Main splash",
@@ -54,58 +89,37 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "DHS Chief in Hot Seat After String of Glitches [and Football Game]...",
-    "u": "https://apnews.com/ce63a22797c61ee53d88678000236c37"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Americans urged to keep phones charged, gather emergency supplies...",
-    "u": "https://www.dailymail.com/sciencetech/article-16303413"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "marketwatch.com",
-    "t": "COSTCO benefiting from 'apocalyptic concerns'...",
-    "u": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Kash Patel skips Congress after Mar-a-Lago gala sells $50,000 access to officials...",
-    "u": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "axios.com",
-    "t": "House Dems prepare for broad family probe of The Don...",
-    "u": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "washingtonpost.com",
-    "t": "Inner circle targeted...",
-    "u": "https://www.washingtonpost.com/politics/2026/11/18/leading-house-democrat-targets-trumps-inner-circle-first-investigations/"
+    "t": "Americans preparing for doomsday...",
+    "u": "https://www.washingtonpost.com/technology/2026/11/19/wave-outages-has-americans-preparing-doomsday/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "Order to preserve documents...",
-    "u": "https://apnews.com/6cfa31f11051c52e567523e27ee5803e"
+    "s": "nytimes.com",
+    "t": "Three MAGA Women Who Defined Era in Congress Are Exiting...",
+    "u": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html?unlocked_article_code=1.RlE.qvL8.WHeOlwKGL5qH&smid=url-share"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "Almost NOBODY vying for invite to meme coin dinner...",
-    "u": "https://www.washingtonpost.com/technology/2026/11/18/invites-trump-memecoin-gala-dinner-are-surprisingly-cheap/"
+    "s": "msn.com",
+    "t": "President gives health job to Todd Blanche's wife who sells unproven cures...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2hMZ4C"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "Don Jr Grift Now Literally Out of This World...",
+    "u": "https://www.yahoo.com/news/politics/articles/don-jr-grift-now-literally-163346099.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "theatlantic.com",
+    "t": "The Islands Texas Wants From Mexico...",
+    "u": "https://www.theatlantic.com/national-security/2026/11/islands-rio-grande-mexico-border-texas/689489/"
    },
    {
     "f": "Main splash",
@@ -117,16 +131,23 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "PRINCE HARRY: 'I'D REJOIN MILITARY TO FIGHT RUSSIA'...",
-    "u": "https://www.telegraph.co.uk/royal-family/2026/11/18/prince-harry-i-would-rejoin-military-to-fight-russia/"
+    "s": "nytimes.com",
+    "t": "Body Bags and War on 'Wokismo': Colombia President's First 100 Days...",
+    "u": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html?unlocked_article_code=1.RlE.fzTU.DM0ewluqibBq&smid=url-share"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "finance.yahoo.com",
-    "t": "ANTHROPIC IPO to mint thousands of new millionaires... Developing...",
-    "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-mint-thousands-millionaires-204334685.html"
+    "s": "thehill.com",
+    "t": "Thanksgiving dinner will come with higher price tag...",
+    "u": "https://thehill.com/business/6229798-turkey-inflation-holiday-costs/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Jobless Claims Unexpectedly Move Higher...",
+    "u": "https://www.wsj.com/economy/jobs/u-s-jobless-claims-unexpectedly-move-higher-ac495e71"
    },
    {
     "f": "Column 1",
@@ -152,16 +173,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "the-express.com",
-    "t": "Girl dead in gene-editing trial...",
-    "u": "https://www.the-express.com/news/220008"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "niemanlab.org",
-    "t": "RIP: After gutting newsrooms, MCCLATCHY rebuilding around AI...",
-    "u": "https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/"
+    "s": "archive.ph",
+    "t": "Rubio more seriously weighing 2028 run, allies say...",
+    "u": "https://archive.ph/ba7PZ"
    },
    {
     "f": "Column 1",
@@ -188,43 +202,78 @@
     "f": "Column 1",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "Bernie Sanders unveils wish list for new Congress: 'Put on your seat belt'...",
+    "t": "Bernie unveils wish list for new Congress: 'Put on your seat belt'...",
     "u": "https://www.washingtonpost.com/business/2026/11/18/sen-bernie-sanders-unveils-his-wish-list-democrats-congress/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "Conflicting agendas and a weakened Trump mark historic three-way summit...",
+    "t": "Conflicting agendas and weakened Trump mark historic three-way summit...",
     "u": "https://www.washingtonpost.com/politics/2026/11/18/trump-xi-putin-meet-with-conflicting-agendas-sharp-divides/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "axios.com",
-    "t": "Xi breaks protocol with hug at airport...",
-    "u": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport"
+    "s": "yahoo.com",
+    "t": "Touchy-Feely President Grasps for Xi's Hand on Escalator...",
+    "u": "https://www.yahoo.com/news/politics/articles/touchy-feely-trump-80-grasps-093910724.html"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "the-sun.com",
-    "t": "Shocking new Epstein autopsy photos released...",
-    "u": "https://www.the-sun.com/news/17320878/"
+    "s": "nytimes.com",
+    "t": "Behind Meeting, China and Russia Share Vision of Usurping U.S. Power...",
+    "u": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html?unlocked_article_code=1.RlE.g_7f.XIYVZICwDGK2&smid=url-share"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "Reporters' Phones Confiscated Aboard Air Force One as They Leave...",
+    "u": "https://www.mediaite.com/politics/trump/reporters-phones-confiscated-by-us-authorities-aboard-air-force-one-as-they-leave-china/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "united24media.com",
+    "t": "Dutch, Austrian Embassies Damaged in Kyiv Strike...",
+    "u": "https://united24media.com/war-in-ukraine/austrian-embassy-damaged-in-russian-strike-on-kyiv-as-sybiha-calls-for-strong-response-24538"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Housework counts as exercise and could extend lifespan...",
+    "u": "https://www.washingtonpost.com/climate-environment/2026/11/19/housework-counts-physical-activity-that-can-improve-your-health/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "studyfinds.com",
+    "t": "STUDY: Ice Baths Reduce Muscle, Strength Gains After Lifting...",
+    "u": "https://studyfinds.com/ice-baths-after-lifting-reduce-muscle-gains/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Being unhappily married increases dementia risk by third...",
-    "u": "https://www.telegraph.co.uk/news/2026/11/18/being-unhappily-married-increases-dementia-risk-by-third/"
+    "t": "Weight-loss jab users as common as vegetarians and pescatarians...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/19/weight-loss-jab-users-as-common-as-vegetarians-pescatarians/"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "msn.com",
-    "t": "Pending home sales tumble to record low...",
-    "u": "https://www.msn.com/en-us/news/other/ar-AA2hIaHg"
+    "s": "nytimes.com",
+    "t": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests...",
+    "u": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html?unlocked_article_code=1.RlE.u7pb.K_G-Gb3kU2dM&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Unlocked cells. Family dinners. Once-violent prison trying something new...",
+    "u": "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
    },
    {
     "f": "Column 2",
@@ -236,23 +285,23 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "variety.com",
-    "t": "ABC 'WORLD NEWS TONIGHT' BIGGEST AUDIENCE SINCE COVID...",
-    "u": "https://variety.com/2026/tv/news/abc-world-news-tonight-ratings-best-since-covid-1236952295/"
+    "s": "dailymail.com",
+    "t": "JACKSON 5 icon Marlon Jackson stage 4 prostate cancer...",
+    "u": "https://www.dailymail.com/tvshowbiz/article-16306901"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "archive.ph",
+    "t": "From 4DX to 4D-sex: 'WICKER' and 'HEATED RIVALRY' start horny new theater trend...",
+    "u": "https://archive.ph/frpPU"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "Soldiers sign up to play 'GRAND THEFT AUTO VI' in exchange for reenlisting...",
+    "t": "Soldiers sign up to play 'GTA VI' in exchange for reenlisting...",
     "u": "https://www.washingtonpost.com/national-security/2026/11/18/soldiers-sign-up-play-grand-theft-auto-vi-exchange-reenlisting/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Game is cultural and economic earthquake...",
-    "u": "https://www.washingtonpost.com/style/2026/11/18/grand-theft-auto-vi-is-causing-wave-time-off-requests-work/"
    },
    {
     "f": "Column 2",
@@ -264,18 +313,25 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "the-independent.com",
-    "t": "Colleges have new plan to make affordable: Three-year degrees...",
-    "u": "https://www.the-independent.com/b3087436.html"
+    "s": "nytimes.com",
+    "t": "Army Plans to Blow Up Old Ammo, Creating Toxic Cloud Over Iowa...",
+    "u": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html?unlocked_article_code=1.RlE.PfcY.1gS_j8t0kkDO&smid=url-share"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "sfgate.com",
-    "t": "Hawaii approaching critical tipping point on sea level rise...",
-    "u": "https://www.sfgate.com/article/22533475.php"
+    "s": "wsj.com",
+    "t": "Parents Up in Arms Over School Photos That Look Like Mug Shots...",
+    "u": "https://www.wsj.com/lifestyle/parents-school-pictures-kids-don-t-smile-67b68f20"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "accuweather.com",
+    "t": "UPDATE: Historic flooding in S Florida closes schools, leaves residents stranded...",
+    "u": "https://www.accuweather.com/en/weather-forecasts/florida-braces-for-more-torrential-rain-flooding-and-coastal-hazards/1958954"
    }
   ]
  },
- "fetched_at": "2026-11-19T09:57:56+00:00"
+ "fetched_at": "2026-11-19T18:57:04+00:00"
 }
