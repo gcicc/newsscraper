@@ -19,6 +19,13 @@
    {
     "f": "Top left",
     "p": null,
+    "s": "nypost.com",
+    "t": "DON THREATENS: 'WHEN PEOPLE VEER, THEY DON'T DO VERY WELL'...",
+    "u": "https://nypost.com/2026/11/19/us-news/trump-sends-pointed-message-to-elon-musk-after-trillionaire-claims-hes-not-maga/"
+   },
+   {
+    "f": "Top left",
+    "p": null,
     "s": "mediaite.com",
     "t": "DEMS WARN WON'T SAVE HIM FROM INVESTIGATIONS...",
     "u": "https://www.mediaite.com/media/tv/top-dems-warn-elon-musk-his-maga-u-turn-wont-save-him-from-investigation-still-getting-a-subpoena/"
@@ -28,7 +35,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "ANT DAY: TRILLION-DOLLAR DEBUT",
-    "u": "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649"
+    "u": "https://apnews.com/b6a74b8949021207dc162fcc876c4649"
    },
    {
     "f": "Main splash",
@@ -49,7 +56,14 @@
     "p": null,
     "s": "hindustantimes.com",
     "t": "Risk of new US Strikes on Iran Grows as Sides Escalate Skirmishes...",
-    "u": "https://www.hindustantimes.com/world-news/trump-considering-another-round-of-mass-strikes-on-iran-as-tensions-escalate-101795087599276.html"
+    "u": "https://www.hindustantimes.com/world-news/101795087599276.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "jpost.com",
+    "t": "Tehran using deadlier missiles to target ships in Strait of Hormuz...",
+    "u": "https://www.jpost.com/middle-east/iran-news/article-915531"
    },
    {
     "f": "Main splash",
@@ -62,22 +76,29 @@
     "f": "Main splash",
     "p": null,
     "s": "msn.com",
-    "t": "REPORT: China seeks advanced NVIDIA chips for AI weapons...",
-    "u": "https://www.msn.com/en-us/technology/tech-companies/ar-AA2hHxP8"
+    "t": "UPDATE: NSA outage hits key facility for Middle East intel operations...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2hJoBs"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Wife of senior exec embroiled in smuggling scandal...",
-    "u": "https://www.telegraph.co.uk/business/2026/11/18/wife-senior-nvidia-executive-in-chip-smuggling-scandal/"
+    "s": "nbcnews.com",
+    "t": "DOWN FOR DAYS...",
+    "u": "https://www.nbcnews.com/politics/rcna610261"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Widespread Tech Outages Put Focus on Trump's National Security Cuts...",
-    "u": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html?unlocked_article_code=1.RlE.09BE.V2vvaG7ULY7X&smid=url-share"
+    "s": "cnbc.com",
+    "t": "California AG issues subpoena to NVIDIA in probe of China chips...",
+    "u": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "Stephen Miller Yanks Markwayne Mullin Off TV After 'WTF' Hit...",
+    "u": "https://www.mediaite.com/media/news/trump-chief-of-staff-stephen-miller-pulls-markwayne-mullin-off-tv-after-his-wtf-hit-on-fox-news-report/"
    },
    {
     "f": "Main splash",
@@ -117,6 +138,13 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "washingtonpost.com",
+    "t": "Trump appointees panel ask boss to rethink DC golf course scope...",
+    "u": "https://www.washingtonpost.com/sports/2026/11/19/arts-panel-asks-trump-administration-rethink-east-potomac-golf-courses-scope"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "theatlantic.com",
     "t": "The Islands Texas Wants From Mexico...",
     "u": "https://www.theatlantic.com/national-security/2026/11/islands-rio-grande-mexico-border-texas/689489/"
@@ -131,9 +159,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Body Bags and War on 'Wokismo': Colombia President's First 100 Days...",
-    "u": "https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html?unlocked_article_code=1.RlE.fzTU.DM0ewluqibBq&smid=url-share"
+    "s": "archive.is",
+    "t": "To Catch Ransomware Scammer, FBI Posed as Both Victim and Attacker...",
+    "u": "https://archive.is/xmOsD"
    },
    {
     "f": "Column 1",
@@ -152,9 +180,16 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "jewishinsider.com",
+    "t": "Cost of living dominated voters' midterm concerns...",
+    "u": "https://jewishinsider.com/2026/11/poll-finds-cost-of-living-not-israel-dominated-voters-midterm-concerns/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "the-sun.com",
     "t": "BOND GIRL TRANS?",
-    "u": "https://www.the-sun.com/entertainment/17324019/robert-pattinson-bond-trans-star/"
+    "u": "https://www.the-sun.com/entertainment/17324019"
    },
    {
     "f": "Column 1",
@@ -166,16 +201,37 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "Muslims to outnumber Christians worldwide in next decade...",
-    "u": "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/"
+    "s": "usatoday.com",
+    "t": "'28 POLL: Rubio leads Vance, Ossoff surges to top for Dems...",
+    "u": "https://www.usatoday.com/story/news/politics/2026/11/19/92858122007/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "archive.ph",
-    "t": "Rubio more seriously weighing 2028 run, allies say...",
+    "t": "Marco more seriously weighing 2028 run, allies say...",
     "u": "https://archive.ph/ba7PZ"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "poynter.org",
+    "t": "JD rough week...",
+    "u": "https://www.poynter.org/commentary/2026/jd-vance-brian-kilmeade-iran-trump/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "Massie Drops Scorched Earth Floor Speech On Lutnick's Jeffrey Epstein Connections...",
+    "u": "https://www.mediaite.com/media/news/massie-drops-scorched-earth-floor-speech-on-howard-lutnicks-jeffrey-epstein-connections/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Banished to Capitol basement...",
+    "u": "https://www.the-sun.com/news/17329973"
    },
    {
     "f": "Column 1",
@@ -196,7 +252,7 @@
     "p": null,
     "s": "the-express.com",
     "t": "Schumer raises health alarm after hunched walk...",
-    "u": "https://www.the-express.com/news/politics/220030/chuck-schumer-health-speaker"
+    "u": "https://www.the-express.com/news/220030"
    },
    {
     "f": "Column 1",
@@ -243,6 +299,20 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "foxnews.com",
+    "t": "Florida Christians rebel against Imam's prayer opening city meeting...",
+    "u": "https://www.foxnews.com/politics/florida-christians-rebel-against-imams-prayer-opening-city-meeting-message"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "Pastor guilty of helping to assassinate Haitian president...",
+    "u": "https://www.telegraph.co.uk/us/news/2026/11/19/florida-pastor-helped-to-assassinate-haitian-president/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "washingtonpost.com",
     "t": "Housework counts as exercise and could extend lifespan...",
     "u": "https://www.washingtonpost.com/climate-environment/2026/11/19/housework-counts-physical-activity-that-can-improve-your-health/"
@@ -258,15 +328,29 @@
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Weight-loss jab users as common as vegetarians and pescatarians...",
-    "u": "https://www.telegraph.co.uk/news/2026/11/19/weight-loss-jab-users-as-common-as-vegetarians-pescatarians/"
+    "t": "Denmark celebrates oldest woman -- then finds out she was Nazi...",
+    "u": "https://www.telegraph.co.uk/world-news/2026/11/19/denmark-celebrates-oldest-woman-finds-out-she-was-nazi/"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests...",
-    "u": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html?unlocked_article_code=1.RlE.u7pb.K_G-Gb3kU2dM&smid=url-share"
+    "s": "dailymail.com",
+    "t": "National Cyber Director resigns...",
+    "u": "https://www.dailymail.com/news/article-16307463"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "abcnews.com",
+    "t": "JPMORGANCHASE, MASTERCARD, VISA report cyberattack...",
+    "u": "https://abcnews.com/US/story?id=138287705"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theatlantic.com",
+    "t": "Silicon Valley Suffering From Model Collapse...",
+    "u": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/"
    },
    {
     "f": "Column 2",
@@ -274,6 +358,13 @@
     "s": "washingtonpost.com",
     "t": "Unlocked cells. Family dinners. Once-violent prison trying something new...",
     "u": "https://www.washingtonpost.com/nation/2026/11/19/unlocked-cells-family-dinners-once-violent-prison-is-trying-something-new/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Schools Locking Up Phones. Kids Learning More...",
+    "u": "https://www.wsj.com/us-news/education/school-cellphone-bans-boost-students-learning-study-suggests-7de6d809"
    },
    {
     "f": "Column 2",
@@ -306,16 +397,16 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "usatoday.com",
-    "t": "1 in 5 workers taking PTO...",
-    "u": "https://www.usatoday.com/story/money/2026/11/18/gta-6-pto-work-vacation-call-out/92810460007/"
+    "s": "nytimes.com",
+    "t": "Used to Satirize American Life. Now We've Caught Up With It...",
+    "u": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html?unlocked_article_code=1.RlE.QFMP.B9mH6RfTVlT9&smid=url-share"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Army Plans to Blow Up Old Ammo, Creating Toxic Cloud Over Iowa...",
-    "u": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html?unlocked_article_code=1.RlE.PfcY.1gS_j8t0kkDO&smid=url-share"
+    "s": "cbsnews.com",
+    "t": "Army to detonate unstable explosives in Iowa... Fears of toxic lead dust...",
+    "u": "https://www.cbsnews.com/chicago/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
    },
    {
     "f": "Column 2",
@@ -327,11 +418,25 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "dailymail.com",
+    "t": "Surprise tropical storm forming near East Coast threatens to throw Thanksgiving travel into chaos...",
+    "u": "https://www.dailymail.com/sciencetech/article-16305877"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "accuweather.com",
     "t": "UPDATE: Historic flooding in S Florida closes schools, leaves residents stranded...",
     "u": "https://www.accuweather.com/en/weather-forecasts/florida-braces-for-more-torrential-rain-flooding-and-coastal-hazards/1958954"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "abc7.com",
+    "t": "Hippo Fiona dead after ingesting zoo visitor's hat...",
+    "u": "https://abc7.com/20054877/"
    }
   ]
  },
- "fetched_at": "2026-11-19T18:57:04+00:00"
+ "fetched_at": "2026-11-20T01:41:09+00:00"
 }
