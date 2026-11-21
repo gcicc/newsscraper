@@ -4,6 +4,34 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-21T06:00:02+00:00",
+    "s": null,
+    "t": "How China is using summits to expand its global influence",
+    "u": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-21T06:00:02+00:00",
+    "s": null,
+    "t": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "u": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-21T06:00:02+00:00",
+    "s": null,
+    "t": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+    "u": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html"
+   },
+   {
+    "f": "U.S.",
+    "p": "2026-11-21T05:30:09+00:00",
+    "s": null,
+    "t": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+    "u": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-20T22:59:33+00:00",
     "s": null,
     "t": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -29,13 +57,6 @@
     "s": null,
     "t": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
     "u": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
-   },
-   {
-    "f": "U.S.",
-    "p": "2026-11-20T21:13:03+00:00",
-    "s": null,
-    "t": "Why Anthropic's day-one valuation wasn't built to last in this market",
-    "u": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
    },
    {
     "f": "Top News",
@@ -129,7 +150,7 @@
     "u": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-20T17:25:19+00:00",
     "s": null,
     "t": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
@@ -157,7 +178,7 @@
     "u": "https://www.cnbc.com/2026/11/20/the-path-philanthropist-priscilla-chans-bold-bet-on-rare-disease.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-20T15:52:45+00:00",
     "s": null,
     "t": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
@@ -213,7 +234,7 @@
     "u": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
    },
    {
-    "f": "Top News",
+    "f": "Real Estate",
     "p": "2026-11-20T13:35:01+00:00",
     "s": null,
     "t": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules",
@@ -241,7 +262,7 @@
     "u": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-20T12:00:02+00:00",
     "s": null,
     "t": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
@@ -300,15 +321,15 @@
     "f": "Top News",
     "p": "2026-11-20T06:00:01+00:00",
     "s": null,
-    "t": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    "u": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-20T06:00:01+00:00",
-    "s": null,
     "t": "AI is changing software engineering \u2014 and some developers miss the struggle",
     "u": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-20T06:00:01+00:00",
+    "s": null,
+    "t": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+    "u": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html"
    },
    {
     "f": "International",
@@ -696,7 +717,7 @@
     "u": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html"
    },
    {
-    "f": "Politics",
+    "f": "U.S.",
     "p": "2026-11-18T12:50:00+00:00",
     "s": null,
     "t": "Democrat Mary Peltola wins Alaska Senate election",
@@ -1373,13 +1394,6 @@
     "s": null,
     "t": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
     "u": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-10T16:29:09+00:00",
-    "s": null,
-    "t": "U.S. gas prices fall below $4 for the first time since July",
-    "u": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
    },
    {
     "f": "Wealth",
@@ -2629,5 +2643,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-21T01:08:13+00:00"
+ "fetched_at": "2026-11-21T09:18:18+00:00"
 }
