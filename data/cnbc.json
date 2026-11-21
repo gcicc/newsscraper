@@ -472,7 +472,7 @@
     "u": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-19T20:46:23+00:00",
     "s": null,
     "t": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
@@ -757,13 +757,6 @@
     "s": null,
     "t": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
     "u": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-18T12:50:00+00:00",
-    "s": null,
-    "t": "Democrat Mary Peltola wins Alaska Senate election",
-    "u": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html"
    },
    {
     "f": "Politics",
@@ -2664,5 +2657,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-21T17:09:55+00:00"
+ "fetched_at": "2026-11-21T22:51:54+00:00"
 }

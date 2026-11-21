@@ -33,8 +33,22 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "dnyuz.com",
+    "t": "'Worst of the Worst?' ICE blasted for detaining Neuroscience PhD student...",
+    "u": "https://dnyuz.com/2026/11/21/worst-of-the-worst-ice-blasted-for-detaining-princeton-neuroscience-phd-student/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "NYT: Tech Outages Only the Beginning. AI Will Bring More Disruptions...",
+    "u": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html?unlocked_article_code=1.SFE.60-B.nR5YFSrG42A2&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "washingtonpost.com",
-    "t": "Entitled and out of touch, AI CEOs heading for a fall...",
+    "t": "Entitled and out of touch, CEOs heading for a fall...",
     "u": "https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/"
    },
    {
@@ -47,20 +61,6 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "cnbc.com",
-    "t": "NASDAQ NEG FOR YEAR...",
-    "u": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "msn.com",
-    "t": "NVIDIA PROBED...",
-    "u": "https://www.msn.com/en-us/money/general/ar-AA2hSrfj"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "archive.ph",
     "t": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets...",
     "u": "https://archive.ph/gHvTw"
@@ -68,9 +68,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "archive.ph",
+    "s": "apnews.com",
     "t": "FBI hacked again; Breach targets crime database...",
-    "u": "https://archive.ph/Bu00r"
+    "u": "https://apnews.com/article/fbi-database-ncic-hack-d066cff87a64a564db0a00172c124972"
    },
    {
     "f": "Main splash",
@@ -180,6 +180,20 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "washingtonpost.com",
+    "t": "His Alabama district was redrawn so that he'd lose. He won anyway...",
+    "u": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "thehill.com",
+    "t": "Colom announces town hall in reddest county of Mississippi...",
+    "u": "https://thehill.com/homenews/senate/6235221-colom-town-hall-red-itawamba-county/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "wsj.com",
     "t": "New York's Billionaire Top Cop and Socialist Mayor Making It Work...",
     "u": "https://www.wsj.com/us-news/how-new-yorks-billionaire-top-cop-and-socialist-mayor-are-making-it-work-1ad4f7fc"
@@ -249,5 +263,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-21T17:09:51+00:00"
+ "fetched_at": "2026-11-21T22:51:52+00:00"
 }
