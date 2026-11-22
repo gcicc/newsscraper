@@ -4,6 +4,41 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-22T13:25:47+00:00",
+    "s": null,
+    "t": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+    "u": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T13:00:01+00:00",
+    "s": null,
+    "t": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    "u": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T12:13:56+00:00",
+    "s": null,
+    "t": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+    "u": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T12:10:39+00:00",
+    "s": null,
+    "t": "The Nasdaq is in freefall. Here's one stock to look at",
+    "u": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T06:00:01+00:00",
+    "s": null,
+    "t": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
+    "u": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-21T16:57:34+00:00",
     "s": null,
     "t": "Trump says there could be a 'positive spin' from the latest FBI database hack",
@@ -88,6 +123,13 @@
    },
    {
     "f": "Top News",
+    "p": "2026-11-21T11:29:25+00:00",
+    "s": null,
+    "t": "S&P 500 correction: Five forces behind the market sell-off",
+    "u": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-21T06:00:02+00:00",
     "s": null,
     "t": "How China is using summits to expand its global influence",
@@ -108,7 +150,7 @@
     "u": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-20T22:08:41+00:00",
     "s": null,
     "t": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -129,7 +171,7 @@
     "u": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-20T21:10:48+00:00",
     "s": null,
     "t": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
@@ -150,7 +192,7 @@
     "u": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-20T21:04:48+00:00",
     "s": null,
     "t": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
@@ -213,7 +255,7 @@
     "u": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
    },
    {
-    "f": "Top News",
+    "f": "Real Estate",
     "p": "2026-11-20T16:52:08+00:00",
     "s": null,
     "t": "Data center construction costs soar 13% in 2026",
@@ -241,7 +283,7 @@
     "u": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-20T15:50:27+00:00",
     "s": null,
     "t": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
@@ -262,7 +304,7 @@
     "u": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-20T14:59:38+00:00",
     "s": null,
     "t": "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overallotment",
@@ -276,7 +318,7 @@
     "u": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html"
    },
    {
-    "f": "Finance",
+    "f": "Top News",
     "p": "2026-11-20T14:15:29+00:00",
     "s": null,
     "t": "The bull market has a new problem. The 'smart money' is selling",
@@ -423,7 +465,7 @@
     "u": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-20T00:00:38+00:00",
     "s": null,
     "t": "Anthropic was supposed to save the AI trade. What went wrong?",
@@ -1291,7 +1333,7 @@
     "u": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html"
    },
    {
-    "f": "Business",
+    "f": "Health & Science",
     "p": "2026-11-11T22:58:11+00:00",
     "s": null,
     "t": "Feds arrest top official of healthcare company, alleging illegal drug importation",
@@ -1802,13 +1844,6 @@
     "u": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-11-05T11:00:01+00:00",
-    "s": null,
-    "t": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
-    "u": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html"
-   },
-   {
     "f": "Energy",
     "p": "2026-11-04T23:23:03+00:00",
     "s": null,
@@ -1942,13 +1977,6 @@
     "u": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-11-03T22:26:20+00:00",
-    "s": null,
-    "t": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-    "u": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html"
-   },
-   {
     "f": "Autos",
     "p": "2026-11-03T21:11:34+00:00",
     "s": null,
@@ -1968,13 +1996,6 @@
     "s": null,
     "t": "The next wave of luxury real estate: marina developments with yacht parking",
     "u": "https://www.cnbc.com/2026/11/03/the-next-wave-of-luxury-real-estate-marinas-with-yacht-parking.html"
-   },
-   {
-    "f": "Energy",
-    "p": "2026-11-03T20:36:08+00:00",
-    "s": null,
-    "t": "Sullivan: What the 2026 midterms could mean for energy investors",
-    "u": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html"
    },
    {
     "f": "Health & Science",
@@ -2094,13 +2115,6 @@
     "s": null,
     "t": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
     "u": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html"
-   },
-   {
-    "f": "Health & Science",
-    "p": "2026-10-29T16:01:51+00:00",
-    "s": null,
-    "t": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
-    "u": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html"
    },
    {
     "f": "Real Estate",
@@ -2586,13 +2600,6 @@
     "u": "https://www.cnbc.com/2026/08/13/monterey-car-week-auctions-sales-estimates.html"
    },
    {
-    "f": "Investing",
-    "p": "2026-08-09T12:01:56+00:00",
-    "s": null,
-    "t": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
-    "u": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html"
-   },
-   {
     "f": "Wealth",
     "p": "2026-08-07T20:23:09+00:00",
     "s": null,
@@ -2657,5 +2664,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-22T05:30:19+00:00"
+ "fetched_at": "2026-11-22T14:12:32+00:00"
 }

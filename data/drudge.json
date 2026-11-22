@@ -33,9 +33,51 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "the-independent.com",
+    "t": "PHOTO DUMP...",
+    "u": "https://www.the-independent.com/b3089292.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Putin's $200m warship 'destroyed' in huge explosion at Libyan port...",
+    "u": "https://www.the-sun.com/news/17340705"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "apnews.com",
+    "t": "Immigration officers make arrests at Seattle airport: 'distressing' scene, flight delayed...",
+    "u": "https://apnews.com/4748ddb6161c28853d763e835aeb31f1"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "dnyuz.com",
     "t": "'Worst of the Worst?' ICE blasted for detaining Neuroscience PhD student...",
     "u": "https://dnyuz.com/2026/11/21/worst-of-the-worst-ice-blasted-for-detaining-princeton-neuroscience-phd-student/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Howard Lutnick, Ultimate Survivor... Dropped $25M Donation to Hang On Amid Epstein Scandal...",
+    "u": "https://www.wsj.com/politics/policy/howard-lutnick-is-the-ultimate-survivor-in-the-trump-administration-29ac3243"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Inside AI prophet's secretive visions for humanity's future...",
+    "u": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "China Spies Set Sights on Chips Years Before NVIDIA Scandal...",
+    "u": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html?unlocked_article_code=1.SVE.o3ZC.uN6lcDVS8EGd&smid=url-share"
    },
    {
     "f": "Main splash",
@@ -68,16 +110,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "FBI hacked again; Breach targets crime database...",
-    "u": "https://apnews.com/article/fbi-database-ncic-hack-d066cff87a64a564db0a00172c124972"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "mediaite.com",
-    "t": "As Patel brags about security...",
-    "u": "https://www.mediaite.com/media/tv/kash-patel-bragged-about-fbi-cybersecurity-on-fox-news-right-after-bureau-was-hacked-report/"
+    "s": "nytimes.com",
+    "t": "PROCTER & GAMBLE Increases Factory Shifts -- Without Humans -- to Cut Costs...",
+    "u": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html?unlocked_article_code=1.SVE.0slY.hPxadPz_kWKr&smid=url-share"
    },
    {
     "f": "Main splash",
@@ -89,9 +124,16 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "theguardian.com",
+    "t": "Conservative media weighs future as MAGA cracks...",
+    "u": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "apnews.com",
-    "t": "Christian nationalists see Republicans losses as opportunity to supplant MAGA...",
-    "u": "https://apnews.com/article/trump-webbon-christian-nationalist-maga-theocracy-republicans-9c5e34308609af945f4e738d03c30257"
+    "t": "Christian nationalists see Republicans losses as opportunity...",
+    "u": "https://apnews.com/9c5e34308609af945f4e738d03c30257"
    },
    {
     "f": "Main splash",
@@ -103,16 +145,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "White House Scales Back Special Status That Lets Staffers Stay in Private Sector...",
-    "u": "https://www.wsj.com/politics/policy/white-house-scales-back-special-status-that-lets-staffers-stay-in-private-sector-97db97cd"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Where in World Is Carney? Five Continents, 32 Countries in 113 Days... Canadian PM Breaking Reliance on USA...",
-    "u": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0"
+    "s": "washingtonpost.com",
+    "t": "Coffee enemas, drinkable silver: Booming industry of MAHA influencers...",
+    "u": "https://www.washingtonpost.com/technology/interactive/2026/11/22/coffee-enemas-drinkable-silver-booming-industry-maha-influencers/"
    },
    {
     "f": "Main splash",
@@ -124,16 +159,23 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "Famed Marine vet under federal investigation over undisclosed allegations...",
-    "u": "https://apnews.com/article/marine-veteran-navy-investigation-bradley-kasal-ae9ff8d3f63dc93f7ed123c801f39051"
+    "s": "cbsnews.com",
+    "t": "Marine Corps hero under federal investigation...",
+    "u": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
    },
    {
-    "f": "Main splash",
+    "f": "Column 1",
     "p": null,
-    "s": "wsj.com",
-    "t": "The Russian POW Camp Where Sex Abuse Became Part of System...",
-    "u": "https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef"
+    "s": "dailymail.com",
+    "t": "Eight cities facing economic death spiral... Jobs disappear, neighborhoods abandoned...",
+    "u": "https://www.dailymail.com/real-estate/article-16282367"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Bull market's new problem: 'Smart money' selling...",
+    "u": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html"
    },
    {
     "f": "Column 1",
@@ -159,16 +201,23 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "archive.ph",
-    "t": "Dem presidential field awaits AOC and Kamala...",
-    "u": "https://archive.ph/4HmcW"
+    "s": "nypost.com",
+    "t": "DSA plots revolution by running hundreds of comrades in '28...",
+    "u": "https://nypost.com/2026/11/21/us-news/dsa-plans-to-run-hundreds-of-candidates-in-2028/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Hakeem Jeffries Thinks He's the Man for This Moment...",
-    "u": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html?unlocked_article_code=1.SFE.Vh4U.ZSfYQipiW_7r&smid=url-share"
+    "s": "wsj.com",
+    "t": "NY Billionaire Top Cop and Socialist Mayor Making It Work...",
+    "u": "https://www.wsj.com/us-news/how-new-yorks-billionaire-top-cop-and-socialist-mayor-are-making-it-work-1ad4f7fc"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "archive.ph",
+    "t": "Dem presidential field awaits AOC and Kamala...",
+    "u": "https://archive.ph/4HmcW"
    },
    {
     "f": "Column 1",
@@ -194,16 +243,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "wsj.com",
-    "t": "New York's Billionaire Top Cop and Socialist Mayor Making It Work...",
-    "u": "https://www.wsj.com/us-news/how-new-yorks-billionaire-top-cop-and-socialist-mayor-are-making-it-work-1ad4f7fc"
+    "s": "nypost.com",
+    "t": "Grinning ex-NYPD cop admits he killed jogger: 'Allah told me to'...",
+    "u": "https://nypost.com/2026/11/21/us-news/grinning-ex-nypd-cop-admits-to-the-post-that-he-killed-jogger-katie-suarez-and-says-allah-told-me-to"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "wjla.com",
-    "t": "Child dies of measles in Virginia...",
-    "u": "https://wjla.com/news/health/child-under-the-age-of-4-first-measles-death-of-year-in-virginia-vdh-says"
+    "s": "telegraph.co.uk",
+    "t": "University spied on student over pro-Israel views...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/21/university-spied-brodie-mitchell-student-pro-israel-views/"
    },
    {
     "f": "Column 1",
@@ -218,6 +267,27 @@
     "s": "studyfinds.com",
     "t": "STUDY: Quitting Junk Food May Bring Back Lost Memory...",
     "u": "https://studyfinds.com/quitting-junk-food-helps-memory/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "CA train burglars carefully executed heists for 'staggering' $22M haul...",
+    "u": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "wsj.com",
+    "t": "How Kim Jong Un Gets Away With Building Nukes -- and Ghosting Trump...",
+    "u": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "gizmodo.com",
+    "t": "KALSHI Claims NY Lawsuit Could Shut It Down Everywhere...",
+    "u": "https://gizmodo.com/kalshi-claims-new-yorks-lawsuit-could-shut-it-down-everywhere-2000843395"
    },
    {
     "f": "Column 2",
@@ -243,6 +313,20 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "archive.is",
+    "t": "This 16-Year-Old Founded AI Missile Startup. Targeting 'Cost Per Kill'...",
+    "u": "https://archive.is/ZNqvS"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "Red Cross: Soon too late to regulate autonomous weapons...",
+    "u": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "wsj.com",
     "t": "The Political Taboo Tearing France Apart...",
     "u": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d"
@@ -250,18 +334,25 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "the-sun.com",
-    "t": "Driverless car tries to park itself 868 times!",
-    "u": "https://www.the-sun.com/news/17336319/driverless-car-fails-to-park-baffles-owner/"
+    "s": "wsj.com",
+    "t": "Boomers Rewriting Old Age Playbook. Not Winding Down...",
+    "u": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "El Salvador's Bukele seeks third term that could keep him in power until 2033...",
-    "u": "https://www.washingtonpost.com/world/2026/11/20/el-salvadors-bukele-seeks-third-term-that-could-keep-him-power-until-2033/"
+    "s": "telegraph.co.uk",
+    "t": "Gray gamers excited to spend retirement playing GRAND THEFT AUTO...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/22/grey-gamers-grand-theft-auto/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "sfgate.com",
+    "t": "49ERS' Nick Bosa criticizes Mexican fans, kicks off firestorm...",
+    "u": "https://www.sfgate.com/article/22543289.php"
    }
   ]
  },
- "fetched_at": "2026-11-22T05:30:16+00:00"
+ "fetched_at": "2026-11-22T14:12:28+00:00"
 }
