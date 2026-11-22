@@ -4,6 +4,41 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-22T18:55:05+00:00",
+    "s": null,
+    "t": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "u": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T17:33:25+00:00",
+    "s": null,
+    "t": "I\u2019ve studied over 200 kids\u2014to avoid raising a people pleaser, ditch 6 parenting habits: It starts in \u2018ordinary, well-intentioned moments\u2019",
+    "u": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T17:14:03+00:00",
+    "s": null,
+    "t": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+    "u": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T14:30:01+00:00",
+    "s": null,
+    "t": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+    "u": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-22T14:00:01+00:00",
+    "s": null,
+    "t": "26-year-old Google worker earns $323,000 a year\u2014but lives on less than minimum wage",
+    "u": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-22T13:25:47+00:00",
     "s": null,
     "t": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
@@ -52,7 +87,7 @@
     "u": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
    },
    {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-21T15:04:56+00:00",
     "s": null,
     "t": "Tech outages are fueling a new doomsday economy",
@@ -206,14 +241,14 @@
     "u": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-20T20:47:58+00:00",
     "s": null,
     "t": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
     "u": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-20T19:59:03+00:00",
     "s": null,
     "t": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
@@ -246,13 +281,6 @@
     "s": null,
     "t": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
     "u": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-20T17:25:19+00:00",
-    "s": null,
-    "t": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-    "u": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
    },
    {
     "f": "Real Estate",
@@ -297,7 +325,7 @@
     "u": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html"
    },
    {
-    "f": "Top News",
+    "f": "Investing",
     "p": "2026-11-20T15:12:40+00:00",
     "s": null,
     "t": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
@@ -416,7 +444,7 @@
     "u": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-20T06:00:01+00:00",
     "s": null,
     "t": "AI is changing software engineering \u2014 and some developers miss the struggle",
@@ -542,7 +570,7 @@
     "u": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-19T19:43:08+00:00",
     "s": null,
     "t": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
@@ -878,7 +906,7 @@
     "u": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
    },
    {
-    "f": "Politics",
+    "f": "Energy",
     "p": "2026-11-18T05:24:54+00:00",
     "s": null,
     "t": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
@@ -1277,7 +1305,7 @@
     "u": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
    },
    {
-    "f": "Business",
+    "f": "Autos",
     "p": "2026-11-12T22:17:05+00:00",
     "s": null,
     "t": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
@@ -1429,13 +1457,6 @@
     "s": null,
     "t": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
     "u": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-11T07:47:54+00:00",
-    "s": null,
-    "t": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-    "u": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
    },
    {
     "f": "Economy",
@@ -2664,5 +2685,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-22T14:12:32+00:00"
+ "fetched_at": "2026-11-22T21:35:36+00:00"
 }

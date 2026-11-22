@@ -3,32 +3,11 @@
   "failed_feeds": {},
   "items": [
    {
-    "f": "Top left",
-    "p": null,
-    "s": "abcnews.com",
-    "t": "HORMUZ ATTACKS SURGE...",
-    "u": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "theatlantic.com",
-    "t": "HOUTHIS WREAK HAVOC...",
-    "u": "https://www.theatlantic.com/international/2026/11/houthis-saudi-arabia-war/689532/"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "wsj.com",
-    "t": "UAE Shuttling Oil Past Iran in Risky Op...",
-    "u": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e"
-   },
-   {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "MARKWAYNE NEXT CHOP?",
-    "u": "https://www.wsj.com/politics/policy/markwayne-mullin-took-over-a-dhs-in-crisis-and-is-struggling-to-turn-it-around-a5055480"
+    "s": "fox2detroit.com",
+    "t": "DON FLIRTS WITH MEDICARE FOR ALL",
+    "u": "https://www.fox2detroit.com/news/trump-reposts-el-sayeds-trumpcare-proposal"
    },
    {
     "f": "Main splash",
@@ -43,6 +22,20 @@
     "s": "the-sun.com",
     "t": "Putin's $200m warship 'destroyed' in huge explosion at Libyan port...",
     "u": "https://www.the-sun.com/news/17340705"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "abcnews.com",
+    "t": "Air alert in Kaliningrad hours after ship attacked in Gulf of Finland...",
+    "u": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "New killer satellites could wipe out STARLINK with tiny pebble shrapnel clouds...",
+    "u": "https://www.the-sun.com/news/17340137"
    },
    {
     "f": "Main splash",
@@ -68,8 +61,22 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "wsj.com",
+    "t": "MARKWAYNE NEXT CHOP?",
+    "u": "https://www.wsj.com/politics/policy/markwayne-mullin-took-over-a-dhs-in-crisis-and-is-struggling-to-turn-it-around-a5055480"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Inside billionaires' tech-proof bolt-holes as even Pentagon launches Project Fortress...",
+    "u": "https://www.the-sun.com/news/17334928"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "washingtonpost.com",
-    "t": "Inside AI prophet's secretive visions for humanity's future...",
+    "t": "AI prophet's secretive visions for humanity's future...",
     "u": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/"
    },
    {
@@ -83,7 +90,7 @@
     "f": "Main splash",
     "p": null,
     "s": "nytimes.com",
-    "t": "NYT: Tech Outages Only the Beginning. AI Will Bring More Disruptions...",
+    "t": "NYT: Tech Outages Only the Beginning. More Disruptions Coming...",
     "u": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html?unlocked_article_code=1.SFE.60-B.nR5YFSrG42A2&smid=url-share"
    },
    {
@@ -92,13 +99,6 @@
     "s": "washingtonpost.com",
     "t": "Entitled and out of touch, CEOs heading for a fall...",
     "u": "https://www.washingtonpost.com/business/2026/11/21/history-lesson-ai-ceos-alienate-americans-your-own-peril/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Welcome to age of endless digital breakdowns...",
-    "u": "https://www.washingtonpost.com/technology/2026/11/21/welcome-age-endless-digital-breakdowns/"
    },
    {
     "f": "Main splash",
@@ -119,7 +119,7 @@
     "p": null,
     "s": "dailymail.com",
     "t": "Security officials sound alarm over al-Qaeda hijacking plots...",
-    "u": "https://www.dailymail.com/news/article-16310707/US-security-al-Qaeda-hijacking-threats.html"
+    "u": "https://www.dailymail.com/news/article-16310707"
    },
    {
     "f": "Main splash",
@@ -140,7 +140,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "OATH KEEPERS founder and Jan. 6 leader 'absolutely done' with The Don...",
-    "u": "https://apnews.com/article/oath-keepers-stewart-rhodes-trump-capitol-riot-f7d582433909b63534ee0f8a22976f83"
+    "u": "https://apnews.com/f7d582433909b63534ee0f8a22976f83"
    },
    {
     "f": "Main splash",
@@ -162,6 +162,13 @@
     "s": "cbsnews.com",
     "t": "Marine Corps hero under federal investigation...",
     "u": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "DELTA hit by outage; 3,500 flights disrupted...",
+    "u": "https://www.the-sun.com/travel/17340877"
    },
    {
     "f": "Column 1",
@@ -229,20 +236,6 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "His Alabama district was redrawn so that he'd lose. He won anyway...",
-    "u": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "thehill.com",
-    "t": "Colom announces town hall in reddest county of Mississippi...",
-    "u": "https://thehill.com/homenews/senate/6235221-colom-town-hall-red-itawamba-county/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
     "s": "nypost.com",
     "t": "Grinning ex-NYPD cop admits he killed jogger: 'Allah told me to'...",
     "u": "https://nypost.com/2026/11/21/us-news/grinning-ex-nypd-cop-admits-to-the-post-that-he-killed-jogger-katie-suarez-and-says-allah-told-me-to"
@@ -276,6 +269,13 @@
     "u": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists"
    },
    {
+    "f": "Column 1",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "Jet-set life of jailed 'organ harvesting king'...",
+    "u": "https://www.the-sun.com/news/17339729"
+   },
+   {
     "f": "Column 2",
     "p": null,
     "s": "wsj.com",
@@ -292,16 +292,37 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Princess of Wales: Cancer recovery taught me to find joy in uncertainty...",
-    "u": "https://www.telegraph.co.uk/royal-family/2026/11/21/princess-of-wales-cancer-recovery-documentary-royal-family/"
+    "s": "apnews.com",
+    "t": "Endurance athlete swims Strait of Hormuz...",
+    "u": "https://apnews.com/e772be52a06d75699594a7396ec78f25"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "the-independent.com",
-    "t": "'It's clear we're not meant to carry life's challenges alone'...",
-    "u": "https://www.the-independent.com/news/uk/home-news/kate-princess-cancer-bbc-documentary-b3089140.html"
+    "s": "ynetnews.com",
+    "t": "Iran high-stakes gamble: Breaking US naval blockade to force swift endgame...",
+    "u": "https://www.ynetnews.com/opinions-analysis/article/sjvfnnx1me"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "abcnews.com",
+    "t": "ATTACKS SURGE...",
+    "u": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theatlantic.com",
+    "t": "HOUTHIS WREAK HAVOC...",
+    "u": "https://www.theatlantic.com/international/2026/11/houthis-saudi-arabia-war/689532/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "wsj.com",
+    "t": "UAE Shuttling Oil in Risky Op...",
+    "u": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e"
    },
    {
     "f": "Column 2",
@@ -354,5 +375,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-22T14:12:28+00:00"
+ "fetched_at": "2026-11-22T21:35:30+00:00"
 }
