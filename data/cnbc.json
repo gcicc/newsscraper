@@ -171,7 +171,7 @@
     "u": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-21T06:00:02+00:00",
     "s": null,
     "t": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
@@ -260,13 +260,6 @@
     "s": null,
     "t": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
     "u": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-20T19:33:31+00:00",
-    "s": null,
-    "t": "A massive bearish trade just happened in the chip stocks",
-    "u": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html"
    },
    {
     "f": "Retail",
@@ -437,7 +430,7 @@
     "u": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-20T07:08:36+00:00",
     "s": null,
     "t": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
@@ -456,6 +449,13 @@
     "s": null,
     "t": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
     "u": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-20T05:09:52+00:00",
+    "s": null,
+    "t": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+    "u": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html"
    },
    {
     "f": "Tech",
@@ -2685,5 +2685,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-22T21:35:36+00:00"
+ "fetched_at": "2026-11-23T02:20:37+00:00"
 }
