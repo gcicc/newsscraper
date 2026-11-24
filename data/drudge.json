@@ -3,39 +3,116 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Top left",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "Russia poised to put nuclear weapon in space within 60 days, Germany warns...",
+    "u": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "apnews.com",
+    "t": "HE'S BAAAAACK",
+    "u": "https://apnews.com/39d4b34ffaa867b4e669893b5fd5028f"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "STOCK SOARS 31%",
+    "u": "https://www.cnbc.com/quotes/NVDA"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "MEDDLING DON PUSHED HUANG RETURN",
+    "u": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html?unlocked_article_code=1.SlE.HgUR.MpckuFCXDeMF&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "'I MADE DEAL'",
+    "u": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "ACCOUNTING PROBE DROPPED",
+    "u": "https://www.msn.com/en-us/money/general/ar-AA2hSrfj"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "x.com",
+    "t": "ECONOMY COLLAPSE WITHOUT HIM",
+    "u": "https://x.com/CGasparino/status/2124899810314437062"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Huang greeted with explosive applause on first day back as CEO...",
+    "u": "https://nypost.com/2026/11/23/business/nvidia-employees-greet-jensen-huang-with-applause-on-first-day-back-as-ceo/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "REPORT: China seeks advanced NVIDIA chips for AI weapons...",
+    "u": "https://www.msn.com/en-us/technology/tech-companies/ar-AA2hHxP8"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "apnews.com",
+    "t": "Bipartisan Fury in Congress...",
+    "u": "https://apnews.com/48a005a1415549e69ec69400024aa797"
+   },
+   {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "ABDUL ROCKS THE BOAT",
+    "t": "ABDUL ROCKS THE BOAT...",
     "u": "https://www.wsj.com/politics/abdul-el-sayed-is-already-shaking-up-the-senate-72675805"
    },
    {
     "f": "Main splash",
     "p": null,
+    "s": "apnews.com",
+    "t": "Universal healthcare on the agenda...",
+    "u": "https://apnews.com/article/universal-healthcare-medicare-for-all-democrats-medicaid-8b60b5fa8c1af9c0a87950100a1d0153"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "cbsnews.com",
-    "t": "Ossoff expanding coalition fuels 2028 presidential buzz...",
+    "t": "Ossoff expanding coalition fuels '28 buzz...",
     "u": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "axios.com",
-    "t": "DeSantis quietly working on book...",
-    "u": "https://www.axios.com/2026/11/22/scoop-desantis-secret-book-project-fuels-2028-speculation"
+    "s": "sfgate.com",
+    "t": "Trump will target Newsom in speech to DOJ...",
+    "u": "https://www.sfgate.com/article/22545474.php"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "Fight to chair GOP tests President's clout...",
-    "u": "https://www.washingtonpost.com/politics/2026/11/23/fight-chair-gop-tests-trumps-clout-after-midterms-wipeout/"
+    "t": "Dems to open primary debates in June...",
+    "u": "https://www.washingtonpost.com/politics/2026/11/23/democrats-open-2028-primary-debates-june-after-pushback-against-earlier-start"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "wsj.com",
-    "t": "THE SURVIVOR... $25M Donation to Hang On Amid Epstein Scandal?",
-    "u": "https://www.wsj.com/politics/policy/howard-lutnick-is-the-ultimate-survivor-in-the-trump-administration-29ac3243"
+    "s": "tradersunion.com",
+    "t": "MERCEDES gets edge over TESLA in race for self-driving success in Europe...",
+    "u": "https://tradersunion.com/news/companies/show/4373893-mercedes-german-self-driving-eu/"
    },
    {
     "f": "Main splash",
@@ -47,44 +124,58 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "finance.yahoo.com",
-    "t": "PUSH FOR HUANG RETURN...",
-    "u": "https://finance.yahoo.com/technology/articles/president-trump-just-sent-nvidias-110948651.html"
+    "s": "archive.is",
+    "t": "Why India isn't embracing STARLINK...",
+    "u": "https://archive.is/dsLq7"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Bombshell Exposes New Depths of Spy Scandal...",
-    "u": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html?unlocked_article_code=1.SlE.GrAX.8fRv5tdpxlPq&smid=url-share"
+    "s": "futurism.com",
+    "t": "Study Finds Internet Cooking the Brain...",
+    "u": "https://futurism.com/health-medicine/study-infinite-scroll-vertical-video-destroying-brain"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "NVIDIA fought for years to sell chips to China...",
-    "u": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china/"
+    "s": "studyfinds.com",
+    "t": "STUDY: Teens Who Scroll More Have Smaller Region Linked To Memory...",
+    "u": "https://studyfinds.com/teens-who-scroll-more-had-smaller-memory-region-brain-scans-show/"
    },
    {
-    "f": "Main splash",
+    "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "AI prophet's secretive visions for future...",
-    "u": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/"
+    "s": "showbiz411.com",
+    "t": "REVIEW: 'ARTIFICIAL' SCARY PROPHECY OF CULT CHATGPT...",
+    "u": "https://www.showbiz411.com/2026/11/23/review-artificial-the-china-syndrome-of-2026-starring-andrew-garfield-as-cult-leader-of-ai-should-be-a-4-alarm-wake-up-call"
    },
    {
-    "f": "Main splash",
+    "f": "Column 1",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Hard to imagine humans staying in control, warns META...",
-    "u": "https://www.telegraph.co.uk/business/2026/11/23/humans-risk-losing-control-to-superintelligent-ai-warns-met/"
+    "s": "theatlantic.com",
+    "t": "President Acting Like He Works for China...",
+    "u": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/"
    },
    {
-    "f": "Main splash",
+    "f": "Column 1",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "WASH POST: MAHA champions promoting dubious products...",
-    "u": "https://www.washingtonpost.com/technology/interactive/2026/11/22/coffee-enemas-drinkable-silver-booming-industry-maha-influencers/"
+    "s": "americanprogress.org",
+    "t": "FLASHBACK: Trump Conflicts of Interest...",
+    "u": "https://www.americanprogress.org/article/trumps-conflicts-interest-china/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "americanresearchgroup.com",
+    "t": "POLL: APPROVAL 29%...",
+    "u": "https://americanresearchgroup.com/economy/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "propublica.org",
+    "t": "Spotted on DC Metro: White House Staffer Accidentally Reveals Plan for Smithsonian Overhaul...",
+    "u": "https://www.propublica.org/article/dc-metro-smithsonian-american-history-plan"
    },
    {
     "f": "Column 1",
@@ -96,16 +187,37 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "the-sun.com",
-    "t": "Thanksgiving travelers must be 'mentally ready' for airport hell...",
-    "u": "https://www.the-sun.com/travel/17341959/thanksgiving-travel-warning-weather-conditions-delays/"
+    "s": "sfgate.com",
+    "t": "2 citizens arrested in 'aggressive' Oakland operation...",
+    "u": "https://www.sfgate.com/article/22545922.php"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "the-sun.com",
-    "t": "DELTA outage disrupts flights...",
-    "u": "https://www.the-sun.com/travel/17340877"
+    "t": "Holiday travelers must be 'mentally ready' for airport hell... Developing...",
+    "u": "https://www.the-sun.com/travel/17341959/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "gizmodo.com",
+    "t": "'GET USED TO IT'...",
+    "u": "https://gizmodo.com/u-s-intelligence-chief-warns-americans-to-brace-for-more-tech-outages-2000843670"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nbcchicago.com",
+    "t": "Ground stop at O'Hare!",
+    "u": "https://www.nbcchicago.com/news/local/ground-stop-issued-at-ohare-airport-due-to-staffing-at-start-of-busy-holiday-week/4020413/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "thehill.com",
+    "t": "American ports face onslaught of cyber attacks...",
+    "u": "https://thehill.com/policy/6235972"
    },
    {
     "f": "Column 1",
@@ -118,57 +230,8 @@
     "f": "Column 1",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "This proud dad of lesbian just defeated powerful Republican congresswoman...",
+    "t": "Proud dad of lesbian just defeated powerful Republican congresswoman...",
     "u": "https://www.washingtonpost.com/politics/2026/11/23/this-proud-dad-lesbian-just-defeated-powerful-gop-congresswoman/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Dems win largest House majority since 1992...",
-    "u": "https://www.telegraph.co.uk/world-news/2026/11/23/democrats-largest-house-majority-since-1992-midterms-trump/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "nypost.com",
-    "t": "DSA set to run hundreds of comrades...",
-    "u": "https://nypost.com/2026/11/21/us-news/dsa-plans-to-run-hundreds-of-candidates-in-2028/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Battered Home Builders Turn to Repair Work to Pay Bills...",
-    "u": "https://www.wsj.com/economy/housing/battered-home-builders-turn-to-remodeling-and-repair-work-to-pay-the-bills-247fa315"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Federal scientists flag new cancer concerns with common herbicide...",
-    "u": "https://www.washingtonpost.com/health/2026/11/22/federal-scientists-flag-new-cancer-concerns-with-common-herbicide/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Drug Kingpin's Capture Risks Bloody Succession Battle...",
-    "u": "https://www.wsj.com/world/americas/drug-kingpins-capture-in-mexico-threatens-to-touch-off-bloody-succession-battle-8df2bff0"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Mexican town turned into warzone...",
-    "u": "https://www.dailymail.com/news/article-16314725/Astonishing-scenes-Mexican-town-turned-warzone-drug-lord-arrested-helicopter-gunships-firing-cartel-soldiers.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Red-flag waist size that puts you at risk of dementia...",
-    "u": "https://www.telegraph.co.uk/health-fitness/conditions/dementia/waist-size-dementia-risk/"
    },
    {
     "f": "Column 1",
@@ -181,22 +244,43 @@
     "f": "Column 1",
     "p": null,
     "s": "wsj.com",
-    "t": "The 64-Year-Old Coach Who Rescued the GIANTS...",
+    "t": "64-Year-Old Coach Who Rescued GIANTS...",
     "u": "https://www.wsj.com/sports/football/john-harbaugh-new-york-giants-dce3ec3c"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "Red-flag waist size that puts you at risk of dementia...",
+    "u": "https://www.telegraph.co.uk/health-fitness/conditions/dementia/waist-size-dementia-risk/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Heart attacks on rise under 50...",
+    "u": "https://nypost.com/2026/11/23/health/heart-attacks-on-the-rise-under-40-warning-signs-you-might-miss/"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "thehill.com",
-    "t": "American ports face onslaught of cyber attacks...",
-    "u": "https://thehill.com/policy/technology/6235972-us-ports-ai-cyberattacks/"
+    "s": "deadline.com",
+    "t": "Spielberg to Direct First Western In His 50-Year Hollywood Career...",
+    "u": "https://deadline.com/2026/11/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1237231172/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "pagesix.com",
+    "t": "Will Smith's Calabasas compound engulfed by enormous fire...",
+    "u": "https://pagesix.com/2026/11/23/celebrity-news/will-smiths-42-million-calabasas-compound-engulfed-by-enormous-fire"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "apnews.com",
     "t": "San Fran braces for massive tides...",
-    "u": "https://apnews.com/article/extreme-weather-flooding-florida-california-a096b0e373fe6e9b4c4dcdde11c1b31b"
+    "u": "https://apnews.com/a096b0e373fe6e9b4c4dcdde11c1b31b"
    },
    {
     "f": "Column 2",
@@ -208,44 +292,23 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "nbcnews.com",
-    "t": "Rapper concert evacuated after 'unknown substance' released in crowd...",
-    "u": "https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820"
+    "s": "ynetnews.com",
+    "t": "Kushner warns Israel heading toward 'global-pariah status'...",
+    "u": "https://www.ynetnews.com/article/bkydffgyqx"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
-    "u": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html?unlocked_article_code=1.SlE.fSY_.iHStuzhLjhWK&smid=url-share"
+    "s": "express.co.uk",
+    "t": "Horror as singer given 74 lashes for performing with no hijab...",
+    "u": "https://www.express.co.uk/news/2268695"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "apnews.com",
-    "t": "PUTIN HUMILIATION: DRONES SINK WARSHIP...",
-    "u": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "msn.com",
-    "t": "CONFLICT SPREADS BEYOND EUROPE...",
-    "u": "https://www.msn.com/en-us/news/other/ukraine-sinks-russian-warship-in-libya-as-conflict-spreads-beyond-europe/ar-AA2i2fK9"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "RUSSIA COULD LAUNCH KILLER SATELLITES IN WEEKS...",
-    "u": "https://www.the-sun.com/news/17343063/putin-launches-nuke-satellite/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Kim Jong Un Gets Away With Building Nukes -- and Ghosting The Don...",
-    "u": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49"
+    "s": "independent.co.uk",
+    "t": "WHO chief visits Cuba amid worsening health conditions...",
+    "u": "https://www.independent.co.uk/b3090247.html"
    },
    {
     "f": "Column 2",
@@ -253,8 +316,15 @@
     "s": "studyfinds.com",
     "t": "STUDY: Microdosing Psychedelics May Improve Decision-Making, Judgment...",
     "u": "https://studyfinds.com/psychedelics-sharpened-judgment-mice/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "msn.com",
+    "t": "Miss Universe embroiled in chaos again...",
+    "u": "https://www.msn.com/en-us/entertainment/celebrities/ar-AA2i3Snv"
    }
   ]
  },
- "fetched_at": "2026-11-23T14:06:21+00:00"
+ "fetched_at": "2026-11-24T02:46:51+00:00"
 }
