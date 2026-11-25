@@ -26,23 +26,44 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "mediaite.com",
-    "t": "TRUMP PROFITS FROM RETURN?",
-    "u": "https://www.mediaite.com/politics/trump/trump-potentially-made-15-million-with-his-push-to-reinstate-jensen-huang/"
+    "s": "marketwatch.com",
+    "t": "NVIDIA STOCK BACK DOWN",
+    "u": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "CONGRESS PROBES HUANG",
+    "u": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "FRANTIC WHITE HOUSE PUSH",
+    "t": "JENSEN IN THERAPY",
+    "u": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "marketwatch.com",
+    "t": "ANTHROPIC BELOW IPO",
+    "u": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "WHITE HOUSE BUBBLE TROUBLE",
     "u": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "x.com",
-    "t": "ECONOMY COLLAPSE WITHOUT HIM",
-    "u": "https://x.com/CGasparino/status/2124899810314437062"
+    "s": "tinabrown.substack.com",
+    "t": "TINA BROWN: Boomer-Huang...",
+    "u": "https://tinabrown.substack.com/p/boomer-huang"
    },
    {
     "f": "Main splash",
@@ -63,7 +84,7 @@
     "p": null,
     "s": "msn.com",
     "t": "Loomer Warns CEO Rescue Will Blow Up in His Face...",
-    "u": "https://www.msn.com/en-us/news/other/maga-firebrand-warns-trump-s-ceo-rescue-will-blow-up-in-his-face/ar-AA2i5lyO"
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2i5lyO"
    },
    {
     "f": "Main splash",
@@ -75,9 +96,37 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "theatlantic.com",
+    "t": "The Agents Howard Lutnick Pulled off Their Jobs...",
+    "u": "https://www.theatlantic.com/national-security/2026/11/lutnick-export-control-personal-detail/689562/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "wsj.com",
     "t": "Dems Begin Looking Into Companies With Ties to Don Jr...",
     "u": "https://www.wsj.com/politics/policy/democrats-begin-looking-into-companies-with-ties-to-donald-trump-jr-a364e7ff"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "cbsnews.com",
+    "t": "Inside crypto gala for $TRUMP meme coin's largest buyers...",
+    "u": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Account Funding President's DC Makeover Got $300M Boost...",
+    "u": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html?unlocked_article_code=1.S1E.UMYJ.z-zCU5V2_fFC&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Giuliani getting Presidential Medal of Freedom...",
+    "u": "https://www.washingtonpost.com/politics/2026/11/24/trump-award-rudy-giuliani-presidential-medal-freedom/"
    },
    {
     "f": "Main splash",
@@ -96,9 +145,30 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "telegraph.co.uk",
+    "t": "Iowans brace for 'apocalyptic' toxic explosion...",
+    "u": "https://www.telegraph.co.uk/us/news/2026/11/24/americans-brace-for-apocalypse-toxic-explosion/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Thanksgiving nightmare for thousands facing 48 hours trapped inside homes...",
+    "u": "https://www.dailymail.com/sciencetech/article-16318037"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "wsj.com",
     "t": "They Fled Dem States for Texas Before It Went Blue. Next Stop, Oklahoma?",
     "u": "https://www.wsj.com/us-news/democratic-blue-wave-midterms-cb29cb62"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "the-independent.com",
+    "t": "McConnell takes parting shot as he heads into retirement...",
+    "u": "https://www.the-independent.com/b3090627.html"
    },
    {
     "f": "Main splash",
@@ -117,9 +187,65 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "axios.com",
-    "t": "AI employees sound alarm: Models too powerful to ever release...",
-    "u": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+    "s": "nytimes.com",
+    "t": "CIA, INTEL CHIEF HIT BY CYBERSECURITY BREACH...",
+    "u": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.SW7i.22adzP6lNBNy&smid=url-share"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Cost-of-living nightmare worse than Great Recession... Wealthy families forced to hunt for bargains...",
+    "u": "https://www.dailymail.com/yourmoney/article-16317635"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Food banks see demand top pandemic levels...",
+    "u": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "americanresearchgroup.com",
+    "t": "TRUMP APPROVAL: 29%...",
+    "u": "https://americanresearchgroup.com/economy/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "archive.is",
+    "t": "GOOGLE Wants To Make 24/7 AI TV Channel. You'll Be Main Character...",
+    "u": "https://archive.is/n6uo5"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "abc7ny.com",
+    "t": "FAA investigating after AMAZON drone crashes into garage after delivery...",
+    "u": "https://abc7ny.com/20074174/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "futurism.com",
+    "t": "Distant Spacecraft Near Mercury Hit by Outage Like All Those Banks...",
+    "u": "https://futurism.com/space/bepicolombo-esa-probe-outage"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "msn.com",
+    "t": "MSFT 'code red' after historic outage...",
+    "u": "https://www.msn.com/en-us/technology/tech-companies/ar-AA2i87MX"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "mirror.co.uk",
+    "t": "TIKTOK DOWN...",
+    "u": "https://www.mirror.co.uk/news/uk-news/tiktok-app-down-outage-live-37911788"
    },
    {
     "f": "Column 1",
@@ -138,37 +264,16 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "theatlantic.com",
-    "t": "MAG: President Acting Like He Works for China...",
-    "u": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/"
+    "s": "express.co.uk",
+    "t": "THANKSGIVING CHAOS: GROUND STOP AT O'HARE AIRPORT AGAIN...",
+    "u": "https://www.express.co.uk/news/2269028"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "americanprogress.org",
-    "t": "FLASHBACK: Trump Conflicts of Interest...",
-    "u": "https://www.americanprogress.org/article/trumps-conflicts-interest-china/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "americanresearchgroup.com",
-    "t": "POLL: APPROVAL 29%...",
-    "u": "https://americanresearchgroup.com/economy/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Food banks see demand top pandemic levels...",
-    "u": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "Holiday travelers must be 'mentally ready' for airport hell... Developing...",
-    "u": "https://www.the-sun.com/travel/17341959/"
+    "s": "dailymail.com",
+    "t": "Flights to four major airports could be grounded...",
+    "u": "http://dailymail.com/sciencetech/article-16318231/thanksgiving-travel-chaos-faa-airports.html"
    },
    {
     "f": "Column 1",
@@ -182,7 +287,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "Pope Francis' diary details profound spiritual crisis and encounters with devil...",
-    "u": "https://apnews.com/article/pope-francis-diary-vatican-devil-clergy-abuse-422c4880292d6128e56c99245e9b5a16"
+    "u": "https://apnews.com/422c4880292d6128e56c99245e9b5a16"
    },
    {
     "f": "Column 1",
@@ -190,6 +295,62 @@
     "s": "theguardian.com",
     "t": "'Menacing eyes'...",
     "u": "https://www.theguardian.com/world/2026/nov/24/pope-francis-gates-of-hell-clerical-sexual-abuse-scandal-diary-excerpts-reveal"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Kilmar Abrego Garcia will leave U.S. voluntarily to avoid deportation...",
+    "u": "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "theatlantic.com",
+    "t": "Was Drug Lord's Killing in Ecuador Not What It Seemed?",
+    "u": "https://www.theatlantic.com/national-security/2026/11/ecuador-drug-cartel-raid-investigation/689558/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nbcnews.com",
+    "t": "Armed men take hostages in Cartagena -- Colombia's top tourist destination...",
+    "u": "https://www.nbcnews.com/world/rcna611165"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Venezuela Reveals Eye-Popping $237B Debt Load...",
+    "u": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Houthis Take Second Swipe at Tallest Tower in Saudi Capital...",
+    "u": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "cbsnews.com",
+    "t": "Iran developing chemical weapons, Israeli defense minister says...",
+    "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "vanityfair.com",
+    "t": "Artificial Intelligentsia: World's Top Literary Scholars Being Targeted by Chinese Spy Op?",
+    "u": "https://www.vanityfair.com/story/worlds-top-literary-scholars-targeted-by-chinese-spy-op"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "ynetnews.com",
+    "t": "REPORT: King Charles could abdicate in '27 over health concerns...",
+    "u": "https://www.ynetnews.com/article/hydtdom17g"
    },
    {
     "f": "Column 2",
@@ -203,21 +364,28 @@
     "p": null,
     "s": "the-sun.com",
     "t": "Two arrested...",
-    "u": "https://www.the-sun.com/royals/17348493/intruders-break-in-will-kate-home/"
+    "u": "https://www.the-sun.com/royals/17348493"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "deadline.com",
-    "t": "Spielberg to Direct First Western In His 50-Year Hollywood Career...",
-    "u": "https://deadline.com/2026/11/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1237231172/"
+    "s": "tennessean.com",
+    "t": "Al Gore to buy Tennessee newspaper...",
+    "u": "https://www.tennessean.com/story/news/local/2026/11/24/92938601007/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "DEA allowed 1.4M fentanyl pills to go unseized in major probe...",
+    "u": "https://www.yahoo.com/news/us/articles/ap-investigation-dea-allowed-1-110229098.html"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "msn.com",
     "t": "Saguaro cactus, icon of American West, struggles to survive heat storms...",
-    "u": "https://www.msn.com/en-us/weather/extreme-weather-events/this-icon-of-the-american-west-is-struggling-to-survive/ar-AA2i892V"
+    "u": "https://www.msn.com/en-us/weather/ar-AA2i892V"
    },
    {
     "f": "Column 2",
@@ -236,6 +404,13 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "dw.com",
+    "t": "What happens if nuclear weapon explodes in space?",
+    "u": "https://www.dw.com/a-80025827"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "washingtonpost.com",
     "t": "This year's Miss Universe pageant is hot mess. And it's spectacular...",
     "u": "https://www.washingtonpost.com/lifestyle/2026/11/24/this-years-miss-universe-pageant-is-hot-mess-its-spectacular/"
@@ -244,10 +419,31 @@
     "f": "Column 2",
     "p": null,
     "s": "studyfinds.com",
-    "t": "STUDY: Daily Commute Harder On Heart Than Realized...",
-    "u": "https://studyfinds.com/heart-rates-elevated-everyday-commutes/"
+    "t": "STUDY: Why People Who Stay Single Happier...",
+    "u": "https://studyfinds.com/singles-value-freedom-happier/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "thesmokinggun.com",
+    "t": "COPS: Man Forced Phone Into Wife's Rear End During Argument...",
+    "u": "https://www.thesmokinggun.com/documents/florida/florida-phone-battery-285913"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Luxury Water Luring Drinkers Who Have Lost Their Thirst for Alcohol...",
+    "u": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html?unlocked_article_code=1.S1E.qsLf.ji-91V0WGQxy&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Why So Many Have Chronic Back Pain -- and It Won't Go Away...",
+    "u": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html?unlocked_article_code=1.S1E.RKgv.-rpuEnvMOgB7&smid=url-share"
    }
   ]
  },
- "fetched_at": "2026-11-24T14:37:38+00:00"
+ "fetched_at": "2026-11-25T00:24:26+00:00"
 }
