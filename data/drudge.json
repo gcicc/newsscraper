@@ -19,6 +19,13 @@
    {
     "f": "Top left",
     "p": null,
+    "s": "theguardian.com",
+    "t": "'We can't afford the food'...",
+    "u": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices"
+   },
+   {
+    "f": "Top left",
+    "p": null,
     "s": "studyfinds.com",
     "t": "The ALDI Thanksgiving...",
     "u": "https://studyfinds.com/aldi-beats-whole-foods-same-thanksgiving-shopping-list-heres-how-other-top-supermarkets-compare/"
@@ -68,16 +75,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "nytimes.com",
-    "t": "Trump Refuses to Identify Source of $300M Infusion Into Slush Fund...",
-    "u": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html?unlocked_article_code=1.S1E.UMYJ.z-zCU5V2_fFC&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "propublica.org",
-    "t": "Startup Tied to Don Jr. Could Get Historic $15 Billion Loan From Pentagon...",
-    "u": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan"
+    "s": "mediaite.com",
+    "t": "GASPARINO: Stock Market Turmoil Shows Trump's Sudden 'Irrelevance'...",
+    "u": "https://www.mediaite.com/media/news/foxs-gasparino-warns-stock-market-turmoil-shows-trumps-sudden-irrelevance/"
    },
    {
     "f": "Main splash",
@@ -92,6 +92,13 @@
     "s": "cbsnews.com",
     "t": "SHOCK: STILL HOLDS SECURITY CLEARANCE...",
     "u": "https://www.cbsnews.com/news/nvidia-jensen-huang-security-clearance-todd-blanche/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "Hegseth, Pentagon floated using wartime law to reappoint Jensen...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2ieodR"
    },
    {
     "f": "Main splash",
@@ -117,16 +124,30 @@
    {
     "f": "Main splash",
     "p": null,
+    "s": "cbsnews.com",
+    "t": "Rubio completely left in the dark?",
+    "u": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Vance goes home to Ohio to ponder political future over holiday...",
+    "u": "https://www.washingtonpost.com/politics/2026/11/25/jd-vance-family-serve-thanksgiving-lunch-military-members/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "telegraph.co.uk",
-    "t": "JD Vance stands shoulder to shoulder with the tech bros...",
+    "t": "JD stands shoulder to shoulder with the tech bros...",
     "u": "https://www.telegraph.co.uk/us/politics/2026/11/25/jd-vance-aligns-himself-with-the-tech-bros/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "cbsnews.com",
-    "t": "Rubio completely left in the dark?",
-    "u": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
+    "s": "propublica.org",
+    "t": "Startup Tied to Don Jr. Could Get Historic $15 Billion Loan From Pentagon...",
+    "u": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan"
    },
    {
     "f": "Main splash",
@@ -162,6 +183,13 @@
     "s": "telegraph.co.uk",
     "t": "American teen could become Gen Z's first saint...",
     "u": "https://www.telegraph.co.uk/us/news/2026/11/24/american-teenager-could-be-gen-zs-first-saint/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Man in Denver Throwing Eggs at WAYMOs...",
+    "u": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html?unlocked_article_code=1.TFE.8kIu.-jY6miBLQXlz&smid=url-share"
    },
    {
     "f": "Column 1",
@@ -210,7 +238,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "THANKSGIVING TRAVELERS BRACE FOR GLITCHES AND STORMS...",
-    "u": "https://apnews.com/article/thanksgiving-travel-airlines-flight-delays-storms-c26a27fd648f766252b54724d8a897a3"
+    "u": "https://apnews.com/c26a27fd648f766252b54724d8a897a3"
    },
    {
     "f": "Column 1",
@@ -225,6 +253,13 @@
     "s": "finance.yahoo.com",
     "t": "'I'm going to drive'...",
     "u": "https://finance.yahoo.com/news/im-going-drive-faa-outage-110417741.html"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Ilhan Omar grand jury hears evidence...",
+    "u": "https://www.dailymail.com/news/us-politics/article-16322609"
    },
    {
     "f": "Column 1",
@@ -271,9 +306,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "nypost.com",
-    "t": "Life in Gaza Surprisingly Vibrant: Huge weddings, bodybuilding contests, new restaurants...",
-    "u": "https://nypost.com/2026/11/25/world-news/gazans-are-holding-huge-weddings-bodybuilding-contests-and-opening-restaurants-while-protestors-say-theyre-starving/"
+    "s": "wsj.com",
+    "t": "The $150,000-a-Year High School With Money-Back Guarantee...",
+    "u": "https://www.wsj.com/us-news/education/alpha-school-moneyback-guarantee-crimson-college-admissions-ffa445eb"
    },
    {
     "f": "Column 1",
@@ -283,11 +318,39 @@
     "u": "https://www.hollywoodreporter.com/news/general-news/bowen-yang-mark-ruffalo-antisemitism-hollywood-1236763143"
    },
    {
+    "f": "Column 1",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Life in Gaza Surprisingly Vibrant: Huge weddings, bodybuilding contests, new restaurants...",
+    "u": "https://nypost.com/2026/11/25/world-news/gazans-are-holding-huge-weddings-bodybuilding-contests-and-opening-restaurants-while-protestors-say-theyre-starving/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "ynetnews.com",
+    "t": "Iran's new fortified underground facility between two major nuke sites... 'Built at suspicious speed'...",
+    "u": "https://www.ynetnews.com/article/hkkgrjnyql"
+   },
+   {
     "f": "Column 2",
     "p": null,
     "s": "the-sun.com",
     "t": "MACY'S Thanksgiving parade moved to Saturday due to weather...",
     "u": "https://www.the-sun.com/news/17359508"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "sfgate.com",
+    "t": "Pacifica Pier collapses, section sent into ocean...",
+    "u": "https://www.sfgate.com/article/22549642.php"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "sfgate.com",
+    "t": "Video shows surfers on massive Mavericks waves as swell pounds California...",
+    "u": "https://www.sfgate.com/article/22550499.php"
    },
    {
     "f": "Column 2",
@@ -327,6 +390,13 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "espn.com",
+    "t": "CUT...",
+    "u": "https://www.espn.com/nfl/story/_/id/50595660"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "x.com",
     "t": "WATCH: THE INTERVIEW...",
     "u": "https://x.com/patmcafeeshow/status/2125664545041768488"
@@ -334,16 +404,16 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "express.co.uk",
-    "t": "HORROR EXPLOSION NEAR PYRAMIDS OF GIZA; AT LEAST 30 DEAD...",
-    "u": "https://www.express.co.uk/news/2269336"
+    "s": "thehill.com",
+    "t": "Ibuprofen recalled nationwide over contaminent...",
+    "u": "https://thehill.com/policy/6242753"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "nytimes.com",
-    "t": "CA Tides in 'Uncharted Territory'...",
-    "u": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html?unlocked_article_code=1.TFE.6FAt.KA28GtpHdaPc&smid=url-share"
+    "s": "express.co.uk",
+    "t": "HORROR EXPLOSION NEAR PYRAMIDS OF GIZA; AT LEAST 30 DEAD...",
+    "u": "https://www.express.co.uk/news/2269336"
    },
    {
     "f": "Column 2",
@@ -361,5 +431,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-25T21:12:28+00:00"
+ "fetched_at": "2026-11-26T03:58:23+00:00"
 }

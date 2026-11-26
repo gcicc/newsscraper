@@ -3,6 +3,111 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Top News",
+    "p": "2026-11-26T03:32:53+00:00",
+    "s": null,
+    "t": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+    "u": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T03:19:44+00:00",
+    "s": null,
+    "t": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    "u": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T03:13:43+00:00",
+    "s": null,
+    "t": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
+    "u": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T03:09:47+00:00",
+    "s": null,
+    "t": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+    "u": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T02:35:39+00:00",
+    "s": null,
+    "t": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T01:52:20+00:00",
+    "s": null,
+    "t": "Norse Atlantic flights suspended after warning finances 'critical'",
+    "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T01:45:52+00:00",
+    "s": null,
+    "t": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T01:34:58+00:00",
+    "s": null,
+    "t": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T01:10:58+00:00",
+    "s": null,
+    "t": "Hedge funds are no longer just for the rich. They\u2019re coming for everyday investors",
+    "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-26T00:27:52+00:00",
+    "s": null,
+    "t": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    "u": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T00:12:16+00:00",
+    "s": null,
+    "t": "Inside India newsletter: Roaring economy, foreign investors\u2019 return and now record auto sales",
+    "u": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-25T22:26:56+00:00",
+    "s": null,
+    "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+   },
+   {
+    "f": "Investing",
+    "p": "2026-11-25T22:04:58+00:00",
+    "s": null,
+    "t": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
+    "u": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-25T21:56:43+00:00",
+    "s": null,
+    "t": "Liesman: Why Greenspan could bet on productivity \u2014 and Warsh needs to hike",
+    "u": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-25T21:26:47+00:00",
+    "s": null,
+    "t": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+    "u": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
+   },
+   {
     "f": "Tech",
     "p": "2026-11-25T21:04:57+00:00",
     "s": null,
@@ -11,24 +116,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-25T21:02:05+00:00",
-    "s": null,
-    "t": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-    "u": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-25T21:00:08+00:00",
     "s": null,
     "t": "Vance says he was assured Jensen Huang was not under DOJ investigation",
     "u": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
-   },
-   {
-    "f": "Tech",
-    "p": "2026-11-25T20:53:33+00:00",
-    "s": null,
-    "t": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-    "u": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
    },
    {
     "f": "Top News",
@@ -39,45 +130,10 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-25T19:52:47+00:00",
-    "s": null,
-    "t": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
-   },
-   {
-    "f": "Investing",
-    "p": "2026-11-25T19:16:24+00:00",
-    "s": null,
-    "t": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
-    "u": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T19:12:45+00:00",
-    "s": null,
-    "t": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-    "u": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-25T19:11:53+00:00",
     "s": null,
     "t": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
     "u": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T18:52:59+00:00",
-    "s": null,
-    "t": "There are 5,100 newly minted Anthropic millionaires \u2014 here\u2019s all the stuff they don\u2019t tell you about when you suddenly get rich",
-    "u": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T17:36:54+00:00",
-    "s": null,
-    "t": "Kalshi traders say state data center moratoriums are more likely than not",
-    "u": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html"
    },
    {
     "f": "Tech",
@@ -129,13 +185,6 @@
     "u": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-25T15:00:01+00:00",
-    "s": null,
-    "t": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-    "u": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html"
-   },
-   {
     "f": "Tech",
     "p": "2026-11-25T14:32:09+00:00",
     "s": null,
@@ -150,18 +199,11 @@
     "u": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-25T14:29:00+00:00",
     "s": null,
     "t": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "u": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T14:24:04+00:00",
-    "s": null,
-    "t": "Budget carrier Norse Atlantic falls 78% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
-    "u": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html"
    },
    {
     "f": "Top News",
@@ -206,13 +248,6 @@
     "u": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-25T10:29:18+00:00",
-    "s": null,
-    "t": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
-    "u": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
-   },
-   {
     "f": "Top News",
     "p": "2026-11-25T09:18:37+00:00",
     "s": null,
@@ -220,7 +255,7 @@
     "u": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-25T06:29:46+00:00",
     "s": null,
     "t": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
@@ -234,7 +269,7 @@
     "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html"
    },
    {
-    "f": "Economy",
+    "f": "Top News",
     "p": "2026-11-25T04:06:01+00:00",
     "s": null,
     "t": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
@@ -255,7 +290,7 @@
     "u": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-25T02:36:43+00:00",
     "s": null,
     "t": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
@@ -283,14 +318,14 @@
     "u": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-24T22:18:47+00:00",
     "s": null,
     "t": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
     "u": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html"
    },
    {
-    "f": "Top News",
+    "f": "Earnings",
     "p": "2026-11-24T22:07:45+00:00",
     "s": null,
     "t": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
@@ -311,7 +346,7 @@
     "u": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-24T21:13:39+00:00",
     "s": null,
     "t": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
@@ -332,7 +367,7 @@
     "u": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-24T20:45:57+00:00",
     "s": null,
     "t": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
@@ -344,13 +379,6 @@
     "s": null,
     "t": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
     "u": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-24T19:47:42+00:00",
-    "s": null,
-    "t": "Anthropic shares fall below IPO price. Traders see even more pain",
-    "u": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
    },
    {
     "f": "Business",
@@ -423,13 +451,6 @@
     "u": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-24T13:31:29+00:00",
-    "s": null,
-    "t": "Six key questions raised by Jensen Huang's return to Nvidia",
-    "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
-   },
-   {
     "f": "Business",
     "p": "2026-11-24T12:00:01+00:00",
     "s": null,
@@ -458,13 +479,6 @@
     "u": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-24T10:56:56+00:00",
-    "s": null,
-    "t": "Jensen Huang is \u2018too big to fire,\u2019 putting Nvidia\u2019s governance in focus: analysts",
-    "u": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-24T05:05:08+00:00",
     "s": null,
@@ -479,14 +493,7 @@
     "u": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html"
    },
    {
-    "f": "Tech",
-    "p": "2026-11-24T02:37:39+00:00",
-    "s": null,
-    "t": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-    "u": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
-   },
-   {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-24T00:56:10+00:00",
     "s": null,
     "t": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
@@ -512,13 +519,6 @@
     "s": null,
     "t": "DNI Jay Clayton tapped as acting national cyber director",
     "u": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-23T23:00:01+00:00",
-    "s": null,
-    "t": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-    "u": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html"
    },
    {
     "f": "Investing",
@@ -582,13 +582,6 @@
     "s": null,
     "t": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
     "u": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-23T15:26:57+00:00",
-    "s": null,
-    "t": "26-year-old Google worker earns $323,000 a year\u2014but lives on less than minimum wage",
-    "u": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html"
    },
    {
     "f": "Real Estate",
@@ -1368,18 +1361,11 @@
     "u": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
    },
    {
-    "f": "Business",
+    "f": "Health & Science",
     "p": "2026-11-16T15:00:01+00:00",
     "s": null,
     "t": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
     "u": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-16T12:14:46+00:00",
-    "s": null,
-    "t": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-    "u": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
    },
    {
     "f": "Finance",
@@ -1732,13 +1718,6 @@
     "u": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-11-09T23:31:17+00:00",
-    "s": null,
-    "t": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-    "u": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
-   },
-   {
     "f": "Earnings",
     "p": "2026-11-09T23:14:38+00:00",
     "s": null,
@@ -1781,13 +1760,6 @@
     "u": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
    },
    {
-    "f": "Retail",
-    "p": "2026-11-09T20:57:46+00:00",
-    "s": null,
-    "t": "Children\u2019s Place files for bankruptcy protection, seeks buyer",
-    "u": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html"
-   },
-   {
     "f": "Autos",
     "p": "2026-11-09T18:59:43+00:00",
     "s": null,
@@ -1821,13 +1793,6 @@
     "s": null,
     "t": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
     "u": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html"
-   },
-   {
-    "f": "Retail",
-    "p": "2026-11-09T12:00:01+00:00",
-    "s": null,
-    "t": "Restaurant chains refocus on food quality to bring back diners",
-    "u": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html"
    },
    {
     "f": "Energy",
@@ -1933,13 +1898,6 @@
     "s": null,
     "t": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
     "u": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-11-05T16:01:47+00:00",
-    "s": null,
-    "t": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "u": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
    },
    {
     "f": "Real Estate",
@@ -2292,13 +2250,6 @@
     "u": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html"
    },
    {
-    "f": "Autos",
-    "p": "2026-10-23T20:52:23+00:00",
-    "s": null,
-    "t": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-    "u": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
-   },
-   {
     "f": "Wealth",
     "p": "2026-10-23T13:16:26+00:00",
     "s": null,
@@ -2629,5 +2580,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-25T21:12:32+00:00"
+ "fetched_at": "2026-11-26T03:58:27+00:00"
 }
