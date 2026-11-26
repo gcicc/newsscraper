@@ -3,361 +3,151 @@
   "failed_feeds": {},
   "items": [
    {
-    "f": "Top left",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Fed's preferred inflation gauge accelerates to 3.8%...",
-    "u": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Americans bracing for expensive holiday season...",
-    "u": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "theguardian.com",
-    "t": "'We can't afford the food'...",
-    "u": "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices"
-   },
-   {
-    "f": "Top left",
-    "p": null,
-    "s": "studyfinds.com",
-    "t": "The ALDI Thanksgiving...",
-    "u": "https://studyfinds.com/aldi-beats-whole-foods-same-thanksgiving-shopping-list-heres-how-other-top-supermarkets-compare/"
-   },
-   {
     "f": "Main splash",
     "p": null,
-    "s": "marketwatch.com",
-    "t": "AI CRASH?",
-    "u": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "DEBT WORRIES GROW",
-    "u": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
+    "s": "washingtonpost.com",
+    "t": "DISCONTENT RISES IN IRAN",
+    "u": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "wsj.com",
-    "t": "'WORSE THAN DOT-COM'",
-    "u": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3"
+    "t": "'SILENT WAR'",
+    "u": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "apnews.com",
-    "t": "Army Detonates Toxic Material in Iowa Despite Outcry... Developing...",
-    "u": "https://apnews.com/live/iowa-army-lead-detonation-updates"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Plume Maps May Underestimate Impact...",
-    "u": "https://www.nytimes.com/2026/11/25/us/army-detonation-emissions-maps-risk-underestimated.html?unlocked_article_code=1.TFE.J1bi.eMLJUzWvx_m1&smid=url-share"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "newsweek.com",
-    "t": "Threat to Food Supply?",
-    "u": "https://www.newsweek.com/iowa-lead-detonation-america-food-supply-12767064"
+    "s": "dailymail.com",
+    "t": "President kicks off Thanksgiving with 1am meltdown...",
+    "u": "https://www.dailymail.com/news/article-16324365/Trump-Thanksgiving-meltdown-rages-lowlife-New-York-Times-reporter-1am-rant.html"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "mediaite.com",
-    "t": "GASPARINO: Stock Market Turmoil Shows Trump's Sudden 'Irrelevance'...",
+    "t": "GASPARINO: Stock Turmoil Shows Trump's 'Irrelevance'...",
     "u": "https://www.mediaite.com/media/news/foxs-gasparino-warns-stock-market-turmoil-shows-trumps-sudden-irrelevance/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "finance.yahoo.com",
-    "t": "HUANG PARDON?",
-    "u": "https://finance.yahoo.com/markets/stocks/articles/donald-trump-floats-jensen-huang-052052146.html"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "cbsnews.com",
-    "t": "SHOCK: STILL HOLDS SECURITY CLEARANCE...",
-    "u": "https://www.cbsnews.com/news/nvidia-jensen-huang-security-clearance-todd-blanche/"
+    "t": "China accessing NVIDIA's most advanced chips...",
+    "u": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "msn.com",
-    "t": "Hegseth, Pentagon floated using wartime law to reappoint Jensen...",
+    "t": "Hegseth floated wartime law to reinstate Huang...",
     "u": "https://www.msn.com/en-us/news/other/ar-AA2ieodR"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "washingtonpost.com",
-    "t": "More Chips sold to China...",
-    "u": "https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "futurism.com",
-    "t": "Parallels Between NVIDIA and ENRON...",
-    "u": "https://futurism.com/artificial-intelligence/parallels-nvidia-enron"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "theatlantic.com",
-    "t": "Lutnick's Secret Bodyguard Move Exposed...",
-    "u": "https://www.theatlantic.com/national-security/2026/11/lutnick-export-control-personal-detail/689562/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "cbsnews.com",
-    "t": "Rubio completely left in the dark?",
-    "u": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Vance goes home to Ohio to ponder political future over holiday...",
-    "u": "https://www.washingtonpost.com/politics/2026/11/25/jd-vance-family-serve-thanksgiving-lunch-military-members/"
+    "t": "Musk paved way for his return...",
+    "u": "https://www.washingtonpost.com/technology/2026/11/26/how-elon-musk-paved-way-jensen-huangs-return/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "JD stands shoulder to shoulder with the tech bros...",
-    "u": "https://www.telegraph.co.uk/us/politics/2026/11/25/jd-vance-aligns-himself-with-the-tech-bros/"
+    "t": "AI's dark underbelly exposed by 'sex party' scene...",
+    "u": "https://www.telegraph.co.uk/business/2026/11/26/ais-dark-underbelly-exposed-by-sex-party-scene/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "propublica.org",
-    "t": "Startup Tied to Don Jr. Could Get Historic $15 Billion Loan From Pentagon...",
-    "u": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "White House insiders sour on Markwayne...",
-    "u": "https://www.washingtonpost.com/immigration/2026/11/25/homeland-security-secretary-faces-criticism-over-tech-breakdowns-immigration/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "patch.com",
-    "t": "Drunk ICE agent curses local cops...",
-    "u": "https://patch.com/new-jersey/jefferson/video-ice-agent-curses-out-cops-during-dui-arrest-morris-county"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "archive.ph",
-    "t": "Journey Through Absurd Hell of Third-Country Deportations...",
-    "u": "https://archive.ph/UlNCB"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "axios.com",
-    "t": "Administration faces looming wave of lawsuits...",
-    "u": "https://www.axios.com/2026/11/25/lawsuit-dhs-ice-operation-midway-blitz-figueroa"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "American teen could become Gen Z's first saint...",
-    "u": "https://www.telegraph.co.uk/us/news/2026/11/24/american-teenager-could-be-gen-zs-first-saint/"
+    "s": "usatoday.com",
+    "t": "Man claimed $1M lottery prize. Then ICE arrested him...",
+    "u": "https://www.usatoday.com/story/news/nation/2026/11/25/massachusetts-lottery-winner-ice-arrest/92965273007/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "nytimes.com",
-    "t": "Man in Denver Throwing Eggs at WAYMOs...",
-    "u": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html?unlocked_article_code=1.TFE.8kIu.-jY6miBLQXlz&smid=url-share"
+    "t": "Haiti's Latest Folk Hero? The Leader of Another Country...",
+    "u": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html?unlocked_article_code=1.TVE.gTaK.nXuHZOhT72f6&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "france24.com",
+    "t": "France's Bardella faces fresh anti-Semitism accusations...",
+    "u": "https://www.france24.com/en/tv-shows/press-review/20261126-french-media-publish-fresh-claims-of-far-right-leader-bardella-s-anti-semitic-torrent"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "apnews.com",
+    "t": "Spain's far right hasn't governed since Franco. Immigration fears could change that...",
+    "u": "https://apnews.com/article/far-right-spain-vox-election-migration-cb1d921d60bbcdb5b11ec2056f9050a7"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "404media.co",
-    "t": "Treasury CIO Vibe Coding 'Civilization' Clone During Treasury Dept Hack...",
-    "u": "https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/"
+    "s": "telegraph.co.uk",
+    "t": "UK tells 100,000 military reservists to prepare for war...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/26/mod-prepares-veterans-to-be-called-up-for-war/"
    },
    {
     "f": "Column 1",
     "p": null,
-    "s": "futurism.com",
-    "t": "ANTHROPIC Founders Cashing Out...",
-    "u": "https://futurism.com/future-society/anthropic-founders-cashing-out-stock-tanks"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "Musk wins approval for 1 million 'constellation' satellites to host AI tech...",
-    "u": "https://www.the-sun.com/news/17351120"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "cnbc.com",
-    "t": "Saudi national in OPEN AI bugging case out on bond...",
-    "u": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "washingtonpost.com",
-    "t": "Hannity has outlasted FOX rivals. Now he's eyeing Republican future...",
-    "u": "https://www.washingtonpost.com/style/2026/11/25/sean-hannity-has-outlasted-fox-rivals-now-hes-eyeing-gops-future/"
+    "s": "nytimes.com",
+    "t": "Survivalism Goes Mainstream in Europe...",
+    "u": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html?unlocked_article_code=1.TVE.8-hO.oZ29JV_VzxfA&smid=url-share"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "apnews.com",
-    "t": "Young voters have message for their party: Time to grow up...",
-    "u": "https://apnews.com/article/young-republicans-trump-midterm-election-0e823c8c8beedc8f2deccc707c7bb0da"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "apnews.com",
-    "t": "THANKSGIVING TRAVELERS BRACE FOR GLITCHES AND STORMS...",
-    "u": "https://apnews.com/c26a27fd648f766252b54724d8a897a3"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "nytimes.com",
-    "t": "Three-Hour Flight Delays Spike Under Trump...",
-    "u": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html?unlocked_article_code=1.TFE.tcUX.NQvKrgkWPJIF&smid=url-share"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "finance.yahoo.com",
-    "t": "'I'm going to drive'...",
-    "u": "https://finance.yahoo.com/news/im-going-drive-faa-outage-110417741.html"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Ilhan Omar grand jury hears evidence...",
-    "u": "https://www.dailymail.com/news/us-politics/article-16322609"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "ms.now",
-    "t": "Obama revels in former staffers winning their races: 'Proud papa'...",
-    "u": "https://www.ms.now/news/proud-papa-obama-revels-former-staff-winning-races"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "nypost.com",
-    "t": "Mamdani giving Abdul tips on wooing Don...",
-    "u": "https://nypost.com/2026/11/25/us-news/abdul-el-sayed-responds-to-the-posts-trump-interview-reveals-mamdani-is-giving-him-tips-on-wooing-prez/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "theatlantic.com",
-    "t": "What Is Chris Van Hollen Doing?",
-    "u": "https://www.theatlantic.com/politics/2026/11/van-hollen-schumer-democrats-senate-leader/689553/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "Americans Fed Up With Cost of Streaming...",
-    "u": "https://www.wsj.com/business/media/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-133a63ca"
+    "t": "SPACEX approved to deploy 1 million satellites... Alarm among scientists...",
+    "u": "https://apnews.com/article/spacex-data-center-elon-musk-b9897fe06f851ffaf92fd304ae69075c"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Russia nuke space weapon could end world as we know it...",
-    "u": "https://www.telegraph.co.uk/world-news/2026/11/25/how-russia-nuclear-space-weapon-end-the-world-as-know-it/"
+    "t": "Is America ready for president AOC?",
+    "u": "https://www.telegraph.co.uk/us/politics/2026/11/26/is-america-ready-for-president-aoc/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "wsj.com",
-    "t": "Scramble to Avert Conflict in the Baltic...",
-    "u": "https://www.wsj.com/world/europe/inside-the-scramble-to-avert-conflict-with-russia-in-the-baltic-4ec51b82"
+    "t": "Judge Says FCC Must Stop ABC License Review...",
+    "u": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619"
    },
    {
     "f": "Column 1",
-    "p": null,
-    "s": "wsj.com",
-    "t": "The $150,000-a-Year High School With Money-Back Guarantee...",
-    "u": "https://www.wsj.com/us-news/education/alpha-school-moneyback-guarantee-crimson-college-admissions-ffa445eb"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "hollywoodreporter.com",
-    "t": "Rise of Antisemitism in Hollywood...",
-    "u": "https://www.hollywoodreporter.com/news/general-news/bowen-yang-mark-ruffalo-antisemitism-hollywood-1236763143"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "nypost.com",
-    "t": "Life in Gaza Surprisingly Vibrant: Huge weddings, bodybuilding contests, new restaurants...",
-    "u": "https://nypost.com/2026/11/25/world-news/gazans-are-holding-huge-weddings-bodybuilding-contests-and-opening-restaurants-while-protestors-say-theyre-starving/"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "ynetnews.com",
-    "t": "Iran's new fortified underground facility between two major nuke sites... 'Built at suspicious speed'...",
-    "u": "https://www.ynetnews.com/article/hkkgrjnyql"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "MACY'S Thanksgiving parade moved to Saturday due to weather...",
-    "u": "https://www.the-sun.com/news/17359508"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "sfgate.com",
-    "t": "Pacifica Pier collapses, section sent into ocean...",
-    "u": "https://www.sfgate.com/article/22549642.php"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "sfgate.com",
-    "t": "Video shows surfers on massive Mavericks waves as swell pounds California...",
-    "u": "https://www.sfgate.com/article/22550499.php"
-   },
-   {
-    "f": "Column 2",
     "p": null,
     "s": "nytimes.com",
-    "t": "As Iger Exits DISNEY for Good, an Unwelcome Biography Arrives...",
-    "u": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html?unlocked_article_code=1.TFE.OkMA.7RGuix6d_RVC&smid=url-share"
+    "t": "'AVENGERS' and 'DUNE' Have Hollywood Dreaming of December Windfall...",
+    "u": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html?unlocked_article_code=1.TVE.qQ3r.00V0hC9u-YLb&smid=url-share"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "thehill.com",
+    "t": "FEDEX plane overruns Miami runway, snarling Thanksgiving travel...",
+    "u": "https://thehill.com/policy/transportation/6244509-fedex-plane-overruns-miami-runway/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "msn.com",
+    "t": "Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California...",
+    "u": "https://www.msn.com/en-us/weather/general/pier-collapses-seawalls-breached-homes-flooded-as-big-waves-historic-high-tides-hit-california/ar-AA2ieHPk"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "msn.com",
+    "t": "Top official admits 'wrong decisions' and 'deaths' will result from wildfire shake-up...",
+    "u": "https://www.msn.com/en-us/money/general/top-official-admits-wrong-decisions-and-deaths-will-result-from-wildfire-shake-up/ar-AA2igEi8"
    },
    {
     "f": "Column 2",
@@ -369,67 +159,25 @@
    {
     "f": "Column 2",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Third of young people are virgins...",
-    "u": "https://www.telegraph.co.uk/news/2026/11/24/no-sex-please-were-british-third-of-young-people-virgins/"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "the-sun.com",
-    "t": "RODGERS QUITS! 'I'm not going back to Pittsburgh'...",
-    "u": "https://www.the-sun.com/sport/17355654"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "Claims 'unwell' head coach 'snoring' in team meeting...",
-    "u": "https://www.dailymail.com/sport/nfl/article-16322221"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
     "s": "espn.com",
-    "t": "CUT...",
-    "u": "https://www.espn.com/nfl/story/_/id/50595660"
+    "t": "Rodgers Wanted One Last Shot at Glory. Instead, He Went Scorched Earth...",
+    "u": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "x.com",
-    "t": "WATCH: THE INTERVIEW...",
-    "u": "https://x.com/patmcafeeshow/status/2125664545041768488"
+    "s": "ca.sports.yahoo.com",
+    "t": "QB raises questions STEELERS must answer...",
+    "u": "https://ca.sports.yahoo.com/news/aaron-rodgers-qb-raises-questions-013326403.html"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "thehill.com",
-    "t": "Ibuprofen recalled nationwide over contaminent...",
-    "u": "https://thehill.com/policy/6242753"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "express.co.uk",
-    "t": "HORROR EXPLOSION NEAR PYRAMIDS OF GIZA; AT LEAST 30 DEAD...",
-    "u": "https://www.express.co.uk/news/2269336"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "archive.is",
-    "t": "Airplane Turbulence Extremely Hard to Predict. Maybe Not for Long...",
-    "u": "https://archive.is/f2gb6"
-   },
-   {
-    "f": "Column 2",
-    "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Carla Bruni faces trial over 'witness tampering'...",
-    "u": "https://www.telegraph.co.uk/world-news/2026/11/24/carla-bruni-faces-trial-witness-tampering-sarkozy-trial/"
+    "s": "theguardian.com",
+    "t": "Bring me the scrotum stapler! Is this world's most extreme performance artist?",
+    "u": "https://www.theguardian.com/artanddesign/2026/nov/26/ron-athey-extreme-performance-artist-scrotum-stapler"
    }
   ]
  },
- "fetched_at": "2026-11-26T03:58:23+00:00"
+ "fetched_at": "2026-11-26T13:44:22+00:00"
 }
