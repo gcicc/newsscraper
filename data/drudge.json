@@ -5,57 +5,85 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "washingtonpost.com",
-    "t": "DISCONTENT RISES IN IRAN",
-    "u": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "wsj.com",
-    "t": "'SILENT WAR'",
-    "u": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
-    "s": "dailymail.com",
-    "t": "President kicks off Thanksgiving with 1am meltdown...",
-    "u": "https://www.dailymail.com/news/article-16324365/Trump-Thanksgiving-meltdown-rages-lowlife-New-York-Times-reporter-1am-rant.html"
+    "s": "yahoo.com",
+    "t": "TRUMP'S THANKSGIVING MELTDOWN",
+    "u": "https://www.yahoo.com/news/politics/articles/sleepless-trump-80-unravels-seething-092152684.html"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "mediaite.com",
-    "t": "GASPARINO: Stock Turmoil Shows Trump's 'Irrelevance'...",
+    "t": "IMPEACHMENT ON THE MENU",
+    "u": "https://www.mediaite.com/politics/trump/nate-silver-predicts-trump-could-absolutely-be-impeached-and-removed-from-office-entirely-reasonable/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "themirror.com",
+    "t": "President wishes 'drug dealers and murderers' happy Thanksgiving...",
+    "u": "https://www.themirror.com/news/politics/breaking-donald-trump-wishes-drug-2122764"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "studyfinds.com",
+    "t": "SURVEY: Families Setting 'No-Politics Rule' At Dinner Table...",
+    "u": "https://studyfinds.com/quarter-thanksgiving-hosts-no-politics-rule/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "GASPARINO: Stock Turmoil Shows The Don's 'Irrelevance'...",
     "u": "https://www.mediaite.com/media/news/foxs-gasparino-warns-stock-market-turmoil-shows-trumps-sudden-irrelevance/"
    },
    {
     "f": "Main splash",
     "p": null,
+    "s": "themirror.com",
+    "t": "News anchor sobs on live TV as market plunge before her eyes...",
+    "u": "https://www.themirror.com/entertainment/news-anchor-cries-stock-market-2122527"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "semafor.com",
+    "t": "Banks look to dump AI debt...",
+    "u": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "finance.yahoo.com",
+    "t": "Bank of England sees growing financial risks...",
+    "u": "https://finance.yahoo.com/economy/policy/articles/bank-england-sees-growing-financial-153906001.html"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "The Other NVIDIA Romance With Exec at Company Linked to China...",
+    "u": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
     "s": "cbsnews.com",
-    "t": "China accessing NVIDIA's most advanced chips...",
+    "t": "Beijing accessing most advanced chips...",
     "u": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
    },
    {
     "f": "Main splash",
     "p": null,
-    "s": "msn.com",
-    "t": "Hegseth floated wartime law to reinstate Huang...",
-    "u": "https://www.msn.com/en-us/news/other/ar-AA2ieodR"
-   },
-   {
-    "f": "Main splash",
-    "p": null,
     "s": "washingtonpost.com",
-    "t": "Musk paved way for his return...",
+    "t": "Musk paved way for Huang's return...",
     "u": "https://www.washingtonpost.com/technology/2026/11/26/how-elon-musk-paved-way-jensen-huangs-return/"
    },
    {
     "f": "Main splash",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "AI's dark underbelly exposed by 'sex party' scene...",
+    "t": "Tech's dark underbelly exposed by 'sex party' scene...",
     "u": "https://www.telegraph.co.uk/business/2026/11/26/ais-dark-underbelly-exposed-by-sex-party-scene/"
    },
    {
@@ -63,7 +91,7 @@
     "p": null,
     "s": "usatoday.com",
     "t": "Man claimed $1M lottery prize. Then ICE arrested him...",
-    "u": "https://www.usatoday.com/story/news/nation/2026/11/25/massachusetts-lottery-winner-ice-arrest/92965273007/"
+    "u": "https://www.usatoday.com/story/news/nation/2026/11/25/92965273007/"
    },
    {
     "f": "Main splash",
@@ -71,6 +99,41 @@
     "s": "nytimes.com",
     "t": "Haiti's Latest Folk Hero? The Leader of Another Country...",
     "u": "https://www.nytimes.com/2026/11/26/world/americas/nayib-bukele-salvador-haiti.html?unlocked_article_code=1.TVE.gTaK.nXuHZOhT72f6&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "Huge plume of black smoke seen from space after Houthis claim strike on Saudi's biggest oil refinery...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2ihoJK"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Two Italians Killed in Drone Attack on Kuwait...",
+    "u": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html?unlocked_article_code=1.TVE.2tY2.v4yA2Bwt3AYd&smid=url-share"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "DISCONTENT RISES IN IRAN...",
+    "u": "https://www.washingtonpost.com/world/2026/11/26/tehran-imposes-austerity-under-us-pressure-iranians-frustrations-grow/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "'SILENT WAR'...",
+    "u": "https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "timesofisrael.com",
+    "t": "Anti-Zionist activist performance in DC shows Netanyahu leading feast of bloody babies...",
+    "u": "https://www.timesofisrael.com/liveblog_entry/anti-zionist-activist-performance-in-dc-shows-netanyahu-leading-feast-of-bloody-babies/"
    },
    {
     "f": "Main splash",
@@ -84,7 +147,14 @@
     "p": null,
     "s": "apnews.com",
     "t": "Spain's far right hasn't governed since Franco. Immigration fears could change that...",
-    "u": "https://apnews.com/article/far-right-spain-vox-election-migration-cb1d921d60bbcdb5b11ec2056f9050a7"
+    "u": "https://apnews.com/cb1d921d60bbcdb5b11ec2056f9050a7"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "irishstar.com",
+    "t": "BARRON, IS THAT YOU? RARE SIGHTING...",
+    "u": "https://www.irishstar.com/news/politics/barron-trump-spotted-white-house-37915860"
    },
    {
     "f": "Column 1",
@@ -103,23 +173,65 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "aol.com",
+    "t": "Laser shoots down Russian drone in world first...",
+    "u": "https://www.aol.com/articles/laser-shoots-down-russian-drone-125022000.html"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "themirror.com",
+    "t": "REPORT: Billionaire Carl Icahn loses 93% of his fortune...",
+    "u": "https://www.themirror.com/news/us-news/billionaire-carl-icahn-loses-93-2122732"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "npr.org",
+    "t": "NKorea's Kim vows to build more nukes after ignoring Trump overture...",
+    "u": "https://www.npr.org/g-s1-155955"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "apnews.com",
     "t": "SPACEX approved to deploy 1 million satellites... Alarm among scientists...",
-    "u": "https://apnews.com/article/spacex-data-center-elon-musk-b9897fe06f851ffaf92fd304ae69075c"
+    "u": "https://apnews.com/b9897fe06f851ffaf92fd304ae69075c"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "telegraph.co.uk",
-    "t": "Is America ready for president AOC?",
+    "t": "America ready for President AOC?",
     "u": "https://www.telegraph.co.uk/us/politics/2026/11/26/is-america-ready-for-president-aoc/"
    },
    {
     "f": "Column 1",
     "p": null,
     "s": "wsj.com",
-    "t": "Judge Says FCC Must Stop ABC License Review...",
-    "u": "https://www.wsj.com/business/media/judge-says-fcc-must-stop-abc-license-review-3748d619"
+    "t": "Why This Dem Wants to Defeat Chuck Schumer...",
+    "u": "https://www.wsj.com/politics/policy/why-this-democrat-wants-to-defeat-chuck-schumer-b8e6b05c"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "washingtonexaminer.com",
+    "t": "TUCKER PLANS 3RD PARTY RUN...",
+    "u": "https://www.washingtonexaminer.com/news/4813509"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "Judge Hits FCC Boss with Stinging Rebuttal in ABC Legal Battle... 'Not a Close Case'...",
+    "u": "https://www.mediaite.com/media/news/judge-hits-fcc-boss-with-stinging-rebuttal-in-abc-legal-battle-not-a-close-case/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "msn.com",
+    "t": "Artists quitting INSTA over fears AI will steal work...",
+    "u": "https://www.msn.com/en-us/entertainment/general/ar-AA2igJGq"
    },
    {
     "f": "Column 1",
@@ -129,39 +241,95 @@
     "u": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html?unlocked_article_code=1.TVE.qQ3r.00V0hC9u-YLb&smid=url-share"
    },
    {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "How new generation made same-sex attraction part of being heterosexual...",
+    "u": "https://www.telegraph.co.uk/news/2026/11/26/being-straight-changing-beyond-recognition/"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Monkeys take over Taj Mahal's grounds, sparking warning for tourists...",
+    "u": "https://www.dailymail.com/news/article-16324417"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "apnews.com",
+    "t": "Heavy rain, wind and flooding plague much of USA on Thanksgiving holiday...",
+    "u": "https://apnews.com/e8bc9bc454c933dacffe89b1139c4d3c"
+   },
+   {
     "f": "Column 2",
     "p": null,
     "s": "thehill.com",
-    "t": "FEDEX plane overruns Miami runway, snarling Thanksgiving travel...",
-    "u": "https://thehill.com/policy/transportation/6244509-fedex-plane-overruns-miami-runway/"
+    "t": "FEDEX plane overruns Miami runway, snarling travel...",
+    "u": "https://thehill.com/policy/6244509"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "CLOUDFLARE suffers Thanksgiving disruption hours before Black Friday shopping frenzy...",
+    "u": "https://www.dailymail.com/sciencetech/article-16324879"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "the-independent.com",
+    "t": "America gets back to mall. Thank Gen Z...",
+    "u": "https://www.the-independent.com/b3088955.html"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "cnbc.com",
+    "t": "Even price of toys on rise...",
+    "u": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "msn.com",
-    "t": "Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California...",
-    "u": "https://www.msn.com/en-us/weather/general/pier-collapses-seawalls-breached-homes-flooded-as-big-waves-historic-high-tides-hit-california/ar-AA2ieHPk"
+    "t": "Pier collapses, seawalls breached, homes flooded as historic tides hit California...",
+    "u": "https://www.msn.com/en-us/weather/general/ar-AA2ieHPk"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "nytimes.com",
+    "t": "Strobe Talbott, Journalist Who Became Clinton's Russia Whisperer, Dead...",
+    "u": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html?unlocked_article_code=1.TVE.dvHn.hKmE2yYzPfto&smid=url-share"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "msn.com",
     "t": "Top official admits 'wrong decisions' and 'deaths' will result from wildfire shake-up...",
-    "u": "https://www.msn.com/en-us/money/general/top-official-admits-wrong-decisions-and-deaths-will-result-from-wildfire-shake-up/ar-AA2igEi8"
+    "u": "https://www.msn.com/en-us/money/general/ar-AA2igEi8"
    },
    {
     "f": "Column 2",
     "p": null,
-    "s": "telegraph.co.uk",
-    "t": "Can supermodel Karlie Kloss bring print magazines back to life?",
-    "u": "https://www.telegraph.co.uk/photography/what-to-see/can-billionaire-karlie-kloss-bring-print-magazines-back-to/"
+    "s": "wsj.com",
+    "t": "Anarchy Breaks Out at One of America's Most Beloved Public Golf Courses...",
+    "u": "https://www.wsj.com/lifestyle/east-potomac-golf-course-trump-renovation-e8920d92"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "washingtonpost.com",
+    "t": "Man with Alzheimer's went missing in Maryland. Turns up in Philadelphia playing piano...",
+    "u": "https://www.washingtonpost.com/dc-md-va/2026/11/26/missing-maryland-man-with-alzheimers-shows-up-philadelphia-plays-piano"
    },
    {
     "f": "Column 2",
     "p": null,
     "s": "espn.com",
     "t": "Rodgers Wanted One Last Shot at Glory. Instead, He Went Scorched Earth...",
-    "u": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching"
+    "u": "https://www.espn.com/nfl/story/_/id/50595660/"
    },
    {
     "f": "Column 2",
@@ -173,11 +341,25 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "france24.com",
+    "t": "Depardieu Ordered to Stand Trial Over Rape Accusation...",
+    "u": "https://www.france24.com/en/france/20261126-french-actor-g%C3%A9rard-depardieu-to-face-trial-for-rape-his-lawyer-says"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "theguardian.com",
     "t": "Bring me the scrotum stapler! Is this world's most extreme performance artist?",
     "u": "https://www.theguardian.com/artanddesign/2026/nov/26/ron-athey-extreme-performance-artist-scrotum-stapler"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "dailystar.co.uk",
+    "t": "Man has penis amputated, two organs removed after hospital mix up...",
+    "u": "https://www.dailystar.co.uk/news/latest-news/man-penis-amputated-two-organs-37918939"
    }
   ]
  },
- "fetched_at": "2026-11-26T13:44:22+00:00"
+ "fetched_at": "2026-11-26T22:50:36+00:00"
 }

@@ -4,17 +4,66 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-26T21:13:17+00:00",
+    "s": null,
+    "t": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+    "u": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T18:27:43+00:00",
+    "s": null,
+    "t": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+    "u": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T17:52:15+00:00",
+    "s": null,
+    "t": "Semiconductor chips are the new oil. Here's why",
+    "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-26T17:04:54+00:00",
+    "s": null,
+    "t": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+    "u": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T16:12:47+00:00",
+    "s": null,
+    "t": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
+    "u": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T16:00:01+00:00",
+    "s": null,
+    "t": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "u": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-26T15:28:26+00:00",
+    "s": null,
+    "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+    "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-26T13:34:51+00:00",
     "s": null,
     "t": "What is \u2018texture-maxxing\u2019? The food trend putting crunch on the menu",
     "u": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html"
    },
    {
-    "f": "Investing",
-    "p": "2026-11-26T13:19:25+00:00",
+    "f": "Top News",
+    "p": "2026-11-26T13:00:01+00:00",
     "s": null,
-    "t": "Semiconductor chips are the new oil. Here's why",
-    "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+    "t": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
+    "u": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html"
    },
    {
     "f": "Top News",
@@ -31,25 +80,11 @@
     "u": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
    },
    {
-    "f": "Business",
-    "p": "2026-11-26T12:00:01+00:00",
-    "s": null,
-    "t": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-    "u": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
-   },
-   {
     "f": "Top News",
     "p": "2026-11-26T11:17:39+00:00",
     "s": null,
     "t": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
     "u": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-26T10:45:45+00:00",
-    "s": null,
-    "t": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
-    "u": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
    },
    {
     "f": "Energy",
@@ -115,21 +150,21 @@
     "u": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-26T05:50:34+00:00",
     "s": null,
     "t": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
     "u": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-26T05:36:01+00:00",
     "s": null,
     "t": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
     "u": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html"
    },
    {
-    "f": "Top News",
+    "f": "Retail",
     "p": "2026-11-26T04:20:18+00:00",
     "s": null,
     "t": "Hedge funds are no longer just for the rich. They\u2019re wooing everyday investors",
@@ -150,7 +185,7 @@
     "u": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-26T03:32:53+00:00",
     "s": null,
     "t": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
@@ -178,21 +213,21 @@
     "u": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T02:35:39+00:00",
     "s": null,
     "t": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
     "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
    },
    {
-    "f": "Top News",
+    "f": "Autos",
     "p": "2026-11-26T00:12:16+00:00",
     "s": null,
     "t": "Inside India newsletter: Roaring economy, foreign investors\u2019 return and now record auto sales",
     "u": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-25T22:26:56+00:00",
     "s": null,
     "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
@@ -206,7 +241,7 @@
     "u": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
    },
    {
-    "f": "Economy",
+    "f": "Top News",
     "p": "2026-11-25T21:56:43+00:00",
     "s": null,
     "t": "Liesman: Why Greenspan could bet on productivity \u2014 and Warsh needs to hike",
@@ -507,7 +542,7 @@
     "u": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-24T15:03:36+00:00",
     "s": null,
     "t": "Nvidia brought Jensen Huang back. But the investigations aren\u2019t over",
@@ -925,13 +960,6 @@
     "s": null,
     "t": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
     "u": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-20T09:56:03+00:00",
-    "s": null,
-    "t": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-    "u": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html"
    },
    {
     "f": "Energy",
@@ -1403,25 +1431,11 @@
     "u": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-11-16T12:13:23+00:00",
-    "s": null,
-    "t": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "u": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
-   },
-   {
     "f": "Energy",
     "p": "2026-11-16T12:00:01+00:00",
     "s": null,
     "t": "Big-ticket holiday items may be harder to find as shipping costs rise",
     "u": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-16T03:53:59+00:00",
-    "s": null,
-    "t": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "u": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
    },
    {
     "f": "Economy",
@@ -1912,13 +1926,6 @@
     "s": null,
     "t": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
     "u": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-11-05T21:32:52+00:00",
-    "s": null,
-    "t": "The October jobs report is out Friday. Here's everything to expect",
-    "u": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
    },
    {
     "f": "Health & Science",
@@ -2594,5 +2601,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-26T13:44:24+00:00"
+ "fetched_at": "2026-11-26T22:50:39+00:00"
 }
