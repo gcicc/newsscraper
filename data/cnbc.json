@@ -4,20 +4,160 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-27T17:50:22+00:00",
+    "s": null,
+    "t": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T16:43:14+00:00",
+    "s": null,
+    "t": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+    "u": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T16:08:10+00:00",
+    "s": null,
+    "t": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+    "u": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T15:52:00+00:00",
+    "s": null,
+    "t": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+    "u": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T15:49:29+00:00",
+    "s": null,
+    "t": "'The Traitors' ended with a $246,300 prize\u2014here's who won and what they told us about spending it",
+    "u": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T15:08:31+00:00",
+    "s": null,
+    "t": "Top 10 things to watch in the stock market on Black Friday",
+    "u": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T14:52:40+00:00",
+    "s": null,
+    "t": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+    "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+   },
+   {
+    "f": "Investing",
+    "p": "2026-11-27T14:47:33+00:00",
+    "s": null,
+    "t": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
+    "u": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T14:12:55+00:00",
+    "s": null,
+    "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T13:58:19+00:00",
+    "s": null,
+    "t": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+   },
+   {
+    "f": "Finance",
+    "p": "2026-11-27T13:29:43+00:00",
+    "s": null,
+    "t": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
+    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T13:21:56+00:00",
+    "s": null,
+    "t": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "u": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T13:15:01+00:00",
+    "s": null,
+    "t": "New car prices are at a record high. Here's where to look for deals",
+    "u": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T13:08:07+00:00",
+    "s": null,
+    "t": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+    "u": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T13:00:42+00:00",
+    "s": null,
+    "t": "Spain\u2019s election could pull Madrid closer to Trump\u2019s Washington",
+    "u": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T12:00:22+00:00",
+    "s": null,
+    "t": "The Tech Download: Will Jensen Huang\u2019s return be the spark the shaky AI market needs?",
+    "u": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-27T11:55:41+00:00",
+    "s": null,
+    "t": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+    "u": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+   },
+   {
+    "f": "Business",
+    "p": "2026-11-27T11:00:01+00:00",
+    "s": null,
+    "t": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "u": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+   },
+   {
+    "f": "Tech",
+    "p": "2026-11-27T10:13:44+00:00",
+    "s": null,
+    "t": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "u": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
+   },
+   {
+    "f": "Economy",
+    "p": "2026-11-27T08:47:36+00:00",
+    "s": null,
+    "t": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
+    "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T08:05:09+00:00",
+    "s": null,
+    "t": "Private markets are more accessible than ever for investors. Getting out is another matter",
+    "u": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-27T06:50:38+00:00",
     "s": null,
     "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
     "u": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-27T06:36:30+00:00",
-    "s": null,
-    "t": "German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
-    "u": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-   },
-   {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-27T06:09:51+00:00",
     "s": null,
     "t": "China\u2019s factories are growing profits again, but the AI boom is picking the winners",
@@ -32,13 +172,6 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-27T04:20:55+00:00",
-    "s": null,
-    "t": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-    "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-27T03:30:23+00:00",
     "s": null,
     "t": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019",
@@ -50,13 +183,6 @@
     "s": null,
     "t": "Sovereign wealth funds are acting more like private equity giants \u2014 and inheriting their risks",
     "u": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-26T21:13:17+00:00",
-    "s": null,
-    "t": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
-    "u": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
    },
    {
     "f": "Top News",
@@ -87,11 +213,18 @@
     "u": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-26T16:00:01+00:00",
     "s": null,
     "t": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
     "u": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
+   },
+   {
+    "f": "International",
+    "p": "2026-11-26T14:09:10+00:00",
+    "s": null,
+    "t": "The great aluminum squeeze: London supply crunch deepens as warehouse stocks slide",
+    "u": "https://www.cnbc.com/2026/11/26/lme-aluminum-squeeze-supply.html"
    },
    {
     "f": "Top News",
@@ -108,7 +241,7 @@
     "u": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html"
    },
    {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-26T12:46:55+00:00",
     "s": null,
     "t": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -150,14 +283,14 @@
     "u": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-26T09:02:30+00:00",
     "s": null,
     "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
     "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-26T08:59:11+00:00",
     "s": null,
     "t": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
@@ -171,21 +304,21 @@
     "u": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html"
    },
    {
-    "f": "Top News",
+    "f": "Finance",
     "p": "2026-11-26T07:30:11+00:00",
     "s": null,
     "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
     "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-26T07:23:42+00:00",
     "s": null,
     "t": "Wealthy Europeans look beyond stocks amid AI selloff. Here\u2019s where they\u2019re investing",
     "u": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T06:39:34+00:00",
     "s": null,
     "t": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
@@ -213,35 +346,28 @@
     "u": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-26T04:12:18+00:00",
     "s": null,
     "t": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
     "u": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
    },
    {
-    "f": "International",
+    "f": "Top News",
     "p": "2026-11-26T04:00:15+00:00",
     "s": null,
     "t": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
     "u": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-26T03:32:53+00:00",
-    "s": null,
-    "t": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-    "u": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
-   },
-   {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T03:19:44+00:00",
     "s": null,
     "t": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
     "u": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T03:13:43+00:00",
     "s": null,
     "t": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
@@ -262,7 +388,7 @@
     "u": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
    },
    {
-    "f": "Top News",
+    "f": "Autos",
     "p": "2026-11-26T00:12:16+00:00",
     "s": null,
     "t": "Inside India newsletter: Roaring economy, foreign investors\u2019 return and now record auto sales",
@@ -274,13 +400,6 @@
     "s": null,
     "t": "Macy's postpones Thanksgiving Day Parade due to severe weather",
     "u": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
-   },
-   {
-    "f": "Investing",
-    "p": "2026-11-25T22:04:58+00:00",
-    "s": null,
-    "t": "Nvidia's billion-dollar board bet: Who's protected as lawsuits mount?",
-    "u": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
    },
    {
     "f": "Top News",
@@ -332,13 +451,6 @@
     "u": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
    },
    {
-    "f": "Top News",
-    "p": "2026-11-25T16:05:25+00:00",
-    "s": null,
-    "t": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-    "u": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html"
-   },
-   {
     "f": "Politics",
     "p": "2026-11-25T16:02:52+00:00",
     "s": null,
@@ -367,7 +479,7 @@
     "u": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
    },
    {
-    "f": "Tech",
+    "f": "U.S.",
     "p": "2026-11-25T14:29:50+00:00",
     "s": null,
     "t": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -388,7 +500,7 @@
     "u": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-25T14:17:01+00:00",
     "s": null,
     "t": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
@@ -407,13 +519,6 @@
     "s": null,
     "t": "The Fed is likely to raise rates in December. What it means for your holiday spending",
     "u": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html"
-   },
-   {
-    "f": "Finance",
-    "p": "2026-11-25T12:26:41+00:00",
-    "s": null,
-    "t": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
-    "u": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
    },
    {
     "f": "Tech",
@@ -442,13 +547,6 @@
     "s": null,
     "t": "Crypto talent will return \u2018when AI implodes,\u2019 Arthur Hayes says",
     "u": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T04:06:01+00:00",
-    "s": null,
-    "t": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
-    "u": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html"
    },
    {
     "f": "Tech",
@@ -507,7 +605,7 @@
     "u": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-24T21:13:39+00:00",
     "s": null,
     "t": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
@@ -528,7 +626,7 @@
     "u": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html"
    },
    {
-    "f": "Tech",
+    "f": "Media",
     "p": "2026-11-24T20:37:40+00:00",
     "s": null,
     "t": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
@@ -717,13 +815,6 @@
     "u": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
    },
    {
-    "f": "U.S.",
-    "p": "2026-11-23T16:45:31+00:00",
-    "s": null,
-    "t": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-    "u": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
-   },
-   {
     "f": "Real Estate",
     "p": "2026-11-23T15:22:03+00:00",
     "s": null,
@@ -843,13 +934,6 @@
     "u": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
    },
    {
-    "f": "Politics",
-    "p": "2026-11-20T22:08:41+00:00",
-    "s": null,
-    "t": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-    "u": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
-   },
-   {
     "f": "Finance",
     "p": "2026-11-20T21:10:48+00:00",
     "s": null,
@@ -876,13 +960,6 @@
     "s": null,
     "t": "Trump says he still has confidence in Lutnick",
     "u": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-20T20:47:58+00:00",
-    "s": null,
-    "t": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-    "u": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
    },
    {
     "f": "Investing",
@@ -1403,25 +1480,11 @@
     "u": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html"
    },
    {
-    "f": "Finance",
-    "p": "2026-11-16T22:19:02+00:00",
-    "s": null,
-    "t": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "u": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html"
-   },
-   {
     "f": "Business",
     "p": "2026-11-16T22:14:47+00:00",
     "s": null,
     "t": "JPMorgan Chase says temporary software bug is affecting consumer banking",
     "u": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html"
-   },
-   {
-    "f": "Business",
-    "p": "2026-11-16T21:03:36+00:00",
-    "s": null,
-    "t": "Robert Pattinson cast as next James Bond",
-    "u": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
    },
    {
     "f": "Investing",
@@ -2271,13 +2334,6 @@
     "u": "https://www.cnbc.com/2026/10/26/top-wall-street-analysts-prefer-these-3-dividend-stocks-for-stable-income.html"
    },
    {
-    "f": "Autos",
-    "p": "2026-10-25T16:42:42+00:00",
-    "s": null,
-    "t": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "u": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html"
-   },
-   {
     "f": "Real Estate",
     "p": "2026-10-23T22:27:06+00:00",
     "s": null,
@@ -2608,5 +2664,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-27T07:07:52+00:00"
+ "fetched_at": "2026-11-27T17:53:51+00:00"
 }
