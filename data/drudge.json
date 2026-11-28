@@ -3,10 +3,24 @@
   "failed_feeds": {},
   "items": [
    {
+    "f": "Top left",
+    "p": null,
+    "s": "msn.com",
+    "t": "Officials to speed president's projects with special meeting BEFORE new Congress...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2inwN3"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "nypost.com",
+    "t": "MARKWAYNE REGRETS TAKING JOB",
+    "u": "https://nypost.com/2026/11/27/us-news/dhs-chief-markwayne-mullin-expresses-regret-on-leaving-senate-as-white-house-aides-sour-on-him-sources/"
+   },
+   {
     "f": "Main splash",
     "p": null,
     "s": "yahoo.com",
-    "t": "AIR FORCE HACKED",
+    "t": "AIR FORCE HACKED,,,",
     "u": "https://www.yahoo.com/news/us/articles/exclusive-hackers-breach-us-air-110252874.html"
    },
    {
@@ -14,7 +28,14 @@
     "p": null,
     "s": "dailymail.com",
     "t": "Iran issues warning targeting tech giants...",
-    "u": "https://www.dailymail.com/news/article-16325373/Iran-Thanksgiving-Amazon-Microsoft.html"
+    "u": "https://www.dailymail.com/news/article-16325373/"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "wsj.com",
+    "t": "USA Strikes Vessel Attempting Blockade Run...",
+    "u": "https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4"
    },
    {
     "f": "Main splash",
@@ -28,7 +49,7 @@
     "p": null,
     "s": "nbcnews.com",
     "t": "ICE CAMP HORROR: DETAINEES CLAIM RAPE, FORCED LABOR...",
-    "u": "https://www.nbcnews.com/news/us-news/four-former-detainees-allege-raped-subject-forced-labor-louisiana-ice-rcna611006"
+    "u": "https://www.nbcnews.com/news/rcna611006"
    },
    {
     "f": "Main splash",
@@ -56,7 +77,21 @@
     "p": null,
     "s": "thehill.com",
     "t": "Lutnick in hot seat as senators vow to crackdown on chips...",
-    "u": "https://thehill.com/homenews/senate/6243590-lutnick-nvidia-chip-export-controversy/"
+    "u": "https://thehill.com/homenews/6243590"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "axios.com",
+    "t": "Vance and Rubio learn the price of loyalty...",
+    "u": "https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028"
+   },
+   {
+    "f": "Main splash",
+    "p": null,
+    "s": "msn.com",
+    "t": "MAGA meltdown over Judge Jeanine vacation pic...",
+    "u": "https://www.msn.com/en-us/entertainment/general/ar-AA2iolqa"
    },
    {
     "f": "Main splash",
@@ -68,9 +103,9 @@
    {
     "f": "Main splash",
     "p": null,
-    "s": "msn.com",
-    "t": "Conservatives look to flee Texas after state turns blue...",
-    "u": "https://www.msn.com/en-us/news/other/conservatives-look-to-flee-texas-after-state-turns-blue/ar-AA2ilyod"
+    "s": "the-sun.com",
+    "t": "Putin 'successor' 'took own life at waterfall,' secret Kremlin files reveal...",
+    "u": "https://www.the-sun.com/news/17368055/"
    },
    {
     "f": "Main splash",
@@ -108,6 +143,20 @@
     "u": "https://tradersunion.com/news/economic-data/show/4438127-uk-households-cash-holdings-rise/"
    },
    {
+    "f": "Main splash",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "Newly released docs suggest CIA did more post-9/11 waterboarding than previously acknowledged...",
+    "u": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "telegraph.co.uk",
+    "t": "BOOK: Iger's affair with employee led to pregnancy and abortion...",
+    "u": "https://www.telegraph.co.uk/us/news/2026/11/26/disney-boss-bob-iger-had-affair-with-junior-employee/"
+   },
+   {
     "f": "Column 1",
     "p": null,
     "s": "futurism.com",
@@ -124,9 +173,23 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "newsweek.com",
+    "t": "Conservatives Look to Flee Texas After State Turns Blue...",
+    "u": "https://www.newsweek.com/conservatives-look-to-flee-texas-after-state-turns-blue-12762398"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "msn.com",
     "t": "Warren at peak of her power... Already driving agenda...",
-    "u": "https://www.msn.com/en-us/news/other/elizabeth-warren-is-at-the-peak-of-her-power/ar-AA2ilVZV"
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2ilVZV"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Nebraska Senator Fischer's husband died by suicide...",
+    "u": "https://www.dailymail.com/news/article-16327259"
    },
    {
     "f": "Column 1",
@@ -138,9 +201,30 @@
    {
     "f": "Column 1",
     "p": null,
+    "s": "the-sun.com",
+    "t": "Gun-toting congresswoman in GTA? Anna Paulina Luna boasts about similarity to corrupt coke-snorting pol...",
+    "u": "https://www.the-sun.com/news/17368663"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "wsj.com",
+    "t": "Millennial Lawmakers 'Peel Back Curtain' on Congress on Socials...",
+    "u": "https://www.wsj.com/politics/millennial-lawmakers-wield-social-media-to-peel-back-the-curtain-on-congress-ddc4d265"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
     "s": "apnews.com",
     "t": "Sales for Biden memoir fall far short of books by Obama, Clinton...",
-    "u": "https://apnews.com/article/joe-biden-memoir-obama-clinton-be240fbad570702200e0963d8fd43059"
+    "u": "https://apnews.com/be240fbad570702200e0963d8fd43059"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "archive.is",
+    "t": "The Pettiest Feuds Come from Same-State Senators...",
+    "u": "https://archive.is/yxUgT"
    },
    {
     "f": "Column 1",
@@ -173,16 +257,9 @@
    {
     "f": "Column 1",
     "p": null,
-    "s": "irishstar.com",
-    "t": "BARRON, IS THAT YOU? RARE SIGHTING...",
-    "u": "https://www.irishstar.com/news/politics/barron-trump-spotted-white-house-37915860"
-   },
-   {
-    "f": "Column 1",
-    "p": null,
-    "s": "themirror.com",
-    "t": "REPORT: ICAHN LOSES 93% OF FORTUNE...",
-    "u": "https://www.themirror.com/news/us-news/billionaire-carl-icahn-loses-93-2122732"
+    "s": "washingtonpost.com",
+    "t": "'FRIDAY NIGHT LIGHTS' team back with harrowing anti-war football film...",
+    "u": "https://www.washingtonpost.com/entertainment/movies/2026/11/27/friday-night-lights-team-is-back-with-anti-war-football-film/"
    },
    {
     "f": "Column 1",
@@ -199,11 +276,32 @@
     "u": "https://www.washingtonpost.com/health/2026/11/27/poorer-americans-are-more-likely-have-poor-sleep-study-shows/"
    },
    {
+    "f": "Column 1",
+    "p": null,
+    "s": "foxnews.com",
+    "t": "Mamdani top 4 socialist promises met with reality checks as first year in office nears end...",
+    "u": "https://www.foxnews.com/politics/mamdanis-top-4-socialist-promises-met-reality-checks-his-first-year-office-nears-its-end?rand=203781"
+   },
+   {
+    "f": "Column 1",
+    "p": null,
+    "s": "nypost.com",
+    "t": "Park Slope Food Coop locked in new war over archaic mask mandate...",
+    "u": "https://nypost.com/2026/11/27/lifestyle/park-slope-food-coop-debates-lifting-covid-era-mask-mandate/"
+   },
+   {
     "f": "Column 2",
     "p": null,
     "s": "apnews.com",
     "t": "UPDATE: East Coast storms knock out power to million...",
-    "u": "https://apnews.com/article/weather-storm-macys-flooding-thanksgiving-bbf9dad3076a69b9bd18b7c0c80490ad"
+    "u": "https://apnews.com/bbf9dad3076a69b9bd18b7c0c80490ad"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "mediaite.com",
+    "t": "Woodward Goes Scorched Earth On Bezos: 'Sick to My Stomach'...",
+    "u": "https://www.mediaite.com/media/news/bob-woodward-goes-scorched-earth-on-jeff-bezos-literally-felt-sick-to-my-stomach/"
    },
    {
     "f": "Column 2",
@@ -215,9 +313,23 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "nypost.com",
+    "t": "NBC pulls 'anti-Israel' ad...",
+    "u": "https://nypost.com/2026/11/27/media/nbc-pulls-anti-israel-ad-after-backlash-for-airing-on-saturday-night-live"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "dailymail.com",
     "t": "Hardy to play Bond villain?",
-    "u": "https://www.dailymail.com/tvshowbiz/article-16326391/Tom-Hardy-tipped-play-James-Bond-villain-despite-reputation-set-diva-behaviour-clash-rumours.html"
+    "u": "https://www.dailymail.com/tvshowbiz/article-16326391"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "the-sun.com",
+    "t": "SNAP: Dad shot in head over Thanksgiving dinner...",
+    "u": "https://www.the-sun.com/news/17367029"
    },
    {
     "f": "Column 2",
@@ -225,6 +337,20 @@
     "s": "wsj.com",
     "t": "Relentless Rise of South Florida's Megamansion King...",
     "u": "https://www.wsj.com/real-estate/luxury-homes/todd-michael-glaser-palm-beach-miami-0f07cc9a"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "theguardian.com",
+    "t": "PAPER: IRL Black Friday was horrifying spectacle. Miss it so much...",
+    "u": "https://www.theguardian.com/commentisfree/2026/nov/27/black-friday-in-real-life"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "npr.org",
+    "t": "Can luxury save MACY'S?",
+    "u": "https://www.npr.org/nx-s1-6026486"
    },
    {
     "f": "Column 2",
@@ -243,9 +369,30 @@
    {
     "f": "Column 2",
     "p": null,
+    "s": "space.com",
+    "t": "Dropping missiles from orbit? Companies study idea...",
+    "u": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
     "s": "telegraph.co.uk",
     "t": "Chinese military tests new Taiwan landing tactics in coastal drills...",
     "u": "https://www.telegraph.co.uk/world-news/2026/11/27/china-practises-taiwan-landing-boat-bridge/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "yahoo.com",
+    "t": "Beijing shuts down golf courses in apparent new clampdown...",
+    "u": "https://www.yahoo.com/news/world/articles/china-shuts-down-golf-courses-110226337.html"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "msn.com",
+    "t": "New satellite data shows how fast some African cities are sinking...",
+    "u": "https://www.msn.com/en-us/news/other/ar-AA2io0p0"
    },
    {
     "f": "Column 2",
@@ -259,7 +406,7 @@
     "p": null,
     "s": "apnews.com",
     "t": "Canada Supreme Court upholds ban on religious symbols for public servants...",
-    "u": "https://apnews.com/article/canada-quebec-religious-symbols-supreme-court-8fa520067e80483a7e0c5d1c01fb4189"
+    "u": "https://apnews.com/8fa520067e80483a7e0c5d1c01fb4189"
    },
    {
     "f": "Column 2",
@@ -267,8 +414,15 @@
     "s": "metro.co.uk",
     "t": "Mystery of Alexander the Great's tomb may finally be solved after major discovery...",
     "u": "https://metro.co.uk/2026/11/27/mystery-alexander-greats-tomb-may-finally-solved-major-discovery-29820850/"
+   },
+   {
+    "f": "Column 2",
+    "p": null,
+    "s": "dailymail.com",
+    "t": "Pastors at secret UFO meeting warn humanity will come face-to-face with aliens...",
+    "u": "https://www.dailymail.com/sciencetech/article-16322255"
    }
   ]
  },
- "fetched_at": "2026-11-27T17:53:45+00:00"
+ "fetched_at": "2026-11-28T01:13:32+00:00"
 }

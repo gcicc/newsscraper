@@ -4,13 +4,41 @@
   "items": [
    {
     "f": "Top News",
-    "p": "2026-11-27T17:50:22+00:00",
+    "p": "2026-11-27T22:00:57+00:00",
     "s": null,
-    "t": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "t": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    "u": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+   },
+   {
+    "f": "Economy",
+    "p": "2026-11-27T21:45:41+00:00",
+    "s": null,
+    "t": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+    "u": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T18:46:20+00:00",
+    "s": null,
+    "t": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+    "u": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-27T18:24:06+00:00",
+    "s": null,
+    "t": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
     "u": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
    },
    {
     "f": "Top News",
+    "p": "2026-11-27T18:20:32+00:00",
+    "s": null,
+    "t": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+   },
+   {
+    "f": "Tech",
     "p": "2026-11-27T16:43:14+00:00",
     "s": null,
     "t": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
@@ -39,13 +67,6 @@
    },
    {
     "f": "Top News",
-    "p": "2026-11-27T15:08:31+00:00",
-    "s": null,
-    "t": "Top 10 things to watch in the stock market on Black Friday",
-    "u": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
-   },
-   {
-    "f": "Top News",
     "p": "2026-11-27T14:52:40+00:00",
     "s": null,
     "t": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
@@ -64,13 +85,6 @@
     "s": null,
     "t": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
     "u": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-27T13:58:19+00:00",
-    "s": null,
-    "t": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-    "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
    },
    {
     "f": "Finance",
@@ -122,14 +136,7 @@
     "u": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
    },
    {
-    "f": "Business",
-    "p": "2026-11-27T11:00:01+00:00",
-    "s": null,
-    "t": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-    "u": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
-   },
-   {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-27T10:13:44+00:00",
     "s": null,
     "t": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
@@ -442,13 +449,6 @@
     "s": null,
     "t": "Prediction markets push OpenAI IPO expectations later into 2027",
     "u": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-25T16:17:13+00:00",
-    "s": null,
-    "t": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-    "u": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
    },
    {
     "f": "Politics",
@@ -2664,5 +2664,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-27T17:53:51+00:00"
+ "fetched_at": "2026-11-28T01:13:37+00:00"
 }
