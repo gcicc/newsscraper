@@ -4,6 +4,48 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-28T14:34:57+00:00",
+    "s": null,
+    "t": "He fought the Education Department \u2014 and won back his student loan forgiveness credit. What other borrowers can learn",
+    "u": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-28T14:34:51+00:00",
+    "s": null,
+    "t": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+    "u": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html"
+   },
+   {
+    "f": "Politics",
+    "p": "2026-11-28T14:06:43+00:00",
+    "s": null,
+    "t": "U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
+    "u": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-28T14:00:01+00:00",
+    "s": null,
+    "t": "AI data center boom strains construction labor across the U.S.",
+    "u": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-28T13:46:46+00:00",
+    "s": null,
+    "t": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+    "u": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-28T13:00:02+00:00",
+    "s": null,
+    "t": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+    "u": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-28T06:00:01+00:00",
     "s": null,
     "t": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
@@ -52,7 +94,7 @@
     "u": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
    },
    {
-    "f": "Tech",
+    "f": "Top News",
     "p": "2026-11-27T16:43:14+00:00",
     "s": null,
     "t": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
@@ -171,7 +213,7 @@
     "u": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html"
    },
    {
-    "f": "Top News",
+    "f": "Economy",
     "p": "2026-11-27T06:50:38+00:00",
     "s": null,
     "t": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
@@ -185,7 +227,7 @@
     "u": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-27T05:46:04+00:00",
     "s": null,
     "t": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
@@ -220,14 +262,14 @@
     "u": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
    },
    {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T17:04:54+00:00",
     "s": null,
     "t": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
     "u": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
    },
    {
-    "f": "Top News",
+    "f": "Politics",
     "p": "2026-11-26T16:12:47+00:00",
     "s": null,
     "t": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
@@ -304,14 +346,7 @@
     "u": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
    },
    {
-    "f": "International",
-    "p": "2026-11-26T09:02:30+00:00",
-    "s": null,
-    "t": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-    "u": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
-   },
-   {
-    "f": "Top News",
+    "f": "Tech",
     "p": "2026-11-26T08:59:11+00:00",
     "s": null,
     "t": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
@@ -365,13 +400,6 @@
     "s": null,
     "t": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
     "u": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
-   },
-   {
-    "f": "Top News",
-    "p": "2026-11-26T04:00:15+00:00",
-    "s": null,
-    "t": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-    "u": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html"
    },
    {
     "f": "Tech",
@@ -472,7 +500,7 @@
     "u": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html"
    },
    {
-    "f": "Tech",
+    "f": "Politics",
     "p": "2026-11-25T15:55:40+00:00",
     "s": null,
     "t": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
@@ -808,13 +836,6 @@
     "u": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
    },
    {
-    "f": "U.S.",
-    "p": "2026-11-23T19:34:38+00:00",
-    "s": null,
-    "t": "Amazon to acquire AI startup Decart's chip software, hire founders",
-    "u": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
-   },
-   {
     "f": "Finance",
     "p": "2026-11-23T18:00:47+00:00",
     "s": null,
@@ -960,13 +981,6 @@
     "s": null,
     "t": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
     "u": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html"
-   },
-   {
-    "f": "Politics",
-    "p": "2026-11-20T20:52:08+00:00",
-    "s": null,
-    "t": "Trump says he still has confidence in Lutnick",
-    "u": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
    },
    {
     "f": "Investing",
@@ -1851,13 +1865,6 @@
     "u": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-11-10T07:00:02+00:00",
-    "s": null,
-    "t": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "u": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html"
-   },
-   {
     "f": "Earnings",
     "p": "2026-11-09T23:14:38+00:00",
     "s": null,
@@ -1926,13 +1933,6 @@
     "s": null,
     "t": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
     "u": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html"
-   },
-   {
-    "f": "Energy",
-    "p": "2026-11-09T11:09:14+00:00",
-    "s": null,
-    "t": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
-    "u": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html"
    },
    {
     "f": "Economy",
@@ -2650,5 +2650,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-28T09:53:13+00:00"
+ "fetched_at": "2026-11-28T17:59:12+00:00"
 }
