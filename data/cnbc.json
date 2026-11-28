@@ -4,6 +4,20 @@
   "items": [
    {
     "f": "Top News",
+    "p": "2026-11-28T06:00:01+00:00",
+    "s": null,
+    "t": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "u": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
+   },
+   {
+    "f": "Top News",
+    "p": "2026-11-28T06:00:01+00:00",
+    "s": null,
+    "t": "Africa\u2019s richest man is taking his mega-refinery public in a blockbuster IPO",
+    "u": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html"
+   },
+   {
+    "f": "Top News",
     "p": "2026-11-27T22:00:57+00:00",
     "s": null,
     "t": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
@@ -185,14 +199,14 @@
     "u": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
    },
    {
-    "f": "Top News",
+    "f": "International",
     "p": "2026-11-27T00:22:29+00:00",
     "s": null,
     "t": "Sovereign wealth funds are acting more like private equity giants \u2014 and inheriting their risks",
     "u": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
    },
    {
-    "f": "Top News",
+    "f": "Business",
     "p": "2026-11-26T18:27:43+00:00",
     "s": null,
     "t": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -316,13 +330,6 @@
     "s": null,
     "t": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
     "u": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
-   },
-   {
-    "f": "International",
-    "p": "2026-11-26T07:23:42+00:00",
-    "s": null,
-    "t": "Wealthy Europeans look beyond stocks amid AI selloff. Here\u2019s where they\u2019re investing",
-    "u": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html"
    },
    {
     "f": "Tech",
@@ -1928,13 +1935,6 @@
     "u": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-11-09T11:00:01+00:00",
-    "s": null,
-    "t": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-    "u": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html"
-   },
-   {
     "f": "Economy",
     "p": "2026-11-09T02:50:22+00:00",
     "s": null,
@@ -1942,25 +1942,11 @@
     "u": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
    },
    {
-    "f": "Energy",
-    "p": "2026-11-08T21:53:02+00:00",
-    "s": null,
-    "t": "Trump says renewed Iran strikes \u2018highly unlikely\u2019 if talks progress but warns he could still strike",
-    "u": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
-   },
-   {
     "f": "Investing",
     "p": "2026-11-08T11:47:24+00:00",
     "s": null,
     "t": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
     "u": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html"
-   },
-   {
-    "f": "Economy",
-    "p": "2026-11-06T20:11:17+00:00",
-    "s": null,
-    "t": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-    "u": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
    },
    {
     "f": "Autos",
@@ -2664,5 +2650,5 @@
    }
   ]
  },
- "fetched_at": "2026-11-28T01:13:37+00:00"
+ "fetched_at": "2026-11-28T09:53:13+00:00"
 }
